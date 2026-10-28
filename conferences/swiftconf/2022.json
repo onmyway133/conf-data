@@ -17,5 +17,10 @@
     "open": false
   },
   "twitter": "https://x.com/SwiftConf",
-  "source": "confs.tech"
+  "source": "confs.tech",
+  "speakers": [
+    {
+      "speaker": "no-such-person"
+    }
+  ]
 }
