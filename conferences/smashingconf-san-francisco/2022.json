@@ -1,0 +1,18 @@
+{
+  "name": "SmashingConf San Francisco 2022",
+  "year": 2022,
+  "url": "https://smashingconf.com/sf-2022",
+  "startDate": "2022-06-20",
+  "endDate": "2022-06-23",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [
+    "CSS",
+    "JavaScript",
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/smashingconf",
+  "source": "confs.tech"
+}

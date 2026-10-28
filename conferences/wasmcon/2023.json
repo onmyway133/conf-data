@@ -1,0 +1,19 @@
+{
+  "name": "WasmCon 2023",
+  "year": 2023,
+  "url": "https://events.linuxfoundation.org/wasmcon",
+  "startDate": "2023-09-06",
+  "endDate": "2023-09-07",
+  "city": "Bellevue, WA",
+  "country": "US",
+  "lat": 47.61038,
+  "lng": -122.20068,
+  "topics": [],
+  "cfp": {
+    "url": "https://events.linuxfoundation.org/wasmcon/program/cfp",
+    "deadline": "2023-06-25",
+    "open": false
+  },
+  "twitter": "https://x.com/linuxfoundation",
+  "source": "confs.tech"
+}

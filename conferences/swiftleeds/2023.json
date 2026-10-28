@@ -1,0 +1,16 @@
+{
+  "name": "SwiftLeeds 2023",
+  "year": 2023,
+  "url": "https://swiftleeds.co.uk",
+  "startDate": "2023-10-09",
+  "endDate": "2023-10-10",
+  "city": "Leeds",
+  "country": "GB",
+  "lat": 53.79648,
+  "lng": -1.54785,
+  "topics": [
+    "iOS"
+  ],
+  "twitter": "https://x.com/swift_leeds",
+  "source": "confs.tech"
+}

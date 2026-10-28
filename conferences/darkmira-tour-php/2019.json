@@ -1,0 +1,21 @@
+{
+  "name": "Darkmira Tour PHP 2019",
+  "year": 2019,
+  "url": "https://php.darkmiratour.rocks/2019",
+  "startDate": "2019-06-07",
+  "endDate": "2019-06-09",
+  "city": "Fortaleza",
+  "country": "BR",
+  "lat": -3.71722,
+  "lng": -38.54306,
+  "topics": [
+    "PHP"
+  ],
+  "cfp": {
+    "url": "https://cfp.darkmiratour.rocks",
+    "deadline": "2019-02-10",
+    "open": false
+  },
+  "twitter": "https://x.com/DarkmiraTour",
+  "source": "confs.tech"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Fosdem 2026",
+  "year": 2026,
+  "url": "https://fosdem.org/2026",
+  "startDate": "2026-01-31",
+  "endDate": "2026-02-02",
+  "city": "Brussels",
+  "country": "BE",
+  "lat": 50.85045,
+  "lng": 4.34878,
+  "topics": [],
+  "source": "confs.tech"
+}

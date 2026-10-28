@@ -1,0 +1,17 @@
+{
+  "name": "Software Architecture Forum 2026",
+  "year": 2026,
+  "url": "https://conferences.isaqb.org/software-architecture-forum",
+  "startDate": "2026-06-16",
+  "endDate": "2026-06-17",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [
+    "APIs",
+    "Networking",
+    "Security"
+  ],
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "DevOpsDays Columbus 2019",
+  "year": 2019,
+  "url": "https://devopsdays.org/events/2019-columbus/welcome",
+  "startDate": "2019-09-18",
+  "endDate": "2019-09-19",
+  "city": "Columbus, OH",
+  "country": "US",
+  "lat": 39.96118,
+  "lng": -82.99879,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/DevOpsDaysOhio",
+  "source": "confs.tech"
+}

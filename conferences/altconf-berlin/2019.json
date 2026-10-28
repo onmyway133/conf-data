@@ -1,0 +1,20 @@
+{
+  "name": "AltConf Berlin 2019",
+  "year": 2019,
+  "url": "http://berlin.altconf.com",
+  "startDate": "2019-06-03",
+  "endDate": "2019-06-03",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "iOS"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLScFVjXpQnmZZsEQEX3qkKhJL48QFlGy_ZVGGusGAWJHXpwI3w/viewform?usp=sf_link",
+    "deadline": "2019-04-29",
+    "open": false
+  },
+  "source": "cocoaconferences"
+}

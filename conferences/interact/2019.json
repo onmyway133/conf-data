@@ -1,0 +1,15 @@
+{
+  "name": "Interact 2019",
+  "year": 2019,
+  "url": "http://www.interact2019.org",
+  "startDate": "2019-09-02",
+  "endDate": "2019-09-06",
+  "city": "Paphos",
+  "country": "CY",
+  "lat": 34.77679,
+  "lng": 32.42451,
+  "topics": [
+    "Design/UX"
+  ],
+  "source": "confs.tech"
+}

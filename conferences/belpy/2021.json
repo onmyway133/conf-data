@@ -1,0 +1,16 @@
+{
+  "name": "BelPy 2021",
+  "year": 2021,
+  "url": "http://belpy.in",
+  "startDate": "2021-01-30",
+  "endDate": "2021-01-31",
+  "city": "Belagavi",
+  "country": "IN",
+  "lat": 15.85212,
+  "lng": 74.50447,
+  "topics": [
+    "Python"
+  ],
+  "twitter": "https://x.com/Belpy2021",
+  "source": "confs.tech"
+}

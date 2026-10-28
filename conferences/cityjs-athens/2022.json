@@ -1,0 +1,16 @@
+{
+  "name": "CityJS Athens 2022",
+  "year": 2022,
+  "url": "https://greece.cityjsconf.org",
+  "startDate": "2022-05-25",
+  "endDate": "2022-05-27",
+  "city": "Athens",
+  "country": "GR",
+  "lat": 37.98376,
+  "lng": 23.72784,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/cityjsconf",
+  "source": "confs.tech"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "myConf 2025",
+  "year": 2025,
+  "url": "https://myconf.io",
+  "startDate": "2025-05-26",
+  "endDate": "2025-05-27",
+  "city": "Varberg",
+  "country": "SE",
+  "lat": 57.10557,
+  "lng": 12.25078,
+  "topics": [],
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "GopherCon Europe 2020",
+  "year": 2020,
+  "url": "https://gophercon.berlin",
+  "startDate": "2020-07-30",
+  "endDate": "2020-07-30",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "Go"
+  ],
+  "twitter": "https://x.com/gopherconEU",
+  "source": "confs.tech"
+}

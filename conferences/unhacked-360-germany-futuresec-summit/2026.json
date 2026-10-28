@@ -1,0 +1,15 @@
+{
+  "name": "Unhacked 360 Germany: FutureSec Summit 2026",
+  "year": 2026,
+  "url": "https://momentera.org/conference/unhacked-360-germany-futuresec-world-summit",
+  "startDate": "2026-11-09",
+  "endDate": "2026-11-10",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "Security"
+  ],
+  "source": "confs.tech"
+}

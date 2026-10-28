@@ -1,0 +1,18 @@
+{
+  "name": "AiX Conference 2027",
+  "year": 2027,
+  "url": "https://aixconf.co.uk",
+  "startDate": "2027-04-21",
+  "endDate": "2027-04-21",
+  "city": "Newcastle-Upon-Tyne",
+  "country": "GB",
+  "lat": 54.97328,
+  "lng": -1.61396,
+  "topics": [
+    "Data/AI",
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/AiXconf",
+  "bluesky": "https://bsky.app/profile/aixconf.co.uk",
+  "source": "confs.tech"
+}

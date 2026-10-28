@@ -1,0 +1,16 @@
+{
+  "name": "JAX London 2021",
+  "year": 2021,
+  "url": "https://jaxlondon.com",
+  "startDate": "2021-10-04",
+  "endDate": "2021-10-07",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "Java"
+  ],
+  "twitter": "https://x.com/jaxlondon",
+  "source": "confs.tech"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "DevOps Talks Melbourne 2023",
+  "year": 2023,
+  "url": "https://devops.talksplus.com/melbourne/devops",
+  "startDate": "2023-04-05",
+  "endDate": "2023-04-06",
+  "city": "Melbourne",
+  "country": "AU",
+  "lat": -37.814,
+  "lng": 144.96332,
+  "topics": [
+    "DevOps"
+  ],
+  "source": "confs.tech"
+}

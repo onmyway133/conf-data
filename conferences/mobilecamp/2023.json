@@ -1,0 +1,18 @@
+{
+  "name": "MobileCamp 2023",
+  "year": 2023,
+  "url": "https://mobilecamp.de",
+  "startDate": "2023-06-17",
+  "endDate": "2023-06-18",
+  "city": "Dresden",
+  "country": "DE",
+  "lat": 51.05089,
+  "lng": 13.73832,
+  "topics": [
+    "Android",
+    "iOS",
+    "Networking"
+  ],
+  "twitter": "https://x.com/mobilecamp",
+  "source": "confs.tech"
+}

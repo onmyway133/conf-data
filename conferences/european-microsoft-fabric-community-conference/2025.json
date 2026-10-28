@@ -1,0 +1,17 @@
+{
+  "name": "European Microsoft Fabric Community Conference 2025",
+  "year": 2025,
+  "url": "https://www.sharepointeurope.com/european-microsoft-fabric-community-conference",
+  "startDate": "2025-09-15",
+  "endDate": "2025-09-18",
+  "city": "Vienna",
+  "country": "AT",
+  "lat": 48.20849,
+  "lng": 16.37208,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/EuropeanFabric",
+  "bluesky": "https://bsky.app/profile/fabconeurope.bsky",
+  "source": "confs.tech"
+}

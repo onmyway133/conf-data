@@ -1,0 +1,17 @@
+{
+  "name": "Festival der Zukunft 2025",
+  "year": 2025,
+  "url": "https://www.1e9.community/events/festival-der-zukunft-2025",
+  "startDate": "2025-07-03",
+  "endDate": "2025-07-06",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [
+    "Data/AI",
+    "IoT",
+    "Networking"
+  ],
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "JavaScript & Angular Days 2025",
+  "year": 2025,
+  "url": "https://javascript-days.de/muenchen",
+  "startDate": "2025-03-17",
+  "endDate": "2025-03-20",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/JS_Days",
+  "source": "confs.tech"
+}

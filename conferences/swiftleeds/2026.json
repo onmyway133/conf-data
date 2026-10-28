@@ -1,0 +1,302 @@
+{
+  "name": "SwiftLeeds 2026",
+  "year": 2026,
+  "url": "https://swiftleeds.co.uk",
+  "startDate": "2026-10-12",
+  "endDate": "2026-10-14",
+  "city": "Leeds",
+  "country": "GB",
+  "lat": 53.79648,
+  "lng": -1.54785,
+  "topics": [
+    "iOS"
+  ],
+  "twitter": "https://x.com/swift_leeds",
+  "source": "confs.tech",
+  "speakers": [
+    {
+      "speaker": "antoine-van-der-lee",
+      "role": "Founder of SwiftLee & RocketSim",
+      "photoUrl": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/FE054464-25A6-4A8B-9316-9D7F5ED0B2A7-antoine-van-der-lee.png",
+      "twitter": "https://twitter.com/twannl",
+      "linkedin": "https://linkedin.com/in/ajvanderlee",
+      "website": "https://www.avanderlee.com/"
+    },
+    {
+      "speaker": "claire-sivadier",
+      "role": "iOS Developer",
+      "photoUrl": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/1567-400o400o1-N8JHTgb315Msy4zk2o4n7n.jpg",
+      "twitter": "https://twitter.com/Claire_Rimel",
+      "linkedin": "https://linkedin.com/in/claire-sivadier"
+    },
+    {
+      "speaker": "daniel-jilg",
+      "role": "Makes apps & analytics, rides bikes, loves space",
+      "photoUrl": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/27f7-400o400o1-TSVmE4w2R5xn6ycQ52uHfA.jpg",
+      "linkedin": "https://linkedin.com/in/danieljilg",
+      "website": "https://telemetrydeck.com"
+    },
+    {
+      "speaker": "danijela-vrzan",
+      "role": "Indie iOS Developer",
+      "photoUrl": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/B12B6A0A-A616-4EF4-9416-F63E8F133CAD-4c23-0o0o0-38aTkr7gMPnvYnygNiLBtX.png",
+      "twitter": "https://twitter.com/dvrzan",
+      "linkedin": "https://linkedin.com/in/dvrzan",
+      "website": "https://www.danijelavrzan.com"
+    },
+    {
+      "speaker": "eli-perkins",
+      "role": "Engineer @ Particle News",
+      "photoUrl": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/fbfc-400o400o1-XaWYhCrFY1zdjXBudNQpHD.jpg",
+      "linkedin": "https://linkedin.com/in/eliperkins",
+      "website": "https://blog.eliperkins.com"
+    },
+    {
+      "speaker": "eric-bariaux",
+      "role": "Nelcea, Founder",
+      "photoUrl": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/1d3a-400o400o1-NmdxutWqmKxYWoLzd2yKib.png",
+      "twitter": "https://twitter.com/ebariaux",
+      "linkedin": "https://linkedin.com/in/ebariaux",
+      "website": "https://www.ericbariaux.com"
+    },
+    {
+      "speaker": "eyad-kelleh",
+      "role": "Cursor Ambassador",
+      "photoUrl": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/265b-400o400o1-MBgzYoNGhsx4UKueCqLUc.jpg",
+      "twitter": "https://twitter.com/KellehEyad",
+      "linkedin": "https://linkedin.com/in/eyad-kelleh",
+      "website": "https://www.cursorgermany.com"
+    },
+    {
+      "speaker": "francesco-marini",
+      "role": "Indie developer in the making",
+      "photoUrl": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/1097-400o400o1-WSnUVCUZyTBPdfxSpPk2oY.jpg",
+      "twitter": "https://twitter.com/lightman_73",
+      "linkedin": "https://linkedin.com/in/franz-marini",
+      "website": "https://www.lightskies.net/"
+    },
+    {
+      "speaker": "joe-allen",
+      "role": "Teleprompter Pro",
+      "photoUrl": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/f986-400o400o1-97AzzcmHFGvRvVyg3gVE3F.jpg",
+      "twitter": "https://twitter.com/joeallenpro",
+      "linkedin": "https://linkedin.com/in/joe-allen-5746671b",
+      "website": "https://teleprompterpro.com/"
+    },
+    {
+      "speaker": "kevin-morales",
+      "role": "Sr. Mobile Engineer",
+      "photoUrl": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/bdb9-400o400o1-Bwu81m2cmMS9HRUX7w4o8C.jpg",
+      "twitter": "https://twitter.com/KevinhoMorales",
+      "linkedin": "https://linkedin.com/in/kevinhomorales",
+      "website": "https://medium.com/@kevinhomorales"
+    },
+    {
+      "speaker": "letizia-granata",
+      "role": "Indie Developer",
+      "photoUrl": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/9266-400o400o1-Q3JmQN48h5DjyWf8YDsCur.jpg",
+      "linkedin": "https://linkedin.com/in/letizia-granata"
+    },
+    {
+      "speaker": "maurice-pfurr",
+      "role": "Cursor Ambassador",
+      "photoUrl": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/46a7-400o400o1-hhzpmmaXFz3SHen6YpDkjg.jpg",
+      "twitter": "https://twitter.com/mauricepfurr27",
+      "linkedin": "https://linkedin.com/in/maurice-pfurr"
+    },
+    {
+      "speaker": "natalija-marcinska",
+      "role": "Product Leader at the BBC Mobile",
+      "photoUrl": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/27d9-400o400o1-92HSa8vhLygwY1ExqPnQmS.jpg",
+      "linkedin": "https://linkedin.com/in/nmarcinska"
+    },
+    {
+      "speaker": "nikki-eke",
+      "role": "Mobile Engineer, Rive Ambassador.",
+      "photoUrl": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/6851-400o400o1-HXhpyF1kWeAxM4TKeodMou.jpg",
+      "twitter": "https://twitter.com/nikki_eke",
+      "linkedin": "https://linkedin.com/in/nkechi-eke-software-developer",
+      "website": "https://clouds.hashnode.dev/"
+    },
+    {
+      "speaker": "pulkit-midha",
+      "role": "Senior Mobile Developer at Couchbase",
+      "photoUrl": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/4066-400o400o1-Na8awW4dPwdG6yP4crbry.png",
+      "twitter": "https://twitter.com/midopooler",
+      "linkedin": "https://linkedin.com/in/midopooler",
+      "website": "https://www.couchbase.com/blog/rag-app-vector-ios/"
+    },
+    {
+      "speaker": "tim-condon",
+      "role": "Vapor Core Team",
+      "photoUrl": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/5BBAC055-EDC1-496F-8276-A6375396147C-e429-0o0o0-DKLWBMRtgN6ED3KVDJDapN.jpg",
+      "twitter": "https://twitter.com/0xTim",
+      "linkedin": "https://linkedin.com/in/timjcondon",
+      "website": "https://www.timc.dev"
+    },
+    {
+      "speaker": "yeskendir-salgara",
+      "role": "Staff iOS Engineer at Trackman",
+      "photoUrl": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/c5c9-400o400o1-Knmp78t4mJMQGgXJZWdrhr.jpg",
+      "twitter": "https://twitter.com/soulqara",
+      "linkedin": "https://linkedin.com/in/salgara",
+      "website": "https://salgara.substack.com"
+    },
+    {
+      "speaker": "yuki-aki",
+      "role": "Software Engineer at Yappli",
+      "photoUrl": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/5847-400o400o1-7zgTRiX57XEbWSuxwB5Bz9.jpg",
+      "twitter": "https://twitter.com/___freddi___",
+      "linkedin": "https://linkedin.com/in/%F0%9F%8D%A3yuki-aki-9a7279158",
+      "website": "https://yapp.li/"
+    },
+    {
+      "speaker": "frank-solleveld"
+    },
+    {
+      "speaker": "sean-allen",
+      "bio": "Sean is a content creator and indie app developer. His YouTube channel of over 170K subscribers teaches Swift, SwiftUI and keeps you up to date on the latest in iOS development. Sean is also building his indie app portfolio.",
+      "photoUrl": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/seanallen.jpg",
+      "twitter": "https://x.com/seanallen_dev"
+    },
+    {
+      "speaker": "janina-kutyn",
+      "bio": "Janina has worked across the tech spectrum: from scrappy startups to global brands like adidas and ING, and she even spent six years at Apple building products like Apple Music and the TV App. Now as an indie developer working on Lupin, she's interested in creating apps that are not only beautiful and high-performing, but also make a positive social impact. When she's not writing software, she's writing children's books.",
+      "photoUrl": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/janina.jpg",
+      "linkedin": "https://www.linkedin.com/in/janinakutyn/"
+    },
+    {
+      "speaker": "katarina-lotric",
+      "bio": "Katarina is the CEO and co-founder of Gentler Stories, a Slovenian indie studio building health and fitness apps that stem from their own problems. She cares deeply about how an app feels in your hand, and how it treats people using it. Her work across two companies has earned two Apple Design Awards (Lake Coloring, Gentler Streak), two ADA Finalist recognitions, and an App of the Year. She's not a developer — she leads from a human perspective, and that's where the whole \"gentler\" idea comes from.",
+      "photoUrl": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/katarina.jpg",
+      "linkedin": "https://www.linkedin.com/in/katarina-lotri%C4%8D-98a7a414a/"
+    },
+    {
+      "speaker": "jordi-bruin",
+      "bio": "Jordi is an indie developer from Amsterdam who's most known for MacWhisper, Vivid and Posture Pal.",
+      "photoUrl": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/jordi.jpg",
+      "twitter": "https://x.com/jordibruin"
+    }
+  ],
+  "talks": [
+    {
+      "slug": "beyond-boilerplate-building-production-ready-swift-macros",
+      "title": "Beyond Boilerplate: Building Production-Ready Swift Macros",
+      "speakers": [
+        "kevin-morales"
+      ]
+    },
+    {
+      "slug": "bringing-back-the-love-of-swift",
+      "title": "Bringing back the love of Swift ❤️",
+      "speakers": [
+        "antoine-van-der-lee"
+      ]
+    },
+    {
+      "slug": "building-an-audience-for-your-apps",
+      "title": "Building an Audience for Your Apps",
+      "speakers": [
+        "joe-allen"
+      ]
+    },
+    {
+      "slug": "building-beyond-mistakes",
+      "title": "Building Beyond Mistakes",
+      "speakers": [
+        "frank-solleveld"
+      ]
+    },
+    {
+      "slug": "carplay-from-zero-building-your-first-in-car-experience",
+      "title": "CarPlay from Zero: Building Your First In Car Experience",
+      "speakers": [
+        "eyad-kelleh"
+      ]
+    },
+    {
+      "slug": "cloudkit-public-database-as-a-backend",
+      "title": "CloudKit Public Database as a Backend",
+      "speakers": [
+        "danijela-vrzan"
+      ]
+    },
+    {
+      "slug": "delightful-text-driven-experiences-with-swiftui-s-textrenderer",
+      "title": "Delightful Text-Driven Experiences with SwiftUI's TextRenderer",
+      "speakers": [
+        "eli-perkins"
+      ]
+    },
+    {
+      "slug": "from-code-to-outcomes-building-with-user-impact-in-mind",
+      "title": "From Code to Outcomes: Building with User Impact in Mind",
+      "speakers": [
+        "natalija-marcinska"
+      ]
+    },
+    {
+      "slug": "getting-physical-using-swift-for-3d-printing-2",
+      "title": "Getting physical: Using Swift for 3D printing",
+      "speakers": [
+        "eric-bariaux"
+      ]
+    },
+    {
+      "slug": "manipulating-pixels-with-metal-shaders",
+      "title": "Manipulating Pixels with Metal Shaders",
+      "speakers": [
+        "letizia-granata"
+      ]
+    },
+    {
+      "slug": "peer-to-peer-sync-building-offline-first-apps-that-talk-to-each-other",
+      "title": "Peer-to-Peer Sync: Building Offline-First Apps That Talk to Each Other",
+      "speakers": [
+        "pulkit-midha"
+      ]
+    },
+    {
+      "slug": "swift-meets-kotlin-lessons-in-building-cross-platform-architecture",
+      "title": "Swift Meets Kotlin: Lessons in Building Cross-Platform Architecture",
+      "speakers": [
+        "yeskendir-salgara"
+      ]
+    },
+    {
+      "slug": "swiftleeds-evening-talkshow",
+      "title": "SwiftLeeds Evening Talkshow",
+      "speakers": [
+        "sean-allen"
+      ]
+    },
+    {
+      "slug": "unleash-the-power-of-swift-charts-learn-how-to-create-captivating-and-good-looki",
+      "title": "Unleash the power of Swift Charts: learn how to create captivating and good looking graphs!",
+      "speakers": [
+        "francesco-marini"
+      ]
+    },
+    {
+      "slug": "vapor-5-is-actually-here",
+      "title": "Vapor 5 is actually here",
+      "speakers": [
+        "tim-condon"
+      ]
+    },
+    {
+      "slug": "who-let-the-app-intents-out-2",
+      "title": "Who Let the App Intents Out? 🐾",
+      "speakers": [
+        "claire-sivadier"
+      ]
+    },
+    {
+      "slug": "why-does-our-swift-code-work-understanding-swift-through-platforms-runtime-and-t",
+      "title": "Why Does Our Swift Code Work? Understanding Swift Through Platforms, Runtime, and the Compiler",
+      "speakers": [
+        "yuki-aki"
+      ]
+    }
+  ]
+}

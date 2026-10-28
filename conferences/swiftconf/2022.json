@@ -1,0 +1,21 @@
+{
+  "name": "SwiftConf 2022",
+  "year": 2022,
+  "url": "https://swiftconf.com",
+  "startDate": "2022-08-17",
+  "endDate": "2022-08-18",
+  "city": "Cologne",
+  "country": "DE",
+  "lat": 50.93333,
+  "lng": 6.95,
+  "topics": [
+    "iOS"
+  ],
+  "cfp": {
+    "url": "https://swiftconf.com/#:~:text=Call For Papers",
+    "deadline": "2022-04-30",
+    "open": false
+  },
+  "twitter": "https://x.com/SwiftConf",
+  "source": "confs.tech"
+}

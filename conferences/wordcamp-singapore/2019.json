@@ -1,0 +1,16 @@
+{
+  "name": "WordCamp Singapore 2019",
+  "year": 2019,
+  "url": "https://2019.singapore.wordcamp.org",
+  "startDate": "2019-08-16",
+  "endDate": "2019-08-17",
+  "city": "Singapore",
+  "country": "SG",
+  "lat": 1.28967,
+  "lng": 103.85007,
+  "topics": [
+    "PHP"
+  ],
+  "twitter": "https://x.com/WordCampSG",
+  "source": "confs.tech"
+}

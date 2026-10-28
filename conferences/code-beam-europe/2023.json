@@ -1,0 +1,23 @@
+{
+  "name": "Code BEAM Europe 2023",
+  "year": 2023,
+  "url": "https://codebeameurope.com",
+  "startDate": "2023-10-19",
+  "endDate": "2023-10-20",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "DevOps",
+    "Elixir",
+    "IoT"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/code-beam-europe-2023",
+    "deadline": "2023-06-17",
+    "open": false
+  },
+  "twitter": "https://x.com/codebeamio",
+  "source": "confs.tech"
+}

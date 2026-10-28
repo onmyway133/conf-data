@@ -1,0 +1,15 @@
+{
+  "name": "DevOps Days Des Moines 2019",
+  "year": 2019,
+  "url": "https://www.devopsdays.org/events/2019-des-moines/welcome",
+  "startDate": "2019-05-02",
+  "endDate": "2019-05-03",
+  "city": "Des Moines, IA",
+  "country": "US",
+  "lat": 41.60054,
+  "lng": -93.60911,
+  "topics": [
+    "DevOps"
+  ],
+  "source": "confs.tech"
+}

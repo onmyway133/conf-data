@@ -1,0 +1,17 @@
+{
+  "name": "Middlesbrough Front End Conference 2023",
+  "year": 2023,
+  "url": "https://www.middlesbroughfe.co.uk",
+  "startDate": "2023-07-19",
+  "endDate": "2023-07-19",
+  "city": "Middlesbrough",
+  "country": "GB",
+  "lat": 54.57623,
+  "lng": -1.23483,
+  "topics": [
+    "CSS",
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/middlesbroughfe",
+  "source": "confs.tech"
+}

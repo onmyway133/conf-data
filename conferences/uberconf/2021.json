@@ -1,0 +1,16 @@
+{
+  "name": "UberConf 2021",
+  "year": 2021,
+  "url": "http://uberconf.com",
+  "startDate": "2021-10-05",
+  "endDate": "2021-10-08",
+  "city": "Denver, CO",
+  "country": "US",
+  "lat": 39.73915,
+  "lng": -104.9847,
+  "topics": [
+    "Java"
+  ],
+  "twitter": "https://x.com/nofluff",
+  "source": "confs.tech"
+}

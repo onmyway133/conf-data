@@ -1,0 +1,21 @@
+{
+  "name": "NG-MY 2019",
+  "year": 2019,
+  "url": "https://2019.ng-my.org",
+  "startDate": "2019-07-06",
+  "endDate": "2019-07-07",
+  "city": "Kuala Lumpur",
+  "country": "MY",
+  "lat": 3.1412,
+  "lng": 101.68653,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://2019.ng-my.org/form/call-for-presenters",
+    "deadline": "2019-03-17",
+    "open": false
+  },
+  "twitter": "https://x.com/ngmyconf",
+  "source": "confs.tech"
+}

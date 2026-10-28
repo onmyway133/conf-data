@@ -1,0 +1,16 @@
+{
+  "name": "containerday 2020",
+  "year": 2020,
+  "url": "https://2020.containerday.it",
+  "startDate": "2020-10-23",
+  "endDate": "2020-10-23",
+  "city": "Bologna",
+  "country": "IT",
+  "lat": 44.49381,
+  "lng": 11.33875,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/containerdayit",
+  "source": "confs.tech"
+}

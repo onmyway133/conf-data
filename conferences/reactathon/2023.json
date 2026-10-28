@@ -1,0 +1,16 @@
+{
+  "name": "Reactathon 2023",
+  "year": 2023,
+  "url": "https://reactathon.com",
+  "startDate": "2023-05-02",
+  "endDate": "2023-05-03",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/reactathon",
+  "source": "confs.tech"
+}

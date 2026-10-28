@@ -1,0 +1,16 @@
+{
+  "name": "JSConf Budapest 2020",
+  "year": 2020,
+  "url": "https://jsconfbp.com",
+  "startDate": "2020-09-24",
+  "endDate": "2020-09-25",
+  "city": "Budapest",
+  "country": "HU",
+  "lat": 47.49835,
+  "lng": 19.04045,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/jsconfbp",
+  "source": "confs.tech"
+}

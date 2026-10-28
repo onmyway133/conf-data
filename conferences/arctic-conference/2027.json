@@ -1,0 +1,29 @@
+{
+  "name": "ARCtic Conference 2027",
+  "year": 2027,
+  "url": "https://arcticonference.com",
+  "startDate": "2027-02-02",
+  "endDate": "2027-02-04",
+  "city": "Oulu",
+  "country": "FI",
+  "lat": 65.01236,
+  "lng": 25.46816,
+  "topics": [
+    "iOS",
+    "Design/UX"
+  ],
+  "cfp": {
+    "url": "https://cfp.arcticonference.com",
+    "deadline": "2026-10-16",
+    "open": true
+  },
+  "twitter": "https://x.com/ARCTIConference",
+  "mastodon": "https://mastodon.social/@ARCticConference",
+  "source": "confs.tech",
+  "speakers": [
+    {
+      "speaker": "gui-rambo",
+      "photoUrl": "https://arcticonference.com/.netlify/images?url=_astro%2Ffirst-speaker-2027.DD9bySPi.jpg&w=1122&h=1402&dpl=6ad3e43f2d77a8ba49543f8f"
+    }
+  ]
+}

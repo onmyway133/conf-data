@@ -1,0 +1,14 @@
+{
+  "name": "Airflow Summer 2024",
+  "year": 2024,
+  "url": "https://airflowsummit.org",
+  "startDate": "2024-10-10",
+  "endDate": "2024-10-12",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [],
+  "twitter": "https://x.com/AirflowSummit",
+  "source": "confs.tech"
+}

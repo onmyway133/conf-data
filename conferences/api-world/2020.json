@@ -1,0 +1,14 @@
+{
+  "name": "API World 2020",
+  "year": 2020,
+  "url": "https://apiworld.co",
+  "startDate": "2020-10-27",
+  "endDate": "2020-10-29",
+  "city": "San Jose, CA",
+  "country": "US",
+  "lat": 37.33939,
+  "lng": -121.89496,
+  "topics": [],
+  "twitter": "https://x.com/APIWorld",
+  "source": "confs.tech"
+}

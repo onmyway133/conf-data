@@ -1,0 +1,158 @@
+[
+  {
+    "slug": "react",
+    "name": "React"
+  },
+  {
+    "slug": "javascript",
+    "name": "JavaScript"
+  },
+  {
+    "slug": "python",
+    "name": "Python"
+  },
+  {
+    "slug": "devops",
+    "name": "DevOps"
+  },
+  {
+    "slug": "data-ai",
+    "name": "Data/AI"
+  },
+  {
+    "slug": "mobile",
+    "name": "Mobile"
+  },
+  {
+    "slug": "cloud",
+    "name": "Cloud"
+  },
+  {
+    "slug": "security",
+    "name": "Security"
+  },
+  {
+    "slug": "design-ux",
+    "name": "Design/UX"
+  },
+  {
+    "slug": "web",
+    "name": "Web"
+  },
+  {
+    "slug": "android",
+    "name": "Android"
+  },
+  {
+    "slug": "ios",
+    "name": "iOS"
+  },
+  {
+    "slug": "groovy",
+    "name": "Groovy"
+  },
+  {
+    "slug": "clojure",
+    "name": "Clojure"
+  },
+  {
+    "slug": "c",
+    "name": "C++"
+  },
+  {
+    "slug": "css",
+    "name": "CSS"
+  },
+  {
+    "slug": "networking",
+    "name": "Networking"
+  },
+  {
+    "slug": "net",
+    "name": ".NET"
+  },
+  {
+    "slug": "elixir",
+    "name": "Elixir"
+  },
+  {
+    "slug": "elm",
+    "name": "Elm"
+  },
+  {
+    "slug": "go",
+    "name": "Go"
+  },
+  {
+    "slug": "graphql",
+    "name": "GraphQL"
+  },
+  {
+    "slug": "java",
+    "name": "Java"
+  },
+  {
+    "slug": "php",
+    "name": "PHP"
+  },
+  {
+    "slug": "typescript",
+    "name": "TypeScript"
+  },
+  {
+    "slug": "ruby",
+    "name": "Ruby"
+  },
+  {
+    "slug": "rust",
+    "name": "Rust"
+  },
+  {
+    "slug": "scala",
+    "name": "Scala"
+  },
+  {
+    "slug": "iot",
+    "name": "IoT"
+  },
+  {
+    "slug": "kotlin",
+    "name": "Kotlin"
+  },
+  {
+    "slug": "cfml",
+    "name": "CFML"
+  },
+  {
+    "slug": "testing",
+    "name": "Testing"
+  },
+  {
+    "slug": "accessibility",
+    "name": "Accessibility"
+  },
+  {
+    "slug": "apis",
+    "name": "APIs"
+  },
+  {
+    "slug": "performance",
+    "name": "Performance"
+  },
+  {
+    "slug": "haskell",
+    "name": "Haskell"
+  },
+  {
+    "slug": "sre",
+    "name": "SRE"
+  },
+  {
+    "slug": "identity",
+    "name": "Identity"
+  },
+  {
+    "slug": "open-source",
+    "name": "Open Source"
+  }
+]

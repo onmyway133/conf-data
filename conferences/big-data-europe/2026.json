@@ -1,0 +1,21 @@
+{
+  "name": "Big Data Europe 2026",
+  "year": 2026,
+  "url": "https://bigdataconference.eu",
+  "startDate": "2026-11-24",
+  "endDate": "2026-11-27",
+  "city": "Vilnius",
+  "country": "LT",
+  "lat": 54.68916,
+  "lng": 25.2798,
+  "topics": [
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://airtable.com/appsUlpNtLMccgwFZ/pagviP3ooRV63PCWO/form",
+    "deadline": "2026-11-23",
+    "open": true
+  },
+  "twitter": "https://x.com/BigDataConfEU",
+  "source": "confs.tech"
+}

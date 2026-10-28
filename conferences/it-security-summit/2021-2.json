@@ -1,0 +1,16 @@
+{
+  "name": "IT Security Summit 2021",
+  "year": 2021,
+  "url": "https://it-security-summit.de/berlin",
+  "startDate": "2021-09-20",
+  "endDate": "2021-09-22",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "Security"
+  ],
+  "twitter": "https://x.com/ITSecSummit",
+  "source": "confs.tech"
+}

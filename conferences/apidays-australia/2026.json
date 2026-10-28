@@ -1,0 +1,22 @@
+{
+  "name": "Apidays Australia 2026",
+  "year": 2026,
+  "url": "https://www.apidays.global/australia",
+  "startDate": "2026-10-28",
+  "endDate": "2026-10-29",
+  "city": "Melbourne",
+  "country": "AU",
+  "lat": -37.814,
+  "lng": 144.96332,
+  "topics": [
+    "GraphQL"
+  ],
+  "cfp": {
+    "url": "https://apidays.typeform.com/to/ILJeAaV8",
+    "deadline": "2026-10-27",
+    "open": true
+  },
+  "twitter": "https://x.com/APIdaysGlobal",
+  "mastodon": "https://mastodon.social/@apidaysglobal",
+  "source": "confs.tech"
+}

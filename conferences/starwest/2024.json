@@ -1,0 +1,16 @@
+{
+  "name": "STARWEST 2024",
+  "year": 2024,
+  "url": "https://starwest.techwell.com",
+  "startDate": "2024-09-22",
+  "endDate": "2024-09-27",
+  "city": "Anaheim, CA",
+  "country": "US",
+  "lat": 33.83529,
+  "lng": -117.9145,
+  "topics": [
+    "Testing"
+  ],
+  "twitter": "https://x.com/TechWell",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "KubeCon + CloudNativeCon India 2024",
+  "year": 2024,
+  "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-india",
+  "startDate": "2024-12-11",
+  "endDate": "2024-12-12",
+  "city": "Delhi",
+  "country": "IN",
+  "lat": 28.65195,
+  "lng": 77.23149,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/KubeCon_",
+  "source": "confs.tech"
+}

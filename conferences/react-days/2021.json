@@ -1,0 +1,16 @@
+{
+  "name": "React Days 2021",
+  "year": 2021,
+  "url": "https://javascript-days.de/react",
+  "startDate": "2021-03-22",
+  "endDate": "2021-03-25",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/React_Days",
+  "source": "confs.tech"
+}

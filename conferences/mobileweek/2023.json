@@ -1,0 +1,23 @@
+{
+  "name": "MobileWeek 2023",
+  "year": 2023,
+  "url": "https://mobileweek.co",
+  "startDate": "2023-08-15",
+  "endDate": "2023-08-23",
+  "city": "San Mateo, CA",
+  "country": "US",
+  "lat": 37.56299,
+  "lng": -122.32553,
+  "topics": [
+    "iOS",
+    "Python",
+    "Design/UX"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/mobileweek-2023",
+    "deadline": "2023-06-30",
+    "open": false
+  },
+  "twitter": "https://x.com/DevNetwork_",
+  "source": "confs.tech"
+}

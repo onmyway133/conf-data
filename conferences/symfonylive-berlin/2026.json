@@ -1,0 +1,16 @@
+{
+  "name": "SymfonyLive Berlin 2026",
+  "year": 2026,
+  "url": "https://live.symfony.com/2026-berlin",
+  "startDate": "2026-04-23",
+  "endDate": "2026-04-24",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "PHP"
+  ],
+  "twitter": "https://x.com/symfony_live",
+  "source": "confs.tech"
+}

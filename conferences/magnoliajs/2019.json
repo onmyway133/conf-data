@@ -1,0 +1,16 @@
+{
+  "name": "MagnoliaJS 2019",
+  "year": 2019,
+  "url": "https://magnoliajs.com",
+  "startDate": "2019-04-17",
+  "endDate": "2019-04-18",
+  "city": "Jackson, MS",
+  "country": "US",
+  "lat": 32.29876,
+  "lng": -90.18481,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/MagnoliaJSconf",
+  "source": "confs.tech"
+}

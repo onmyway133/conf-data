@@ -1,0 +1,21 @@
+{
+  "name": "GopherCon Europe 2019",
+  "year": 2019,
+  "url": "http://www.gophercon.es",
+  "startDate": "2019-05-30",
+  "endDate": "2019-06-01",
+  "city": "Tenerife",
+  "country": "ES",
+  "lat": 28.46824,
+  "lng": -16.25462,
+  "topics": [
+    "Go"
+  ],
+  "cfp": {
+    "url": "https://www.papercall.io/gophercon-eu-2019",
+    "deadline": "2019-03-06",
+    "open": false
+  },
+  "twitter": "https://x.com/gopherconeu",
+  "source": "confs.tech"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Web Summer Camp 2023",
+  "year": 2023,
+  "url": "https://websummercamp.com/2023",
+  "startDate": "2023-08-31",
+  "endDate": "2023-09-02",
+  "city": "Opatija",
+  "country": "HR",
+  "lat": 45.33658,
+  "lng": 14.30782,
+  "topics": [],
+  "twitter": "https://x.com/WebSummerCamp",
+  "source": "confs.tech"
+}

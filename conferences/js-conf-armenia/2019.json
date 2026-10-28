@@ -1,0 +1,21 @@
+{
+  "name": "JS Conf Armenia 2019",
+  "year": 2019,
+  "url": "https://jsconf.am",
+  "startDate": "2019-11-30",
+  "endDate": "2019-11-30",
+  "city": "Yerevan",
+  "country": "AM",
+  "lat": 40.17765,
+  "lng": 44.5126,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLScfpcg2SvaEuoqcZEPzAmuwG8-bI1SxRbcoCytxzeOruCOZlA/viewform",
+    "deadline": "2019-10-17",
+    "open": false
+  },
+  "twitter": "https://x.com/JSConfAM",
+  "source": "confs.tech"
+}

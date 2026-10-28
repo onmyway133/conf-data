@@ -1,0 +1,14 @@
+{
+  "name": "Web Summer Camp 2021",
+  "year": 2021,
+  "url": "https://2021.websummercamp.com",
+  "startDate": "2021-09-02",
+  "endDate": "2021-09-03",
+  "city": "Sibenik",
+  "country": "HR",
+  "lat": 43.73429,
+  "lng": 15.8942,
+  "topics": [],
+  "twitter": "https://x.com/WebSummerCamp",
+  "source": "confs.tech"
+}

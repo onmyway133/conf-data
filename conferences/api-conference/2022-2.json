@@ -1,0 +1,14 @@
+{
+  "name": "API Conference 2022",
+  "year": 2022,
+  "url": "https://heliview.be/api",
+  "startDate": "2022-12-12",
+  "endDate": "2022-12-12",
+  "city": "Brussels",
+  "country": "BE",
+  "lat": 50.85045,
+  "lng": 4.34878,
+  "topics": [],
+  "twitter": "https://x.com/heliviewconf",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "devopsdays Madrid 2020",
+  "year": 2020,
+  "url": "https://devopsdays.org/events/2020-madrid/welcome",
+  "startDate": "2020-02-21",
+  "endDate": "2020-02-21",
+  "city": "Madrid",
+  "country": "ES",
+  "lat": 40.4165,
+  "lng": -3.70256,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/DevOpsDaysMad",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Devopsdays Minneapolis 2022",
+  "year": 2022,
+  "url": "https://devopsdays.org/events/2022-minneapolis/welcome",
+  "startDate": "2022-08-01",
+  "endDate": "2022-08-02",
+  "city": "Minneapolis, MN",
+  "country": "US",
+  "lat": 44.97997,
+  "lng": -93.26384,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devopsdaysmsp",
+  "source": "confs.tech"
+}

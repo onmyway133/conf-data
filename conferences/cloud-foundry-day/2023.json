@@ -1,0 +1,19 @@
+{
+  "name": "Cloud Foundry Day 2023",
+  "year": 2023,
+  "url": "https://events.linuxfoundation.org/cloud-foundry-day",
+  "startDate": "2023-06-21",
+  "endDate": "2023-06-21",
+  "city": "Heidelberg",
+  "country": "DE",
+  "lat": 49.40768,
+  "lng": 8.69079,
+  "topics": [],
+  "cfp": {
+    "url": "https://events.linuxfoundation.org/cloud-foundry-day/program/cfp",
+    "deadline": "2023-04-28",
+    "open": false
+  },
+  "twitter": "https://x.com/cloudfoundry",
+  "source": "confs.tech"
+}

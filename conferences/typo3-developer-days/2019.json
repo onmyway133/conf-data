@@ -1,0 +1,21 @@
+{
+  "name": "TYPO3 Developer Days 2019",
+  "year": 2019,
+  "url": "https://t3dd19.typo3.com",
+  "startDate": "2019-08-01",
+  "endDate": "2019-08-04",
+  "city": "Karlsruhe",
+  "country": "DE",
+  "lat": 49.00937,
+  "lng": 8.40444,
+  "topics": [
+    "PHP"
+  ],
+  "cfp": {
+    "url": "https://t3dd19.typo3.com/call-for-paper",
+    "deadline": "2019-06-15",
+    "open": false
+  },
+  "twitter": "https://x.com/t3dd",
+  "source": "confs.tech"
+}

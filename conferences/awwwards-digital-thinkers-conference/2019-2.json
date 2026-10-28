@@ -1,0 +1,16 @@
+{
+  "name": "Awwwards - Digital Thinkers Conference 2019",
+  "year": 2019,
+  "url": "https://conference.awwwards.com/san-francisco",
+  "startDate": "2019-05-09",
+  "endDate": "2019-05-10",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/awwwards",
+  "source": "confs.tech"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Lambda World 2026",
+  "year": 2026,
+  "url": "https://www.lambda.world",
+  "startDate": "2026-10-29",
+  "endDate": "2026-10-30",
+  "city": "Malaga",
+  "country": "ES",
+  "lat": 36.72016,
+  "lng": -4.42034,
+  "topics": [],
+  "cfp": {
+    "url": "https://confeti.app/events/lambda-world-2026",
+    "deadline": "2026-03-31",
+    "open": true
+  },
+  "twitter": "https://x.com/lambda_world",
+  "source": "confs.tech"
+}

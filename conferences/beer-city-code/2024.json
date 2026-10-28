@@ -1,0 +1,14 @@
+{
+  "name": "Beer City Code 2024",
+  "year": 2024,
+  "url": "https://www.beercitycode.com",
+  "startDate": "2024-08-02",
+  "endDate": "2024-08-03",
+  "city": "Grand Rapids, MI",
+  "country": "US",
+  "lat": 42.96336,
+  "lng": -85.66809,
+  "topics": [],
+  "twitter": "https://x.com/BeerCityCode",
+  "source": "confs.tech"
+}

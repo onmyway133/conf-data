@@ -1,0 +1,15 @@
+{
+  "name": "Manchester Tech Festival | Core Conference 2025",
+  "year": 2025,
+  "url": "https://www.manchestertechfestival.co.uk/main-festival",
+  "startDate": "2025-09-24",
+  "endDate": "2025-09-25",
+  "city": "Manchester",
+  "country": "GB",
+  "lat": 53.48095,
+  "lng": -2.23743,
+  "topics": [
+    "Networking"
+  ],
+  "source": "confs.tech"
+}

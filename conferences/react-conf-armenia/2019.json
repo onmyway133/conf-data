@@ -1,0 +1,21 @@
+{
+  "name": "React Conf Armenia 2019",
+  "year": 2019,
+  "url": "https://reactconf.am",
+  "startDate": "2019-05-25",
+  "endDate": "2019-05-25",
+  "city": "Yerevan",
+  "country": "AM",
+  "lat": 40.17765,
+  "lng": 44.5126,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSeGedK-IMZ7HQMLaqBdO4cOTmShfKtap_JvqXZdIRDUWFf8NA/closedform",
+    "deadline": "2019-04-10",
+    "open": false
+  },
+  "twitter": "https://x.com/ReactConfAM",
+  "source": "confs.tech"
+}

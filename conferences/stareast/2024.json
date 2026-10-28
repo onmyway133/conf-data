@@ -1,0 +1,16 @@
+{
+  "name": "STAREAST 2024",
+  "year": 2024,
+  "url": "https://stareast.techwell.com",
+  "startDate": "2024-04-28",
+  "endDate": "2024-05-03",
+  "city": "Orlando, FL",
+  "country": "US",
+  "lat": 28.53834,
+  "lng": -81.37924,
+  "topics": [
+    "Testing"
+  ],
+  "twitter": "https://x.com/TechWell",
+  "source": "confs.tech"
+}

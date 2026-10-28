@@ -1,0 +1,16 @@
+{
+  "name": "PGConf.dev 2024",
+  "year": 2024,
+  "url": "https://2024.pgconf.dev",
+  "startDate": "2024-05-28",
+  "endDate": "2024-05-31",
+  "city": "Vancouver",
+  "country": "CA",
+  "lat": 49.24966,
+  "lng": -123.11934,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/pgconfdev",
+  "source": "confs.tech"
+}

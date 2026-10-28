@@ -1,0 +1,21 @@
+{
+  "name": "Swiftable 2019",
+  "year": 2019,
+  "url": "https://swiftable.io",
+  "startDate": "2019-11-28",
+  "endDate": "2019-11-29",
+  "city": "Buenos Aires",
+  "country": "AR",
+  "lat": -34.61315,
+  "lng": -58.37723,
+  "topics": [
+    "iOS"
+  ],
+  "cfp": {
+    "url": "https://swiftable.io/call-for-papers",
+    "deadline": "2019-07-01",
+    "open": false
+  },
+  "twitter": "https://x.com/baswiftable",
+  "source": "confs.tech"
+}

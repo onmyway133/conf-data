@@ -1,0 +1,21 @@
+{
+  "name": "GraphQL Conf 2019",
+  "year": 2019,
+  "url": "https://www.graphqlconf.org",
+  "startDate": "2019-06-20",
+  "endDate": "2019-06-21",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "GraphQL"
+  ],
+  "cfp": {
+    "url": "https://www.papercall.io/graphqlconf19",
+    "deadline": "2019-03-22",
+    "open": false
+  },
+  "twitter": "https://x.com/TheGraphQLConf",
+  "source": "confs.tech"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "CTO Craft Con: Culture and the CTO 2023",
+  "year": 2023,
+  "url": "https://conference.ctocraft.com/november-2023",
+  "startDate": "2023-11-07",
+  "endDate": "2023-11-08",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "Networking"
+  ],
+  "source": "confs.tech"
+}

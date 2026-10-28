@@ -1,0 +1,247 @@
+{
+  "name": "Swift Rockies 2026",
+  "year": 2026,
+  "url": "https://swiftrockies.com",
+  "startDate": "2026-07-22",
+  "endDate": "2026-07-23",
+  "city": "Calgary",
+  "country": "CA",
+  "lat": 51.05011,
+  "lng": -114.08529,
+  "topics": [
+    "iOS"
+  ],
+  "source": "confs.tech",
+  "speakers": [
+    {
+      "speaker": "dave-delong"
+    },
+    {
+      "speaker": "francis-chary"
+    },
+    {
+      "speaker": "mahmood-tahir"
+    },
+    {
+      "speaker": "joannis-orlandos"
+    },
+    {
+      "speaker": "adrian-eves"
+    },
+    {
+      "speaker": "ines-rosales"
+    },
+    {
+      "speaker": "krishna-satya"
+    },
+    {
+      "speaker": "robleh-jama"
+    },
+    {
+      "speaker": "matt-massicotte"
+    },
+    {
+      "speaker": "stewart-lynch"
+    },
+    {
+      "speaker": "danijela-vrzan"
+    },
+    {
+      "speaker": "james-dempsey"
+    },
+    {
+      "speaker": "daniel-steinberg"
+    },
+    {
+      "speaker": "ash-furrow"
+    },
+    {
+      "speaker": "abbey-jackson"
+    },
+    {
+      "speaker": "philippe-casgrain"
+    },
+    {
+      "speaker": "marek-fort"
+    },
+    {
+      "speaker": "mikaela-caron"
+    },
+    {
+      "speaker": "ellen-shapiro"
+    },
+    {
+      "speaker": "charlie-chapman"
+    }
+  ],
+  "talks": [
+    {
+      "slug": "accessibility-for-the-app-you-re-about-to-ship",
+      "title": "Accessibility for the App You're About to Ship",
+      "speakers": [
+        "adrian-eves"
+      ]
+    },
+    {
+      "slug": "arts-and-crafts",
+      "title": "Arts and Crafts",
+      "speakers": [
+        "ellen-shapiro"
+      ]
+    },
+    {
+      "slug": "breathe-2",
+      "title": "Breathe",
+      "speakers": [
+        "daniel-steinberg"
+      ]
+    },
+    {
+      "slug": "building-local-ai-systems-with-swift-and-wendyos",
+      "title": "Building Local AI Systems with Swift and WendyOS",
+      "speakers": [
+        "joannis-orlandos"
+      ]
+    },
+    {
+      "slug": "cloudkit-public-database-as-a-backend-2",
+      "title": "CloudKit Public Database as a Backend",
+      "speakers": [
+        "danijela-vrzan"
+      ]
+    },
+    {
+      "slug": "custom-styleable-containers-in-swiftui",
+      "title": "Custom Styleable Containers in SwiftUI",
+      "speakers": [
+        "dave-delong"
+      ]
+    },
+    {
+      "slug": "engineering-culture-a-shared-build",
+      "title": "Engineering Culture: A Shared Build",
+      "speakers": [
+        "ines-rosales"
+      ]
+    },
+    {
+      "slug": "faster-builds-with-xcode-compilation-cache",
+      "title": "Faster Builds With Xcode Compilation Cache",
+      "speakers": [
+        "francis-chary"
+      ]
+    },
+    {
+      "slug": "from-passion-to-product-the-app-strategy-workshop",
+      "title": "From Passion to Product: The App Strategy Workshop",
+      "speakers": [
+        "abbey-jackson"
+      ]
+    },
+    {
+      "slug": "goodbye-simulator-hello-device-hub",
+      "title": "Goodbye Simulator, Hello Device Hub",
+      "speakers": [
+        "mikaela-caron"
+      ]
+    },
+    {
+      "slug": "how-i-bought-my-way-into-tech-rethinking-who-gets-in",
+      "title": "How I Bought My Way Into Tech: Rethinking Who Gets In",
+      "speakers": [
+        "abbey-jackson"
+      ]
+    },
+    {
+      "slug": "instruments-profiling-your-app-in-practice",
+      "title": "Instruments: Profiling Your App in Practice",
+      "speakers": [
+        "james-dempsey"
+      ]
+    },
+    {
+      "slug": "keynote-karaoke",
+      "title": "Keynote Karaoke",
+      "speakers": [
+        "philippe-casgrain"
+      ]
+    },
+    {
+      "slug": "live-musical-performance",
+      "title": "Live Musical Performance",
+      "speakers": [
+        "james-dempsey"
+      ]
+    },
+    {
+      "slug": "live-podcast-recording-launched",
+      "title": "Live Podcast Recording: Launched",
+      "speakers": [
+        "krishna-satya"
+      ]
+    },
+    {
+      "slug": "more-ai-more-human-why-the-new-tools-demand-more-care-not-less",
+      "title": "More AI, More Human: Why the new tools demand more care, not less",
+      "speakers": [
+        "krishna-satya"
+      ]
+    },
+    {
+      "slug": "my-slow-return-to-a-swift-career",
+      "title": "My Slow Return to a Swift Career",
+      "speakers": [
+        "ash-furrow"
+      ]
+    },
+    {
+      "slug": "practical-guide-to-swift-macros",
+      "title": "Practical Guide to Swift Macros",
+      "speakers": [
+        "mahmood-tahir"
+      ]
+    },
+    {
+      "slug": "scaling-swift-development",
+      "title": "Scaling Swift Development",
+      "speakers": [
+        "marek-fort"
+      ]
+    },
+    {
+      "slug": "swift-beyond-apple-making-software-for-the-physical-world",
+      "title": "Swift beyond Apple: Making Software for the Physical World",
+      "speakers": [
+        "joannis-orlandos"
+      ]
+    },
+    {
+      "slug": "swift-concurrency-lab",
+      "title": "Swift Concurrency Lab",
+      "speakers": [
+        "matt-massicotte"
+      ]
+    },
+    {
+      "slug": "swift-concurrency-s-pit-of-success",
+      "title": "Swift Concurrency's Pit of Success",
+      "speakers": [
+        "matt-massicotte"
+      ]
+    },
+    {
+      "slug": "the-myth-of-the-self-taught-ios-developer",
+      "title": "The Myth of the Self-Taught iOS Developer",
+      "speakers": [
+        "stewart-lynch"
+      ]
+    },
+    {
+      "slug": "what-s-new-and-interesting-in-app-intents",
+      "title": "What's New and Interesting in App Intents",
+      "speakers": [
+        "daniel-steinberg"
+      ]
+    }
+  ]
+}

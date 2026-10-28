@@ -1,0 +1,18 @@
+{
+  "name": "REACT PARIS 2024",
+  "year": 2024,
+  "url": "https://react.paris",
+  "startDate": "2024-03-22",
+  "endDate": "2024-03-22",
+  "city": "Paris",
+  "country": "FR",
+  "lat": 48.85341,
+  "lng": 2.3488,
+  "topics": [
+    "JavaScript",
+    "Performance",
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/BeJS_",
+  "source": "confs.tech"
+}

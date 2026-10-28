@@ -1,0 +1,14 @@
+{
+  "name": "CodeStock 2022",
+  "year": 2022,
+  "url": "https://www.codestock.org",
+  "startDate": "2022-04-07",
+  "endDate": "2022-04-08",
+  "city": "Knoxville, TN",
+  "country": "US",
+  "lat": 35.96064,
+  "lng": -83.92074,
+  "topics": [],
+  "twitter": "https://x.com/CodeStock",
+  "source": "confs.tech"
+}

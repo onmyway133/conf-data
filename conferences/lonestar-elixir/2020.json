@@ -1,0 +1,16 @@
+{
+  "name": "Lonestar Elixir 2020",
+  "year": 2020,
+  "url": "https://lonestarelixir.com",
+  "startDate": "2020-02-27",
+  "endDate": "2020-02-29",
+  "city": "Austin, TX",
+  "country": "US",
+  "lat": 30.26715,
+  "lng": -97.74306,
+  "topics": [
+    "Elixir"
+  ],
+  "twitter": "https://x.com/LonestarElixir",
+  "source": "confs.tech"
+}

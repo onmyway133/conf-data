@@ -1,0 +1,17 @@
+{
+  "name": "JAX 2027",
+  "year": 2027,
+  "url": "https://jax.de/mainz",
+  "startDate": "2027-05-10",
+  "endDate": "2027-05-14",
+  "city": "Mainz",
+  "country": "DE",
+  "lat": 49.98185,
+  "lng": 8.28008,
+  "topics": [
+    "Java"
+  ],
+  "twitter": "https://x.com/jaxcon",
+  "bluesky": "https://bsky.app/profile/jaxkonferenz.bsky.social",
+  "source": "confs.tech"
+}

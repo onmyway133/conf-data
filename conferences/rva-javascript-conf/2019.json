@@ -1,0 +1,21 @@
+{
+  "name": "RVA JavaScript Conf 2019",
+  "year": 2019,
+  "url": "https://www.rvajavascript.com",
+  "startDate": "2019-11-15",
+  "endDate": "2019-11-15",
+  "city": "Richmond, VA",
+  "country": "US",
+  "lat": 37.55376,
+  "lng": -77.46026,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://www.papercall.io/rvajavascript2019",
+    "deadline": "2019-08-01",
+    "open": false
+  },
+  "twitter": "https://x.com/rvajavascript",
+  "source": "confs.tech"
+}

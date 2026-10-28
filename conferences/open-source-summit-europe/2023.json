@@ -1,0 +1,14 @@
+{
+  "name": "Open Source Summit Europe 2023",
+  "year": 2023,
+  "url": "https://events.linuxfoundation.org/open-source-summit-europe",
+  "startDate": "2023-09-19",
+  "endDate": "2023-09-21",
+  "city": "Bilbao",
+  "country": "ES",
+  "lat": 43.26271,
+  "lng": -2.92528,
+  "topics": [],
+  "twitter": "https://x.com/linuxfoundation",
+  "source": "confs.tech"
+}

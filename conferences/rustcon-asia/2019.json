@@ -1,0 +1,15 @@
+{
+  "name": "RustCon Asia 2019",
+  "year": 2019,
+  "url": "https://rustcon.asia",
+  "startDate": "2019-04-20",
+  "endDate": "2019-04-23",
+  "city": "Beijing",
+  "country": "CN",
+  "lat": 39.9075,
+  "lng": 116.39723,
+  "topics": [
+    "Rust"
+  ],
+  "source": "confs.tech"
+}

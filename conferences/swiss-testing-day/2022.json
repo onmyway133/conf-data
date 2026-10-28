@@ -1,0 +1,16 @@
+{
+  "name": "Swiss Testing Day 2022",
+  "year": 2022,
+  "url": "http://swisstestingday.ch",
+  "startDate": "2022-06-21",
+  "endDate": "2022-06-21",
+  "city": "Zurich",
+  "country": "CH",
+  "lat": 47.36667,
+  "lng": 8.55,
+  "topics": [
+    "Testing"
+  ],
+  "twitter": "https://x.com/SwissTesting",
+  "source": "confs.tech"
+}

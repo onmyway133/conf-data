@@ -1,0 +1,16 @@
+{
+  "name": "RubyConf 2019",
+  "year": 2019,
+  "url": "http://rubyconfindia.org",
+  "startDate": "2019-01-20",
+  "endDate": "2019-01-21",
+  "city": "Goa",
+  "country": "IN",
+  "lat": 15.38914,
+  "lng": 73.81491,
+  "topics": [
+    "Ruby"
+  ],
+  "twitter": "https://x.com/rubyconfindia",
+  "source": "confs.tech"
+}

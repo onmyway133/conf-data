@@ -1,0 +1,21 @@
+{
+  "name": "Devopsdays Geneva 2025",
+  "year": 2025,
+  "url": "https://devopsdays.org/events/2025-geneva/welcome/",
+  "startDate": "2025-05-19",
+  "endDate": "2025-05-20",
+  "city": "Geneva",
+  "country": "CH",
+  "lat": 46.20222,
+  "lng": 6.14569,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://devopsdays.org/events/2025-geneva/propose/",
+    "deadline": "2025-02-06",
+    "open": false
+  },
+  "twitter": "https://x.com/devopsdaysge",
+  "source": "confs.tech"
+}

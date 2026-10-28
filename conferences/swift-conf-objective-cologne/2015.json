@@ -1,0 +1,15 @@
+{
+  "name": "Swift Conf / Objective-Cologne 2015",
+  "year": 2015,
+  "url": "http://www.objcgn.com/",
+  "startDate": "2015-06-23",
+  "endDate": "2015-06-25",
+  "city": "Cologne",
+  "country": "DE",
+  "lat": 50.93333,
+  "lng": 6.95,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences"
+}

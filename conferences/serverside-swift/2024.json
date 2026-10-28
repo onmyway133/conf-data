@@ -1,0 +1,20 @@
+{
+  "name": "ServerSide.swift 2024",
+  "year": 2024,
+  "url": "https://www.serversideswift.info",
+  "startDate": "2024-09-26",
+  "endDate": "2024-09-27",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "iOS"
+  ],
+  "cfp": {
+    "url": "https://www.papercall.io/server-side-swift-2024",
+    "deadline": "2024-05-31",
+    "open": false
+  },
+  "source": "cocoaconferences"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Golang Piter 2019",
+  "year": 2019,
+  "url": "https://golangpiter.com/en",
+  "startDate": "2019-11-01",
+  "endDate": "2019-11-01",
+  "city": "Saint Petersburg",
+  "country": "RU",
+  "lat": 59.93863,
+  "lng": 30.31413,
+  "topics": [
+    "Go"
+  ],
+  "cfp": {
+    "url": "https://golangpiter.com/en/speaker#form",
+    "deadline": "2019-10-13",
+    "open": false
+  },
+  "source": "confs.tech"
+}

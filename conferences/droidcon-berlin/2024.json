@@ -1,0 +1,24 @@
+{
+  "name": "droidcon Berlin 2024",
+  "year": 2024,
+  "url": "https://berlin.droidcon.com",
+  "startDate": "2024-07-03",
+  "endDate": "2024-07-05",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "Android",
+    "Kotlin",
+    "Networking"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/droidcon-berlin-2024",
+    "deadline": "2024-04-01",
+    "open": false
+  },
+  "twitter": "https://x.com/droidconBerlin",
+  "mastodon": "https://androiddev.social/@droidcon",
+  "source": "confs.tech"
+}

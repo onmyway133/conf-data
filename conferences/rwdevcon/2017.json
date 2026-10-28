@@ -1,0 +1,15 @@
+{
+  "name": "RWDevCon 2017",
+  "year": 2017,
+  "url": "http://www.rwdevcon.com/",
+  "startDate": "2017-03-30",
+  "endDate": "2017-04-01",
+  "city": "Washington DC",
+  "country": "US",
+  "lat": 38.89511,
+  "lng": -77.03637,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences"
+}

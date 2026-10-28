@@ -1,0 +1,15 @@
+{
+  "name": "@Swift 2016",
+  "year": 2016,
+  "url": "http://atswift.io/index-en.html",
+  "startDate": "2016-01-10",
+  "endDate": "2016-01-10",
+  "city": "Beijing",
+  "country": "CN",
+  "lat": 39.9075,
+  "lng": 116.39723,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences"
+}

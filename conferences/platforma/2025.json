@@ -1,0 +1,22 @@
+{
+  "name": "PlatforMa 2025",
+  "year": 2025,
+  "url": "https://platfor-ma.com",
+  "startDate": "2025-05-20",
+  "endDate": "2025-05-20",
+  "city": "Tel Aviv",
+  "country": "IL",
+  "lat": 32.08088,
+  "lng": 34.78057,
+  "topics": [
+    "DevOps",
+    "Performance",
+    "SRE"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/platforma2025",
+    "deadline": "2025-02-02",
+    "open": false
+  },
+  "source": "confs.tech"
+}

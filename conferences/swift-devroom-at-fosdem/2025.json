@@ -1,0 +1,21 @@
+{
+  "name": "Swift DevRoom at FOSDEM 2025",
+  "year": 2025,
+  "url": "https://swiftlang.github.io/event-fosdem/",
+  "startDate": "2025-02-01",
+  "endDate": "2025-02-02",
+  "city": "Brussels",
+  "country": "BE",
+  "lat": 50.85045,
+  "lng": 4.34878,
+  "topics": [
+    "iOS",
+    "Mobile"
+  ],
+  "cfp": {
+    "url": "https://swiftlang.github.io/event-fosdem/",
+    "deadline": "2024-11-30",
+    "open": false
+  },
+  "source": "cocoaconferences"
+}

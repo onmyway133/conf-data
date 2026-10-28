@@ -1,0 +1,16 @@
+{
+  "name": "Leadership Ateliers Barcelona 2025",
+  "year": 2025,
+  "url": "https://www.leadershipateliers.com/barcelona",
+  "startDate": "2025-05-05",
+  "endDate": "2025-05-06",
+  "city": "Barcelona",
+  "country": "ES",
+  "lat": 41.38879,
+  "lng": 2.15899,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/hatchconference",
+  "source": "confs.tech"
+}

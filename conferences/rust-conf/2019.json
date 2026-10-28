@@ -1,0 +1,16 @@
+{
+  "name": "Rust Conf 2019",
+  "year": 2019,
+  "url": "https://rustconf.com",
+  "startDate": "2019-08-22",
+  "endDate": "2019-08-23",
+  "city": "Portland, OR",
+  "country": "US",
+  "lat": 45.52345,
+  "lng": -122.67621,
+  "topics": [
+    "Rust"
+  ],
+  "twitter": "https://x.com/rustconf",
+  "source": "confs.tech"
+}

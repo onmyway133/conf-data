@@ -1,0 +1,21 @@
+{
+  "name": "UberConf 2024",
+  "year": 2024,
+  "url": "https://uberconf.com",
+  "startDate": "2024-07-16",
+  "endDate": "2024-07-19",
+  "city": "Denver, CO",
+  "country": "US",
+  "lat": 39.73915,
+  "lng": -104.9847,
+  "topics": [
+    "Java"
+  ],
+  "cfp": {
+    "url": "https://uberconf.com/app/speaker-request",
+    "deadline": "2023-12-29",
+    "open": false
+  },
+  "twitter": "https://x.com/nofluff",
+  "source": "confs.tech"
+}

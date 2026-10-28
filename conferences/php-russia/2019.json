@@ -1,0 +1,20 @@
+{
+  "name": "PHP Russia 2019",
+  "year": 2019,
+  "url": "http://phprussia.ru",
+  "startDate": "2019-05-17",
+  "endDate": "2019-05-17",
+  "city": "Moscow",
+  "country": "RU",
+  "lat": 55.75204,
+  "lng": 37.61781,
+  "topics": [
+    "PHP"
+  ],
+  "cfp": {
+    "url": "https://cfp.phprussia.ru",
+    "deadline": "2019-03-22",
+    "open": false
+  },
+  "source": "confs.tech"
+}

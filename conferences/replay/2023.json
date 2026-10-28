@@ -1,0 +1,14 @@
+{
+  "name": "Replay 2023",
+  "year": 2023,
+  "url": "https://temporal.io/replay",
+  "startDate": "2023-09-12",
+  "endDate": "2023-09-14",
+  "city": "Seattle, WA",
+  "country": "US",
+  "lat": 47.60621,
+  "lng": -122.33207,
+  "topics": [],
+  "twitter": "https://x.com/replayconf",
+  "source": "confs.tech"
+}

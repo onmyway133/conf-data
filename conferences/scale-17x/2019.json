@@ -1,0 +1,16 @@
+{
+  "name": "SCaLE 17x 2019",
+  "year": 2019,
+  "url": "https://www.socallinuxexpo.org/scale/17x",
+  "startDate": "2019-03-07",
+  "endDate": "2019-03-10",
+  "city": "Pasadena, CA",
+  "country": "US",
+  "lat": 29.69106,
+  "lng": -95.2091,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/socallinuxexpo",
+  "source": "confs.tech"
+}

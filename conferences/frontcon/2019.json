@@ -1,0 +1,21 @@
+{
+  "name": "FrontCon 2019",
+  "year": 2019,
+  "url": "https://frontcon.lv",
+  "startDate": "2019-04-03",
+  "endDate": "2019-04-05",
+  "city": "Riga",
+  "country": "LV",
+  "lat": 56.946,
+  "lng": 24.10589,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://www.papercall.io/fc19",
+    "deadline": "2018-12-09",
+    "open": false
+  },
+  "twitter": "https://x.com/frontcon",
+  "source": "confs.tech"
+}

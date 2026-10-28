@@ -1,0 +1,16 @@
+{
+  "name": "DevOpsCon Berlin 2024",
+  "year": 2024,
+  "url": "https://devopscon.io/berlin",
+  "startDate": "2024-06-17",
+  "endDate": "2024-06-20",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devops_con",
+  "source": "confs.tech"
+}

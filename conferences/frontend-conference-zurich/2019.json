@@ -1,0 +1,16 @@
+{
+  "name": "Frontend Conference Zurich 2019",
+  "year": 2019,
+  "url": "https://www.frontendconf.ch",
+  "startDate": "2019-08-29",
+  "endDate": "2019-08-30",
+  "city": "Zurich",
+  "country": "CH",
+  "lat": 47.36667,
+  "lng": 8.55,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/frontendconfch",
+  "source": "confs.tech"
+}

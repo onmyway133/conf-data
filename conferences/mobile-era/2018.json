@@ -1,0 +1,21 @@
+{
+  "name": "Mobile Era 2018",
+  "year": 2018,
+  "url": "https://mobileera.rocks/",
+  "startDate": "2018-11-01",
+  "endDate": "2018-11-02",
+  "city": "Oslo",
+  "country": "NO",
+  "lat": 59.91273,
+  "lng": 10.74609,
+  "topics": [
+    "iOS",
+    "Mobile"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSeaoGqR9lG0nJeKGdms9FhkdL8zz4aQ6hNRL1mzp3vZU1fb9Q/viewform",
+    "deadline": "2018-05-31",
+    "open": false
+  },
+  "source": "cocoaconferences"
+}

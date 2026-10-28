@@ -1,0 +1,21 @@
+{
+  "name": "BASTA! Fall 2023",
+  "year": 2023,
+  "url": "https://basta.net/mainz",
+  "startDate": "2023-09-25",
+  "endDate": "2023-09-29",
+  "city": "Mainz",
+  "country": "DE",
+  "lat": 49.98185,
+  "lng": 8.28008,
+  "topics": [
+    "C++"
+  ],
+  "cfp": {
+    "url": "https://basta.net/contact",
+    "deadline": "2023-03-01",
+    "open": false
+  },
+  "twitter": "https://x.com/bastacon",
+  "source": "confs.tech"
+}

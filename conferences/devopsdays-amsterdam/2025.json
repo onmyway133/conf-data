@@ -1,0 +1,20 @@
+{
+  "name": "Devopsdays Amsterdam 2025",
+  "year": 2025,
+  "url": "https://devopsdays.org/events/2025-amsterdam/welcome/",
+  "startDate": "2025-06-18",
+  "endDate": "2025-06-20",
+  "city": "Amsterdam",
+  "country": "NL",
+  "lat": 52.37403,
+  "lng": 4.88969,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://talks.devopsdays.org/devopsdays-amsterdam-2025/cfp",
+    "deadline": "2025-01-31",
+    "open": false
+  },
+  "source": "confs.tech"
+}

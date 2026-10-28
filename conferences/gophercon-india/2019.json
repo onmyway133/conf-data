@@ -1,0 +1,16 @@
+{
+  "name": "Gophercon India 2019",
+  "year": 2019,
+  "url": "https://gopherconindia.com",
+  "startDate": "2019-01-18",
+  "endDate": "2019-01-19",
+  "city": "Goa",
+  "country": "IN",
+  "lat": 15.38914,
+  "lng": 73.81491,
+  "topics": [
+    "Go"
+  ],
+  "twitter": "https://x.com/GopherConIndia",
+  "source": "confs.tech"
+}

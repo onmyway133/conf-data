@@ -1,0 +1,16 @@
+{
+  "name": "#inspect 2015",
+  "year": 2015,
+  "url": "http://conference.rubymotion.com/",
+  "startDate": "2015-07-01",
+  "endDate": "2015-07-02",
+  "city": "Paris",
+  "country": "FR",
+  "lat": 48.85341,
+  "lng": 2.3488,
+  "topics": [
+    "iOS",
+    "Mobile"
+  ],
+  "source": "cocoaconferences"
+}

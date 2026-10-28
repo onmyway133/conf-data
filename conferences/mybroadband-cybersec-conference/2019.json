@@ -1,0 +1,16 @@
+{
+  "name": "MyBroadband CyberSec Conference 2019",
+  "year": 2019,
+  "url": "https://cybersecconference.co.za",
+  "startDate": "2019-08-14",
+  "endDate": "2019-08-14",
+  "city": "Johannesburg",
+  "country": "ZA",
+  "lat": -26.20227,
+  "lng": 28.04363,
+  "topics": [
+    "Security"
+  ],
+  "twitter": "https://x.com/mybroadband",
+  "source": "confs.tech"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Startup Istanbul 2019",
+  "year": 2019,
+  "url": "http://Startupistanbul.com",
+  "startDate": "2019-10-18",
+  "endDate": "2019-10-21",
+  "city": "Istanbul",
+  "country": "TR",
+  "lat": 41.01384,
+  "lng": 28.94966,
+  "topics": [
+    "Networking"
+  ],
+  "cfp": {
+    "url": "http://startupistanbul.com",
+    "deadline": "2019-09-30",
+    "open": false
+  },
+  "twitter": "https://x.com/startupistanbul",
+  "source": "confs.tech"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "NSW AI Bonanza 2026",
+  "year": 2026,
+  "url": "https://nswaibonanza.com",
+  "startDate": "2026-09-23",
+  "endDate": "2026-09-25",
+  "city": "Sydney",
+  "country": "AU",
+  "lat": -33.86785,
+  "lng": 151.20732,
+  "topics": [],
+  "cfp": {
+    "url": "https://forms.gle/NGUgSFjBCPyZzz769",
+    "deadline": "2026-08-23",
+    "open": false
+  },
+  "twitter": "https://x.com/nswaibonanza",
+  "source": "confs.tech"
+}

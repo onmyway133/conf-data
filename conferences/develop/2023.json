@@ -1,0 +1,23 @@
+{
+  "name": "Develop 2023",
+  "year": 2023,
+  "url": "https://developer.cisco.com/develop/2023",
+  "startDate": "2023-04-05",
+  "endDate": "2023-04-06",
+  "city": "Mountain View, CA",
+  "country": "US",
+  "lat": 37.38605,
+  "lng": -122.08385,
+  "topics": [
+    "APIs",
+    "DevOps",
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://www.cvent.com/c/abstracts/2afe6360-109d-4894-86be-54e8de013d7c",
+    "deadline": "2022-12-31",
+    "open": false
+  },
+  "twitter": "https://x.com/CiscoDevNet",
+  "source": "confs.tech"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "MAU Vegas 2026",
+  "year": 2026,
+  "url": "https://mauvegas.com",
+  "startDate": "2026-05-19",
+  "endDate": "2026-05-21",
+  "city": "Las Vegas, NV",
+  "country": "US",
+  "lat": 36.17497,
+  "lng": -115.13722,
+  "topics": [
+    "Android",
+    "iOS"
+  ],
+  "twitter": "https://x.com/mauvegas_",
+  "source": "confs.tech"
+}

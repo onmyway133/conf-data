@@ -1,0 +1,19 @@
+{
+  "name": "droidcon New York 2023",
+  "year": 2023,
+  "url": "https://nyc.droidcon.com",
+  "startDate": "2023-09-14",
+  "endDate": "2023-09-15",
+  "city": "New York, NY",
+  "country": "US",
+  "lat": 40.71427,
+  "lng": -74.00597,
+  "topics": [
+    "Android",
+    "Kotlin",
+    "Networking"
+  ],
+  "twitter": "https://x.com/droidconNYC",
+  "mastodon": "https://androiddev.social/@droidcon",
+  "source": "confs.tech"
+}

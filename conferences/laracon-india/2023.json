@@ -1,0 +1,16 @@
+{
+  "name": "Laracon India 2023",
+  "year": 2023,
+  "url": "https://laracon.in",
+  "startDate": "2023-02-25",
+  "endDate": "2023-02-26",
+  "city": "Ahmedabad",
+  "country": "IN",
+  "lat": 23.02579,
+  "lng": 72.58727,
+  "topics": [
+    "PHP"
+  ],
+  "twitter": "https://x.com/LaraconIN",
+  "source": "confs.tech"
+}

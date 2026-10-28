@@ -1,0 +1,16 @@
+{
+  "name": "BSidesSLC 2020",
+  "year": 2020,
+  "url": "https://www.bsidesslc.org",
+  "startDate": "2020-03-20",
+  "endDate": "2020-03-21",
+  "city": "Sandy, UT",
+  "country": "US",
+  "lat": 40.59161,
+  "lng": -111.8841,
+  "topics": [
+    "Security"
+  ],
+  "twitter": "https://x.com/BSidesSLC",
+  "source": "confs.tech"
+}

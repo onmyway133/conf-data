@@ -1,0 +1,16 @@
+{
+  "name": "Devoxx UK 2023",
+  "year": 2023,
+  "url": "https://www.devoxx.co.uk",
+  "startDate": "2023-05-10",
+  "endDate": "2023-05-12",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "Java"
+  ],
+  "twitter": "https://x.com/DevoxxUK",
+  "source": "confs.tech"
+}

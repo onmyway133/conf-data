@@ -1,0 +1,16 @@
+{
+  "name": "UX London 2019",
+  "year": 2019,
+  "url": "https://2019.uxlondon.com",
+  "startDate": "2019-05-29",
+  "endDate": "2019-05-31",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/uxlondon",
+  "source": "confs.tech"
+}

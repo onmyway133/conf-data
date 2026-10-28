@@ -1,0 +1,20 @@
+{
+  "name": "RustLab 2019",
+  "year": 2019,
+  "url": "https://rustlab.it",
+  "startDate": "2019-06-28",
+  "endDate": "2019-06-29",
+  "city": "Florence",
+  "country": "IT",
+  "lat": 43.77925,
+  "lng": 11.24626,
+  "topics": [
+    "Rust"
+  ],
+  "cfp": {
+    "url": "https://www.papercall.io/rustlab2019",
+    "deadline": "2019-03-25",
+    "open": false
+  },
+  "source": "confs.tech"
+}

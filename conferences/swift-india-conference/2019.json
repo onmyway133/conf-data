@@ -1,0 +1,16 @@
+{
+  "name": "Swift India Conference 2019",
+  "year": 2019,
+  "url": "https://swiftindia.in",
+  "startDate": "2019-07-28",
+  "endDate": "2019-07-28",
+  "city": "Bangalore",
+  "country": "IN",
+  "lat": 12.97194,
+  "lng": 77.59369,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/swiftindiagroup",
+  "source": "confs.tech"
+}

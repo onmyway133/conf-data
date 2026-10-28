@@ -1,0 +1,16 @@
+{
+  "name": "PostgresConf South Africa 2019",
+  "year": 2019,
+  "url": "https://postgresconf.org/conferences/SouthAfrica2019",
+  "startDate": "2019-10-08",
+  "endDate": "2019-10-09",
+  "city": "Johannesburg",
+  "country": "ZA",
+  "lat": -26.20227,
+  "lng": 28.04363,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/PostgresConfZA",
+  "source": "confs.tech"
+}

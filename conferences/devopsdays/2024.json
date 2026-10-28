@@ -1,0 +1,16 @@
+{
+  "name": "DevOpsDays 2024",
+  "year": 2024,
+  "url": "https://devopsdays.pl",
+  "startDate": "2024-11-05",
+  "endDate": "2024-11-06",
+  "city": "Kraków",
+  "country": "PL",
+  "lat": 50.06143,
+  "lng": 19.93658,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devopsdayswaw",
+  "source": "confs.tech"
+}

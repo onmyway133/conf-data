@@ -1,0 +1,19 @@
+{
+  "name": "Codemotion Madrid 2026",
+  "year": 2026,
+  "url": "https://conferences.codemotion.com/madrid",
+  "startDate": "2026-04-20",
+  "endDate": "2026-04-21",
+  "city": "Madrid",
+  "country": "ES",
+  "lat": 40.4165,
+  "lng": -3.70256,
+  "topics": [],
+  "cfp": {
+    "url": "https://sessionize.com/codemotion-madrid-2026",
+    "deadline": "2025-12-15",
+    "open": false
+  },
+  "twitter": "https://x.com/CodemotionIT",
+  "source": "confs.tech"
+}

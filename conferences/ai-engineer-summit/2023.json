@@ -1,0 +1,21 @@
+{
+  "name": "AI Engineer Summit 2023",
+  "year": 2023,
+  "url": "https://www.ai.engineer/summit",
+  "startDate": "2023-10-08",
+  "endDate": "2023-10-10",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSdVCTSSDPkcIBjJeqZqq1Ox-PWS6cCxzxdZ9BbZ1z5z56C8eA/viewform",
+    "deadline": "2023-08-20",
+    "open": false
+  },
+  "twitter": "https://x.com/aiDotEngineer",
+  "source": "confs.tech"
+}

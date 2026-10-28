@@ -1,0 +1,21 @@
+{
+  "name": "DevRelCon 2024",
+  "year": 2024,
+  "url": "https://nyc24.devrelcon.dev",
+  "startDate": "2024-07-18",
+  "endDate": "2024-07-19",
+  "city": "New York, NY",
+  "country": "US",
+  "lat": 40.71427,
+  "lng": -74.00597,
+  "topics": [
+    "APIs"
+  ],
+  "cfp": {
+    "url": "https://nyc24.devrelcon.dev/call-for-proposals",
+    "deadline": "2024-03-01",
+    "open": false
+  },
+  "twitter": "https://x.com/devrelcon",
+  "source": "confs.tech"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "FrontEnd Fest 2019",
+  "year": 2019,
+  "url": "https://frontendfest.io/conference/chicago/2019/04/home",
+  "startDate": "2019-04-01",
+  "endDate": "2019-04-03",
+  "city": "Chicago, IL",
+  "country": "US",
+  "lat": 41.85003,
+  "lng": -87.65005,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://frontendfest.io/home/speaker_request",
+    "open": false
+  },
+  "source": "confs.tech"
+}

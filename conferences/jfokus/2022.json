@@ -1,0 +1,14 @@
+{
+  "name": "JFokus 2022",
+  "year": 2022,
+  "url": "https://www.jfokus.se",
+  "startDate": "2022-05-02",
+  "endDate": "2022-05-04",
+  "city": "Stockholm",
+  "country": "SE",
+  "lat": 59.32938,
+  "lng": 18.06871,
+  "topics": [],
+  "twitter": "https://x.com/Jfokus",
+  "source": "confs.tech"
+}

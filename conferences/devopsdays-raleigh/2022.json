@@ -1,0 +1,15 @@
+{
+  "name": "Devopsdays Raleigh 2022",
+  "year": 2022,
+  "url": "https://devopsdays.org/events/2022-raleigh/welcome",
+  "startDate": "2022-04-13",
+  "endDate": "2022-04-14",
+  "city": "Raleigh, NC",
+  "country": "US",
+  "lat": 35.7721,
+  "lng": -78.63861,
+  "topics": [
+    "DevOps"
+  ],
+  "source": "confs.tech"
+}

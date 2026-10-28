@@ -1,0 +1,16 @@
+{
+  "name": "International PHP Conference Munich 2021",
+  "year": 2021,
+  "url": "https://phpconference.com/munich",
+  "startDate": "2021-10-25",
+  "endDate": "2021-10-29",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [
+    "PHP"
+  ],
+  "twitter": "https://x.com/phpconference",
+  "source": "confs.tech"
+}

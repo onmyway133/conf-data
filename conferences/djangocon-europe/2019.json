@@ -1,0 +1,16 @@
+{
+  "name": "DjangoCon Europe 2019",
+  "year": 2019,
+  "url": "https://2019.djangocon.eu",
+  "startDate": "2019-04-10",
+  "endDate": "2019-04-12",
+  "city": "Copenhagen",
+  "country": "DK",
+  "lat": 55.67594,
+  "lng": 12.56553,
+  "topics": [
+    "Python"
+  ],
+  "twitter": "https://x.com/djangocon",
+  "source": "confs.tech"
+}

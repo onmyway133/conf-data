@@ -1,0 +1,21 @@
+{
+  "name": "Devopsdays Vilnius 2023",
+  "year": 2023,
+  "url": "https://devopsdays.org/events/2023-vilnius/welcome",
+  "startDate": "2023-09-06",
+  "endDate": "2023-09-07",
+  "city": "Vilnius",
+  "country": "LT",
+  "lat": 54.68916,
+  "lng": 25.2798,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://www.papercall.io/devopsdays-vilnius",
+    "deadline": "2023-06-06",
+    "open": false
+  },
+  "twitter": "https://x.com/dodvilnius",
+  "source": "confs.tech"
+}

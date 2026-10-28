@@ -1,0 +1,16 @@
+{
+  "name": "Web Summit 2022",
+  "year": 2022,
+  "url": "https://websummit.com",
+  "startDate": "2022-11-01",
+  "endDate": "2022-11-04",
+  "city": "Lisbon",
+  "country": "PT",
+  "lat": 38.72509,
+  "lng": -9.1498,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/WebSummit",
+  "source": "confs.tech"
+}

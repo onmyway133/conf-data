@@ -1,0 +1,16 @@
+{
+  "name": "Future Tech 2020",
+  "year": 2020,
+  "url": "https://futuretech.nl",
+  "startDate": "2020-09-16",
+  "endDate": "2020-09-16",
+  "city": "Utrecht",
+  "country": "NL",
+  "lat": 52.09083,
+  "lng": 5.12222,
+  "topics": [
+    ".NET"
+  ],
+  "twitter": "https://x.com/FutureTechNL",
+  "source": "confs.tech"
+}

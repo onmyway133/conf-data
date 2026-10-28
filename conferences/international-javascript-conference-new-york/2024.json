@@ -1,0 +1,16 @@
+{
+  "name": "International JavaScript Conference New York 2024",
+  "year": 2024,
+  "url": "https://javascript-conference.com/new-york",
+  "startDate": "2024-10-07",
+  "endDate": "2024-10-10",
+  "city": "New York, NY",
+  "country": "US",
+  "lat": 40.71427,
+  "lng": -74.00597,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/JavaScriptCon",
+  "source": "confs.tech"
+}

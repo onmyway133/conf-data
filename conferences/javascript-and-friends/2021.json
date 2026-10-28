@@ -1,0 +1,16 @@
+{
+  "name": "JavaScript and Friends 2021",
+  "year": 2021,
+  "url": "https://www.javascriptandfriends.com",
+  "startDate": "2021-08-20",
+  "endDate": "2021-08-20",
+  "city": "Columbus, OH",
+  "country": "US",
+  "lat": 39.96118,
+  "lng": -82.99879,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/JSFriendsConf",
+  "source": "confs.tech"
+}

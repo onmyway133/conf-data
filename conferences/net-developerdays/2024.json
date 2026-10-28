@@ -1,0 +1,16 @@
+{
+  "name": ".NET DeveloperDays 2024",
+  "year": 2024,
+  "url": "https://developerdays.eu/warsaw",
+  "startDate": "2024-10-22",
+  "endDate": "2024-10-23",
+  "city": "Warsaw",
+  "country": "PL",
+  "lat": 52.22977,
+  "lng": 21.01178,
+  "topics": [
+    ".NET"
+  ],
+  "twitter": "https://x.com/daysdotnet",
+  "source": "confs.tech"
+}

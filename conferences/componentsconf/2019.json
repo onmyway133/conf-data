@@ -1,0 +1,21 @@
+{
+  "name": "ComponentsConf 2019",
+  "year": 2019,
+  "url": "https://www.componentsconf.com.au",
+  "startDate": "2019-09-06",
+  "endDate": "2019-09-06",
+  "city": "Melbourne",
+  "country": "AU",
+  "lat": -37.814,
+  "lng": 144.96332,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://goo.gl/forms/wSXvPfR11VsdD3Ao2",
+    "deadline": "2019-04-06",
+    "open": false
+  },
+  "twitter": "https://x.com/componentsConf",
+  "source": "confs.tech"
+}

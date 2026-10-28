@@ -1,0 +1,16 @@
+{
+  "name": "UberConf 2022",
+  "year": 2022,
+  "url": "https://uberconf.com",
+  "startDate": "2022-07-12",
+  "endDate": "2022-07-15",
+  "city": "Denver, CO",
+  "country": "US",
+  "lat": 39.73915,
+  "lng": -104.9847,
+  "topics": [
+    "Java"
+  ],
+  "twitter": "https://x.com/nofluff",
+  "source": "confs.tech"
+}

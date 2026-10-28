@@ -1,0 +1,19 @@
+{
+  "name": "CloudNativeSecurityCon 2024",
+  "year": 2024,
+  "url": "https://events.linuxfoundation.org/cloudnativesecuritycon-north-america",
+  "startDate": "2024-06-26",
+  "endDate": "2024-06-27",
+  "city": "Seattle, WA",
+  "country": "US",
+  "lat": 47.60621,
+  "lng": -122.33207,
+  "topics": [
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://events.linuxfoundation.org/cloudnativesecuritycon-north-america/program/cfp",
+    "open": false
+  },
+  "source": "confs.tech"
+}

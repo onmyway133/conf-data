@@ -1,0 +1,16 @@
+{
+  "name": "You Got This 2019",
+  "year": 2019,
+  "url": "https://yougotthis.io",
+  "startDate": "2019-01-19",
+  "endDate": "2019-01-19",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/underlandxyz",
+  "source": "confs.tech"
+}

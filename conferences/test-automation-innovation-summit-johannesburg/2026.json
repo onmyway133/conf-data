@@ -1,0 +1,20 @@
+{
+  "name": "Test Automation Innovation Summit Johannesburg 2026",
+  "year": 2026,
+  "url": "https://www.testautomationinnovationsummit.com/johannesburg",
+  "startDate": "2026-10-14",
+  "endDate": "2026-10-14",
+  "city": "Johannesburg",
+  "country": "ZA",
+  "lat": -26.20227,
+  "lng": 28.04363,
+  "topics": [
+    "Testing"
+  ],
+  "cfp": {
+    "url": "https://www.leadsspire.com/our-events",
+    "deadline": "2026-09-16",
+    "open": false
+  },
+  "source": "confs.tech"
+}

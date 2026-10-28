@@ -1,0 +1,17 @@
+{
+  "name": "All Things Open 2023",
+  "year": 2023,
+  "url": "https://www.allthingsopen.org",
+  "startDate": "2023-10-15",
+  "endDate": "2023-10-18",
+  "city": "Raleigh, NC",
+  "country": "US",
+  "lat": 35.7721,
+  "lng": -78.63861,
+  "topics": [
+    "DevOps",
+    "Testing"
+  ],
+  "twitter": "https://x.com/AllThingsOpen",
+  "source": "confs.tech"
+}

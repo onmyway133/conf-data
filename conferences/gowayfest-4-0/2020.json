@@ -1,0 +1,16 @@
+{
+  "name": "GoWayFest 4.0 2020",
+  "year": 2020,
+  "url": "https://goway.io",
+  "startDate": "2020-07-11",
+  "endDate": "2020-07-11",
+  "city": "Minsk",
+  "country": "BY",
+  "lat": 53.90019,
+  "lng": 27.56653,
+  "topics": [
+    "Go"
+  ],
+  "twitter": "https://x.com/GoWayFest",
+  "source": "confs.tech"
+}

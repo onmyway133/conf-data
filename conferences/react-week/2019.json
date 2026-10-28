@@ -1,0 +1,16 @@
+{
+  "name": "React Week 2019",
+  "year": 2019,
+  "url": "http://reactweek.nyc",
+  "startDate": "2019-07-15",
+  "endDate": "2019-07-21",
+  "city": "New York, NY",
+  "country": "US",
+  "lat": 40.71427,
+  "lng": -74.00597,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/reactweek",
+  "source": "confs.tech"
+}

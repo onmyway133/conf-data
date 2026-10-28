@@ -1,0 +1,16 @@
+{
+  "name": "RubyConf Au 2020",
+  "year": 2020,
+  "url": "https://rubyconf.org.au/2020",
+  "startDate": "2020-02-20",
+  "endDate": "2020-02-21",
+  "city": "Melbourne",
+  "country": "AU",
+  "lat": -37.814,
+  "lng": 144.96332,
+  "topics": [
+    "Ruby"
+  ],
+  "twitter": "https://x.com/rubyconf_au",
+  "source": "confs.tech"
+}

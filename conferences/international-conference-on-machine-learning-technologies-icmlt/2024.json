@@ -1,0 +1,15 @@
+{
+  "name": "International Conference on Machine Learning Technologies (ICMLT) 2024",
+  "year": 2024,
+  "url": "http://www.icmlt.org",
+  "startDate": "2024-05-24",
+  "endDate": "2024-05-26",
+  "city": "Oslo",
+  "country": "NO",
+  "lat": 59.91273,
+  "lng": 10.74609,
+  "topics": [
+    "Data/AI"
+  ],
+  "source": "confs.tech"
+}

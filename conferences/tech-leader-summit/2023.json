@@ -1,0 +1,16 @@
+{
+  "name": "Tech Leader Summit 2023",
+  "year": 2023,
+  "url": "https://techleadersummit.io",
+  "startDate": "2023-12-06",
+  "endDate": "2023-12-08",
+  "city": "Clearwater, FL",
+  "country": "US",
+  "lat": 27.96585,
+  "lng": -82.8001,
+  "topics": [
+    "Java"
+  ],
+  "twitter": "https://x.com/nofluff",
+  "source": "confs.tech"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Macoun 2023",
+  "year": 2023,
+  "url": "https://macoun.de",
+  "startDate": "2023-09-23",
+  "endDate": "2023-09-24",
+  "city": "Frankfurt am Main",
+  "country": "DE",
+  "lat": 50.11552,
+  "lng": 8.68417,
+  "topics": [
+    "iOS"
+  ],
+  "cfp": {
+    "url": "https://macoun.de/callforpapers.php",
+    "deadline": "2023-06-26",
+    "open": false
+  },
+  "twitter": "https://x.com/MacounFFM",
+  "source": "confs.tech"
+}

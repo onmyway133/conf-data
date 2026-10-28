@@ -1,0 +1,21 @@
+{
+  "name": "BSides Las Vegas 2024",
+  "year": 2024,
+  "url": "https://www.bsideslv.org",
+  "startDate": "2024-08-06",
+  "endDate": "2024-08-07",
+  "city": "Las Vegas, NV",
+  "country": "US",
+  "lat": 36.17497,
+  "lng": -115.13722,
+  "topics": [
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://www.bsideslv.org/cfp",
+    "deadline": "2024-05-01",
+    "open": false
+  },
+  "twitter": "https://x.com/bsideslv",
+  "source": "confs.tech"
+}

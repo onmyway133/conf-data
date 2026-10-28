@@ -1,0 +1,14 @@
+{
+  "name": "NixCon 2022",
+  "year": 2022,
+  "url": "https://2022.nixcon.org",
+  "startDate": "2022-10-20",
+  "endDate": "2022-10-22",
+  "city": "Paris",
+  "country": "FR",
+  "lat": 48.85341,
+  "lng": 2.3488,
+  "topics": [],
+  "twitter": "https://x.com/nixcon_org",
+  "source": "confs.tech"
+}

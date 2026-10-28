@@ -1,0 +1,15 @@
+{
+  "name": "next.app devcon 2026",
+  "year": 2026,
+  "url": "https://www.nextappcon.com",
+  "startDate": "2026-10-07",
+  "endDate": "2026-10-09",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "Android"
+  ],
+  "source": "confs.tech"
+}

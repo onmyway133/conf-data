@@ -1,0 +1,20 @@
+{
+  "name": "DO iOS 2025",
+  "year": 2025,
+  "url": "https://do-ios.com/",
+  "startDate": "2025-11-12",
+  "endDate": "2025-11-14",
+  "city": "Amsterdam",
+  "country": "NL",
+  "lat": 52.37403,
+  "lng": 4.88969,
+  "topics": [
+    "iOS"
+  ],
+  "cfp": {
+    "url": "https://www.papercall.io/do-ios-2025",
+    "deadline": "2025-07-31",
+    "open": false
+  },
+  "source": "cocoaconferences"
+}

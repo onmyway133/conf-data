@@ -1,0 +1,21 @@
+{
+  "name": "Mobiconf 2019",
+  "year": 2019,
+  "url": "http://www.mobiconf.org/",
+  "startDate": "2019-10-04",
+  "endDate": "2019-10-05",
+  "city": "Kraków",
+  "country": "PL",
+  "lat": 50.06143,
+  "lng": 19.93658,
+  "topics": [
+    "iOS",
+    "Mobile"
+  ],
+  "cfp": {
+    "url": "https://www.papercall.io/mobiconf",
+    "deadline": "2019-05-23",
+    "open": false
+  },
+  "source": "cocoaconferences"
+}

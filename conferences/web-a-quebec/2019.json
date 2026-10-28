@@ -1,0 +1,19 @@
+{
+  "name": "Web à Québec 2019",
+  "year": 2019,
+  "url": "https://webaquebec.org",
+  "startDate": "2019-04-09",
+  "endDate": "2019-04-11",
+  "city": "Quebec",
+  "country": "CA",
+  "lat": 46.81228,
+  "lng": -71.21454,
+  "topics": [],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSe7LwT_b7M9n_I0VcVocPqktMng8ublqq5sZX8y5K71VwPtmQ/viewform",
+    "deadline": "2018-10-26",
+    "open": false
+  },
+  "twitter": "https://x.com/webaquebec",
+  "source": "confs.tech"
+}

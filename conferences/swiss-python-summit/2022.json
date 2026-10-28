@@ -1,0 +1,14 @@
+{
+  "name": "Swiss Python Summit 2022",
+  "year": 2022,
+  "url": "https://www.python-summit.ch",
+  "startDate": "2022-09-22",
+  "endDate": "2022-09-22",
+  "city": "Rapperswil-Jona",
+  "country": "CH",
+  "topics": [
+    "Python"
+  ],
+  "twitter": "https://x.com/pythonsummit",
+  "source": "confs.tech"
+}

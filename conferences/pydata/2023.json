@@ -1,0 +1,21 @@
+{
+  "name": "PyData 2023",
+  "year": 2023,
+  "url": "https://pydata.org/seattle2023",
+  "startDate": "2023-04-26",
+  "endDate": "2023-04-28",
+  "city": "Seattle, WA",
+  "country": "US",
+  "lat": 47.60621,
+  "lng": -122.33207,
+  "topics": [
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://pydata.org/seattle2023/present",
+    "deadline": "2023-02-06",
+    "open": false
+  },
+  "twitter": "https://x.com/PyData",
+  "source": "confs.tech"
+}

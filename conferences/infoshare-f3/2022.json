@@ -1,0 +1,19 @@
+{
+  "name": "Infoshare F3 2022",
+  "year": 2022,
+  "url": "https://f3.infoshare.pl",
+  "startDate": "2022-05-19",
+  "endDate": "2022-05-19",
+  "city": "Gdansk",
+  "country": "PL",
+  "lat": 54.35227,
+  "lng": 18.64912,
+  "topics": [],
+  "cfp": {
+    "url": "https://f3.infoshare.pl/rejestracja",
+    "deadline": "2022-05-18",
+    "open": false
+  },
+  "twitter": "https://x.com/infosharepl",
+  "source": "confs.tech"
+}

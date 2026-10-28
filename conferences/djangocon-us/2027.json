@@ -1,0 +1,13 @@
+{
+  "name": "DjangoCon US 2027",
+  "year": 2027,
+  "url": "https://2027.djangocon.us/",
+  "startDate": "2027-09-13",
+  "endDate": "2027-09-17",
+  "city": "Riverside",
+  "country": "US",
+  "topics": [
+    "Python",
+    "Web"
+  ]
+}

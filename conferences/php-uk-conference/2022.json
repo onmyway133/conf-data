@@ -1,0 +1,16 @@
+{
+  "name": "PHP UK Conference 2022",
+  "year": 2022,
+  "url": "https://www.phpconference.co.uk",
+  "startDate": "2022-02-16",
+  "endDate": "2022-02-18",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "PHP"
+  ],
+  "twitter": "https://x.com/phpukconference",
+  "source": "confs.tech"
+}

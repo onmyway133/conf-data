@@ -1,0 +1,16 @@
+{
+  "name": "Full Stack Europe 2022",
+  "year": 2022,
+  "url": "https://fullstackeurope.com/2022",
+  "startDate": "2022-10-05",
+  "endDate": "2022-10-07",
+  "city": "Antwerp",
+  "country": "BE",
+  "lat": 51.22047,
+  "lng": 4.40026,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/fullstackeu",
+  "source": "confs.tech"
+}

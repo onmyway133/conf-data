@@ -1,0 +1,14 @@
+{
+  "name": "YOW! Sydney 2019",
+  "year": 2019,
+  "url": "https://sydney.yowconference.com.au",
+  "startDate": "2019-12-05",
+  "endDate": "2019-12-06",
+  "city": "Sydney",
+  "country": "AU",
+  "lat": -33.86785,
+  "lng": 151.20732,
+  "topics": [],
+  "twitter": "https://x.com/yow_conf",
+  "source": "confs.tech"
+}

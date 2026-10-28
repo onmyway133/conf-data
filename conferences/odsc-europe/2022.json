@@ -1,0 +1,16 @@
+{
+  "name": "ODSC Europe 2022",
+  "year": 2022,
+  "url": "https://odsc.com/europe",
+  "startDate": "2022-06-15",
+  "endDate": "2022-06-16",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/ODSC",
+  "source": "confs.tech"
+}

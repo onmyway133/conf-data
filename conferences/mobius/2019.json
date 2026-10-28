@@ -1,0 +1,21 @@
+{
+  "name": "Mobius 2019",
+  "year": 2019,
+  "url": "https://mobiusconf.com/en/",
+  "startDate": "2019-11-07",
+  "endDate": "2019-11-08",
+  "city": "Moscow",
+  "country": "RU",
+  "lat": 55.75204,
+  "lng": 37.61781,
+  "topics": [
+    "iOS",
+    "Mobile"
+  ],
+  "cfp": {
+    "url": "https://mobiusconf.com/en/cfp/",
+    "deadline": "2019-09-16",
+    "open": false
+  },
+  "source": "cocoaconferences"
+}

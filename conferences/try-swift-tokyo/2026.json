@@ -1,0 +1,424 @@
+{
+  "name": "try! Swift Tokyo 2026",
+  "year": 2026,
+  "url": "https://tryswift.jp/2026/en/",
+  "startDate": "2026-04-12",
+  "endDate": "2026-04-14",
+  "city": "Tokyo",
+  "country": "JP",
+  "lat": 35.6895,
+  "lng": 139.69171,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences",
+  "speakers": [
+    {
+      "speaker": "klemens-strasser",
+      "role": "Indie Developer",
+      "bio": "Klemens is a indie developer dedicated to crafting delightful apps with a strong focus on accessibility. He won an Apple Design Award as a Student in 2015 for his very first project, Elementary Minute. In 2025, his latest app, Art of Fauna, received both an Apple Design Award and an App Store Award. His work centers on creating thoughtful, high-quality experiences that are welcoming and usable for as many people as possible.",
+      "photoUrl": "https://tryswift.jp/images/from_app/2026_KlemensStrasser.png",
+      "twitter": "https://x.com/klemensstrasser"
+    },
+    {
+      "speaker": "yasuhiro-inami",
+      "role": "Software Engineer at Goodnotes",
+      "bio": "Inamiy is an iOS developer at Goodnotes, focusing on mobile app development and AI-powered features.\nHe is a big fan of functional programming including Swift, Haskell, and any statically typed languages that can check his bad code.\nNowadays, he has shifted toward compiler-like work that helps detect and correct poor code produced by AI.",
+      "photoUrl": "https://tryswift.jp/images/from_app/2026_YasuhiroInami.png"
+    },
+    {
+      "speaker": "joannis-orlandos",
+      "role": "OpenSource Maintainer / Co-Founder",
+      "bio": "Joannis Orlandos is a cross-platform Swift developer and member of both the Swift Server Workgroup and Swift Android Workgroup. He announced the official Swift SDK for Android on Swift.org and co-founded Wendy Labs, creators of WendyOS—a Swift-first Linux distribution for embedded devices. Joannis maintains Hummingbird 2, created MongoKitten and Citadel, and co-runs SwiftOnServer.com",
+      "photoUrl": "https://tryswift.jp/images/from_app/2026_JoannisOrlandos.png",
+      "twitter": "https://x.com/joannisorlandos"
+    },
+    {
+      "speaker": "yuta-koshizawa",
+      "role": "Chief Engineer at Qoncept",
+      "bio": "Yuta is a software engineer specializing in iOS, Swift, and real-time image recognition. He is the author of ‘Heart of Swift,’ a widely read online Swift book in Japan. He also regularly hosts an online study group called ‘Swift Zoomin’’.",
+      "photoUrl": "https://tryswift.jp/images/from_app/2026_YutaKoshizawa.png",
+      "twitter": "https://x.com/koher"
+    },
+    {
+      "speaker": "natalia-panferova",
+      "role": "iOS Developer, Tech Blogger, Book Author",
+      "bio": "Natalia has been working in tech for over ten years, and most of her career has been dedicated to iOS development. She’s worked in both small startups and large companies, and now she’s focusing on her own projects at Nil Coalescing, a company she founded with her partner back in 2022. Right before that, she was part of the SwiftUI team at Apple, designing and building SwiftUI APIs.\n\nShe’s very passionate about creating apps for Apple platforms and sharing her knowledge through her blog and books for Swift and SwiftUI developers. She lives in the South Island of New Zealand, and when she’s not coding or writing, she loves going on nature walks with her partner and their two dogs.",
+      "photoUrl": "https://tryswift.jp/images/from_app/2026_NataliaPanferova.png",
+      "twitter": "https://x.com/natpanferova"
+    },
+    {
+      "speaker": "paul-hudson",
+      "role": "Creator at Hacking with Swift",
+      "bio": "Paul is the author of Hacking with Swift, Pro Swift, Swift Design Patterns, Testing Swift, Swift Interview Challenges, and more. Suffice it to say, he quite likes Swift. And coffee. (But mostly Swift.) (And coffee.)",
+      "photoUrl": "https://tryswift.jp/images/from_app/2026_Speaker_PaulHudson.jpg",
+      "twitter": "https://x.com/twostraws"
+    },
+    {
+      "speaker": "nishant-bhasin",
+      "role": "Engineering Manager at Mozilla",
+      "bio": "Engineering Manager at Mozilla working on Firefox for iOS. Previously a Staff Engineer leading major architectural initiatives in Swift and SwiftUI. Over a decade of experience building and scaling mobile applications with a focus on performance, privacy, and usability. I am passionate about mentorship, open source collaboration, and helping engineers grow through real, impactful contributions. I continue to support global contributors and guide new developers through their first open source experience while ensuring Firefox for iOS maintains the quality and reliability expected from a product used by millions.",
+      "photoUrl": "https://tryswift.jp/images/from_app/2026_NishantBhasin.jpg"
+    },
+    {
+      "speaker": "daniel-steinberg",
+      "role": "Storyteller",
+      "bio": "Daniel is the author of more than a dozen books including the best selling books The Curious Case of the Async Cafe, A SwiftUI Kickstart, A Swift Kickstart, A Bread Baking Kickstart, and Dear Elena.\n\nDaniel presents iOS, SwiftUI, and Swift training and consults through his company Dim Sum Thinking.\n\nHe has written apps for the iPhone and the iPad since the SDKs first appeared and has written programs for the Mac all the way back to System 7. When he’s not coding or talking about coding for the Mac, the iPhone, and the iPad he’s probably cooking, baking bread, or hanging out with friends.",
+      "photoUrl": "https://tryswift.jp/images/from_app/2026_DanielSteinberg.png",
+      "linkedin": "https://linkedin.com/in/dimsumthinking"
+    },
+    {
+      "speaker": "adam-lyttle",
+      "role": "Indie Developer",
+      "bio": "Adam Lyttle is an indie iOS developer who builds apps for fun and profit (and shares the entire process in public). What began as a creative challenge to ship one app per month evolved into a sustainable indie business, taking him from significant personal debt to generating consistent revenue from his apps. Adam has created dozens of iOS apps and has been involved in multiple successful business exits. He is the creator of Apps by Adam Lyttle, a YouTube channel with over 30,000 subscribers, where he publishes practical, experience-driven content on Swift, StoreKit, App Store optimization, onboarding, and subscription design. One of his paywall implementations has been widely adopted by the indie developer community. Alongside YouTube, Adam actively shares lessons and experiments on X, where he has built a community of over 47,000 developers and makers by openly discussing what works, what fails, and what changes as Apple’s platform evolves. He is passionate about ethical monetization, App Store compliance, and helping developers build sustainable businesses through clear, honest product design.",
+      "photoUrl": "https://tryswift.jp/images/from_app/2026_AdamLyttle.jpg"
+    },
+    {
+      "speaker": "kishikawa-katsumi",
+      "role": "Software Engineer",
+      "bio": "Katsumi Kishikawa is a software engineer specializing in mobile app development. While the role of humans in software development continues to evolve, he believes that the core joy of programming remains unchanged. He finds embedded programming particularly rewarding because it allows developers to build everything themselves, making the essence of programming especially clear and enjoyable.",
+      "photoUrl": "https://tryswift.jp/images/from_app/2026_KishikawaKatsumi.png",
+      "website": "https://kishikawakatsumi.com/"
+    },
+    {
+      "speaker": "yusuke-kita",
+      "role": "Software Engineer at newmo",
+      "bio": "Yusuke Kita is a software engineer at newmo working on automated testing for mobility service applications. He is passionate about improving code quality and building reliable software systems.",
+      "photoUrl": "https://tryswift.jp/images/from_app/2026_YusukeKita.png",
+      "twitter": "https://x.com/kitasuke"
+    },
+    {
+      "speaker": "kazushi-oenoki",
+      "role": "iOS and macOS App Developer",
+      "bio": "Kazushi Oenoki is an iOS and macOS app developer known for creating apps such as FirstSeed Calendar and FirstSeed Tasks for Apple platforms. His apps have been featured as App of the Day in more than 150 countries and regions on the App Store. He has deep experience integrating CloudKit, Core Data, AppKit, UIKit, and SwiftUI. Currently, he is developing a rich text note app built on CRDT, tackling advanced challenges such as multi-device editing, diff highlighting, and run-based formatting.",
+      "photoUrl": "https://tryswift.jp/images/from_app/2026_KazushiOenoki.png"
+    },
+    {
+      "speaker": "satsuki-hashiba",
+      "role": "Developer at LY Corporation",
+      "bio": "Satsuki works at LY Corporation, where she contributes to the development of LINE, Japan’s largest communication app. She enjoys reading, knitting, and gaming, and happily embraces an indoor-oriented lifestyle—much like her beloved cat.",
+      "photoUrl": "https://tryswift.jp/images/from_app/2026_SatsukiHashiba.png"
+    },
+    {
+      "speaker": "akira-fukunaga",
+      "role": "iOS App Developer at SmartNews",
+      "bio": "Akira Fukunaga is an iOS app developer with over 7 years of experience. He currently works on the Mobile Foundation Team at SmartNews and previously worked at Mercari. Outside of coding, he enjoys motorcycling, camping, and bouldering.",
+      "photoUrl": "https://tryswift.jp/images/from_app/2026_AkiraFukunaga.jpg"
+    },
+    {
+      "speaker": "ryo-tsuzukihashi",
+      "role": "iOS App Developer at ZOZO",
+      "bio": "Ryo Tsuzukihashi started indie development in 2016. After joining Yahoo Japan as a new graduate in 2019, he worked on the PayPay Flea Market app and grew through LeanXP-style pair programming. In 2023 he joined DeNA and contributed to the development of the live communication app Pococha, including test-driven development practices and short video features. Since 2024 he has been working at ZOZO on the ZOZOTOWN iOS app, tackling large-scale refactoring and SwiftUI adoption. As an indie developer, he actively experiments with AI tools such as Claude Code and has worked on iOS, Android, and SaaS applications. He has extensive experience with Firebase as a BaaS and has released more than 50 apps so far.",
+      "photoUrl": "https://tryswift.jp/images/from_app/2026_RyoTsuzukihashi.jpg"
+    },
+    {
+      "speaker": "giginet-kohki-miki",
+      "role": "Mobile DevOps Engineer at LY Corporation",
+      "bio": "giginet is a Mobile DevOps Engineer working for LY Corporation. He develops developer tools primarily for iOS, maintains open-source software, and creates build tools called Scipio.",
+      "photoUrl": "https://tryswift.jp/images/from_app/2026_KohkiMiki.jpg",
+      "twitter": "https://x.com/giginet"
+    },
+    {
+      "speaker": "freddi-yuki-aki",
+      "role": "Engineer",
+      "bio": "Freddi (Yuki Aki) is an engineer who also travels the world as a travel YouTuber, sharing his experiences across different countries and cultures.",
+      "photoUrl": "https://tryswift.jp/images/from_app/2026_YukiAki.png",
+      "twitter": "https://x.com/___freddi___"
+    },
+    {
+      "speaker": "matsuji",
+      "role": "iOS App Developer",
+      "bio": "matsuji is an iOS app developer based in Japan. In his professional work, he contributes to the development of globally deployed large-scale applications. Outside of work, he develops open-source software and releases independent apps. He also enjoys playing the board game Go.",
+      "photoUrl": "https://tryswift.jp/images/from_app/2026_Matsuji.png"
+    },
+    {
+      "speaker": "lil-ossa",
+      "role": "iOS App Developer at Classmethod",
+      "bio": "Osama is an iOS engineer at Classmethod in Japan, and he’s also a breakdancer who came in second place at the World Breakdancing Championship in Germany in 2007. In the breakdance world, he is known as ‘Lil Ossa’. He has a passion for beer, dance, and building iOS apps. He enjoys sharing his unique experiences in iOS development at conferences such as try! Swift Tokyo 2024, Swiftable 2023, and iOSDC Japan 2022.",
+      "photoUrl": "https://tryswift.jp/images/from_app/2026_LilOssa.jpg",
+      "twitter": "https://x.com/littleossa"
+    },
+    {
+      "speaker": "shinichiro-oba",
+      "role": "Programmer",
+      "bio": "Shinichiro Oba is a programmer who loves Apple and LEGO. At work, he develops large-scale applications using The Composable Architecture (TCA). In his spare time, he enjoys exploring low-level technologies such as Embedded Swift and FPGA. He is also the author of books including “Introduction to LEGO MINDSTORMS NXT.”",
+      "photoUrl": "https://tryswift.jp/images/from_app/2026_ShinichiroOba.png",
+      "twitter": "https://x.com/ooba"
+    },
+    {
+      "speaker": "wataru-nishimoto",
+      "role": "iOS App Engineer",
+      "bio": "Wataru Nishimoto is an iOS app engineer.",
+      "photoUrl": "https://tryswift.jp/images/from_app/2026_WataruNishimoto.png"
+    },
+    {
+      "speaker": "shun-takeishi",
+      "bio": "Technology Evangelist, Apple Worldwide Developer Relations.",
+      "photoUrl": "https://tryswift.jp/images/from_app/shun_takeishi.jpg",
+      "twitter": "https://x.com/ShunTakeishi"
+    },
+    {
+      "speaker": "alberto-ricci",
+      "bio": "Technology Evangelist, EMEA. Focus on AI/ML",
+      "photoUrl": "https://tryswift.jp/images/from_app/alberto_ricci.jpg",
+      "linkedin": "https://www.linkedin.com/in/albertoricci/"
+    },
+    {
+      "speaker": "melvin-tan",
+      "bio": "Technology Evangelist, Apple Worldwide Developer Relations.",
+      "photoUrl": "https://tryswift.jp/images/from_app/melvin_tan.png"
+    },
+    {
+      "speaker": "victor-baro",
+      "bio": "Victor Baro is an iOS developer with ~10 years of experience across startups and large organizations. He is the co-founder and CEO of Panels, a digital comics reading app, and works hands-on as a full stack developer with a strong focus on UI, interaction, and animation.",
+      "photoUrl": "https://tryswift.jp/images/from_app/2026_VictorBaro.png",
+      "twitter": "https://x.com/victorbaro"
+    },
+    {
+      "speaker": "vistar",
+      "bio": "I primarily work on Apple platform app development and research the core APIs of the operating system.",
+      "photoUrl": "https://tryswift.jp/images/from_app/2026_Vistar.png",
+      "twitter": "https://x.com/Lmssync"
+    },
+    {
+      "speaker": "kazuki-nakashima",
+      "bio": "iOS Application Development",
+      "photoUrl": "https://tryswift.jp/images/from_app/2026_KazukiNakashima.png",
+      "twitter": "https://x.com/lynnswap"
+    },
+    {
+      "speaker": "masakaz-ozaki",
+      "bio": "A design engineer working across the intersection of design and engineering. Major projects include the Nikkei Spatial Edition app and the DEPSE app. Notable awards include being named a Winner of the Swift Student Challenge 2024 and receiving the 1st GOOD DESIGN NEW HOPE AWARD. Currently developing the Synchronism app.",
+      "photoUrl": "https://tryswift.jp/images/from_app/masakaz.jpg",
+      "twitter": "https://x.com/masakazozaki",
+      "website": "https://masakaz.com"
+    },
+    {
+      "speaker": "kyoya-yamaguchi",
+      "bio": "Started programming in Swift during junior high school and won first place in an app development competition.\nBegan working as an iOS engineering intern while in high school, alongside developing applications independently.\nSwift Student Challenge Winner (2023, 2024).\nCurrently working as an iOS App Developer at CoeFont",
+      "photoUrl": "https://tryswift.jp/images/from_app/kyoya.jpg",
+      "twitter": "https://x.com/kyoya1123",
+      "linkedin": "https://www.linkedin.com/in/kyoya-yamaguchi",
+      "website": "https://kyoya.me"
+    },
+    {
+      "speaker": "jaesung-lee",
+      "bio": "Jaesung Lee is a winner of the WWDC Scholarship in 2019 and the Swift Student Challenge in 2020.\nIn 2022 and 2023, he served as an open-source mentor in the Swift Mentorship program at swift.org.\nCurrently, he is a tech mentor at Apple Developer Academy @ POSTECH and the lead organizer of “Community for Swift Students,” which has been holding events for Swift students led by Korean Swift Student Challenge winners since 2023.",
+      "photoUrl": "https://tryswift.jp/images/from_app/jaesung.jpg",
+      "twitter": "https://x.com/j_sung_x_0o0",
+      "linkedin": "https://www.linkedin.com/in/x-0o0"
+    },
+    {
+      "speaker": "jia-chen-yee",
+      "bio": "Jia Chen is an Apple Certified Trainer, developer, and community organizer based in Singapore, leading initiatives such as iOS Conf SG, Swift for Everyone, Swift Student Collective, and Spatial Singapore. Through his work, he creates experiences for students and developers across Asia. A two-time Swift Student Challenge winner (2020, 2021), he has been featured on Apple.com and continues to grow communities through events and initiatives.",
+      "photoUrl": "https://tryswift.jp/images/from_app/JiaChen.jpg",
+      "twitter": "https://x.com/jiachenyee",
+      "linkedin": "https://www.linkedin.com/in/jia-chen-yee/",
+      "website": "https://jiachenyee.com"
+    },
+    {
+      "speaker": "tim-oliver",
+      "bio": "Tim is an iOS developer from Australia and is currently working in Tokyo. He presented at try! Swift Tokyo 2016 and has been volunteering at the conference since 2018. In his free time, he loves video games, writing open source software and karaoke.",
+      "photoUrl": "https://tryswift.jp/images/from_app/tim_oliver.jpg",
+      "twitter": "https://x.com/TimOliverAU"
+    }
+  ],
+  "talks": [
+    {
+      "slug": "swiftstudentscafe-crafting-standout-apps",
+      "title": "#SwiftStudentsCafe: Crafting standout apps",
+      "speakers": [
+        "masakaz-ozaki"
+      ]
+    },
+    {
+      "slug": "furigana-deep-dive",
+      "title": "⚡️Furigana Deep Dive!",
+      "speakers": [
+        "wataru-nishimoto"
+      ]
+    },
+    {
+      "slug": "getting-started-with-embedded-swift-programming-from-0",
+      "title": "⚡️Getting Started with Embedded Swift Programming from ¥0",
+      "speakers": [
+        "shinichiro-oba"
+      ]
+    },
+    {
+      "slug": "hacking-final-cut-pro-with-swift",
+      "title": "⚡️Hacking Final Cut Pro with Swift",
+      "speakers": [
+        "freddi-yuki-aki"
+      ]
+    },
+    {
+      "slug": "living-with-genmoji",
+      "title": "⚡️Living with Genmoji",
+      "speakers": [
+        "lil-ossa"
+      ]
+    },
+    {
+      "slug": "play-on-swiftc",
+      "title": "⚡️Play 🀄 on swiftc!",
+      "speakers": [
+        "giginet-kohki-miki"
+      ]
+    },
+    {
+      "slug": "polishing-liquid-glass-practical-tips-for-ios-26",
+      "title": "⚡️Polishing Liquid Glass: Practical Tips for iOS 26",
+      "speakers": [
+        "matsuji"
+      ]
+    },
+    {
+      "slug": "the-legend-of-tom-oliver",
+      "title": "⚡️The Legend of Tom Oliver",
+      "speakers": [
+        "tim-oliver"
+      ]
+    },
+    {
+      "slug": "beyond-translation-understanding-localization-with-foundation-locale",
+      "title": "Beyond Translation: Understanding Localization with Foundation.Locale",
+      "speakers": [
+        "satsuki-hashiba"
+      ]
+    },
+    {
+      "slug": "designing-app-store-onboarding",
+      "title": "Designing App Store Onboarding",
+      "speakers": [
+        "adam-lyttle"
+      ]
+    },
+    {
+      "slug": "designing-visual-effects-with-metal-and-swiftui",
+      "title": "Designing Visual Effects with Metal and SwiftUI",
+      "speakers": [
+        "victor-baro"
+      ]
+    },
+    {
+      "slug": "enhance-your-apps-with-the-foundation-models",
+      "title": "Enhance your apps with the Foundation Models",
+      "speakers": [
+        "shun-takeishi"
+      ]
+    },
+    {
+      "slug": "geojson-swiftui-techniques-for-beautiful-map-rendering",
+      "title": "GeoJSON × SwiftUI: Techniques for Beautiful Map Rendering",
+      "speakers": [
+        "ryo-tsuzukihashi"
+      ]
+    },
+    {
+      "slug": "high-performance-swift",
+      "title": "High-Performance Swift",
+      "speakers": [
+        "paul-hudson"
+      ]
+    },
+    {
+      "slug": "how-swift-s-type-system-guides-ai-agents",
+      "title": "How Swift's Type System Guides AI Agents",
+      "speakers": [
+        "yuta-koshizawa"
+      ]
+    },
+    {
+      "slug": "ios-private-playgrounds",
+      "title": "iOS Private Playgrounds",
+      "speakers": [
+        "vistar"
+      ]
+    },
+    {
+      "slug": "learn-by-building-bare-metal-programming-with-embedded-swift",
+      "title": "Learn by Building: Bare-Metal Programming with Embedded Swift",
+      "speakers": [
+        "kishikawa-katsumi"
+      ]
+    },
+    {
+      "slug": "let-ai-generate-xcuitest-code-ensuring-quality-with-structured-layers",
+      "title": "Let AI Generate XCUITest Code: Ensuring Quality with Structured Layers",
+      "speakers": [
+        "yusuke-kita"
+      ]
+    },
+    {
+      "slug": "open-source-at-scale-collaborating-on-firefox-for-ios",
+      "title": "Open Source at Scale: Collaborating on Firefox for iOS",
+      "speakers": [
+        "nishant-bhasin"
+      ]
+    },
+    {
+      "slug": "practical-crdt-building-a-rich-text-synchronization-model-with-core-data-and-clo",
+      "title": "Practical CRDT: Building a Rich Text Synchronization Model with Core Data and CloudKit",
+      "speakers": [
+        "kazushi-oenoki"
+      ]
+    },
+    {
+      "slug": "swift-concurrency-type-system",
+      "title": "Swift Concurrency Type System",
+      "speakers": [
+        "yasuhiro-inami"
+      ]
+    },
+    {
+      "slug": "swift-outside-apple-one-codebase-five-platforms",
+      "title": "Swift Outside Apple: One Codebase, Five Platforms",
+      "speakers": [
+        "joannis-orlandos"
+      ]
+    },
+    {
+      "slug": "the-art-of-caring-2",
+      "title": "The Art of Caring",
+      "speakers": [
+        "klemens-strasser"
+      ]
+    },
+    {
+      "slug": "the-evolution-of-swiftui-an-insider-s-view",
+      "title": "The Evolution of SwiftUI: An Insider's View",
+      "speakers": [
+        "natalia-panferova"
+      ]
+    },
+    {
+      "slug": "the-hidden-power-of-async-sequences",
+      "title": "The hidden power of Async Sequences",
+      "speakers": [
+        "daniel-steinberg"
+      ]
+    },
+    {
+      "slug": "the-road-to-your-app-is-paved-with-app-intents",
+      "title": "The road to your app is paved with App Intents",
+      "speakers": [
+        "daniel-steinberg"
+      ]
+    },
+    {
+      "slug": "why-is-swiftui-like-that",
+      "title": "Why is SwiftUI like that?",
+      "speakers": [
+        "paul-hudson"
+      ]
+    },
+    {
+      "slug": "zero-downtime-migration-moving-a-massive-historic-ios-app-from-cocoapods-to-spm",
+      "title": "Zero-Downtime Migration: Moving a Massive, Historic iOS App from CocoaPods to SPM and Tuist without Stopping Feature Delivery",
+      "speakers": [
+        "akira-fukunaga"
+      ]
+    }
+  ]
+}

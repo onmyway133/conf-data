@@ -1,0 +1,15 @@
+{
+  "name": "Data Science and Intelligent Systems Conference 2020",
+  "year": 2020,
+  "url": "https://www.dsis2020.com",
+  "startDate": "2020-07-16",
+  "endDate": "2020-07-17",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "Data/AI"
+  ],
+  "source": "confs.tech"
+}

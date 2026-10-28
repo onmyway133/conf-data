@@ -1,0 +1,21 @@
+{
+  "name": "angularday 2022",
+  "year": 2022,
+  "url": "https://angularday.it",
+  "startDate": "2022-10-07",
+  "endDate": "2022-10-07",
+  "city": "Verona",
+  "country": "IT",
+  "lat": 45.43854,
+  "lng": 10.9938,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://grusp.org/CFPangularday",
+    "deadline": "2022-06-30",
+    "open": false
+  },
+  "twitter": "https://x.com/angularday",
+  "source": "confs.tech"
+}

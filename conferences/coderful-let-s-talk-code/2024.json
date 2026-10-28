@@ -1,0 +1,18 @@
+{
+  "name": "Coderful - let's talk code 2024",
+  "year": 2024,
+  "url": "https://www.coderful.io",
+  "startDate": "2024-06-28",
+  "endDate": "2024-06-28",
+  "city": "Catania",
+  "country": "IT",
+  "lat": 37.49223,
+  "lng": 15.07041,
+  "topics": [
+    "JavaScript",
+    "Testing",
+    "TypeScript"
+  ],
+  "twitter": "https://x.com/coderful",
+  "source": "confs.tech"
+}

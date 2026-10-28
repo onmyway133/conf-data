@@ -1,0 +1,19 @@
+{
+  "name": "try! Swift Tokyo 2027",
+  "year": 2027,
+  "url": "https://tryswift.jp/2027/en/",
+  "startDate": "2027-03-02",
+  "endDate": "2027-03-04",
+  "city": "Tokyo",
+  "country": "JP",
+  "lat": 35.6895,
+  "lng": 139.69171,
+  "topics": [
+    "iOS"
+  ],
+  "cfp": {
+    "url": "https://cfp.tryswift.jp",
+    "open": true
+  },
+  "source": "cocoaconferences"
+}

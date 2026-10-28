@@ -1,0 +1,22 @@
+{
+  "name": "Dutch PHP Conference 2027",
+  "year": 2027,
+  "url": "https://phpconference.nl",
+  "startDate": "2027-03-16",
+  "endDate": "2027-03-19",
+  "city": "Amsterdam",
+  "country": "NL",
+  "lat": 52.37403,
+  "lng": 4.88969,
+  "topics": [
+    "PHP"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/dawn-conferences-2027",
+    "deadline": "2026-12-18",
+    "open": true
+  },
+  "twitter": "https://x.com/dpcon",
+  "mastodon": "https://mastodon.social/@dutchphpconference",
+  "source": "confs.tech"
+}

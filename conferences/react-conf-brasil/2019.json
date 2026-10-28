@@ -1,0 +1,16 @@
+{
+  "name": "React Conf Brasil 2019",
+  "year": 2019,
+  "url": "https://reactconf.com.br",
+  "startDate": "2019-10-19",
+  "endDate": "2019-10-19",
+  "city": "São Paulo",
+  "country": "BR",
+  "lat": -23.5475,
+  "lng": -46.63611,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/reactconfbr",
+  "source": "confs.tech"
+}

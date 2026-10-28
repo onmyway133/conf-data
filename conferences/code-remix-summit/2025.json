@@ -1,0 +1,23 @@
+{
+  "name": "Code Remix Summit 2025",
+  "year": 2025,
+  "url": "https://coderemix.ai",
+  "startDate": "2025-05-12",
+  "endDate": "2025-05-14",
+  "city": "Miami, FL",
+  "country": "US",
+  "lat": 25.77427,
+  "lng": -80.19366,
+  "topics": [
+    "DevOps",
+    "Java",
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/coderemixsummit",
+    "deadline": "2024-11-18",
+    "open": false
+  },
+  "twitter": "https://x.com/openrewrite",
+  "source": "confs.tech"
+}

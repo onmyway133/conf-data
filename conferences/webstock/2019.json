@@ -1,0 +1,16 @@
+{
+  "name": "Webstock 2019",
+  "year": 2019,
+  "url": "https://www.webstock.org.nz",
+  "startDate": "2019-02-12",
+  "endDate": "2019-02-16",
+  "city": "Wellington",
+  "country": "NZ",
+  "lat": -41.28664,
+  "lng": 174.77557,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/webstock",
+  "source": "confs.tech"
+}

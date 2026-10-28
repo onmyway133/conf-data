@@ -1,0 +1,21 @@
+{
+  "name": "KubeHuddle Toronto 2023",
+  "year": 2023,
+  "url": "https://kubehuddle.com",
+  "startDate": "2023-05-17",
+  "endDate": "2023-05-18",
+  "city": "Toronto",
+  "country": "CA",
+  "lat": 43.70643,
+  "lng": -79.39864,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/kubehuddle-Toronto-2023",
+    "deadline": "2023-03-03",
+    "open": false
+  },
+  "twitter": "https://x.com/kubehuddle",
+  "source": "confs.tech"
+}

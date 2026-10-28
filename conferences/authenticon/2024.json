@@ -1,0 +1,16 @@
+{
+  "name": "authenticon 2024",
+  "year": 2024,
+  "url": "https://authenticon.io",
+  "startDate": "2024-03-06",
+  "endDate": "2024-03-07",
+  "city": "Dresden",
+  "country": "DE",
+  "lat": 51.05089,
+  "lng": 13.73832,
+  "topics": [
+    "Identity"
+  ],
+  "twitter": "https://x.com/authenticondd",
+  "source": "confs.tech"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "DrupalCon Europe 2026",
+  "year": 2026,
+  "url": "https://events.drupal.org/rotterdam2026",
+  "startDate": "2026-09-28",
+  "endDate": "2026-10-01",
+  "city": "Rotterdam",
+  "country": "NL",
+  "lat": 51.9225,
+  "lng": 4.47917,
+  "topics": [
+    "PHP"
+  ],
+  "source": "confs.tech"
+}

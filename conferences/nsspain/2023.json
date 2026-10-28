@@ -1,0 +1,15 @@
+{
+  "name": "nsspain 2023",
+  "year": 2023,
+  "url": "https://2023.nsspain.com",
+  "startDate": "2023-09-14",
+  "endDate": "2023-09-15",
+  "city": "Logroño",
+  "country": "ES",
+  "lat": 42.46615,
+  "lng": -2.45115,
+  "topics": [
+    "iOS"
+  ],
+  "source": "confs.tech"
+}

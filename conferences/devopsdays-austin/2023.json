@@ -1,0 +1,16 @@
+{
+  "name": "Devopsdays Austin 2023",
+  "year": 2023,
+  "url": "https://devopsdays.org/events/2023-austin/welcome",
+  "startDate": "2023-05-04",
+  "endDate": "2023-05-05",
+  "city": "Austin, TX",
+  "country": "US",
+  "lat": 30.26715,
+  "lng": -97.74306,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/DoDAustin",
+  "source": "confs.tech"
+}

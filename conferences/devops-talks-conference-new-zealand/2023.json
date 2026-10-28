@@ -1,0 +1,15 @@
+{
+  "name": "DevOps Talks Conference New Zealand 2023",
+  "year": 2023,
+  "url": "https://devops.talksplus.com/nz/devops",
+  "startDate": "2023-11-21",
+  "endDate": "2023-11-22",
+  "city": "Auckland",
+  "country": "NZ",
+  "lat": -36.84853,
+  "lng": 174.76349,
+  "topics": [
+    "DevOps"
+  ],
+  "source": "confs.tech"
+}

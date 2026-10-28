@@ -1,0 +1,17 @@
+{
+  "name": "Testing, Agile, DevOps and Lowcode Showcase: Methods and Tools 2023",
+  "year": 2023,
+  "url": "https://conference.unicomseminars.org/agile-devops-software-testing-conference/manchester",
+  "startDate": "2023-02-09",
+  "endDate": "2023-02-09",
+  "city": "Manchester",
+  "country": "GB",
+  "lat": 53.48095,
+  "lng": -2.23743,
+  "topics": [
+    "DevOps",
+    "Testing"
+  ],
+  "twitter": "https://x.com/UNICOMSeminars",
+  "source": "confs.tech"
+}

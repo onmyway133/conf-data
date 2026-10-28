@@ -1,0 +1,20 @@
+{
+  "name": "JSConf.Asia 2019",
+  "year": 2019,
+  "url": "https://2019.jsconf.asia",
+  "startDate": "2019-06-14",
+  "endDate": "2019-06-16",
+  "city": "Singapore",
+  "country": "SG",
+  "lat": 1.28967,
+  "lng": 103.85007,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://contribute.jsconf.asia",
+    "open": false
+  },
+  "twitter": "https://x.com/jsconfasia",
+  "source": "confs.tech"
+}

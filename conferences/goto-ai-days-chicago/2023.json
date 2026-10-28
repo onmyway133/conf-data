@@ -1,0 +1,16 @@
+{
+  "name": "GOTO AI DAYS CHICAGO 2023",
+  "year": 2023,
+  "url": "https://gotochgo.com/ai-days-2023",
+  "startDate": "2023-10-23",
+  "endDate": "2023-10-26",
+  "city": "Chicago, IL",
+  "country": "US",
+  "lat": 41.85003,
+  "lng": -87.65005,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/GOTOcon",
+  "source": "confs.tech"
+}

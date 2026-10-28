@@ -1,0 +1,16 @@
+{
+  "name": "devopsdays Charlotte 2020",
+  "year": 2020,
+  "url": "https://devopsdays.org/events/2020-charlotte/welcome",
+  "startDate": "2020-02-27",
+  "endDate": "2020-02-28",
+  "city": "Charlotte, NC",
+  "country": "US",
+  "lat": 35.22709,
+  "lng": -80.84313,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devopsdays_clt",
+  "source": "confs.tech"
+}

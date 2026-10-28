@@ -1,0 +1,17 @@
+{
+  "name": "MAD Summit 2023",
+  "year": 2023,
+  "url": "https://mad-summit.de/berlin",
+  "startDate": "2023-12-04",
+  "endDate": "2023-12-06",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [
+    "APIs",
+    "Networking"
+  ],
+  "twitter": "https://x.com/mad_summit",
+  "source": "confs.tech"
+}

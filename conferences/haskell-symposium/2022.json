@@ -1,0 +1,15 @@
+{
+  "name": "Haskell Symposium 2022",
+  "year": 2022,
+  "url": "https://www.haskell.org/haskell-symposium/2022",
+  "startDate": "2022-09-15",
+  "endDate": "2022-09-16",
+  "city": "Ljubljana",
+  "country": "SI",
+  "lat": 46.05108,
+  "lng": 14.50513,
+  "topics": [
+    "Haskell"
+  ],
+  "source": "confs.tech"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "UXCON 2025",
+  "year": 2025,
+  "url": "https://www.uxconference.org/home",
+  "startDate": "2025-10-09",
+  "endDate": "2025-10-09",
+  "city": "Washington, DC",
+  "country": "US",
+  "lat": 38.89511,
+  "lng": -77.03637,
+  "topics": [
+    "Design/UX"
+  ],
+  "source": "confs.tech"
+}

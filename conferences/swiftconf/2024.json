@@ -1,0 +1,20 @@
+{
+  "name": "SwiftConf 2024",
+  "year": 2024,
+  "url": "https://swiftconf.com",
+  "startDate": "2024-08-07",
+  "endDate": "2024-08-08",
+  "city": "Cologne",
+  "country": "DE",
+  "lat": 50.93333,
+  "lng": 6.95,
+  "topics": [
+    "iOS"
+  ],
+  "cfp": {
+    "url": "https://swiftconf.com",
+    "deadline": "2024-04-30",
+    "open": false
+  },
+  "source": "cocoaconferences"
+}

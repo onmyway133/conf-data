@@ -1,0 +1,16 @@
+{
+  "name": "DevSum 2023",
+  "year": 2023,
+  "url": "https://www.devsum.se",
+  "startDate": "2023-05-25",
+  "endDate": "2023-05-26",
+  "city": "Stockholm",
+  "country": "SE",
+  "lat": 59.32938,
+  "lng": 18.06871,
+  "topics": [
+    "Data/AI",
+    "Design/UX"
+  ],
+  "source": "confs.tech"
+}

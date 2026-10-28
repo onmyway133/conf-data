@@ -1,0 +1,16 @@
+{
+  "name": "Women in CyberSecurity (WiCyS) 2020",
+  "year": 2020,
+  "url": "https://www.wicys.org/conference",
+  "startDate": "2020-03-12",
+  "endDate": "2020-03-14",
+  "city": "Aurora, CO",
+  "country": "US",
+  "lat": 39.72943,
+  "lng": -104.83192,
+  "topics": [
+    "Security"
+  ],
+  "twitter": "https://x.com/WiCySorg",
+  "source": "confs.tech"
+}

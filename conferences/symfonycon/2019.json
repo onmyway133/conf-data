@@ -1,0 +1,16 @@
+{
+  "name": "SymfonyCon 2019",
+  "year": 2019,
+  "url": "https://amsterdam2019.symfony.com",
+  "startDate": "2019-11-21",
+  "endDate": "2019-11-23",
+  "city": "Amsterdam",
+  "country": "NL",
+  "lat": 52.37403,
+  "lng": 4.88969,
+  "topics": [
+    "PHP"
+  ],
+  "twitter": "https://x.com/SymfonyCon",
+  "source": "confs.tech"
+}

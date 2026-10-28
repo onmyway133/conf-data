@@ -1,0 +1,16 @@
+{
+  "name": "DICE Ecosystems 2025",
+  "year": 2025,
+  "url": "https://lu.ma/DICEecosystems",
+  "startDate": "2025-03-04",
+  "endDate": "2025-03-05",
+  "city": "Zurich",
+  "country": "CH",
+  "lat": 47.36667,
+  "lng": 8.55,
+  "topics": [
+    "Identity"
+  ],
+  "twitter": "https://x.com/IdentityWoman",
+  "source": "confs.tech"
+}

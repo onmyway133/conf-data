@@ -1,0 +1,21 @@
+{
+  "name": "Devopsdays Madrid 2023",
+  "year": 2023,
+  "url": "https://devopsdays.org/events/2023-madrid/welcome",
+  "startDate": "2023-10-06",
+  "endDate": "2023-10-06",
+  "city": "Madrid",
+  "country": "ES",
+  "lat": 40.4165,
+  "lng": -3.70256,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://koliseo.com/devopsdaysmad/devopsdays-madrid-2023/sessions",
+    "deadline": "2023-09-07",
+    "open": false
+  },
+  "twitter": "https://x.com/DevOpsDaysMad",
+  "source": "confs.tech"
+}

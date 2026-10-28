@@ -1,0 +1,17 @@
+{
+  "name": "Voxxed Days Crete 2025",
+  "year": 2025,
+  "url": "https://crete.voxxeddays.com",
+  "startDate": "2025-09-26",
+  "endDate": "2025-09-27",
+  "city": "Heraklion",
+  "country": "GR",
+  "lat": 35.32787,
+  "lng": 25.14341,
+  "topics": [
+    "Data/AI",
+    "DevOps",
+    "Java"
+  ],
+  "source": "confs.tech"
+}

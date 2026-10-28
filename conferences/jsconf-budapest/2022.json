@@ -1,0 +1,16 @@
+{
+  "name": "JSConf Budapest 2022",
+  "year": 2022,
+  "url": "https://jsconfbp.com",
+  "startDate": "2022-06-02",
+  "endDate": "2022-06-03",
+  "city": "Budapest",
+  "country": "HU",
+  "lat": 47.49835,
+  "lng": 19.04045,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/jsconfbp",
+  "source": "confs.tech"
+}

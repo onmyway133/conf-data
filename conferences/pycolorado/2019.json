@@ -1,0 +1,21 @@
+{
+  "name": "PyColorado 2019",
+  "year": 2019,
+  "url": "https://pycolorado.org",
+  "startDate": "2019-09-07",
+  "endDate": "2019-09-08",
+  "city": "Denver, CO",
+  "country": "US",
+  "lat": 39.73915,
+  "lng": -104.9847,
+  "topics": [
+    "Python"
+  ],
+  "cfp": {
+    "url": "https://www.papercall.io/pycolorado",
+    "deadline": "2019-05-10",
+    "open": false
+  },
+  "twitter": "https://x.com/pycolorado",
+  "source": "confs.tech"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Confitura 2026",
+  "year": 2026,
+  "url": "https://2026.confitura.pl",
+  "startDate": "2026-09-25",
+  "endDate": "2026-09-26",
+  "city": "Warsaw",
+  "country": "PL",
+  "lat": 52.22977,
+  "lng": 21.01178,
+  "topics": [],
+  "cfp": {
+    "url": "https://app.confitura.pl/login",
+    "deadline": "2026-06-07",
+    "open": false
+  },
+  "source": "confs.tech"
+}

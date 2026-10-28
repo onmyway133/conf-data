@@ -1,0 +1,16 @@
+{
+  "name": "Devopsdays Nashville 2021",
+  "year": 2021,
+  "url": "https://devopsdays.org/events/2021-nashville/welcome",
+  "startDate": "2021-10-28",
+  "endDate": "2021-10-29",
+  "city": "Nashville, TN",
+  "country": "US",
+  "lat": 36.16589,
+  "lng": -86.78444,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/nashvilledevops",
+  "source": "confs.tech"
+}

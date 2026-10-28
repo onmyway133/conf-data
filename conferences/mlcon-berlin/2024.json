@@ -1,0 +1,16 @@
+{
+  "name": "MLCon Berlin 2024",
+  "year": 2024,
+  "url": "https://mlconference.ai/berlin",
+  "startDate": "2024-11-25",
+  "endDate": "2024-11-29",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/mlconference",
+  "source": "confs.tech"
+}

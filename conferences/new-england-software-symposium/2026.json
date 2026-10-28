@@ -1,0 +1,16 @@
+{
+  "name": "New England Software Symposium 2026",
+  "year": 2026,
+  "url": "https://nofluffjuststuff.com/boston",
+  "startDate": "2026-04-30",
+  "endDate": "2026-05-01",
+  "city": "Boston, MA",
+  "country": "US",
+  "lat": 42.35843,
+  "lng": -71.05977,
+  "topics": [
+    "Data/AI",
+    "Java"
+  ],
+  "source": "confs.tech"
+}

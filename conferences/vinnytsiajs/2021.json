@@ -1,0 +1,15 @@
+{
+  "name": "VinnytsiaJS 2021",
+  "year": 2021,
+  "url": "https://vinnytsiajs.org",
+  "startDate": "2021-08-21",
+  "endDate": "2021-08-21",
+  "city": "Vinnytsia",
+  "country": "UA",
+  "lat": 49.2322,
+  "lng": 28.46871,
+  "topics": [
+    "JavaScript"
+  ],
+  "source": "confs.tech"
+}

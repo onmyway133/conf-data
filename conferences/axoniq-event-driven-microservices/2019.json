@@ -1,0 +1,16 @@
+{
+  "name": "AxonIQ: Event-Driven Microservices 2019",
+  "year": 2019,
+  "url": "https://axoniq-conference-2019.eventbrite.com",
+  "startDate": "2019-09-27",
+  "endDate": "2019-09-27",
+  "city": "Amsterdam",
+  "country": "NL",
+  "lat": 52.37403,
+  "lng": 4.88969,
+  "topics": [
+    "Java"
+  ],
+  "twitter": "https://x.com/axon_iq",
+  "source": "confs.tech"
+}

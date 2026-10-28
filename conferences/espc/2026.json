@@ -1,0 +1,19 @@
+{
+  "name": "ESPC 2026",
+  "year": 2026,
+  "url": "https://www.sharepointeurope.com",
+  "startDate": "2026-11-30",
+  "endDate": "2026-12-03",
+  "city": "Amsterdam",
+  "country": "NL",
+  "lat": 52.37403,
+  "lng": 4.88969,
+  "topics": [
+    "Data/AI",
+    "Networking",
+    "Security"
+  ],
+  "twitter": "https://x.com/ESPC_Community",
+  "bluesky": "https://bsky.app/profile/espccommunity.bsky.social",
+  "source": "confs.tech"
+}

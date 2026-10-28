@@ -1,0 +1,23 @@
+{
+  "name": "Infobip Shift Zadar 2025",
+  "year": 2025,
+  "url": "https://shift.infobip.com",
+  "startDate": "2025-09-14",
+  "endDate": "2025-09-16",
+  "city": "Zadar",
+  "country": "HR",
+  "lat": 44.11578,
+  "lng": 15.22514,
+  "topics": [
+    "Data/AI",
+    "Networking",
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/infobip-shift-2025",
+    "deadline": "2025-06-01",
+    "open": false
+  },
+  "twitter": "https://x.com/InfobipShift",
+  "source": "confs.tech"
+}

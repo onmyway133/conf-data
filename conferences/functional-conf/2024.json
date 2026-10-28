@@ -1,0 +1,19 @@
+{
+  "name": "Functional Conf 2024",
+  "year": 2024,
+  "url": "https://functionalconf.com",
+  "startDate": "2024-11-21",
+  "endDate": "2024-11-23",
+  "city": "Bengaluru",
+  "country": "IN",
+  "lat": 12.97194,
+  "lng": 77.59369,
+  "topics": [],
+  "cfp": {
+    "url": "https://confengine.com/conferences/functional-conf-2024/proposals",
+    "deadline": "2024-09-01",
+    "open": false
+  },
+  "twitter": "https://x.com/fnconf",
+  "source": "confs.tech"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "NSScotland 2015",
+  "year": 2015,
+  "url": "http://nsscotland.com/",
+  "startDate": "2015-10-23",
+  "endDate": "2015-10-25",
+  "city": "Edinburgh",
+  "country": "GB",
+  "lat": 55.95206,
+  "lng": -3.19648,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences"
+}

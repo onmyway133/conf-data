@@ -1,0 +1,21 @@
+{
+  "name": "ServerSide.swift 2022",
+  "year": 2022,
+  "url": "https://www.serversideswift.info",
+  "startDate": "2022-12-09",
+  "endDate": "2022-12-09",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "iOS"
+  ],
+  "cfp": {
+    "url": "https://forms.gle/tWMWZpChcuPL6q2C8",
+    "deadline": "2022-09-30",
+    "open": false
+  },
+  "twitter": "https://x.com/SwiftServerConf",
+  "source": "confs.tech"
+}

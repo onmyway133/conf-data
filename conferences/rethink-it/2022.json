@@ -1,0 +1,16 @@
+{
+  "name": "Rethink! IT 2022",
+  "year": 2022,
+  "url": "https://www.rethink-enterprise-it.de",
+  "startDate": "2022-09-21",
+  "endDate": "2022-09-23",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "IoT"
+  ],
+  "twitter": "https://x.com/weCONECT",
+  "source": "confs.tech"
+}

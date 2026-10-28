@@ -1,0 +1,16 @@
+{
+  "name": "SUGCON EU 2019",
+  "year": 2019,
+  "url": "https://www.sugcon.eu",
+  "startDate": "2019-04-04",
+  "endDate": "2019-04-05",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    ".NET"
+  ],
+  "twitter": "https://x.com/SUGCONF",
+  "source": "confs.tech"
+}

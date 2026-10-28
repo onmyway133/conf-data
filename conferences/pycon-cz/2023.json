@@ -1,0 +1,16 @@
+{
+  "name": "PyCon CZ 2023",
+  "year": 2023,
+  "url": "https://cz.pycon.org",
+  "startDate": "2023-09-15",
+  "endDate": "2023-09-17",
+  "city": "Prague",
+  "country": "CZ",
+  "lat": 50.08804,
+  "lng": 14.42076,
+  "topics": [
+    "Python"
+  ],
+  "twitter": "https://x.com/pyconcz",
+  "source": "confs.tech"
+}

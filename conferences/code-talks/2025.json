@@ -1,0 +1,18 @@
+{
+  "name": "code.talks 2025",
+  "year": 2025,
+  "url": "https://code-talks.de",
+  "startDate": "2025-11-05",
+  "endDate": "2025-11-06",
+  "city": "Hamburg",
+  "country": "DE",
+  "lat": 53.55073,
+  "lng": 9.99302,
+  "topics": [],
+  "cfp": {
+    "url": "https://code-talks.de/call-for-papers",
+    "deadline": "2025-06-21",
+    "open": false
+  },
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "DevOps D-Day 2019",
+  "year": 2019,
+  "url": "http://2019.devops-dday.com",
+  "startDate": "2019-11-13",
+  "endDate": "2019-11-14",
+  "city": "Marseille",
+  "country": "FR",
+  "lat": 43.29695,
+  "lng": 5.38107,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/treeptik",
+  "source": "confs.tech"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "React Advanced 2026",
+  "year": 2026,
+  "url": "https://reactadvanced.com",
+  "startDate": "2026-10-23",
+  "endDate": "2026-10-26",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://gitnation.com/events/react-advanced-2026/cfp",
+    "deadline": "2026-05-24",
+    "open": true
+  },
+  "twitter": "https://x.com/ReactAdvanced",
+  "source": "confs.tech"
+}

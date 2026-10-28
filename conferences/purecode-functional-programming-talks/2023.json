@@ -1,0 +1,17 @@
+{
+  "name": "purecode - Functional Programming Talks 2023",
+  "year": 2023,
+  "url": "https://www.purecode.tech",
+  "startDate": "2023-03-23",
+  "endDate": "2023-03-23",
+  "city": "Sofia",
+  "country": "BG",
+  "lat": 42.69751,
+  "lng": 23.32415,
+  "topics": [
+    "Elixir",
+    "Haskell",
+    "Kotlin"
+  ],
+  "source": "confs.tech"
+}

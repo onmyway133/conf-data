@@ -1,0 +1,20 @@
+{
+  "name": "ARCtic Conference 2026",
+  "year": 2026,
+  "url": "https://arcticonference.com",
+  "startDate": "2026-02-10",
+  "endDate": "2026-02-12",
+  "city": "Oulu",
+  "country": "FI",
+  "lat": 65.01236,
+  "lng": 25.46816,
+  "topics": [
+    "iOS"
+  ],
+  "cfp": {
+    "url": "https://arcticonference.com/#Cfp",
+    "deadline": "2025-10-31",
+    "open": false
+  },
+  "source": "cocoaconferences"
+}

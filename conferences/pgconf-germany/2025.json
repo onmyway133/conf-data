@@ -1,0 +1,15 @@
+{
+  "name": "PGConf Germany 2025",
+  "year": 2025,
+  "url": "https://2025.pgconf.de/",
+  "startDate": "2025-05-08",
+  "endDate": "2025-05-09",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "Data/AI"
+  ],
+  "source": "confs.tech"
+}

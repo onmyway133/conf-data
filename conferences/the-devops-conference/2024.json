@@ -1,0 +1,17 @@
+{
+  "name": "The DEVOPS Conference 2024",
+  "year": 2024,
+  "url": "https://www.thedevopsconference.com",
+  "startDate": "2024-03-14",
+  "endDate": "2024-03-14",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "Data/AI",
+    "DevOps"
+  ],
+  "twitter": "https://x.com/eficode",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Update Conference Prague 2019",
+  "year": 2019,
+  "url": "https://www.updateconference.net",
+  "startDate": "2019-11-14",
+  "endDate": "2019-11-15",
+  "city": "Prague",
+  "country": "CZ",
+  "lat": 50.08804,
+  "lng": 14.42076,
+  "topics": [
+    ".NET"
+  ],
+  "twitter": "https://x.com/update_conf",
+  "source": "confs.tech"
+}

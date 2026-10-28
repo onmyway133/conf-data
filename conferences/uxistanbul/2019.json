@@ -1,0 +1,16 @@
+{
+  "name": "UXistanbul 2019",
+  "year": 2019,
+  "url": "https://www.uxistanbul.org",
+  "startDate": "2019-02-19",
+  "endDate": "2019-02-19",
+  "city": "Istanbul",
+  "country": "TR",
+  "lat": 41.01384,
+  "lng": 28.94966,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/ux_istanbul",
+  "source": "confs.tech"
+}

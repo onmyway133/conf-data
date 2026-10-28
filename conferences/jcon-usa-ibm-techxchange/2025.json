@@ -1,0 +1,17 @@
+{
+  "name": "JCON USA @ IBM TechXchange 2025",
+  "year": 2025,
+  "url": "https://usa.jcon.one",
+  "startDate": "2025-10-06",
+  "endDate": "2025-10-09",
+  "city": "Orlando, FL",
+  "country": "US",
+  "lat": 28.53834,
+  "lng": -81.37924,
+  "topics": [
+    "Java"
+  ],
+  "twitter": "https://x.com/jcon_conference",
+  "mastodon": "https://mastodon.social/@jcon",
+  "source": "confs.tech"
+}

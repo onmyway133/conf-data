@@ -1,0 +1,21 @@
+{
+  "name": "AI By The Bay 2025",
+  "year": 2025,
+  "url": "https://ai.bythebay.io",
+  "startDate": "2025-11-17",
+  "endDate": "2025-11-19",
+  "city": "Oakland, CA",
+  "country": "US",
+  "lat": 37.80437,
+  "lng": -122.2708,
+  "topics": [
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/by-the-bay",
+    "deadline": "2025-03-19",
+    "open": false
+  },
+  "bluesky": "https://bsky.app/profile/aibythebay.bsky.social",
+  "source": "confs.tech"
+}

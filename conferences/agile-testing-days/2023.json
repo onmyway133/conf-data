@@ -1,0 +1,21 @@
+{
+  "name": "Agile Testing Days 2023",
+  "year": 2023,
+  "url": "https://agiletestingdays.com",
+  "startDate": "2023-11-13",
+  "endDate": "2023-11-16",
+  "city": "Potsdam",
+  "country": "DE",
+  "lat": 52.39886,
+  "lng": 13.06566,
+  "topics": [
+    "Testing"
+  ],
+  "cfp": {
+    "url": "https://agiletestingdays.com/call-for-papers",
+    "deadline": "2023-03-19",
+    "open": false
+  },
+  "twitter": "https://x.com/AgileTDZone",
+  "source": "confs.tech"
+}

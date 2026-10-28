@@ -1,0 +1,22 @@
+{
+  "name": "Drupal Developer Days 2026",
+  "year": 2026,
+  "url": "https://devdays2026.drupal.org.gr",
+  "startDate": "2026-04-22",
+  "endDate": "2026-04-25",
+  "city": "Athens",
+  "country": "GR",
+  "lat": 37.98376,
+  "lng": 23.72784,
+  "topics": [
+    "PHP"
+  ],
+  "cfp": {
+    "url": "https://devdays2026.drupal.org.gr/propose-session",
+    "deadline": "2026-01-14",
+    "open": false
+  },
+  "twitter": "https://x.com/drupaldevdays",
+  "mastodon": "https://drupal.community/@ddd",
+  "source": "confs.tech"
+}

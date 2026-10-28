@@ -1,0 +1,21 @@
+{
+  "name": "OpenInfra Day France 2024",
+  "year": 2024,
+  "url": "https://oideurope2024.openinfra.dev/france",
+  "startDate": "2024-05-22",
+  "endDate": "2024-05-22",
+  "city": "Paris",
+  "country": "FR",
+  "lat": 48.85341,
+  "lng": 2.3488,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://openinfrafoundation.formstack.com/forms/2024_openinfra_days_france_cfp",
+    "deadline": "2024-04-12",
+    "open": false
+  },
+  "twitter": "https://x.com/openstackfr",
+  "source": "confs.tech"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Paris Web 2023",
+  "year": 2023,
+  "url": "https://www.paris-web.fr",
+  "startDate": "2023-09-28",
+  "endDate": "2023-09-30",
+  "city": "Paris",
+  "country": "FR",
+  "lat": 48.85341,
+  "lng": 2.3488,
+  "topics": [],
+  "cfp": {
+    "url": "https://appel.paris-web.fr",
+    "deadline": "2023-04-09",
+    "open": false
+  },
+  "twitter": "https://x.com/parisweb",
+  "source": "confs.tech"
+}

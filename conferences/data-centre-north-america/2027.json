@@ -1,0 +1,15 @@
+{
+  "name": "Data Centre North America 2027",
+  "year": 2027,
+  "url": "https://datacentrecongress.com/northamerica",
+  "startDate": "2027-06-16",
+  "endDate": "2027-06-17",
+  "city": "San Jose, CA",
+  "country": "US",
+  "lat": 37.33939,
+  "lng": -121.89496,
+  "topics": [
+    "Data/AI"
+  ],
+  "source": "confs.tech"
+}

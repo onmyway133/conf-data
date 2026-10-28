@@ -1,0 +1,17 @@
+{
+  "name": "Swift Craft 2024",
+  "year": 2024,
+  "url": "https://swiftcraft.uk",
+  "startDate": "2024-05-21",
+  "endDate": "2024-05-24",
+  "city": "Folkestone",
+  "country": "GB",
+  "lat": 51.08169,
+  "lng": 1.16734,
+  "topics": [
+    "iOS"
+  ],
+  "twitter": "https://x.com/swiftcraftuk",
+  "mastodon": "https://hachyderm.io/@swiftcraft",
+  "source": "confs.tech"
+}

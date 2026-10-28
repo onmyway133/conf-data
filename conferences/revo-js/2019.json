@@ -1,0 +1,21 @@
+{
+  "name": "revo.js 2019",
+  "year": 2019,
+  "url": "https://revojs.ro",
+  "startDate": "2019-10-03",
+  "endDate": "2019-10-04",
+  "city": "Timisoara",
+  "country": "RO",
+  "lat": 45.75372,
+  "lng": 21.22571,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://revojs.ro/cfp",
+    "deadline": "2019-06-17",
+    "open": false
+  },
+  "twitter": "https://x.com/revojsro",
+  "source": "confs.tech"
+}

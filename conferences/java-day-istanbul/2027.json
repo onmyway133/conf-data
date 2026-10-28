@@ -1,0 +1,23 @@
+{
+  "name": "Java Day Istanbul 2027",
+  "year": 2027,
+  "url": "https://www.javaday.istanbul",
+  "startDate": "2027-04-17",
+  "endDate": "2027-04-17",
+  "city": "Istanbul",
+  "country": "TR",
+  "lat": 41.01384,
+  "lng": 28.94966,
+  "topics": [
+    "Data/AI",
+    "Java",
+    "Open Source"
+  ],
+  "cfp": {
+    "url": "https://bilgi711.wixforms.com/f/7479128754174821378",
+    "deadline": "2026-10-31",
+    "open": true
+  },
+  "twitter": "https://x.com/javadayistanbul",
+  "source": "confs.tech"
+}

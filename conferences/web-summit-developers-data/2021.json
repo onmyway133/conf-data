@@ -1,0 +1,16 @@
+{
+  "name": "Web Summit; Developers & Data 2021",
+  "year": 2021,
+  "url": "https://websummit.com/themes/developers-and-data",
+  "startDate": "2021-11-01",
+  "endDate": "2021-11-04",
+  "city": "Lisbon",
+  "country": "PT",
+  "lat": 38.72509,
+  "lng": -9.1498,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/websummit",
+  "source": "confs.tech"
+}

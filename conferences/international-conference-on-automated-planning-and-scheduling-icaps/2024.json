@@ -1,0 +1,15 @@
+{
+  "name": "International Conference on Automated Planning and Scheduling (ICAPS) 2024",
+  "year": 2024,
+  "url": "https://icaps24.icaps-conference.org",
+  "startDate": "2024-06-01",
+  "endDate": "2024-06-06",
+  "city": "Banff",
+  "country": "CA",
+  "lat": 51.17622,
+  "lng": -115.56982,
+  "topics": [
+    "Data/AI"
+  ],
+  "source": "confs.tech"
+}

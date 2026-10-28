@@ -1,0 +1,16 @@
+{
+  "name": "App.js Conf 2024",
+  "year": 2024,
+  "url": "https://appjs.co",
+  "startDate": "2024-05-22",
+  "endDate": "2024-05-24",
+  "city": "Kraków",
+  "country": "PL",
+  "lat": 50.06143,
+  "lng": 19.93658,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/appjsconf",
+  "source": "confs.tech"
+}

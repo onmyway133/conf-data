@@ -1,0 +1,16 @@
+{
+  "name": "FrontFest 2019",
+  "year": 2019,
+  "url": "https://frontfest.es",
+  "startDate": "2019-02-09",
+  "endDate": "2019-02-09",
+  "city": "Madrid",
+  "country": "ES",
+  "lat": 40.4165,
+  "lng": -3.70256,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/frontfest",
+  "source": "confs.tech"
+}

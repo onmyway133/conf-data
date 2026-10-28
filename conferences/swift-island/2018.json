@@ -1,0 +1,13 @@
+{
+  "name": "Swift Island 2018",
+  "year": 2018,
+  "url": "http://www.swiftisland.nl/",
+  "startDate": "2018-07-04",
+  "endDate": "2018-07-05",
+  "city": "Texel",
+  "country": "NL",
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences"
+}

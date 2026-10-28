@@ -1,0 +1,21 @@
+{
+  "name": "phpday 2026",
+  "year": 2026,
+  "url": "https://www.phpday.it",
+  "startDate": "2026-05-14",
+  "endDate": "2026-05-15",
+  "city": "Verona",
+  "country": "IT",
+  "lat": 45.43854,
+  "lng": 10.9938,
+  "topics": [
+    "PHP"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/phpday-2026",
+    "deadline": "2026-01-10",
+    "open": false
+  },
+  "mastodon": "https://phpc.social/@grusp",
+  "source": "confs.tech"
+}

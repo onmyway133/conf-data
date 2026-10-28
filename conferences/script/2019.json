@@ -1,0 +1,16 @@
+{
+  "name": "Script 2019",
+  "year": 2019,
+  "url": "https://scriptconf.org",
+  "startDate": "2019-10-25",
+  "endDate": "2019-10-25",
+  "city": "Linz",
+  "country": "AT",
+  "lat": 48.30639,
+  "lng": 14.28611,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/scriptconf",
+  "source": "confs.tech"
+}

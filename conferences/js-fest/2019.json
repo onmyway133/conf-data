@@ -1,0 +1,15 @@
+{
+  "name": "JS Fest 2019",
+  "year": 2019,
+  "url": "http://jsfest.com.ua",
+  "startDate": "2019-11-08",
+  "endDate": "2019-11-09",
+  "city": "Kyiv",
+  "country": "UA",
+  "lat": 50.45466,
+  "lng": 30.5238,
+  "topics": [
+    "JavaScript"
+  ],
+  "source": "confs.tech"
+}

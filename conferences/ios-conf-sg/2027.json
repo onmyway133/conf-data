@@ -1,0 +1,47 @@
+{
+  "name": "iOS Conf SG 2027",
+  "year": 2027,
+  "url": "https://2027.iosconf.sg",
+  "startDate": "2027-01-20",
+  "endDate": "2027-01-22",
+  "city": "Singapore",
+  "country": "SG",
+  "lat": 1.28967,
+  "lng": 103.85007,
+  "topics": [
+    "iOS"
+  ],
+  "cfp": {
+    "url": "https://2027.iosconf.sg/cfp",
+    "deadline": "2026-09-30",
+    "open": false
+  },
+  "source": "site",
+  "speakers": [
+    {
+      "speaker": "daniel-steinberg",
+      "role": "Author and trainer, Dim Sum Thinking",
+      "bio": "Author of more than a dozen books on Swift and SwiftUI, and the trainer for our Foundation Models workshop.",
+      "photoUrl": "https://ik.imagekit.io/iosconfsg/speakers/daniel.jpg",
+      "linkedin": "https://www.linkedin.com/in/dimsumthinking",
+      "website": "https://dimsumthinking.com"
+    },
+    {
+      "speaker": "vince-davis",
+      "role": "Senior iOS Developer, United Airlines",
+      "bio": "Vince loves all things SwiftUI. At iOS Conf SG 2025 he showed how App Intents and Live Activities change the way people use an app, and he’s back for 2027.",
+      "photoUrl": "https://ik.imagekit.io/iosconfsg/speakers/Vince-Davis-1024x1024.jpeg",
+      "twitter": "https://x.com/vincedavis",
+      "linkedin": "https://www.linkedin.com/in/vince-davis-28b62114"
+    }
+  ],
+  "talks": [
+    {
+      "slug": "foundation-models",
+      "title": "Foundation Models",
+      "speakers": [
+        "daniel-steinberg"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Security Onion Conference 2021",
+  "year": 2021,
+  "url": "https://securityonionsolutions.com/conference",
+  "startDate": "2021-10-01",
+  "endDate": "2021-10-01",
+  "city": "Augusta, GA",
+  "country": "US",
+  "lat": 33.47097,
+  "lng": -81.97484,
+  "topics": [
+    "Security"
+  ],
+  "twitter": "https://x.com/securityonion",
+  "source": "confs.tech"
+}

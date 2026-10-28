@@ -1,0 +1,16 @@
+{
+  "name": "Future Tech  NL 2025",
+  "year": 2025,
+  "url": "https://futuretech.nl",
+  "startDate": "2025-03-13",
+  "endDate": "2025-03-13",
+  "city": "Utrecht",
+  "country": "NL",
+  "lat": 52.09083,
+  "lng": 5.12222,
+  "topics": [
+    ".NET"
+  ],
+  "twitter": "https://x.com/futuretechnl",
+  "source": "confs.tech"
+}

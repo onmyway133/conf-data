@@ -1,0 +1,22 @@
+{
+  "name": "iOSKonf 2025",
+  "year": 2025,
+  "url": "https://www.ioskonf.mk",
+  "startDate": "2025-05-13",
+  "endDate": "2025-05-15",
+  "city": "Skopje",
+  "country": "MK",
+  "lat": 41.99646,
+  "lng": 21.43141,
+  "topics": [
+    "iOS"
+  ],
+  "cfp": {
+    "url": "https://www.papercall.io/ioskonf25",
+    "deadline": "2025-01-31",
+    "open": false
+  },
+  "twitter": "https://x.com/iOSKonf",
+  "mastodon": "https://mastodon.social/@ioSKonf",
+  "source": "confs.tech"
+}

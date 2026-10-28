@@ -1,0 +1,57 @@
+{
+  "name": "Functional Swift Conference 2017",
+  "year": 2017,
+  "url": "http://2017.funswiftconf.com/",
+  "startDate": "2017-04-15",
+  "endDate": "2017-04-15",
+  "city": "New York",
+  "country": "US",
+  "lat": 40.71427,
+  "lng": -74.00597,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences",
+  "speakers": [
+    {
+      "speaker": "robert-widmann",
+      "twitter": "https://twitter.com/CodaFi_"
+    },
+    {
+      "speaker": "brandon-kase",
+      "twitter": "https://twitter.com/bkase_"
+    },
+    {
+      "speaker": "christella-dolmo",
+      "twitter": "https://twitter.com/christelladolmo"
+    },
+    {
+      "speaker": "lisa-luo",
+      "twitter": "https://twitter.com/luoser"
+    },
+    {
+      "speaker": "matt-diephouse",
+      "twitter": "https://twitter.com/mdiep"
+    },
+    {
+      "speaker": "rahul-malik",
+      "twitter": "https://twitter.com/rmalik"
+    },
+    {
+      "speaker": "stephen-celis",
+      "twitter": "https://twitter.com/stephencelis"
+    },
+    {
+      "speaker": "chris-eidhof",
+      "twitter": "https://twitter.com/chriseidhof"
+    },
+    {
+      "speaker": "brandon-williams",
+      "twitter": "https://www.twitter.com/mbrandonw"
+    },
+    {
+      "speaker": "konrad-feiler",
+      "twitter": "https://twitter.com/bersaelor"
+    }
+  ]
+}

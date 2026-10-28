@@ -1,0 +1,21 @@
+{
+  "name": "AppDevCon 2023",
+  "year": 2023,
+  "url": "https://appdevcon.nl/",
+  "startDate": "2023-05-09",
+  "endDate": "2023-05-12",
+  "city": "Amsterdam",
+  "country": "NL",
+  "lat": 52.37403,
+  "lng": 4.88969,
+  "topics": [
+    "iOS",
+    "Mobile"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/appdevcon-endpointcon-2023/",
+    "deadline": "2023-02-01",
+    "open": false
+  },
+  "source": "cocoaconferences"
+}

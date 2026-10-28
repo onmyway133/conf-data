@@ -1,0 +1,15 @@
+{
+  "name": "BDX I/O 2024",
+  "year": 2024,
+  "url": "https://bdxio.fr",
+  "startDate": "2024-11-08",
+  "endDate": "2024-11-08",
+  "city": "Bordeaux",
+  "country": "FR",
+  "lat": 44.84124,
+  "lng": -0.58046,
+  "topics": [],
+  "twitter": "https://x.com/bdxio",
+  "mastodon": "https://bdx.town/@bdxio",
+  "source": "confs.tech"
+}

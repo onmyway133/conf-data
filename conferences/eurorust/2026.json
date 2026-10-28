@@ -1,0 +1,18 @@
+{
+  "name": "EuroRust 2026",
+  "year": 2026,
+  "url": "https://eurorust.eu",
+  "startDate": "2026-10-14",
+  "endDate": "2026-10-17",
+  "city": "Barcelona",
+  "country": "ES",
+  "lat": 41.38879,
+  "lng": 2.15899,
+  "topics": [
+    "Rust"
+  ],
+  "twitter": "https://x.com/euro_rust",
+  "bluesky": "https://bsky.app/profile/eurorust.eu",
+  "mastodon": "https://fosstodon.org/@eurorust",
+  "source": "confs.tech"
+}

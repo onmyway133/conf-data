@@ -1,0 +1,17 @@
+{
+  "name": "Platform Summit 2025",
+  "year": 2025,
+  "url": "https://nordicapis.com/events/platform-summit-2025",
+  "startDate": "2025-10-13",
+  "endDate": "2025-10-15",
+  "city": "Stockholm",
+  "country": "SE",
+  "lat": 59.32938,
+  "lng": 18.06871,
+  "topics": [
+    "APIs"
+  ],
+  "twitter": "https://x.com/nordicapis",
+  "bluesky": "https://bsky.app/profile/nordicapis.bsky.social",
+  "source": "confs.tech"
+}

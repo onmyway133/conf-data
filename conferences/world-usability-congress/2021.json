@@ -1,0 +1,16 @@
+{
+  "name": "World Usability Congress 2021",
+  "year": 2021,
+  "url": "https://worldusabilitycongress.com",
+  "startDate": "2021-10-13",
+  "endDate": "2021-10-14",
+  "city": "Graz",
+  "country": "AT",
+  "lat": 47.06733,
+  "lng": 15.44197,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/worlduxcongress",
+  "source": "confs.tech"
+}

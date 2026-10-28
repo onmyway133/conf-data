@@ -1,0 +1,15 @@
+{
+  "name": "AgentCon Milwaukee 2025",
+  "year": 2025,
+  "url": "https://globalai.community/chapters/milwaukee/events/agentcon-milwaukee",
+  "startDate": "2025-12-02",
+  "endDate": "2025-12-02",
+  "city": "Milwaukee, WI",
+  "country": "US",
+  "lat": 43.0389,
+  "lng": -87.90647,
+  "topics": [
+    "Data/AI"
+  ],
+  "source": "confs.tech"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "MiXiT 2019",
+  "year": 2019,
+  "url": "https://mixitconf.org/en",
+  "startDate": "2019-05-23",
+  "endDate": "2019-05-24",
+  "city": "Lyon",
+  "country": "FR",
+  "lat": 45.74906,
+  "lng": 4.84789,
+  "topics": [],
+  "cfp": {
+    "url": "https://sessionize.com/mixit19",
+    "deadline": "2019-01-20",
+    "open": false
+  },
+  "twitter": "https://x.com/mixitconf",
+  "source": "confs.tech"
+}

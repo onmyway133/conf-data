@@ -1,0 +1,21 @@
+{
+  "name": "DevOpsDays Bengaluru 2022",
+  "year": 2022,
+  "url": "https://devopsdaysindia.org",
+  "startDate": "2022-11-18",
+  "endDate": "2022-11-19",
+  "city": "Bengaluru",
+  "country": "IN",
+  "lat": 12.97194,
+  "lng": 77.59369,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://forms.gle/LmCGgZse3Lp4XNgz9",
+    "deadline": "2022-08-07",
+    "open": false
+  },
+  "twitter": "https://x.com/DevOpsDaysIN",
+  "source": "confs.tech"
+}

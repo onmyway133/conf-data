@@ -1,0 +1,16 @@
+{
+  "name": "The Big Elixir 2019",
+  "year": 2019,
+  "url": "https://www.thebigelixir.com",
+  "startDate": "2019-11-07",
+  "endDate": "2019-11-08",
+  "city": "New Orleans, LA",
+  "country": "US",
+  "lat": 29.95465,
+  "lng": -90.07507,
+  "topics": [
+    "Elixir"
+  ],
+  "twitter": "https://x.com/thebigelixir",
+  "source": "confs.tech"
+}

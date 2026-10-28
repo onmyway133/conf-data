@@ -1,0 +1,16 @@
+{
+  "name": "sec4dev Conference & Bootcamp 2020",
+  "year": 2020,
+  "url": "https://sec4dev.io",
+  "startDate": "2020-02-24",
+  "endDate": "2020-02-27",
+  "city": "Vienna",
+  "country": "AT",
+  "lat": 48.20849,
+  "lng": 16.37208,
+  "topics": [
+    "Security"
+  ],
+  "twitter": "https://x.com/sec4dev",
+  "source": "confs.tech"
+}

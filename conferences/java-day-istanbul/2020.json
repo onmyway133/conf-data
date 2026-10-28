@@ -1,0 +1,16 @@
+{
+  "name": "Java Day İstanbul 2020",
+  "year": 2020,
+  "url": "https://javaday.istanbul",
+  "startDate": "2020-09-12",
+  "endDate": "2020-09-12",
+  "city": "Istanbul",
+  "country": "TR",
+  "lat": 41.01384,
+  "lng": 28.94966,
+  "topics": [
+    "Java"
+  ],
+  "twitter": "https://x.com/javadayistanbul",
+  "source": "confs.tech"
+}

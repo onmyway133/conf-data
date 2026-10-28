@@ -1,0 +1,22 @@
+{
+  "name": "Positive Design Days 2025",
+  "year": 2025,
+  "url": "https://positive-design-days.com",
+  "startDate": "2025-06-12",
+  "endDate": "2025-06-12",
+  "city": "Strasbourg",
+  "country": "FR",
+  "lat": 48.58392,
+  "lng": 7.74553,
+  "topics": [
+    "Accessibility",
+    "CSS",
+    "Design/UX"
+  ],
+  "cfp": {
+    "url": "https://conference-hall.io/positive-design-days",
+    "deadline": "2025-04-29",
+    "open": false
+  },
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "MCE 2017",
+  "year": 2017,
+  "url": "http://2017.mceconf.com/",
+  "startDate": "2017-05-08",
+  "endDate": "2017-05-09",
+  "city": "Warsaw",
+  "country": "PL",
+  "lat": 52.22977,
+  "lng": 21.01178,
+  "topics": [
+    "iOS",
+    "Mobile"
+  ],
+  "source": "cocoaconferences"
+}

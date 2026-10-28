@@ -1,0 +1,14 @@
+{
+  "name": "QuBit Conference 2021",
+  "year": 2021,
+  "url": "https://tatry.qubitconference.com",
+  "startDate": "2021-05-26",
+  "endDate": "2021-05-27",
+  "city": "Jasna",
+  "country": "SK",
+  "topics": [
+    "Security"
+  ],
+  "twitter": "https://x.com/QuBitCon",
+  "source": "confs.tech"
+}

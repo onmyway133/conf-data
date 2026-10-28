@@ -1,0 +1,14 @@
+{
+  "name": "State of the Map US 2023",
+  "year": 2023,
+  "url": "https://2023.stateofthemap.us",
+  "startDate": "2023-06-08",
+  "endDate": "2023-06-11",
+  "city": "Richmond, VA",
+  "country": "US",
+  "lat": 37.55376,
+  "lng": -77.46026,
+  "topics": [],
+  "twitter": "https://x.com/sotmus",
+  "source": "confs.tech"
+}

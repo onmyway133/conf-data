@@ -1,0 +1,20 @@
+{
+  "name": "Devopsdays Santiago 2025",
+  "year": 2025,
+  "url": "https://devopsdays.org/events/2025-santiago/welcome/",
+  "startDate": "2025-08-26",
+  "endDate": "2025-08-27",
+  "city": "Santiago",
+  "country": "CL",
+  "lat": -33.45694,
+  "lng": -70.64827,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://www.papercall.io/devopsdays-santiago-2025/",
+    "deadline": "2025-05-18",
+    "open": false
+  },
+  "source": "confs.tech"
+}

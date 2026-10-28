@@ -1,0 +1,21 @@
+{
+  "name": "AgentCon - Bengaluru 2026",
+  "year": 2026,
+  "url": "https://agentcon.city/bengaluru",
+  "startDate": "2026-06-20",
+  "endDate": "2026-06-20",
+  "city": "Bangalore",
+  "country": "IN",
+  "lat": 12.97194,
+  "lng": 77.59369,
+  "topics": [
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/agentcon-bengaluru",
+    "deadline": "2026-05-20",
+    "open": false
+  },
+  "twitter": "https://x.com/GlobAICommunity",
+  "source": "confs.tech"
+}

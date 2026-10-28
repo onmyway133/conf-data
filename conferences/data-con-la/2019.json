@@ -1,0 +1,16 @@
+{
+  "name": "Data Con LA 2019",
+  "year": 2019,
+  "url": "https://www.dataconla.com",
+  "startDate": "2019-08-17",
+  "endDate": "2019-08-17",
+  "city": "Los Angeles, CA",
+  "country": "US",
+  "lat": 34.05223,
+  "lng": -118.24368,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/dataconla",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "HUSTEF 2024",
+  "year": 2024,
+  "url": "https://hustef.hu",
+  "startDate": "2024-10-08",
+  "endDate": "2024-10-10",
+  "city": "Budapest",
+  "country": "HU",
+  "lat": 47.49835,
+  "lng": 19.04045,
+  "topics": [
+    "DevOps",
+    "Testing"
+  ],
+  "source": "confs.tech"
+}

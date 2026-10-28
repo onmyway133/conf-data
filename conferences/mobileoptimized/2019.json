@@ -1,0 +1,16 @@
+{
+  "name": "MobileOptimized 2019",
+  "year": 2019,
+  "url": "https://moconf.by/",
+  "startDate": "2019-10-19",
+  "endDate": "2019-10-19",
+  "city": "Minsk",
+  "country": "BY",
+  "lat": 53.90019,
+  "lng": 27.56653,
+  "topics": [
+    "iOS",
+    "Mobile"
+  ],
+  "source": "cocoaconferences"
+}

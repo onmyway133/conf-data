@@ -1,0 +1,16 @@
+{
+  "name": "Nürnberg Digital Festival 2019",
+  "year": 2019,
+  "url": "https://nuernberg.digital/festival",
+  "startDate": "2019-07-12",
+  "endDate": "2019-07-22",
+  "city": "Nürnberg",
+  "country": "DE",
+  "lat": 49.45421,
+  "lng": 11.07752,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/nueww",
+  "source": "confs.tech"
+}

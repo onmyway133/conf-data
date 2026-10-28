@@ -1,0 +1,15 @@
+{
+  "name": "Google I/O connect Berlin 2026",
+  "year": 2026,
+  "url": "https://rsvp.withgoogle.com/events/ioconnect-berlin-2026",
+  "startDate": "2026-06-25",
+  "endDate": "2026-06-25",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "Android"
+  ],
+  "source": "confs.tech"
+}

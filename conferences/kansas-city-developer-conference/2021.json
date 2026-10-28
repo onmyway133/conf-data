@@ -1,0 +1,14 @@
+{
+  "name": "Kansas City Developer Conference 2021",
+  "year": 2021,
+  "url": "https://www.kcdc.info",
+  "startDate": "2021-09-15",
+  "endDate": "2021-09-17",
+  "city": "Kansas City, MO",
+  "country": "US",
+  "lat": 39.09973,
+  "lng": -94.57857,
+  "topics": [],
+  "twitter": "https://x.com/kc_dc",
+  "source": "confs.tech"
+}

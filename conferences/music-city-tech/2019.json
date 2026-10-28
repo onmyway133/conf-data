@@ -1,0 +1,14 @@
+{
+  "name": "Music City Tech 2019",
+  "year": 2019,
+  "url": "http://www.musiccitytech.com",
+  "startDate": "2019-09-05",
+  "endDate": "2019-09-07",
+  "city": "Nashville, TN",
+  "country": "US",
+  "lat": 36.16589,
+  "lng": -86.78444,
+  "topics": [],
+  "twitter": "https://x.com/MusicCityTech",
+  "source": "confs.tech"
+}

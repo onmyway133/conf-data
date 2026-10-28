@@ -1,0 +1,15 @@
+{
+  "name": "Blue Conf 2019",
+  "year": 2019,
+  "url": "https://blueconf.co.uk",
+  "startDate": "2019-06-07",
+  "endDate": "2019-06-07",
+  "city": "Cardiff",
+  "country": "GB",
+  "lat": 51.48,
+  "lng": -3.18,
+  "topics": [
+    "PHP"
+  ],
+  "source": "confs.tech"
+}

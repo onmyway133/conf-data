@@ -1,0 +1,21 @@
+{
+  "name": "ngPoland 2019",
+  "year": 2019,
+  "url": "https://ng-poland.pl",
+  "startDate": "2019-11-21",
+  "endDate": "2019-11-21",
+  "city": "Warsaw",
+  "country": "PL",
+  "lat": 52.22977,
+  "lng": 21.01178,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSeVsK-OA9HudBjk7CpkKNCK8M_DD4_DF-AsFLAP8wdHeZ3O-g/viewform",
+    "deadline": "2019-09-30",
+    "open": false
+  },
+  "twitter": "https://x.com/ngPolandConf",
+  "source": "confs.tech"
+}

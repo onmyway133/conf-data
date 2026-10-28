@@ -1,0 +1,23 @@
+{
+  "name": "Berlin Buzzwords 2026",
+  "year": 2026,
+  "url": "https://2026.berlinbuzzwords.de",
+  "startDate": "2026-06-07",
+  "endDate": "2026-06-09",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "Data/AI",
+    "DevOps",
+    "Open Source"
+  ],
+  "cfp": {
+    "url": "https://2026.berlinbuzzwords.de/call-for-papers",
+    "deadline": "2026-02-15",
+    "open": false
+  },
+  "mastodon": "https://floss.social/@berlinbuzzwords",
+  "source": "confs.tech"
+}

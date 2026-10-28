@@ -1,0 +1,16 @@
+{
+  "name": "Industrial IoT Conference 2022",
+  "year": 2022,
+  "url": "https://www.iiot-conference.de",
+  "startDate": "2022-06-23",
+  "endDate": "2022-06-23",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [
+    "IoT"
+  ],
+  "twitter": "https://x.com/IIoTConf",
+  "source": "confs.tech"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "DrupalCon 2022",
+  "year": 2022,
+  "url": "https://events.drupal.org",
+  "startDate": "2022-04-25",
+  "endDate": "2022-04-28",
+  "city": "Portland, OR",
+  "country": "US",
+  "lat": 45.52345,
+  "lng": -122.67621,
+  "topics": [
+    "PHP"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/drupalcon-portland-2022",
+    "deadline": "2021-10-29",
+    "open": false
+  },
+  "twitter": "https://x.com/DrupalCon",
+  "source": "confs.tech"
+}

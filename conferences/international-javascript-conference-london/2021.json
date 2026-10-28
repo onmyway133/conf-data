@@ -1,0 +1,16 @@
+{
+  "name": "International JavaScript Conference London 2021",
+  "year": 2021,
+  "url": "https://javascript-conference.com/london",
+  "startDate": "2021-04-21",
+  "endDate": "2021-04-23",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/JavaScriptCon",
+  "source": "confs.tech"
+}

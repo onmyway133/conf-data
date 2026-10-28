@@ -1,0 +1,21 @@
+{
+  "name": "AI_dev: Open Souce GenAI & ML Summit Japan 2024",
+  "year": 2024,
+  "url": "https://events.linuxfoundation.org/ai-dev-japan",
+  "startDate": "2024-10-28",
+  "endDate": "2024-10-29",
+  "city": "Tokyo",
+  "country": "JP",
+  "lat": 35.6895,
+  "lng": 139.69171,
+  "topics": [
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://events.linuxfoundation.org/ai-dev-japan/program/cfp",
+    "deadline": "2024-07-07",
+    "open": false
+  },
+  "twitter": "https://x.com/LinuxFoundation",
+  "source": "confs.tech"
+}

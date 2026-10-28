@@ -1,0 +1,17 @@
+{
+  "name": "SRECon_ APAC 2023",
+  "year": 2023,
+  "url": "https://www.usenix.org/conference/srecon23apac",
+  "startDate": "2023-06-14",
+  "endDate": "2023-06-16",
+  "city": "Singapore",
+  "country": "SG",
+  "lat": 1.28967,
+  "lng": 103.85007,
+  "topics": [
+    "DevOps",
+    "Performance"
+  ],
+  "twitter": "https://x.com/srecon",
+  "source": "confs.tech"
+}

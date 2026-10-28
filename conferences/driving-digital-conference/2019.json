@@ -1,0 +1,16 @@
+{
+  "name": "driving.digital Conference 2019",
+  "year": 2019,
+  "url": "https://drivingdigital.org",
+  "startDate": "2019-10-14",
+  "endDate": "2019-10-15",
+  "city": "Nitra",
+  "country": "SK",
+  "lat": 48.30763,
+  "lng": 18.08453,
+  "topics": [
+    "Security"
+  ],
+  "twitter": "https://x.com/QuBitCon",
+  "source": "confs.tech"
+}

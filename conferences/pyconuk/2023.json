@@ -1,0 +1,22 @@
+{
+  "name": "PyConUK 2023",
+  "year": 2023,
+  "url": "https://2023.pyconuk.org",
+  "startDate": "2023-09-22",
+  "endDate": "2023-09-25",
+  "city": "Cardiff",
+  "country": "GB",
+  "lat": 51.48,
+  "lng": -3.18,
+  "topics": [
+    "Python"
+  ],
+  "cfp": {
+    "url": "https://2023.pyconuk.org/call-for-proposals",
+    "deadline": "2023-06-30",
+    "open": false
+  },
+  "twitter": "https://x.com/PyConUK",
+  "mastodon": "https://fosstodon.org/@PyConUK",
+  "source": "confs.tech"
+}

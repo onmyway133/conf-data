@@ -1,0 +1,16 @@
+{
+  "name": "DotNext 2019",
+  "year": 2019,
+  "url": "https://dotnext-moscow.ru/en",
+  "startDate": "2019-11-06",
+  "endDate": "2019-11-07",
+  "city": "Moscow",
+  "country": "RU",
+  "lat": 55.75204,
+  "lng": 37.61781,
+  "topics": [
+    ".NET"
+  ],
+  "twitter": "https://x.com/DotNextConf",
+  "source": "confs.tech"
+}

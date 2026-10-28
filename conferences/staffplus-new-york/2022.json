@@ -1,0 +1,19 @@
+{
+  "name": "StaffPlus New York 2022",
+  "year": 2022,
+  "url": "https://leaddev.com/staffplus-new-york",
+  "startDate": "2022-04-04",
+  "endDate": "2022-04-05",
+  "city": "New York, NY",
+  "country": "US",
+  "lat": 40.71427,
+  "lng": -74.00597,
+  "topics": [],
+  "cfp": {
+    "url": "https://leaddev.com/leaddev-call-proposals",
+    "deadline": "2021-12-13",
+    "open": false
+  },
+  "twitter": "https://x.com/TheLeadDev",
+  "source": "confs.tech"
+}

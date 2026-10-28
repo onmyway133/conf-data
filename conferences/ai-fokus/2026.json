@@ -1,0 +1,21 @@
+{
+  "name": "Ai-fokus 2026",
+  "year": 2026,
+  "url": "https://www.ai-fokus.se",
+  "startDate": "2026-05-19",
+  "endDate": "2026-05-19",
+  "city": "Stockholm",
+  "country": "SE",
+  "lat": 59.32938,
+  "lng": 18.06871,
+  "topics": [
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/ai-fokus-2026",
+    "deadline": "2026-02-01",
+    "open": false
+  },
+  "bluesky": "https://bsky.app/profile/aifokus.bsky.social",
+  "source": "confs.tech"
+}

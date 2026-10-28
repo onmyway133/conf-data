@@ -1,0 +1,16 @@
+{
+  "name": "Devopsdays Portugal 2021",
+  "year": 2021,
+  "url": "https://devopsdays.org/events/2021-portugal/welcome",
+  "startDate": "2021-05-24",
+  "endDate": "2021-05-25",
+  "city": "Porto",
+  "country": "PT",
+  "lat": 41.1485,
+  "lng": -8.61097,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devopsdayspt",
+  "source": "confs.tech"
+}

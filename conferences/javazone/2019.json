@@ -1,0 +1,21 @@
+{
+  "name": "JavaZone 2019",
+  "year": 2019,
+  "url": "http://javazone.no",
+  "startDate": "2019-09-10",
+  "endDate": "2019-09-12",
+  "city": "Oslo",
+  "country": "NO",
+  "lat": 59.91273,
+  "lng": 10.74609,
+  "topics": [
+    "Java"
+  ],
+  "cfp": {
+    "url": "https://2019.javazone.no/speakers",
+    "deadline": "2019-04-22",
+    "open": false
+  },
+  "twitter": "https://x.com/javazone",
+  "source": "confs.tech"
+}

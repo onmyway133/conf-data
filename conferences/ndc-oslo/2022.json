@@ -1,0 +1,19 @@
+{
+  "name": "NDC Oslo 2022",
+  "year": 2022,
+  "url": "https://ndcoslo.com",
+  "startDate": "2022-09-25",
+  "endDate": "2022-09-29",
+  "city": "Oslo",
+  "country": "NO",
+  "lat": 59.91273,
+  "lng": 10.74609,
+  "topics": [],
+  "cfp": {
+    "url": "https://ndcoslo.com/call-for-papers",
+    "deadline": "2022-05-07",
+    "open": false
+  },
+  "twitter": "https://x.com/NDC_Conferences",
+  "source": "confs.tech"
+}

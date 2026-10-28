@@ -1,0 +1,15 @@
+{
+  "name": "GraphQL Day 2019",
+  "year": 2019,
+  "url": "https://www.graphqlday.org",
+  "startDate": "2019-02-28",
+  "endDate": "2019-02-28",
+  "city": "Toronto",
+  "country": "CA",
+  "lat": 43.70643,
+  "lng": -79.39864,
+  "topics": [
+    "GraphQL"
+  ],
+  "source": "confs.tech"
+}

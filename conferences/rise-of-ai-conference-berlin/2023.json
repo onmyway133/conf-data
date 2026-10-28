@@ -1,0 +1,16 @@
+{
+  "name": "Rise of AI Conference Berlin 2023",
+  "year": 2023,
+  "url": "https://riseof.ai/conference-2023",
+  "startDate": "2023-05-09",
+  "endDate": "2023-05-10",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/riseof_ai",
+  "source": "confs.tech"
+}

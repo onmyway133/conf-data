@@ -1,0 +1,16 @@
+{
+  "name": "BASTA! Spring 2020",
+  "year": 2020,
+  "url": "https://basta.net",
+  "startDate": "2020-02-24",
+  "endDate": "2020-02-28",
+  "city": "Frankfurt am Main",
+  "country": "DE",
+  "lat": 50.11552,
+  "lng": 8.68417,
+  "topics": [
+    ".NET"
+  ],
+  "twitter": "https://x.com/BASTAcon",
+  "source": "confs.tech"
+}

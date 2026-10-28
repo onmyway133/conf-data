@@ -1,0 +1,21 @@
+{
+  "name": ".NET fwdays 2024",
+  "year": 2024,
+  "url": "https://fwdays.com/en/event/dotnet-fwdays-2024",
+  "startDate": "2024-07-20",
+  "endDate": "2024-07-20",
+  "city": "Kyiv",
+  "country": "UA",
+  "lat": 50.45466,
+  "lng": 30.5238,
+  "topics": [
+    ".NET"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSfOlpCL3DGMq2N8yj9ILQmutG_76g-BcNEUEMpG48Wmbzrp6A/viewform",
+    "deadline": "2024-06-20",
+    "open": false
+  },
+  "twitter": "https://x.com/fwdays",
+  "source": "confs.tech"
+}

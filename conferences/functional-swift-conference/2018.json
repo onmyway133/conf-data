@@ -1,0 +1,108 @@
+{
+  "name": "Functional Swift Conference 2018",
+  "year": 2018,
+  "url": "http://2018.funswiftconf.com",
+  "startDate": "2018-12-01",
+  "endDate": "2018-12-01",
+  "city": "New York",
+  "country": "US",
+  "lat": 40.71427,
+  "lng": -74.00597,
+  "topics": [
+    "iOS",
+    "Mobile"
+  ],
+  "source": "cocoaconferences",
+  "speakers": [
+    {
+      "speaker": "loic-lecrenier",
+      "twitter": "https://twitter.com/loiclec"
+    },
+    {
+      "speaker": "peter-tomaselli",
+      "website": "https://github.com/peter-tomaselli"
+    },
+    {
+      "speaker": "jason-zurita",
+      "twitter": "https://twitter.com/jasonalexzurita"
+    },
+    {
+      "speaker": "ben-cohen",
+      "twitter": "https://twitter.com/airspeedswift"
+    },
+    {
+      "speaker": "danny-hertz",
+      "twitter": "https://twitter.com/dannyhertz"
+    },
+    {
+      "speaker": "brandon-kase",
+      "twitter": "https://twitter.com/bkase_"
+    },
+    {
+      "speaker": "stephen-celis",
+      "twitter": "https://twitter.com/stephencelis"
+    },
+    {
+      "speaker": "brandon-williams",
+      "twitter": "https://twitter.com/mbrandonw"
+    }
+  ],
+  "talks": [
+    {
+      "slug": "compositional-ui-styling",
+      "title": "Compositional UI Styling",
+      "speakers": [
+        "jason-zurita"
+      ]
+    },
+    {
+      "slug": "fast-safe-mutable-state",
+      "title": "Fast Safe Mutable State",
+      "speakers": [
+        "ben-cohen"
+      ]
+    },
+    {
+      "slug": "from-sketch-to-xcode-building-functional-reactive-view-models-from-the-ground-up",
+      "title": "From Sketch to Xcode: Building Functional Reactive View Models from the Ground Up",
+      "speakers": [
+        "danny-hertz"
+      ]
+    },
+    {
+      "slug": "fuzz-testing-swift-packages",
+      "title": "Fuzz Testing Swift Packages",
+      "speakers": [
+        "loic-lecrenier"
+      ]
+    },
+    {
+      "slug": "reactive-view-models-simplified",
+      "title": "Reactive View Models, Simplified",
+      "speakers": [
+        "stephen-celis"
+      ]
+    },
+    {
+      "slug": "scanning-for-scans",
+      "title": "Scanning for Scans",
+      "speakers": [
+        "brandon-kase"
+      ]
+    },
+    {
+      "slug": "seemingly-impossible-swift-programs",
+      "title": "Seemingly Impossible Swift Programs",
+      "speakers": [
+        "brandon-williams"
+      ]
+    },
+    {
+      "slug": "write-to-go-faster",
+      "title": "Write to go faster",
+      "speakers": [
+        "peter-tomaselli"
+      ]
+    }
+  ]
+}

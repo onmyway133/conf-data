@@ -1,0 +1,13 @@
+{
+  "name": "DeveloperWeek New York 2019",
+  "year": 2019,
+  "url": "https://www.developerweek.com/NYC",
+  "startDate": "2019-06-17",
+  "endDate": "2019-06-20",
+  "city": "New York, NY",
+  "country": "US",
+  "lat": 40.71427,
+  "lng": -74.00597,
+  "topics": [],
+  "source": "confs.tech"
+}

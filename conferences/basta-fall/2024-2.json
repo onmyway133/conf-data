@@ -1,0 +1,16 @@
+{
+  "name": "BASTA! Fall 2024",
+  "year": 2024,
+  "url": "https://basta.net/mainz-en",
+  "startDate": "2024-09-16",
+  "endDate": "2024-09-20",
+  "city": "Mainz",
+  "country": "DE",
+  "lat": 49.98185,
+  "lng": 8.28008,
+  "topics": [
+    ".NET"
+  ],
+  "twitter": "https://x.com/bastacon",
+  "source": "confs.tech"
+}

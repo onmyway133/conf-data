@@ -1,0 +1,15 @@
+{
+  "name": "GITEX ASIA 2026",
+  "year": 2026,
+  "url": "https://gitexasia.com",
+  "startDate": "2026-04-09",
+  "endDate": "2026-04-10",
+  "city": "Singapore",
+  "country": "SG",
+  "lat": 1.28967,
+  "lng": 103.85007,
+  "topics": [
+    "Data/AI"
+  ],
+  "source": "confs.tech"
+}

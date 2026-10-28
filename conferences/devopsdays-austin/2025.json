@@ -1,0 +1,20 @@
+{
+  "name": "Devopsdays Austin 2025",
+  "year": 2025,
+  "url": "https://devopsdays.org/events/2025-austin/welcome/",
+  "startDate": "2025-05-01",
+  "endDate": "2025-05-02",
+  "city": "Austin, TX",
+  "country": "US",
+  "lat": 30.26715,
+  "lng": -97.74306,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://talks.devopsdays.org/devopsdays-austin-2025/cfp",
+    "deadline": "2025-03-27",
+    "open": false
+  },
+  "source": "confs.tech"
+}

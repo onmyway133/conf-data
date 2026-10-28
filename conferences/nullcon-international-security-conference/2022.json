@@ -1,0 +1,21 @@
+{
+  "name": "Nullcon International Security Conference 2022",
+  "year": 2022,
+  "url": "https://nullcon.net",
+  "startDate": "2022-03-04",
+  "endDate": "2022-03-05",
+  "city": "Goa",
+  "country": "IN",
+  "lat": 15.38914,
+  "lng": 73.81491,
+  "topics": [
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://nullcon.net/goa-2022/cfp",
+    "deadline": "2021-11-30",
+    "open": false
+  },
+  "twitter": "https://x.com/nullcon",
+  "source": "confs.tech"
+}

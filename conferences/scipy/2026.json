@@ -1,0 +1,21 @@
+{
+  "name": "SciPy 2026",
+  "year": 2026,
+  "url": "https://www.scipy2026.scipy.org/",
+  "startDate": "2026-07-13",
+  "endDate": "2026-07-19",
+  "city": "Minneapolis, MN",
+  "country": "US",
+  "lat": 44.97997,
+  "lng": -93.26384,
+  "topics": [
+    "Python"
+  ],
+  "cfp": {
+    "url": "https://pretalx.com/scipy-2026/cfp",
+    "deadline": "2026-02-25",
+    "open": false
+  },
+  "bluesky": "https://bsky.app/profile/scipyconf.bsky.social",
+  "source": "confs.tech"
+}

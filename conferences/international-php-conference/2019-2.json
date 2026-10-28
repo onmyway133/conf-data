@@ -1,0 +1,16 @@
+{
+  "name": "International PHP Conference 2019",
+  "year": 2019,
+  "url": "https://phpconference.com",
+  "startDate": "2019-10-21",
+  "endDate": "2019-10-25",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [
+    "PHP"
+  ],
+  "twitter": "https://x.com/phpconference",
+  "source": "confs.tech"
+}

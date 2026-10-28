@@ -1,0 +1,16 @@
+{
+  "name": "KotlinLeeds 2024",
+  "year": 2024,
+  "url": "https://kotlinleeds.co.uk",
+  "startDate": "2024-10-07",
+  "endDate": "2024-10-08",
+  "city": "Leeds",
+  "country": "GB",
+  "lat": 53.79648,
+  "lng": -1.54785,
+  "topics": [
+    "Kotlin"
+  ],
+  "twitter": "https://x.com/kotlinleeds",
+  "source": "confs.tech"
+}

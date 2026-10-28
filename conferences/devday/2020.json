@@ -1,0 +1,14 @@
+{
+  "name": "DevDay 2020",
+  "year": 2020,
+  "url": "https://devday.be",
+  "startDate": "2020-11-26",
+  "endDate": "2020-11-26",
+  "city": "Louvain-La-Neuve",
+  "country": "BE",
+  "lat": 50.66829,
+  "lng": 4.61443,
+  "topics": [],
+  "twitter": "https://x.com/DevDayBE",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "VibeKode Utrecht 2026",
+  "year": 2026,
+  "url": "https://vibekode.it/netherlands",
+  "startDate": "2026-10-05",
+  "endDate": "2026-10-07",
+  "city": "Utrecht",
+  "country": "NL",
+  "lat": 52.09083,
+  "lng": 5.12222,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/vibekode",
+  "source": "confs.tech"
+}

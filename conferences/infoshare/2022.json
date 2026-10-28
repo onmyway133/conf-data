@@ -1,0 +1,18 @@
+{
+  "name": "Infoshare 2022",
+  "year": 2022,
+  "url": "https://infoshare.pl/conference",
+  "startDate": "2022-10-06",
+  "endDate": "2022-10-07",
+  "city": "Gdansk",
+  "country": "PL",
+  "lat": 54.35227,
+  "lng": 18.64912,
+  "topics": [
+    "Data/AI",
+    "DevOps",
+    "Security"
+  ],
+  "twitter": "https://x.com/infosharepl",
+  "source": "confs.tech"
+}

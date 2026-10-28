@@ -1,0 +1,16 @@
+{
+  "name": "ShmooCon 2019",
+  "year": 2019,
+  "url": "https://shmoocon.org",
+  "startDate": "2019-01-18",
+  "endDate": "2019-01-20",
+  "city": "Washington, DC",
+  "country": "US",
+  "lat": 38.89511,
+  "lng": -77.03637,
+  "topics": [
+    "Security"
+  ],
+  "twitter": "https://x.com/ShmooConPuzzle",
+  "source": "confs.tech"
+}

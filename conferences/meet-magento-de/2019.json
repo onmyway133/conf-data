@@ -1,0 +1,16 @@
+{
+  "name": "Meet Magento DE 2019",
+  "year": 2019,
+  "url": "https://de.meet-magento.com",
+  "startDate": "2019-06-03",
+  "endDate": "2019-06-04",
+  "city": "Leipzig",
+  "country": "DE",
+  "lat": 51.33962,
+  "lng": 12.37129,
+  "topics": [
+    "PHP"
+  ],
+  "twitter": "https://x.com/meetmagento",
+  "source": "confs.tech"
+}

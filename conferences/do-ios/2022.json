@@ -1,0 +1,16 @@
+{
+  "name": "Do iOS 2022",
+  "year": 2022,
+  "url": "https://do-ios.com",
+  "startDate": "2022-11-08",
+  "endDate": "2022-11-09",
+  "city": "Amsterdam",
+  "country": "NL",
+  "lat": 52.37403,
+  "lng": 4.88969,
+  "topics": [
+    "iOS"
+  ],
+  "twitter": "https://x.com/iosconf",
+  "source": "confs.tech"
+}

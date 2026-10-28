@@ -1,0 +1,17 @@
+{
+  "name": "MLcon San Diego 2026",
+  "year": 2026,
+  "url": "https://mlconference.ai/san-diego",
+  "startDate": "2026-06-01",
+  "endDate": "2026-06-05",
+  "city": "San Diego, CA",
+  "country": "US",
+  "lat": 32.71571,
+  "lng": -117.16472,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/mlconference",
+  "bluesky": "https://bsky.app/profile/mlcon.bsky.social",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Devopsdays Detroit 2023",
+  "year": 2023,
+  "url": "https://devopsdays.org/events/2023-detroit/welcome",
+  "startDate": "2023-10-18",
+  "endDate": "2023-10-19",
+  "city": "Detroit, MI",
+  "country": "US",
+  "lat": 42.33143,
+  "lng": -83.04575,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devopsdaysdet",
+  "source": "confs.tech"
+}

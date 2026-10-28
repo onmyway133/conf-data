@@ -1,0 +1,21 @@
+{
+  "name": "DWX 2026",
+  "year": 2026,
+  "url": "https://www.developer-world.de/dwx",
+  "startDate": "2026-06-29",
+  "endDate": "2026-07-02",
+  "city": "Mannheim",
+  "country": "DE",
+  "lat": 49.4891,
+  "lng": 8.46694,
+  "topics": [
+    "Data/AI",
+    ".NET"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/dwx-26",
+    "deadline": "2026-01-11",
+    "open": false
+  },
+  "source": "confs.tech"
+}

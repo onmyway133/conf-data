@@ -1,0 +1,15 @@
+{
+  "name": "IEEE BigDataServices 2023",
+  "year": 2023,
+  "url": "https://ieeebigdataservice.com",
+  "startDate": "2023-07-17",
+  "endDate": "2023-07-20",
+  "city": "Athens",
+  "country": "GR",
+  "lat": 37.98376,
+  "lng": 23.72784,
+  "topics": [
+    "Data/AI"
+  ],
+  "source": "confs.tech"
+}

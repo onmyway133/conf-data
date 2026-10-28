@@ -1,0 +1,23 @@
+{
+  "name": "IT-Tage 2023",
+  "year": 2023,
+  "url": "https://www.ittage.informatik-aktuell.de",
+  "startDate": "2023-12-11",
+  "endDate": "2023-12-14",
+  "city": "Frankfurt am Main",
+  "country": "DE",
+  "lat": 50.11552,
+  "lng": 8.68417,
+  "topics": [
+    "DevOps",
+    "Java",
+    "Design/UX"
+  ],
+  "cfp": {
+    "url": "https://www.ittage.informatik-aktuell.de/call-for-papers.html",
+    "deadline": "2023-04-28",
+    "open": false
+  },
+  "twitter": "https://x.com/InformatikAktue",
+  "source": "confs.tech"
+}

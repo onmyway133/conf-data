@@ -1,0 +1,16 @@
+{
+  "name": "Scalar 2025",
+  "year": 2025,
+  "url": "https://www.scalar-conf.com",
+  "startDate": "2025-03-27",
+  "endDate": "2025-03-28",
+  "city": "Warsaw",
+  "country": "PL",
+  "lat": 52.22977,
+  "lng": 21.01178,
+  "topics": [
+    "Scala"
+  ],
+  "twitter": "https://x.com/scalarconf",
+  "source": "confs.tech"
+}

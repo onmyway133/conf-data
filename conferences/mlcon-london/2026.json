@@ -1,0 +1,16 @@
+{
+  "name": "MLcon London 2026",
+  "year": 2026,
+  "url": "https://mlconference.ai/london",
+  "startDate": "2026-05-11",
+  "endDate": "2026-05-15",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/mlconference",
+  "source": "confs.tech"
+}

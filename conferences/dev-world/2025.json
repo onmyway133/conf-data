@@ -1,0 +1,20 @@
+{
+  "name": "/dev/world 2025",
+  "year": 2025,
+  "url": "https://devworld.au",
+  "startDate": "2025-09-04",
+  "endDate": "2025-09-05",
+  "city": "Melbourne",
+  "country": "AU",
+  "lat": -37.814,
+  "lng": 144.96332,
+  "topics": [
+    "iOS"
+  ],
+  "cfp": {
+    "url": "https://devworld.au/cfp/",
+    "deadline": "2025-07-07",
+    "open": false
+  },
+  "source": "cocoaconferences"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "FOSS4G 2023",
+  "year": 2023,
+  "url": "https://2023.foss4g.org",
+  "startDate": "2023-06-28",
+  "endDate": "2023-06-30",
+  "city": "Prizren",
+  "country": "XK",
+  "lat": 42.21389,
+  "lng": 20.73972,
+  "topics": [],
+  "cfp": {
+    "url": "https://2023.foss4g.org/call-for-papers",
+    "deadline": "2023-02-19",
+    "open": false
+  },
+  "twitter": "https://x.com/foss4g",
+  "source": "confs.tech"
+}

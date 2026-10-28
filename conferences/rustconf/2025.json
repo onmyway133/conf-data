@@ -1,0 +1,20 @@
+{
+  "name": "RustConf 2025",
+  "year": 2025,
+  "url": "https://rustconf.com",
+  "startDate": "2025-09-02",
+  "endDate": "2025-09-05",
+  "city": "Seattle, WA",
+  "country": "US",
+  "lat": 47.60621,
+  "lng": -122.33207,
+  "topics": [
+    "Open Source",
+    "Rust",
+    "Security"
+  ],
+  "twitter": "https://x.com/rustconf",
+  "bluesky": "https://bsky.app/profile/rustconf.com",
+  "mastodon": "https://hachyderm/@rustconf",
+  "source": "confs.tech"
+}

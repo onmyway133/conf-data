@@ -1,0 +1,15 @@
+{
+  "name": "SILM  Workshop 2020",
+  "year": 2020,
+  "url": "https://silm-workshop-2020.inria.fr",
+  "startDate": "2020-09-07",
+  "endDate": "2020-09-11",
+  "city": "Genova",
+  "country": "IT",
+  "lat": 44.40478,
+  "lng": 8.94439,
+  "topics": [
+    "Security"
+  ],
+  "source": "confs.tech"
+}

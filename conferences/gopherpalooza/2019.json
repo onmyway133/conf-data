@@ -1,0 +1,21 @@
+{
+  "name": "Gopherpalooza 2019",
+  "year": 2019,
+  "url": "http://gopherpalooza.com",
+  "startDate": "2019-11-08",
+  "endDate": "2019-11-08",
+  "city": "Mountain View, CA",
+  "country": "US",
+  "lat": 37.38605,
+  "lng": -122.08385,
+  "topics": [
+    "Go"
+  ],
+  "cfp": {
+    "url": "https://www.papercall.io/gopherpalooza2019",
+    "deadline": "2019-08-17",
+    "open": false
+  },
+  "twitter": "https://x.com/gopherpalooza",
+  "source": "confs.tech"
+}

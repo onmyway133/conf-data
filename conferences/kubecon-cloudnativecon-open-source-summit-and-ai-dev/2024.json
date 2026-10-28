@@ -1,0 +1,16 @@
+{
+  "name": "KubeCon, CloudNativeCon, Open Source Summit and AI_dev 2024",
+  "year": 2024,
+  "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-open-source-summit-ai-dev-china",
+  "startDate": "2024-08-21",
+  "endDate": "2024-08-23",
+  "city": "Hong Kong",
+  "country": "HK",
+  "lat": 22.27832,
+  "lng": 114.17469,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/KubeCon_",
+  "source": "confs.tech"
+}

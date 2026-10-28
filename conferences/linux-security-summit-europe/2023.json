@@ -1,0 +1,21 @@
+{
+  "name": "Linux Security Summit Europe 2023",
+  "year": 2023,
+  "url": "https://events.linuxfoundation.org/linux-security-summit-europe",
+  "startDate": "2023-09-20",
+  "endDate": "2023-09-21",
+  "city": "Bilbao",
+  "country": "ES",
+  "lat": 43.26271,
+  "lng": -2.92528,
+  "topics": [
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://events.linuxfoundation.org/linux-security-summit-europe/program/cfp",
+    "deadline": "2023-06-05",
+    "open": false
+  },
+  "twitter": "https://x.com/linuxfoundation",
+  "source": "confs.tech"
+}

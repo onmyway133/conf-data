@@ -1,0 +1,14 @@
+{
+  "name": "Serverless Architecture Conference London 2023",
+  "year": 2023,
+  "url": "https://serverless-architecture.io/london",
+  "startDate": "2023-04-24",
+  "endDate": "2023-04-27",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [],
+  "twitter": "https://x.com/serverlesscon",
+  "source": "confs.tech"
+}

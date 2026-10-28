@@ -1,0 +1,15 @@
+{
+  "name": "Qt World Summit Berlin 2019",
+  "year": 2019,
+  "url": "https://www.qt.io/qtws19/home",
+  "startDate": "2019-11-04",
+  "endDate": "2019-11-06",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "C++"
+  ],
+  "source": "confs.tech"
+}

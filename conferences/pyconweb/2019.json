@@ -1,0 +1,16 @@
+{
+  "name": "PyConWeb 2019",
+  "year": 2019,
+  "url": "https://pyconweb.com",
+  "startDate": "2019-05-25",
+  "endDate": "2019-05-26",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [
+    "Python"
+  ],
+  "twitter": "https://x.com/pyconweb",
+  "source": "confs.tech"
+}

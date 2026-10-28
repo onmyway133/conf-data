@@ -1,0 +1,16 @@
+{
+  "name": "STARWEST — The Premier Software Testing & QA Conference 2021",
+  "year": 2021,
+  "url": "https://starwest.techwell.com",
+  "startDate": "2021-10-03",
+  "endDate": "2021-10-08",
+  "city": "Anaheim, CA",
+  "country": "US",
+  "lat": 33.83529,
+  "lng": -117.9145,
+  "topics": [
+    "Testing"
+  ],
+  "twitter": "https://x.com/techwell",
+  "source": "confs.tech"
+}

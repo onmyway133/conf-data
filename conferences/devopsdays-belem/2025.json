@@ -1,0 +1,20 @@
+{
+  "name": "Devopsdays Belém 2025",
+  "year": 2025,
+  "url": "https://devopsdays.org/events/2025-belem/welcome/",
+  "startDate": "2025-06-07",
+  "endDate": "2025-06-07",
+  "city": "Belém",
+  "country": "BR",
+  "lat": -1.45583,
+  "lng": -48.50444,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://www.papercall.io/devopsdays-belem-2025",
+    "deadline": "2025-04-06",
+    "open": false
+  },
+  "source": "confs.tech"
+}

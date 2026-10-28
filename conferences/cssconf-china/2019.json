@@ -1,0 +1,15 @@
+{
+  "name": "CSSConf China 2019",
+  "year": 2019,
+  "url": "https://css.w3ctech.com",
+  "startDate": "2019-03-30",
+  "endDate": "2019-03-30",
+  "city": "Shenzhen",
+  "country": "CN",
+  "lat": 22.54554,
+  "lng": 114.0683,
+  "topics": [
+    "CSS"
+  ],
+  "source": "confs.tech"
+}

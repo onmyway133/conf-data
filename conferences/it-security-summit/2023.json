@@ -1,0 +1,16 @@
+{
+  "name": "IT Security Summit 2023",
+  "year": 2023,
+  "url": "https://it-security-summit.de",
+  "startDate": "2023-05-22",
+  "endDate": "2023-05-24",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "Security"
+  ],
+  "twitter": "https://x.com/ITSecuritySummit",
+  "source": "confs.tech"
+}

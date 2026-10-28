@@ -1,0 +1,15 @@
+{
+  "name": "COLLIDE Data & AI Conference 2025",
+  "year": 2025,
+  "url": "https://datasciconnect.com/events/collide",
+  "startDate": "2025-10-01",
+  "endDate": "2025-10-02",
+  "city": "Atlanta, GA",
+  "country": "US",
+  "lat": 33.749,
+  "lng": -84.38798,
+  "topics": [
+    "Data/AI"
+  ],
+  "source": "confs.tech"
+}

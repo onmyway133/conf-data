@@ -1,0 +1,21 @@
+{
+  "name": "Rootconf 2019",
+  "year": 2019,
+  "url": "https://rootconf.in/2019",
+  "startDate": "2019-06-21",
+  "endDate": "2019-06-22",
+  "city": "Bangalore",
+  "country": "IN",
+  "lat": 12.97194,
+  "lng": 77.59369,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://hasgeek.com/rootconf/2019",
+    "deadline": "2019-04-29",
+    "open": false
+  },
+  "twitter": "https://x.com/rootconf",
+  "source": "confs.tech"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "droidcon Kenya 2023",
+  "year": 2023,
+  "url": "https://droidcon.co.ke",
+  "startDate": "2023-11-08",
+  "endDate": "2023-11-10",
+  "city": "Nairobi",
+  "country": "KE",
+  "lat": -1.28333,
+  "lng": 36.81667,
+  "topics": [
+    "Android",
+    "Kotlin"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/droidcon-kenya-2023",
+    "deadline": "2023-09-11",
+    "open": false
+  },
+  "twitter": "https://x.com/droidconke",
+  "source": "confs.tech"
+}

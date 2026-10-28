@@ -1,0 +1,16 @@
+{
+  "name": "jsMobileConf 2019",
+  "year": 2019,
+  "url": "https://jsmobileconf.com",
+  "startDate": "2019-11-12",
+  "endDate": "2019-11-13",
+  "city": "Boston, MA",
+  "country": "US",
+  "lat": 42.35843,
+  "lng": -71.05977,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/ProgressSW",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "php[tek] 2023",
+  "year": 2023,
+  "url": "https://tek.phparch.com",
+  "startDate": "2023-05-16",
+  "endDate": "2023-05-18",
+  "city": "Chicago, IL",
+  "country": "US",
+  "lat": 41.85003,
+  "lng": -87.65005,
+  "topics": [
+    "PHP"
+  ],
+  "twitter": "https://x.com/phptek",
+  "source": "confs.tech"
+}

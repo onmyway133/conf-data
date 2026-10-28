@@ -1,0 +1,18 @@
+{
+  "name": "JCON EUROPE 2027",
+  "year": 2027,
+  "url": "https://2027.europe.jcon.one",
+  "startDate": "2027-04-26",
+  "endDate": "2027-04-29",
+  "city": "Cologne",
+  "country": "DE",
+  "lat": 50.93333,
+  "lng": 6.95,
+  "topics": [
+    "Java"
+  ],
+  "twitter": "https://x.com/jcon_conference",
+  "bluesky": "https://bsky.app/profile/jcon.one",
+  "mastodon": "https://mastodon.social/@jcon",
+  "source": "confs.tech"
+}

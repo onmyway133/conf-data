@@ -1,0 +1,16 @@
+{
+  "name": "W-JAX München 2026",
+  "year": 2026,
+  "url": "https://jax.de/muenchen",
+  "startDate": "2026-11-02",
+  "endDate": "2026-11-06",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [
+    "Java"
+  ],
+  "twitter": "https://x.com/jaxcon",
+  "source": "confs.tech"
+}

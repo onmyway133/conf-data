@@ -1,0 +1,17 @@
+{
+  "name": "Community Over Code Sydney 2026",
+  "year": 2026,
+  "url": "https://communityovercode.apache.org/events/sydney-2026",
+  "startDate": "2026-11-18",
+  "endDate": "2026-11-19",
+  "city": "Sydney",
+  "country": "AU",
+  "lat": -33.86785,
+  "lng": 151.20732,
+  "topics": [
+    "Data/AI",
+    "Java",
+    "Open Source"
+  ],
+  "source": "confs.tech"
+}

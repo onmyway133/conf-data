@@ -1,0 +1,16 @@
+{
+  "name": "Mobius 2017",
+  "year": 2017,
+  "url": "https://mobiusconf.com/en/",
+  "startDate": "2017-11-11",
+  "endDate": "2017-11-11",
+  "city": "Moscow",
+  "country": "RU",
+  "lat": 55.75204,
+  "lng": 37.61781,
+  "topics": [
+    "iOS",
+    "Mobile"
+  ],
+  "source": "cocoaconferences"
+}

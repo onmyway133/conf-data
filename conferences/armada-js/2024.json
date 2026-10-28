@@ -1,0 +1,21 @@
+{
+  "name": "Armada JS 2024",
+  "year": 2024,
+  "url": "https://armada-js.com",
+  "startDate": "2024-12-05",
+  "endDate": "2024-12-06",
+  "city": "Novi Sad",
+  "country": "RS",
+  "lat": 45.25167,
+  "lng": 19.83694,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://armada-js.com/call-for-papers",
+    "deadline": "2024-10-01",
+    "open": false
+  },
+  "twitter": "https://x.com/armada_js",
+  "source": "confs.tech"
+}

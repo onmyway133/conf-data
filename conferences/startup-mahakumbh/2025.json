@@ -1,0 +1,15 @@
+{
+  "name": "Startup Mahakumbh 2025",
+  "year": 2025,
+  "url": "https://startupmahakumbh.co.in",
+  "startDate": "2025-03-27",
+  "endDate": "2025-03-28",
+  "city": "Delhi",
+  "country": "IN",
+  "lat": 28.65195,
+  "lng": 77.23149,
+  "topics": [
+    "JavaScript"
+  ],
+  "source": "confs.tech"
+}

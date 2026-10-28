@@ -1,0 +1,15 @@
+{
+  "name": "Pink: International IT Service Management Conference & Exhibition 2023",
+  "year": 2023,
+  "url": "https://www.pinkelephant.com/en-us/Pink23/home",
+  "startDate": "2023-02-26",
+  "endDate": "2023-03-01",
+  "city": "Las Vegas, NV",
+  "country": "US",
+  "lat": 36.17497,
+  "lng": -115.13722,
+  "topics": [
+    "DevOps"
+  ],
+  "source": "confs.tech"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Devopsdays Atlanta 2022",
+  "year": 2022,
+  "url": "https://devopsdays.org/events/2022-atlanta/welcome",
+  "startDate": "2022-01-26",
+  "endDate": "2022-01-27",
+  "city": "Atlanta, GA",
+  "country": "US",
+  "lat": 33.749,
+  "lng": -84.38798,
+  "topics": [
+    "DevOps"
+  ],
+  "source": "confs.tech"
+}

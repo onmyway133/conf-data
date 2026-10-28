@@ -1,0 +1,21 @@
+{
+  "name": "Devopsdays Juiz De Fora 2023",
+  "year": 2023,
+  "url": "https://devopsdays.org/events/2023-juiz-de-fora/welcome",
+  "startDate": "2023-05-19",
+  "endDate": "2023-05-20",
+  "city": "Juiz de Fora",
+  "country": "BR",
+  "lat": -21.76417,
+  "lng": -43.35028,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://www.papercall.io/devopsdaysjuizdefora2023",
+    "deadline": "2023-04-03",
+    "open": false
+  },
+  "twitter": "https://x.com/devopsdaysjf",
+  "source": "confs.tech"
+}

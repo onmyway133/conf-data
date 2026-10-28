@@ -1,0 +1,20 @@
+{
+  "name": "FLOCK - The Autonomous-Ops Summit by NeuBird AI 2026",
+  "year": 2026,
+  "url": "https://www.goflock.ai",
+  "startDate": "2026-10-14",
+  "endDate": "2026-10-14",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [
+    "SRE"
+  ],
+  "cfp": {
+    "url": "https://www.goflock.ai/call-for-papers#submit",
+    "deadline": "2026-09-21",
+    "open": false
+  },
+  "source": "confs.tech"
+}

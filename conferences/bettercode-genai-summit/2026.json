@@ -1,0 +1,20 @@
+{
+  "name": "betterCode() GenAI Summit 2026",
+  "year": 2026,
+  "url": "https://genai-summit.bettercode.eu",
+  "startDate": "2026-06-10",
+  "endDate": "2026-06-11",
+  "city": "Mannheim",
+  "country": "DE",
+  "lat": 49.4891,
+  "lng": 8.46694,
+  "topics": [
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://genai-summit.bettercode.eu/cfp.php",
+    "deadline": "2026-01-08",
+    "open": false
+  },
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "NYSwifty 2023",
+  "year": 2023,
+  "url": "https://nyswifty.com",
+  "startDate": "2023-04-18",
+  "endDate": "2023-04-19",
+  "city": "New York, NY",
+  "country": "US",
+  "lat": 40.71427,
+  "lng": -74.00597,
+  "topics": [
+    "iOS"
+  ],
+  "twitter": "https://x.com/nyswifty",
+  "source": "confs.tech"
+}

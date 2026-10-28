@@ -1,0 +1,16 @@
+{
+  "name": "Meeting C++ 2019",
+  "year": 2019,
+  "url": "https://meetingcpp.com/2019",
+  "startDate": "2019-11-14",
+  "endDate": "2019-11-16",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "C++"
+  ],
+  "twitter": "https://x.com/meetingcpp",
+  "source": "confs.tech"
+}

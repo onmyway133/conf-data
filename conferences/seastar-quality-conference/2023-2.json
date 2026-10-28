@@ -1,0 +1,15 @@
+{
+  "name": "SeaStar Quality Conference 2023",
+  "year": 2023,
+  "url": "https://quality.seastarconf.com",
+  "startDate": "2023-10-15",
+  "endDate": "2023-10-19",
+  "city": "Playa Dorada",
+  "country": "DO",
+  "topics": [
+    "Data/AI",
+    "Testing"
+  ],
+  "twitter": "https://x.com/TestMastersAcad",
+  "source": "confs.tech"
+}

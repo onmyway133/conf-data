@@ -1,0 +1,23 @@
+{
+  "name": "Dash 2022",
+  "year": 2022,
+  "url": "https://www.dashcon.io",
+  "startDate": "2022-10-18",
+  "endDate": "2022-10-19",
+  "city": "New York, NY",
+  "country": "US",
+  "lat": 40.71427,
+  "lng": -74.00597,
+  "topics": [
+    "DevOps",
+    "Performance",
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://www.dashcon.io/cfp",
+    "deadline": "2022-08-12",
+    "open": false
+  },
+  "twitter": "https://x.com/dashconio",
+  "source": "confs.tech"
+}

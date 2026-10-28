@@ -1,0 +1,23 @@
+{
+  "name": "BSides Edmonton 2025",
+  "year": 2025,
+  "url": "https://www.bsidesedmonton.org",
+  "startDate": "2025-09-22",
+  "endDate": "2025-09-23",
+  "city": "Edmonton",
+  "country": "CA",
+  "lat": 53.55014,
+  "lng": -113.46871,
+  "topics": [
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSfyEUeBsWKfU7ZBDg8bonQ8G8SV_qLkbMv6PC64eriBvbAi5Q/viewform",
+    "deadline": "2025-05-31",
+    "open": false
+  },
+  "twitter": "https://x.com/bsidesedmonton",
+  "bluesky": "https://bsky.app/profile/bsidesedmonton.bsky.social",
+  "mastodon": "https://infosec.exchange/@bsidesedmonton",
+  "source": "confs.tech"
+}

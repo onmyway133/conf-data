@@ -1,0 +1,17 @@
+{
+  "name": "EuroRust 2025",
+  "year": 2025,
+  "url": "https://eurorust.eu",
+  "startDate": "2025-10-09",
+  "endDate": "2025-10-10",
+  "city": "Paris",
+  "country": "FR",
+  "lat": 48.85341,
+  "lng": 2.3488,
+  "topics": [
+    "Rust"
+  ],
+  "twitter": "https://x.com/euro_rust",
+  "mastodon": "https://fosstodon.org/@eurorust",
+  "source": "confs.tech"
+}

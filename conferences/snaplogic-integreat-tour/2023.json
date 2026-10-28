@@ -1,0 +1,15 @@
+{
+  "name": "SnapLogic Integreat Tour 2023",
+  "year": 2023,
+  "url": "https://www.snaplogic.com/integreat-tour/san-francisco",
+  "startDate": "2023-10-03",
+  "endDate": "2023-10-03",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [
+    "Data/AI"
+  ],
+  "source": "confs.tech"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Frontrunners 2025",
+  "year": 2025,
+  "url": "https://frontrunners.tech",
+  "startDate": "2025-03-21",
+  "endDate": "2025-03-21",
+  "city": "Washington, DC",
+  "country": "US",
+  "lat": 38.89511,
+  "lng": -77.03637,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://www.papercall.io/frontrunners2025",
+    "deadline": "2024-11-15",
+    "open": false
+  },
+  "twitter": "https://x.com/frontrunnersdc",
+  "source": "confs.tech"
+}

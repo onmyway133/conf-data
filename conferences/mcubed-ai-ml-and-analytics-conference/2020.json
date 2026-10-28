@@ -1,0 +1,16 @@
+{
+  "name": "MCubed - AI, ML, and analytics conference 2020",
+  "year": 2020,
+  "url": "https://www.mcubed.london",
+  "startDate": "2020-10-12",
+  "endDate": "2020-10-14",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/MCubedLondon",
+  "source": "confs.tech"
+}

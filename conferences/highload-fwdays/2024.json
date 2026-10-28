@@ -1,0 +1,19 @@
+{
+  "name": "Highload fwdays 2024",
+  "year": 2024,
+  "url": "https://fwdays.com/en/event/highload-fwdays-2024",
+  "startDate": "2024-05-25",
+  "endDate": "2024-05-25",
+  "city": "Kyiv",
+  "country": "UA",
+  "lat": 50.45466,
+  "lng": 30.5238,
+  "topics": [],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSdAivIfn0qM5SSljDvshD48IRrAsKUg5-tlznG__PzDuDK12g/viewform",
+    "deadline": "2024-04-20",
+    "open": false
+  },
+  "twitter": "https://x.com/fwdays",
+  "source": "confs.tech"
+}

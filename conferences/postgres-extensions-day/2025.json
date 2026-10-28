@@ -1,0 +1,15 @@
+{
+  "name": "Postgres Extensions Day 2025",
+  "year": 2025,
+  "url": "https://pgext.day/",
+  "startDate": "2025-05-12",
+  "endDate": "2025-05-12",
+  "city": "Montreal",
+  "country": "CA",
+  "lat": 45.50884,
+  "lng": -73.58781,
+  "topics": [
+    "Data/AI"
+  ],
+  "source": "confs.tech"
+}

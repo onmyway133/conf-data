@@ -1,0 +1,20 @@
+{
+  "name": "Ray Summit 2024",
+  "year": 2024,
+  "url": "https://raysummit.anyscale.com",
+  "startDate": "2024-09-30",
+  "endDate": "2024-10-02",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://raysummit.anyscale.com/flow/anyscale/raysummit2024/callforpapers/login",
+    "deadline": "2024-05-08",
+    "open": false
+  },
+  "source": "confs.tech"
+}

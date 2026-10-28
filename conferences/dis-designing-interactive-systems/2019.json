@@ -1,0 +1,15 @@
+{
+  "name": "DIS - Designing Interactive Systems 2019",
+  "year": 2019,
+  "url": "https://dis2019.com",
+  "startDate": "2019-06-23",
+  "endDate": "2019-06-28",
+  "city": "San Diego, CA",
+  "country": "US",
+  "lat": 32.71571,
+  "lng": -117.16472,
+  "topics": [
+    "Design/UX"
+  ],
+  "source": "confs.tech"
+}

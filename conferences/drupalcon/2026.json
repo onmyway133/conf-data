@@ -1,0 +1,15 @@
+{
+  "name": "DrupalCon 2026",
+  "year": 2026,
+  "url": "https://events.drupal.org/chicago2026",
+  "startDate": "2026-03-23",
+  "endDate": "2026-03-26",
+  "city": "Chicago, IL",
+  "country": "US",
+  "lat": 41.85003,
+  "lng": -87.65005,
+  "topics": [
+    "Open Source"
+  ],
+  "source": "confs.tech"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Frontend United 2019",
+  "year": 2019,
+  "url": "https://www.frontendunited.org",
+  "startDate": "2019-05-17",
+  "endDate": "2019-05-18",
+  "city": "Utrecht",
+  "country": "NL",
+  "lat": 52.09083,
+  "lng": 5.12222,
+  "topics": [
+    "CSS",
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/frontendunited",
+  "source": "confs.tech"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Anthill Inside 2019",
+  "year": 2019,
+  "url": "https://anthillinside.in/2019",
+  "startDate": "2019-07-24",
+  "endDate": "2019-07-24",
+  "city": "Bangalore",
+  "country": "IN",
+  "lat": 12.97194,
+  "lng": 77.59369,
+  "topics": [
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://hasgeek.com/anthillinside/2019",
+    "deadline": "2019-04-30",
+    "open": false
+  },
+  "twitter": "https://x.com/anthillin",
+  "source": "confs.tech"
+}

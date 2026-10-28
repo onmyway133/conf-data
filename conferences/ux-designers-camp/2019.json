@@ -1,0 +1,16 @@
+{
+  "name": "UX Designers Camp 2019",
+  "year": 2019,
+  "url": "https://www.uxdesignerscamp.com",
+  "startDate": "2019-10-05",
+  "endDate": "2019-10-12",
+  "city": "Belgrade",
+  "country": "RS",
+  "lat": 44.80401,
+  "lng": 20.46513,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/uxdcamp",
+  "source": "confs.tech"
+}

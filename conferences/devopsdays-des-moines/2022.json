@@ -1,0 +1,21 @@
+{
+  "name": "Devopsdays Des Moines 2022",
+  "year": 2022,
+  "url": "https://devopsdays.org/events/2022-des-moines/welcome",
+  "startDate": "2022-10-27",
+  "endDate": "2022-10-28",
+  "city": "Des Moines, IA",
+  "country": "US",
+  "lat": 41.60054,
+  "lng": -93.60911,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://www.papercall.io/devops-desmoines-agile",
+    "deadline": "2022-07-31",
+    "open": false
+  },
+  "twitter": "https://x.com/DevOpsDaysDSM",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "W-JAX 2025",
+  "year": 2025,
+  "url": "https://jax.de/munich",
+  "startDate": "2025-11-03",
+  "endDate": "2025-11-07",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [
+    "Java"
+  ],
+  "twitter": "https://x.com/jaxcon",
+  "source": "confs.tech"
+}

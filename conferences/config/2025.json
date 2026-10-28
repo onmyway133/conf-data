@@ -1,0 +1,16 @@
+{
+  "name": "Config 2025",
+  "year": 2025,
+  "url": "https://config.figma.com/san-francisco",
+  "startDate": "2025-05-06",
+  "endDate": "2025-05-08",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/figma",
+  "source": "confs.tech"
+}

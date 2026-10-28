@@ -1,0 +1,22 @@
+{
+  "name": "DevConf.CZ 2026",
+  "year": 2026,
+  "url": "https://www.devconf.info/cz/",
+  "startDate": "2026-06-18",
+  "endDate": "2026-06-20",
+  "city": "Brno",
+  "country": "CZ",
+  "lat": 49.19522,
+  "lng": 16.60796,
+  "topics": [
+    "GraphQL"
+  ],
+  "cfp": {
+    "url": "https://pretalx.devconf.info/devconf-cz-2026/cfp",
+    "deadline": "2026-03-01",
+    "open": false
+  },
+  "twitter": "https://x.com/devconf_cz",
+  "mastodon": "https://fosstodon.org/@devconf_cz",
+  "source": "confs.tech"
+}

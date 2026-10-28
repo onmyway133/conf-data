@@ -1,0 +1,19 @@
+{
+  "name": "Great International Developer Summit (GIDS) 2027",
+  "year": 2027,
+  "url": "https://developersummit.com",
+  "startDate": "2027-04-27",
+  "endDate": "2027-04-30",
+  "city": "Bangalore",
+  "country": "IN",
+  "lat": 12.97194,
+  "lng": 77.59369,
+  "topics": [],
+  "cfp": {
+    "url": "https://developersummit.com/cfp",
+    "deadline": "2026-09-30",
+    "open": true
+  },
+  "twitter": "https://x.com/developersummit",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "React Conference Miami 2022",
+  "year": 2022,
+  "url": "https://www.reactmiami.com",
+  "startDate": "2022-04-18",
+  "endDate": "2022-04-19",
+  "city": "Miami, FL",
+  "country": "US",
+  "lat": 25.77427,
+  "lng": -80.19366,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/reactmiamiconf",
+  "source": "confs.tech"
+}

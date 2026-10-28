@@ -1,0 +1,17 @@
+{
+  "name": "JavaScript, Angular, React und HTML & CSS Days 2023",
+  "year": 2023,
+  "url": "https://javascript-days.de/berlin",
+  "startDate": "2023-10-16",
+  "endDate": "2023-10-19",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "CSS",
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/JS_Days",
+  "source": "confs.tech"
+}

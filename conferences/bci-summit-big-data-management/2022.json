@@ -1,0 +1,16 @@
+{
+  "name": "BCI Summit - Big Data Management 2022",
+  "year": 2022,
+  "url": "https://bcisummit.com/summit-2022-big-data-management.html",
+  "startDate": "2022-06-23",
+  "endDate": "2022-06-23",
+  "city": "New York, NY",
+  "country": "US",
+  "lat": 40.71427,
+  "lng": -74.00597,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/BCISummit",
+  "source": "confs.tech"
+}

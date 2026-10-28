@@ -1,0 +1,15 @@
+{
+  "name": "DDC .NET Developer Conference 2026",
+  "year": 2026,
+  "url": "https://www.developer-world.de/ddc",
+  "startDate": "2026-11-23",
+  "endDate": "2026-11-26",
+  "city": "Cologne",
+  "country": "DE",
+  "lat": 50.93333,
+  "lng": 6.95,
+  "topics": [
+    ".NET"
+  ],
+  "source": "confs.tech"
+}

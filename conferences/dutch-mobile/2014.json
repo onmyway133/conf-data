@@ -1,0 +1,16 @@
+{
+  "name": "Dutch Mobile 2014",
+  "year": 2014,
+  "url": "http://www.mobileconference.nl",
+  "startDate": "2014-06-26",
+  "endDate": "2014-06-28",
+  "city": "Amsterdam",
+  "country": "NL",
+  "lat": 52.37403,
+  "lng": 4.88969,
+  "topics": [
+    "iOS",
+    "Mobile"
+  ],
+  "source": "cocoaconferences"
+}

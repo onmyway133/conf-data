@@ -1,0 +1,21 @@
+{
+  "name": "CityJS São Paulo 2023",
+  "year": 2023,
+  "url": "https://brazil.cityjsconf.org",
+  "startDate": "2023-04-26",
+  "endDate": "2023-04-29",
+  "city": "São Paulo",
+  "country": "BR",
+  "lat": -23.5475,
+  "lng": -46.63611,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSdnKmSMwtbzNZfIf0u124bHG0MXOlDwESex32jVZ9d9kZS3YA/viewform",
+    "deadline": "2023-01-28",
+    "open": false
+  },
+  "twitter": "https://x.com/cityjsconf",
+  "source": "confs.tech"
+}

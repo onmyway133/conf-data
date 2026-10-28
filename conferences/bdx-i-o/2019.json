@@ -1,0 +1,19 @@
+{
+  "name": "BDX I/O 2019",
+  "year": 2019,
+  "url": "https://www.bdx.io/#/home",
+  "startDate": "2019-11-15",
+  "endDate": "2019-11-15",
+  "city": "Bordeaux",
+  "country": "FR",
+  "lat": 44.84124,
+  "lng": -0.58046,
+  "topics": [],
+  "cfp": {
+    "url": "https://conference-hall.io/public/event/XGTzWawB3ZwLR7u462O8",
+    "deadline": "2019-07-02",
+    "open": false
+  },
+  "twitter": "https://x.com/bdxio",
+  "source": "confs.tech"
+}

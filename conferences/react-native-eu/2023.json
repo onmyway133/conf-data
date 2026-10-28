@@ -1,0 +1,23 @@
+{
+  "name": "React Native EU 2023",
+  "year": 2023,
+  "url": "https://www.react-native.eu",
+  "startDate": "2023-09-07",
+  "endDate": "2023-09-08",
+  "city": "Wrocław",
+  "country": "PL",
+  "lat": 51.10286,
+  "lng": 17.03006,
+  "topics": [
+    "Android",
+    "iOS",
+    "Networking"
+  ],
+  "cfp": {
+    "url": "https://www.react-native.eu/#callforpapers",
+    "deadline": "2023-04-12",
+    "open": false
+  },
+  "twitter": "https://x.com/react_native_eu",
+  "source": "confs.tech"
+}

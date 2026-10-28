@@ -1,0 +1,20 @@
+{
+  "name": "JSConf Chile 2025",
+  "year": 2025,
+  "url": "https://www.jsconf.cl",
+  "startDate": "2025-10-24",
+  "endDate": "2025-10-25",
+  "city": "Santiago",
+  "country": "CL",
+  "lat": -33.45694,
+  "lng": -70.64827,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://tally.so/r/me9dNx",
+    "open": false
+  },
+  "twitter": "https://x.com/jsconfcl",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "World Conference on  Smart Systems : Big Data, IoT, Cybersecurity, and IT in Action 2026",
+  "year": 2026,
+  "url": "https://www.smartsystems.thesciencequest.org",
+  "startDate": "2026-09-17",
+  "endDate": "2026-09-19",
+  "city": "Tokyo",
+  "country": "JP",
+  "lat": 35.6895,
+  "lng": 139.69171,
+  "topics": [
+    "Data/AI",
+    "Security"
+  ],
+  "source": "confs.tech"
+}

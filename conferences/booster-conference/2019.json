@@ -1,0 +1,15 @@
+{
+  "name": "Booster Conference 2019",
+  "year": 2019,
+  "url": "https://2019.boosterconf.no",
+  "startDate": "2019-03-13",
+  "endDate": "2019-03-15",
+  "city": "Bergen",
+  "country": "NO",
+  "lat": 60.39299,
+  "lng": 5.32415,
+  "topics": [
+    "Design/UX"
+  ],
+  "source": "confs.tech"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "NZTestingConf 2024",
+  "year": 2024,
+  "url": "https://nztestingconf.nz",
+  "startDate": "2024-06-27",
+  "endDate": "2024-06-27",
+  "city": "Wellington",
+  "country": "NZ",
+  "lat": -41.28664,
+  "lng": 174.77557,
+  "topics": [
+    "Testing"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSfqJFPx-RCveKBRlRjYn0LyKL32LFgsjLI8soNQ9zv8CfYqcQ/viewform",
+    "deadline": "2024-02-29",
+    "open": false
+  },
+  "twitter": "https://x.com/NZTestingConf",
+  "source": "confs.tech"
+}

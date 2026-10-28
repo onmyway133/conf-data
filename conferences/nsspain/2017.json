@@ -1,0 +1,357 @@
+{
+  "name": "NSSpain 2017",
+  "year": 2017,
+  "url": "http://nsspain.com/",
+  "startDate": "2017-09-13",
+  "endDate": "2017-09-15",
+  "city": "Logroño",
+  "country": "ES",
+  "lat": 42.46615,
+  "lng": -2.45115,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences",
+  "speakers": [
+    {
+      "speaker": "peter-steinberger",
+      "role": "Founder and CEO, PSPDFKit",
+      "bio": "Founder and CEO at PSPDFKit. I love pushing the limits of Cocoa in PDF Viewer.",
+      "twitter": "https://twitter.com/steipete"
+    },
+    {
+      "speaker": "esteban-torres",
+      "role": "iOS Developer, SoundCloud",
+      "bio": "iOS Dev @ SoundCloud Core Team, former CocoaHeads Costa Rica organiser. Sometimes blogger and terrible cryptocurrency investor.",
+      "twitter": "https://twitter.com/esttorhe"
+    },
+    {
+      "speaker": "sommer-panage",
+      "role": "Mobile Developer, Chorus",
+      "bio": "Mobile dev at Chorus (prev Twitter, Apple), accessibility specialist & circus artist.",
+      "twitter": "https://twitter.com/sommer"
+    },
+    {
+      "speaker": "marin-usalj",
+      "role": "Señor Engineer, Lyft",
+      "bio": "Señor engineer at Lyft. Speaker. OSS contributor.",
+      "twitter": "https://twitter.com/_supermarin"
+    },
+    {
+      "speaker": "sally-shepard",
+      "role": "iOS developer",
+      "bio": "iOS developer, Accessibility Evangelist, speaker, and writer.",
+      "twitter": "https://twitter.com/mostgood"
+    },
+    {
+      "speaker": "krzysztof-zablocki",
+      "role": "Dev, Speaker, Creator, The New York Times",
+      "bio": "Creator: Sourcery, Playgrounds, Apple Essential apps e.g. @foldify, 3D Engines. iOS at The New York Times",
+      "twitter": "https://twitter.com/merowing_"
+    },
+    {
+      "speaker": "roy-marmelstein",
+      "role": "Software Engineer, Spotify",
+      "bio": "iOS at Spotify. Open source at http://github.com/marmelroy, ex-@zenlyapp",
+      "twitter": "https://twitter.com/marmelroy"
+    },
+    {
+      "speaker": "john-sundell",
+      "role": "Software Developer, Hyper",
+      "bio": "I make apps, games & Swift developer tools. Blogging weekly about Swift development. Creator of Marathon, SwiftPlate, Unbox/Wrap & more.",
+      "twitter": "https://twitter.com/johnsundell"
+    },
+    {
+      "speaker": "abizer-nasir",
+      "role": "Contractor  platforms, Contractor",
+      "bio": "Contractor  platforms. I like Emacs, the Dvorak layout and nice pens. Sometimes I try to draw things. I hate long walks on the beach.",
+      "twitter": "https://twitter.com/abizern"
+    },
+    {
+      "speaker": "felix-krause",
+      "role": "Fastlane Guy, Google",
+      "bio": "Professional iOS Code Signing Issue Resolver - Creator of fastlane.tools. Now Google (previously Twitter)",
+      "twitter": "https://twitter.com/krauseFx"
+    },
+    {
+      "speaker": "luis-solano",
+      "role": "Fool Stuck Developer, Independent",
+      "bio": "Fool Stuck Developer",
+      "twitter": "https://twitter.com/luisobo"
+    },
+    {
+      "speaker": "fabio-pelosin",
+      "role": "Independent",
+      "bio": "Extroverted innovator with a passion for tech, business & design",
+      "twitter": "https://twitter.com/fabiopelosin"
+    },
+    {
+      "speaker": "alexsander-akers",
+      "role": "iOS & Mac Developer, Microsoft To-Do",
+      "bio": "iOS & Mac on @Microsoft To-Do",
+      "twitter": "https://twitter.com/a2"
+    },
+    {
+      "speaker": "kathy-tafel",
+      "role": "Director I Mobile Engineering, meetup",
+      "bio": "Director I Mobile Engineering @ meetup. Founder @ The Recipe Box.",
+      "twitter": "https://twitter.com/kathytafel"
+    },
+    {
+      "speaker": "ignacio-nieto",
+      "role": "Senior freelance developer, Independent",
+      "bio": "Senior freelance developer, digitalnomad, blogger & entrepreneur. I run DigitalLeaves to teach others iOS & swiftlang & help them escape the cubicle.",
+      "twitter": "https://twitter.com/digitalleaves"
+    },
+    {
+      "speaker": "mark-villacampa",
+      "role": "Chauffeur herder, Cabify & RubyMotion",
+      "bio": "Chauffeur herder CabifyDev. Toolchain hacker RubyMotion. 3D Printer whisperer LeapTo3D.",
+      "twitter": "https://twitter.com/MarkVillacampa"
+    },
+    {
+      "speaker": "tobias-due-munk",
+      "role": "Design + Dev of apps, FindZebra + Storytel + ECCOshoes",
+      "bio": "Dev + Design of apps in Copenhagen. Indie as developmunk.dk, currently with Slør – an app to edit Portrait Mode photos. Moonlighting as consultant + as organiser of local iOS meetups.",
+      "twitter": "https://twitter.com/tobiasdm"
+    },
+    {
+      "speaker": "dave-schukin",
+      "role": "Cereal entrepreneur, Buglife",
+      "bio": "Cereal entrepreneur. iOS, and occasionally Android. Pushing awesomeness at @BuglifeApp.",
+      "twitter": "https://twitter.com/schukin"
+    },
+    {
+      "speaker": "sash-zats",
+      "role": "Software Engineer",
+      "bio": "Imposter at Facebook.",
+      "twitter": "https://twitter.com/zats"
+    },
+    {
+      "speaker": "dennis-pilarinos",
+      "role": "Founder & CEO, Buddybuild",
+      "bio": "Dennis Pilarinos is the founder and CEO of buddybuild, a continuous integration, delivery and user feedback platform that is designed, built and optimized specifically for mobile app developers. Prior to buddybuild, Dennis held product and engineering leadership roles at Amazon building and running the teams responsible for the Silk Web browser UI for the Kindle Fire Tablet and Fire Phone devices. Prior to his time at Amazon, he spent 9 years at Microsoft and founded the Azure teams focused on defining, building, delivering and operating the Messaging, Access Control and Workflow offerings of Microsoft's cloud services platform.",
+      "twitter": "https://twitter.com/dennispilarinos"
+    },
+    {
+      "speaker": "aleksandar-vacic",
+      "role": "Software Developer, Radiant Tap",
+      "bio": "Very opinionated. I develop beautiful, efficient iOS apps (see @radianttap).",
+      "twitter": "https://twitter.com/radiantav"
+    },
+    {
+      "speaker": "jorge-ortiz",
+      "role": "Founder & Mobile Dev Instructor, PoWWaU",
+      "bio": "PoWWaU founder. Mobile development instructor. Developer of productivity apps for mobile devices.",
+      "twitter": "https://twitter.com/jdortiz"
+    },
+    {
+      "speaker": "jorge-para-molina",
+      "role": "Mobility Architect, Cognizant",
+      "bio": "iOS and Android developer, TDD advocate, agilist. Riding the digital transformation. Mobile architect @Cognizant.",
+      "twitter": "https://twitter.com/jparamolina"
+    },
+    {
+      "speaker": "george-karavias",
+      "role": "Mobility Architect, Cognizant",
+      "bio": "Riding the mobile revolution wave from the get go having a blast creating mobile applications. Currently obsessing over Machine Learning, AR, and the cryptocurrency market.",
+      "twitter": "https://twitter.com/cognizant"
+    },
+    {
+      "speaker": "marcos-cobena-morian",
+      "role": "Senior Mobile Developer, DEVSDNA",
+      "bio": "I work as Senior Mobile Developer at DevsDNA, crafting both native Android and iOS apps which share a single codebase. My toolbox is all around Xamarin, although I like to use the most of each platform, so Xcode and Android Studio come with me as well. Passionate about engineering Design specs into real products. I'm not a freak nor expert on any particular aspect but on finding the roots on how things work. I find Designers-Developers relationship a beautiful place to stay.",
+      "twitter": "https://twitter.com/1Marcos2Cobena"
+    },
+    {
+      "speaker": "oriol-noya-giner",
+      "role": "Web & Mobile Developer, DEVSDNA",
+      "bio": "I’m a Web & Mobile Developer with a primary focus on the UI & UX side of the role. When it’s needed I also like to be involved in all other stages of the Digital Product lifecycle.",
+      "twitter": "https://twitter.com/oriolnoya"
+    }
+  ],
+  "talks": [
+    {
+      "slug": "asymmetric-cryptography-between-ios-and-the-rest-of-the-world",
+      "title": "Asymmetric Cryptography Between iOS and the Rest of the World",
+      "speakers": [
+        "ignacio-nieto"
+      ]
+    },
+    {
+      "slug": "building-an-ide-for-ios",
+      "title": "Building an IDE for iOS",
+      "speakers": [
+        "mark-villacampa"
+      ]
+    },
+    {
+      "slug": "building-buddybuild",
+      "title": "Building Buddybuild",
+      "speakers": [
+        "dennis-pilarinos"
+      ]
+    },
+    {
+      "slug": "creating-a-computer-vision-machine-learning-app-from-the-ground-up",
+      "title": "Creating a Computer Vision Machine Learning App From The Ground Up",
+      "speakers": [
+        "jorge-para-molina"
+      ]
+    },
+    {
+      "slug": "disassembly-for-fun-and-profit",
+      "title": "Disassembly for Fun and Profit",
+      "speakers": [
+        "alexsander-akers"
+      ]
+    },
+    {
+      "slug": "effective-remote-communication",
+      "title": "Effective Remote Communication",
+      "speakers": [
+        "peter-steinberger"
+      ]
+    },
+    {
+      "slug": "everyone-is-an-api-designer",
+      "title": "Everyone is an API designer",
+      "speakers": [
+        "john-sundell"
+      ]
+    },
+    {
+      "slug": "expand-your-skills-with-xamarin-from-native-to-cross-platform",
+      "title": "Expand your skills with Xamarin: from native to cross-platform",
+      "speakers": [
+        "marcos-cobena-morian"
+      ]
+    },
+    {
+      "slug": "facing-the-viper",
+      "title": "Facing the VIPER",
+      "speakers": [
+        "esteban-torres"
+      ]
+    },
+    {
+      "slug": "gems-of-gameplaykit",
+      "title": "Gems of GameplayKit",
+      "speakers": [
+        "tobias-due-munk"
+      ]
+    },
+    {
+      "slug": "growing",
+      "title": "Growing",
+      "speakers": [
+        "roy-marmelstein"
+      ]
+    },
+    {
+      "slug": "highly-maintainable-app-architecture",
+      "title": "Highly maintainable App Architecture",
+      "speakers": [
+        "aleksandar-vacic"
+      ]
+    },
+    {
+      "slug": "how-i-spent-all-my-savings-reinventing-programming",
+      "title": "How I Spent All My Savings Reinventing Programming",
+      "speakers": [
+        "luis-solano"
+      ]
+    },
+    {
+      "slug": "how-to-get-started-contributing-to-open-source-projects",
+      "title": "How to get started contributing to open source projects",
+      "speakers": [
+        "felix-krause"
+      ]
+    },
+    {
+      "slug": "hyper-fast-app-development-with-react-native",
+      "title": "Hyper fast app development with React Native",
+      "speakers": [
+        "fabio-pelosin"
+      ]
+    },
+    {
+      "slug": "implementing-trolldrop-on-ios",
+      "title": "Implementing TrollDrop on iOS",
+      "speakers": [
+        "alexsander-akers"
+      ]
+    },
+    {
+      "slug": "metaprogramming-in-swift",
+      "title": "Metaprogramming in Swift",
+      "speakers": [
+        "krzysztof-zablocki"
+      ]
+    },
+    {
+      "slug": "my-road-to-damascus-or-how-i-came-to-seriously-consider-functional-reactive-prog",
+      "title": "My Road to Damascus (or How I came to seriously consider Functional Reactive Programming)",
+      "speakers": [
+        "abizer-nasir"
+      ]
+    },
+    {
+      "slug": "pop",
+      "title": "POP",
+      "speakers": [
+        "esteban-torres"
+      ]
+    },
+    {
+      "slug": "real-world-accessibility",
+      "title": "Real World Accessibility",
+      "speakers": [
+        "sommer-panage"
+      ]
+    },
+    {
+      "slug": "start-where-you-are-iterating-at-scale",
+      "title": "Start Where You Are: Iterating at Scale",
+      "speakers": [
+        "kathy-tafel"
+      ]
+    },
+    {
+      "slug": "stop-making-average-apps",
+      "title": "Stop making average apps",
+      "speakers": [
+        "sally-shepard"
+      ]
+    },
+    {
+      "slug": "taming-animations",
+      "title": "Taming Animations",
+      "speakers": [
+        "sash-zats"
+      ]
+    },
+    {
+      "slug": "test-the-heck-out-of-your-swift-code",
+      "title": "Test the Heck out of your Swift Code",
+      "speakers": [
+        "jorge-ortiz"
+      ]
+    },
+    {
+      "slug": "understanding-code-signing-x509-and-apple",
+      "title": "Understanding code signing: x509 and Apple",
+      "speakers": [
+        "marin-usalj"
+      ]
+    },
+    {
+      "slug": "why-you-shouldn-t-write-tests-yes-we-re-going-there",
+      "title": "Why You Shouldn't Write Tests (Yes, We're Going There)",
+      "speakers": [
+        "dave-schukin"
+      ]
+    }
+  ]
+}

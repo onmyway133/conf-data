@@ -1,0 +1,16 @@
+{
+  "name": "Amuse Conference 2022",
+  "year": 2022,
+  "url": "https://amuseconf.com",
+  "startDate": "2022-10-05",
+  "endDate": "2022-10-07",
+  "city": "Budapest",
+  "country": "HU",
+  "lat": 47.49835,
+  "lng": 19.04045,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/amuseconf",
+  "source": "confs.tech"
+}

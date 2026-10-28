@@ -1,0 +1,16 @@
+{
+  "name": "JSHeroes 2023",
+  "year": 2023,
+  "url": "https://jsheroes.io",
+  "startDate": "2023-05-18",
+  "endDate": "2023-05-19",
+  "city": "Cluj-Napoca",
+  "country": "RO",
+  "lat": 46.76667,
+  "lng": 23.6,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/jsheroes2023",
+  "source": "confs.tech"
+}

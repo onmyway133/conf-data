@@ -1,0 +1,16 @@
+{
+  "name": "RE•WORK Applied AI Summit 2019",
+  "year": 2019,
+  "url": "https://www.re-work.co/events/applied-ai-summit-san-francisco-2019",
+  "startDate": "2019-06-20",
+  "endDate": "2019-06-21",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/reworkAI",
+  "source": "confs.tech"
+}

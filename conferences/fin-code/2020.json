@@ -1,0 +1,16 @@
+{
+  "name": "fin:CODE 2020",
+  "year": 2020,
+  "url": "https://www.fintech-code.com",
+  "startDate": "2020-11-30",
+  "endDate": "2020-12-01",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/weCONECT",
+  "source": "confs.tech"
+}

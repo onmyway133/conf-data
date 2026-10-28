@@ -1,0 +1,16 @@
+{
+  "name": "Serverless Architecture Conference Berlin 2025",
+  "year": 2025,
+  "url": "https://serverless-architecture.io/berlin",
+  "startDate": "2025-10-20",
+  "endDate": "2025-10-22",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "APIs"
+  ],
+  "twitter": "https://x.com/serverlesscon",
+  "source": "confs.tech"
+}

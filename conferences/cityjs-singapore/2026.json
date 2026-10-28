@@ -1,0 +1,22 @@
+{
+  "name": "CityJS Singapore 2026",
+  "year": 2026,
+  "url": "https://singapore.cityjsconf.org",
+  "startDate": "2026-02-04",
+  "endDate": "2026-02-06",
+  "city": "Singapore",
+  "country": "SG",
+  "lat": 1.28967,
+  "lng": 103.85007,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSdCB9sjowyPA6srn50l5M_rNxwC7D2_6vcTwRv57-vvk1wOBw/viewform",
+    "deadline": "2025-12-31",
+    "open": false
+  },
+  "twitter": "https://x.com/cityjsconf",
+  "bluesky": "https://bsky.app/profile/cityjsconf.bsky",
+  "source": "confs.tech"
+}

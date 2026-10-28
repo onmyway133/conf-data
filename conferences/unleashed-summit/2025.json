@@ -1,0 +1,15 @@
+{
+  "name": "Unleashed Summit 2025",
+  "year": 2025,
+  "url": "https://summit.productunleashed.co.uk",
+  "startDate": "2025-10-10",
+  "endDate": "2025-10-10",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "Design/UX"
+  ],
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "WordCamp Panama City 2019",
+  "year": 2019,
+  "url": "https://2019.panamacity.wordcamp.org",
+  "startDate": "2019-10-19",
+  "endDate": "2019-10-20",
+  "city": "Panama City",
+  "country": "PA",
+  "lat": 8.9936,
+  "lng": -79.51973,
+  "topics": [
+    "Networking"
+  ],
+  "twitter": "https://x.com/WordcampPanama",
+  "source": "confs.tech"
+}

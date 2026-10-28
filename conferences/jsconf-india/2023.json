@@ -1,0 +1,22 @@
+{
+  "name": "JSConf India 2023",
+  "year": 2023,
+  "url": "https://www.jsconf.in",
+  "startDate": "2023-06-02",
+  "endDate": "2023-06-02",
+  "city": "Bengaluru",
+  "country": "IN",
+  "lat": 12.97194,
+  "lng": 77.59369,
+  "topics": [
+    "JavaScript",
+    "TypeScript"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLScK_4aWEcrERtJPZX9kaA9cUlMdFYVp0xX55r8poVCavdTW2Q/viewform",
+    "deadline": "2023-04-25",
+    "open": false
+  },
+  "twitter": "https://x.com/jsconf_india",
+  "source": "confs.tech"
+}

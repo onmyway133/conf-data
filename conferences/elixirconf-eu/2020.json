@@ -1,0 +1,16 @@
+{
+  "name": "ELixirConf EU 2020",
+  "year": 2020,
+  "url": "https://www.elixirconf.eu",
+  "startDate": "2020-10-06",
+  "endDate": "2020-10-08",
+  "city": "Warsaw",
+  "country": "PL",
+  "lat": 52.22977,
+  "lng": 21.01178,
+  "topics": [
+    "Elixir"
+  ],
+  "twitter": "https://x.com/elixirconfeu",
+  "source": "confs.tech"
+}

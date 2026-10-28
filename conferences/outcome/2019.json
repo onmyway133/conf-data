@@ -1,0 +1,16 @@
+{
+  "name": "Outcome 2019",
+  "year": 2019,
+  "url": "http://outcomeconf.com",
+  "startDate": "2019-02-09",
+  "endDate": "2019-02-09",
+  "city": "Chandigarh",
+  "country": "IN",
+  "lat": 30.73629,
+  "lng": 76.7884,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/outcomeconf",
+  "source": "confs.tech"
+}

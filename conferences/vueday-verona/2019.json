@@ -1,0 +1,16 @@
+{
+  "name": "VueDay Verona 2019",
+  "year": 2019,
+  "url": "https://2019.vueday.it",
+  "startDate": "2019-04-12",
+  "endDate": "2019-04-12",
+  "city": "Verona",
+  "country": "IT",
+  "lat": 45.43854,
+  "lng": 10.9938,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/vuedayit",
+  "source": "confs.tech"
+}

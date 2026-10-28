@@ -1,0 +1,22 @@
+{
+  "name": "AndroidMakers by droidcon 2024",
+  "year": 2024,
+  "url": "https://androidmakers.droidcon.com",
+  "startDate": "2024-04-25",
+  "endDate": "2024-04-26",
+  "city": "Paris",
+  "country": "FR",
+  "lat": 48.85341,
+  "lng": 2.3488,
+  "topics": [
+    "Android",
+    "Kotlin"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/androidmakers-by-droidcon-2024",
+    "deadline": "2024-03-01",
+    "open": false
+  },
+  "twitter": "https://x.com/AndroidMakersFR",
+  "source": "confs.tech"
+}

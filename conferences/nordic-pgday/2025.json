@@ -1,0 +1,15 @@
+{
+  "name": "Nordic PGDay 2025",
+  "year": 2025,
+  "url": "https://2025.nordicpgday.org/",
+  "startDate": "2025-03-18",
+  "endDate": "2025-03-18",
+  "city": "Copenhagen",
+  "country": "DK",
+  "lat": 55.67594,
+  "lng": 12.56553,
+  "topics": [
+    "Data/AI"
+  ],
+  "source": "confs.tech"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "J-Fall 2024",
+  "year": 2024,
+  "url": "https://jfall.nl/",
+  "startDate": "2024-11-07",
+  "endDate": "2024-11-07",
+  "city": "Ede",
+  "country": "NL",
+  "lat": 52.03333,
+  "lng": 5.65833,
+  "topics": [
+    "Java"
+  ],
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "PyConZA 2019",
+  "year": 2019,
+  "url": "https://za.pycon.org",
+  "startDate": "2019-10-09",
+  "endDate": "2019-10-11",
+  "city": "Johannesburg",
+  "country": "ZA",
+  "lat": -26.20227,
+  "lng": 28.04363,
+  "topics": [
+    "Python"
+  ],
+  "twitter": "https://x.com/pyconza",
+  "source": "confs.tech"
+}

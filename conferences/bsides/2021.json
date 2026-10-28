@@ -1,0 +1,16 @@
+{
+  "name": "BSides 2021",
+  "year": 2021,
+  "url": "https://bsidesaugusta.org",
+  "startDate": "2021-10-02",
+  "endDate": "2021-10-02",
+  "city": "Augusta, GA",
+  "country": "US",
+  "lat": 33.47097,
+  "lng": -81.97484,
+  "topics": [
+    "Security"
+  ],
+  "twitter": "https://x.com/bsidesaugusta",
+  "source": "confs.tech"
+}

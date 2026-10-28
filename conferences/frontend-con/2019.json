@@ -1,0 +1,21 @@
+{
+  "name": "FRONTEND CON 2019",
+  "year": 2019,
+  "url": "https://frontend-con.io",
+  "startDate": "2019-11-26",
+  "endDate": "2019-11-27",
+  "city": "Warsaw",
+  "country": "PL",
+  "lat": 52.22977,
+  "lng": 21.01178,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://goo.gl/forms/V13IzNhrB7IMBiuA2",
+    "deadline": "2019-06-05",
+    "open": false
+  },
+  "twitter": "https://x.com/FrontEndConnect",
+  "source": "confs.tech"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "GraphQL Day Bodensee 2019",
+  "year": 2019,
+  "url": "https://www.graphqlday.org/bodensee",
+  "startDate": "2019-09-06",
+  "endDate": "2019-09-06",
+  "city": "Bodensee",
+  "country": "DE",
+  "topics": [
+    "GraphQL"
+  ],
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Nordic.js 2022",
+  "year": 2022,
+  "url": "https://nordicjs.com",
+  "startDate": "2022-10-06",
+  "endDate": "2022-10-07",
+  "city": "Stockholm",
+  "country": "SE",
+  "lat": 59.32938,
+  "lng": 18.06871,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/nordicjs",
+  "source": "confs.tech"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "WebCamp Zagreb 2019",
+  "year": 2019,
+  "url": "https://2019.webcampzg.org",
+  "startDate": "2019-10-11",
+  "endDate": "2019-10-12",
+  "city": "Zagreb",
+  "country": "HR",
+  "lat": 45.81444,
+  "lng": 15.97798,
+  "topics": [],
+  "cfp": {
+    "url": "https://2019.webcampzg.org/cfp",
+    "deadline": "2019-05-31",
+    "open": false
+  },
+  "twitter": "https://x.com/webcampzagreb",
+  "source": "confs.tech"
+}

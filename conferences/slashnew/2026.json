@@ -1,0 +1,19 @@
+{
+  "name": "SlashNEW 2026",
+  "year": 2026,
+  "url": "https://slashnew.tech",
+  "startDate": "2026-05-27",
+  "endDate": "2026-05-28",
+  "city": "Newcastle",
+  "country": "AU",
+  "lat": -32.92953,
+  "lng": 151.7801,
+  "topics": [],
+  "cfp": {
+    "url": "https://forms.gle/vQHsWqyJt5JnReu67",
+    "deadline": "2026-02-14",
+    "open": false
+  },
+  "twitter": "https://x.com/slashnew",
+  "source": "confs.tech"
+}

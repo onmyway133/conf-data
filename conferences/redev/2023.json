@@ -1,0 +1,19 @@
+{
+  "name": "Øredev 2023",
+  "year": 2023,
+  "url": "https://oredev.org",
+  "startDate": "2023-11-08",
+  "endDate": "2023-11-10",
+  "city": "Malmö",
+  "country": "SE",
+  "lat": 55.60587,
+  "lng": 13.00073,
+  "topics": [],
+  "cfp": {
+    "url": "https://oredev.org/callforpaper",
+    "deadline": "2023-03-31",
+    "open": false
+  },
+  "twitter": "https://x.com/oredev",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "O'Reilly AI Conference 2019",
+  "year": 2019,
+  "url": "https://conferences.oreilly.com/artificial-intelligence/ai-ca",
+  "startDate": "2019-09-09",
+  "endDate": "2019-09-12",
+  "city": "San Jose, CA",
+  "country": "US",
+  "lat": 37.33939,
+  "lng": -121.89496,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/OReillyAI",
+  "source": "confs.tech"
+}

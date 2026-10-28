@@ -1,0 +1,21 @@
+{
+  "name": "Enterprise AI Summit 2022",
+  "year": 2022,
+  "url": "https://www.enterprise-ai-ml.de",
+  "startDate": "2022-09-18",
+  "endDate": "2022-09-20",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://www.enterprise-ai-ml.de/sprecher",
+    "deadline": "2022-09-15",
+    "open": false
+  },
+  "twitter": "https://x.com/weCONECT",
+  "source": "confs.tech"
+}

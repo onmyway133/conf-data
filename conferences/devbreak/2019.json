@@ -1,0 +1,16 @@
+{
+  "name": "DevBreak 2019",
+  "year": 2019,
+  "url": "https://www.devbreak.io",
+  "startDate": "2019-06-13",
+  "endDate": "2019-06-14",
+  "city": "Paris",
+  "country": "FR",
+  "lat": 48.85341,
+  "lng": 2.3488,
+  "topics": [
+    "Networking"
+  ],
+  "twitter": "https://x.com/DevBreak19",
+  "source": "confs.tech"
+}

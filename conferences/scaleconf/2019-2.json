@@ -1,0 +1,16 @@
+{
+  "name": "ScaleConf 2019",
+  "year": 2019,
+  "url": "https://scaleconfco.com",
+  "startDate": "2019-05-17",
+  "endDate": "2019-05-18",
+  "city": "Medellín",
+  "country": "CO",
+  "lat": 6.245,
+  "lng": -75.57151,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/scaleconfco",
+  "source": "confs.tech"
+}

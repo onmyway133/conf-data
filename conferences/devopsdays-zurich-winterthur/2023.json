@@ -1,0 +1,16 @@
+{
+  "name": "Devopsdays Zurich (Winterthur) 2023",
+  "year": 2023,
+  "url": "https://devopsdays.org/events/2023-zurich/welcome",
+  "startDate": "2023-05-03",
+  "endDate": "2023-05-04",
+  "city": "Zurich",
+  "country": "CH",
+  "lat": 47.36667,
+  "lng": 8.55,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/DevOpsZH",
+  "source": "confs.tech"
+}

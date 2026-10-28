@@ -1,0 +1,17 @@
+{
+  "name": "MLcon Munich 2026",
+  "year": 2026,
+  "url": "https://mlconference.ai/munich",
+  "startDate": "2026-06-22",
+  "endDate": "2026-06-26",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/mlconference",
+  "bluesky": "https://bsky.app/profile/mlcon.bsky.social",
+  "source": "confs.tech"
+}

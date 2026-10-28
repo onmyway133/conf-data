@@ -1,0 +1,21 @@
+{
+  "name": "Odoo Roadshow Berlin 2022",
+  "year": 2022,
+  "url": "https://www.odoo.com/de_DE/event/odoo-roadshow-berlin-3199",
+  "startDate": "2022-05-03",
+  "endDate": "2022-05-03",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "Python"
+  ],
+  "cfp": {
+    "url": "https://www.bloopark.de",
+    "deadline": "2022-05-02",
+    "open": false
+  },
+  "twitter": "https://x.com/odoo",
+  "source": "confs.tech"
+}

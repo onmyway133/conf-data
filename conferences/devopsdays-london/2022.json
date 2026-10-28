@@ -1,0 +1,16 @@
+{
+  "name": "DevopsDays London 2022",
+  "year": 2022,
+  "url": "https://devopsdays.org/events/2022-london/welcome",
+  "startDate": "2022-09-29",
+  "endDate": "2022-09-30",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/DevOpsDaysLDN",
+  "source": "confs.tech"
+}

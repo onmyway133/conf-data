@@ -1,0 +1,21 @@
+{
+  "name": "Quest for Quality Conference 2020",
+  "year": 2020,
+  "url": "https://www.questforquality.eu",
+  "startDate": "2020-10-27",
+  "endDate": "2020-10-28",
+  "city": "Dublin",
+  "country": "IE",
+  "lat": 53.33306,
+  "lng": -6.24889,
+  "topics": [
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://www.questforquality.eu/event-registration/call-for-papers",
+    "deadline": "2020-07-31",
+    "open": false
+  },
+  "twitter": "https://x.com/Quest_4_Quality",
+  "source": "confs.tech"
+}

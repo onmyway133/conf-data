@@ -1,0 +1,21 @@
+{
+  "name": "SunshinePHP 2019",
+  "year": 2019,
+  "url": "http://sunshinephp.com",
+  "startDate": "2019-02-07",
+  "endDate": "2019-02-09",
+  "city": "Miami, FL",
+  "country": "US",
+  "lat": 25.77427,
+  "lng": -80.19366,
+  "topics": [
+    "PHP"
+  ],
+  "cfp": {
+    "url": "https://cfp.sunshinephp.com",
+    "deadline": "2018-09-15",
+    "open": false
+  },
+  "twitter": "https://x.com/SunshinePHP",
+  "source": "confs.tech"
+}

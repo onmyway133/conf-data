@@ -1,0 +1,23 @@
+{
+  "name": "Wey Wey Web 2026",
+  "year": 2026,
+  "url": "https://weyweyweb.com",
+  "startDate": "2026-10-29",
+  "endDate": "2026-10-30",
+  "city": "Malaga",
+  "country": "ES",
+  "lat": 36.72016,
+  "lng": -4.42034,
+  "topics": [
+    "Accessibility",
+    "CSS"
+  ],
+  "cfp": {
+    "url": "https://confeti.app/events/weyweyweb-2026",
+    "deadline": "2026-03-31",
+    "open": true
+  },
+  "twitter": "https://x.com/WeyWeyWeb",
+  "bluesky": "https://bsky.app/profile/weyweyweb.bsky.social",
+  "source": "confs.tech"
+}

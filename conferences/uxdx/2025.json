@@ -1,0 +1,21 @@
+{
+  "name": "UXDX 2025",
+  "year": 2025,
+  "url": "https://uxdx.com/usa/2025",
+  "startDate": "2025-05-12",
+  "endDate": "2025-05-14",
+  "city": "New York, NY",
+  "country": "US",
+  "lat": 40.71427,
+  "lng": -74.00597,
+  "topics": [
+    "Design/UX"
+  ],
+  "cfp": {
+    "url": "https://uxdx.com/speak/",
+    "deadline": "2025-05-11",
+    "open": false
+  },
+  "twitter": "https://x.com/uxdxconf",
+  "source": "confs.tech"
+}

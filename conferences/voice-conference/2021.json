@@ -1,0 +1,16 @@
+{
+  "name": "Voice Conference 2021",
+  "year": 2021,
+  "url": "https://voicecon.net",
+  "startDate": "2021-12-06",
+  "endDate": "2021-12-08",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/Voice_Con",
+  "source": "confs.tech"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "X-Ops Conference Madrid 2026",
+  "year": 2026,
+  "url": "https://xopsconference.com",
+  "startDate": "2026-11-19",
+  "endDate": "2026-11-21",
+  "city": "Madrid",
+  "country": "ES",
+  "lat": 40.4165,
+  "lng": -3.70256,
+  "topics": [
+    "DevOps",
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/x-ops-conference-2026",
+    "deadline": "2026-08-31",
+    "open": true
+  },
+  "twitter": "https://x.com/xopsconference",
+  "source": "confs.tech"
+}

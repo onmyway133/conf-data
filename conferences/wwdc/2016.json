@@ -1,0 +1,15 @@
+{
+  "name": "WWDC 2016",
+  "year": 2016,
+  "url": "https://developer.apple.com/wwdc/",
+  "startDate": "2016-06-13",
+  "endDate": "2016-06-17",
+  "city": "San Francisco",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences"
+}

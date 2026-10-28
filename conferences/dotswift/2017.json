@@ -1,0 +1,15 @@
+{
+  "name": "dot Swift 2017",
+  "year": 2017,
+  "url": "http://www.dotswift.io",
+  "startDate": "2017-01-27",
+  "endDate": "2017-01-27",
+  "city": "Paris",
+  "country": "FR",
+  "lat": 48.85341,
+  "lng": 2.3488,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences"
+}

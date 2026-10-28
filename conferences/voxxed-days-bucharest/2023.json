@@ -1,0 +1,18 @@
+{
+  "name": "Voxxed Days Bucharest 2023",
+  "year": 2023,
+  "url": "https://romania.voxxeddays.com/voxxed-days-bucharest-2023",
+  "startDate": "2023-03-22",
+  "endDate": "2023-03-24",
+  "city": "Bucharest",
+  "country": "RO",
+  "lat": 44.43225,
+  "lng": 26.10626,
+  "topics": [
+    "DevOps",
+    "Java",
+    "Security"
+  ],
+  "twitter": "https://x.com/VoxxedBucharest",
+  "source": "confs.tech"
+}

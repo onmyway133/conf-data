@@ -1,0 +1,14 @@
+{
+  "name": "Gluecon 2019",
+  "year": 2019,
+  "url": "http://gluecon.com",
+  "startDate": "2019-05-22",
+  "endDate": "2019-05-23",
+  "city": "Denver, CO",
+  "country": "US",
+  "lat": 39.73915,
+  "lng": -104.9847,
+  "topics": [],
+  "twitter": "https://x.com/defrag",
+  "source": "confs.tech"
+}

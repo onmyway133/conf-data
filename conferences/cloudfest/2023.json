@@ -1,0 +1,19 @@
+{
+  "name": "Cloudfest 2023",
+  "year": 2023,
+  "url": "https://www.cloudfest.com",
+  "startDate": "2023-03-21",
+  "endDate": "2023-03-23",
+  "city": "Rust",
+  "country": "DE",
+  "lat": 48.26667,
+  "lng": 7.73333,
+  "topics": [],
+  "cfp": {
+    "url": "https://www.cloudfest.com/cloudfest-call-for-submissions",
+    "deadline": "2022-12-31",
+    "open": false
+  },
+  "twitter": "https://x.com/cloudfest",
+  "source": "confs.tech"
+}

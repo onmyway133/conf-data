@@ -1,0 +1,16 @@
+{
+  "name": "Code BEAM SF 2019",
+  "year": 2019,
+  "url": "https://codesync.global/conferences/code-beam-sf-2019",
+  "startDate": "2019-02-28",
+  "endDate": "2019-03-01",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [
+    "Elixir"
+  ],
+  "twitter": "https://x.com/CodeBEAMio",
+  "source": "confs.tech"
+}

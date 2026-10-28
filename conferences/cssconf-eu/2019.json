@@ -1,0 +1,16 @@
+{
+  "name": "CSSConf EU 2019",
+  "year": 2019,
+  "url": "https://2019.cssconf.eu",
+  "startDate": "2019-05-31",
+  "endDate": "2019-05-31",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "CSS"
+  ],
+  "twitter": "https://x.com/cssconfeu",
+  "source": "confs.tech"
+}

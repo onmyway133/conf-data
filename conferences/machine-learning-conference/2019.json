@@ -1,0 +1,21 @@
+{
+  "name": "Machine Learning Conference 2019",
+  "year": 2019,
+  "url": "https://mlconference.ai",
+  "startDate": "2019-12-09",
+  "endDate": "2019-12-11",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://callforpapers.sandsmedia.com",
+    "deadline": "2019-06-16",
+    "open": false
+  },
+  "twitter": "https://x.com/mlconference",
+  "source": "confs.tech"
+}

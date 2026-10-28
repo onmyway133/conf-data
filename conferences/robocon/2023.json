@@ -1,0 +1,21 @@
+{
+  "name": "RoboCon 2023",
+  "year": 2023,
+  "url": "https://robocon.io",
+  "startDate": "2023-01-19",
+  "endDate": "2023-01-20",
+  "city": "Helsinki",
+  "country": "FI",
+  "lat": 60.16952,
+  "lng": 24.93545,
+  "topics": [
+    "Testing"
+  ],
+  "cfp": {
+    "url": "https://cfp.robocon.io/robocon-2023",
+    "deadline": "2022-09-16",
+    "open": false
+  },
+  "twitter": "https://x.com/robocon",
+  "source": "confs.tech"
+}

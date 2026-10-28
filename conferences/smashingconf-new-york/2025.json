@@ -1,0 +1,17 @@
+{
+  "name": "SmashingConf New York 2025",
+  "year": 2025,
+  "url": "https://smashingconf.com/ny-2025",
+  "startDate": "2025-10-06",
+  "endDate": "2025-10-09",
+  "city": "New York, NY",
+  "country": "US",
+  "lat": 40.71427,
+  "lng": -74.00597,
+  "topics": [
+    "CSS",
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/smashingconf",
+  "source": "confs.tech"
+}

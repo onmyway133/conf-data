@@ -1,0 +1,16 @@
+{
+  "name": "droidcon Lisbon 2020",
+  "year": 2020,
+  "url": "https://www.lisbon.droidcon.com",
+  "startDate": "2020-09-24",
+  "endDate": "2020-09-25",
+  "city": "Lisbon",
+  "country": "PT",
+  "lat": 38.72509,
+  "lng": -9.1498,
+  "topics": [
+    "Android"
+  ],
+  "twitter": "https://x.com/droidconlisbon",
+  "source": "confs.tech"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Sunny Tech 2019",
+  "year": 2019,
+  "url": "https://sunny-tech.io",
+  "startDate": "2019-06-27",
+  "endDate": "2019-06-28",
+  "city": "Montpellier",
+  "country": "FR",
+  "lat": 43.61093,
+  "lng": 3.87635,
+  "topics": [],
+  "cfp": {
+    "url": "https://conference-hall.io/public/event/dWsbvnSTdg5v1pxwKhLM",
+    "deadline": "2019-02-28",
+    "open": false
+  },
+  "twitter": "https://x.com/SunnyTech_MTP",
+  "source": "confs.tech"
+}

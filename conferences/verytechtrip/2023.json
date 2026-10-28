@@ -1,0 +1,19 @@
+{
+  "name": "VeryTechTrip 2023",
+  "year": 2023,
+  "url": "https://verytechtrip.com",
+  "startDate": "2023-02-02",
+  "endDate": "2023-02-02",
+  "city": "Paris",
+  "country": "FR",
+  "lat": 48.85341,
+  "lng": 2.3488,
+  "topics": [],
+  "cfp": {
+    "url": "https://conference-hall.io/public/event/hoyBWUXe43dnoiBekZaB",
+    "deadline": "2022-11-14",
+    "open": false
+  },
+  "twitter": "https://x.com/OVHcloud_Tech",
+  "source": "confs.tech"
+}

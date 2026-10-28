@@ -1,0 +1,16 @@
+{
+  "name": "Authenticate 2024",
+  "year": 2024,
+  "url": "https://authenticatecon.com/",
+  "startDate": "2024-10-14",
+  "endDate": "2024-10-16",
+  "city": "Carlsbad, CA",
+  "country": "US",
+  "lat": 33.15809,
+  "lng": -117.35059,
+  "topics": [
+    "Identity"
+  ],
+  "twitter": "https://x.com/AuthenticateCon",
+  "source": "confs.tech"
+}

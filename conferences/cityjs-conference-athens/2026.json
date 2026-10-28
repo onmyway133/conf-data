@@ -1,0 +1,22 @@
+{
+  "name": "CityJS Conference Athens 2026",
+  "year": 2026,
+  "url": "https://athens.cityjsconf.org",
+  "startDate": "2026-10-21",
+  "endDate": "2026-10-23",
+  "city": "Athens",
+  "country": "GR",
+  "lat": 37.98376,
+  "lng": 23.72784,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSejZUdKqdZo0fZtcqDEWOqkhTGgsnXx5KJOo5flW2E-Ej2a2A/viewform",
+    "deadline": "2026-06-30",
+    "open": false
+  },
+  "twitter": "https://x.com/cityjsconf",
+  "bluesky": "https://bsky.app/profile/cityjsconf.bsky.social",
+  "source": "confs.tech"
+}

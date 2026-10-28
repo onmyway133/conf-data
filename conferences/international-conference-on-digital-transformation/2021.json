@@ -1,0 +1,16 @@
+{
+  "name": "International Conference on Digital Transformation 2021",
+  "year": 2021,
+  "url": "http://conference.ternet.or.tz",
+  "startDate": "2021-09-12",
+  "endDate": "2021-09-17",
+  "city": "Dar es Salaam",
+  "country": "TZ",
+  "lat": -6.82349,
+  "lng": 39.26951,
+  "topics": [
+    "Networking"
+  ],
+  "twitter": "https://x.com/Ternet10",
+  "source": "confs.tech"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Heapcon 2024",
+  "year": 2024,
+  "url": "https://heapcon.io",
+  "startDate": "2024-11-07",
+  "endDate": "2024-11-08",
+  "city": "Belgrade",
+  "country": "RS",
+  "lat": 44.80401,
+  "lng": 20.46513,
+  "topics": [],
+  "cfp": {
+    "url": "https://heapcon.io/2024/call-for-papers",
+    "deadline": "2024-06-01",
+    "open": false
+  },
+  "twitter": "https://x.com/Heapconf",
+  "source": "confs.tech"
+}

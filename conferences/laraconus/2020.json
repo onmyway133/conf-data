@@ -1,0 +1,16 @@
+{
+  "name": "LaraconUS 2020",
+  "year": 2020,
+  "url": "https://laracon.us",
+  "startDate": "2020-07-28",
+  "endDate": "2020-07-29",
+  "city": "Atlanta, GA",
+  "country": "US",
+  "lat": 33.749,
+  "lng": -84.38798,
+  "topics": [
+    "PHP"
+  ],
+  "twitter": "https://x.com/LaraconUS",
+  "source": "confs.tech"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Rock and React > React Norway 2026",
+  "year": 2026,
+  "url": "https://reactnorway.com",
+  "startDate": "2026-06-05",
+  "endDate": "2026-06-05",
+  "city": "Oslo",
+  "country": "NO",
+  "lat": 59.91273,
+  "lng": 10.74609,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://forms.gle/pzQpippVee82GLuQ9",
+    "deadline": "2026-01-15",
+    "open": false
+  },
+  "twitter": "https://x.com/ReactNorway",
+  "source": "confs.tech"
+}

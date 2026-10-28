@@ -1,0 +1,16 @@
+{
+  "name": "UX Insight 2019",
+  "year": 2019,
+  "url": "https://www.uxinsightevent.com",
+  "startDate": "2019-04-03",
+  "endDate": "2019-04-04",
+  "city": "Utrecht",
+  "country": "NL",
+  "lat": 52.09083,
+  "lng": 5.12222,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/UXinsight_NL",
+  "source": "confs.tech"
+}

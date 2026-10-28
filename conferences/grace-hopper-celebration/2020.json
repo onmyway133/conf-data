@@ -1,0 +1,16 @@
+{
+  "name": "Grace Hopper Celebration 2020",
+  "year": 2020,
+  "url": "https://ghc.anitab.org/2020-attend",
+  "startDate": "2020-09-29",
+  "endDate": "2020-10-02",
+  "city": "Orlando, FL",
+  "country": "US",
+  "lat": 28.53834,
+  "lng": -81.37924,
+  "topics": [
+    "Networking"
+  ],
+  "twitter": "https://x.com/ghc",
+  "source": "confs.tech"
+}

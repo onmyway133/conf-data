@@ -1,0 +1,16 @@
+{
+  "name": "Heart of Clojure 2019",
+  "year": 2019,
+  "url": "https://heartofclojure.eu",
+  "startDate": "2019-08-02",
+  "endDate": "2019-08-03",
+  "city": "Leuven",
+  "country": "BE",
+  "lat": 50.87959,
+  "lng": 4.70093,
+  "topics": [
+    "Clojure"
+  ],
+  "twitter": "https://x.com/heartofclojure",
+  "source": "confs.tech"
+}

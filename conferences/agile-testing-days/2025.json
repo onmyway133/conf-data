@@ -1,0 +1,23 @@
+{
+  "name": "Agile Testing Days 2025",
+  "year": 2025,
+  "url": "https://agiletestingdays.com",
+  "startDate": "2025-11-24",
+  "endDate": "2025-11-27",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "Accessibility",
+    "DevOps",
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://agiletestingdays.com/call-for-papers",
+    "deadline": "2025-03-30",
+    "open": false
+  },
+  "bluesky": "https://bsky.app/profile/agiletdzone.bsky.social",
+  "source": "confs.tech"
+}

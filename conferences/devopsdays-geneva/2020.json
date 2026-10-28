@@ -1,0 +1,16 @@
+{
+  "name": "devopsdays Geneva 2020",
+  "year": 2020,
+  "url": "https://devopsdays.org/events/2020-geneva/welcome",
+  "startDate": "2020-02-24",
+  "endDate": "2020-02-25",
+  "city": "Geneva",
+  "country": "CH",
+  "lat": 46.20222,
+  "lng": 6.14569,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/DevopsdaysGe",
+  "source": "confs.tech"
+}

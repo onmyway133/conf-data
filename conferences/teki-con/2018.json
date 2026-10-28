@@ -1,0 +1,15 @@
+{
+  "name": "Teki Con 2018",
+  "year": 2018,
+  "url": "https://teki-con.com/",
+  "startDate": "2018-03-12",
+  "endDate": "2018-03-14",
+  "city": "Atlanta",
+  "country": "US",
+  "lat": 33.749,
+  "lng": -84.38798,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences"
+}

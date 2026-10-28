@@ -1,0 +1,16 @@
+{
+  "name": "Oslo Elm Day 2019",
+  "year": 2019,
+  "url": "https://osloelmday.no",
+  "startDate": "2019-02-16",
+  "endDate": "2019-02-16",
+  "city": "Oslo",
+  "country": "NO",
+  "lat": 59.91273,
+  "lng": 10.74609,
+  "topics": [
+    "Elm"
+  ],
+  "twitter": "https://x.com/osloelmday",
+  "source": "confs.tech"
+}

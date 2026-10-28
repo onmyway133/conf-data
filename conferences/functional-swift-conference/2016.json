@@ -1,0 +1,53 @@
+{
+  "name": "Functional Swift Conference 2016",
+  "year": 2016,
+  "url": "http://2016.funswiftconf.com",
+  "startDate": "2016-10-01",
+  "endDate": "2016-10-02",
+  "city": "Budapest",
+  "country": "HU",
+  "lat": 47.49835,
+  "lng": 19.04045,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences",
+  "speakers": [
+    {
+      "speaker": "chris-eidhof",
+      "twitter": "https://www.twitter.com/chriseidhof"
+    },
+    {
+      "speaker": "gina-binetti",
+      "twitter": "https://www.twitter.com/theginbin"
+    },
+    {
+      "speaker": "lisa-luo",
+      "twitter": "https://www.twitter.com/luoser"
+    },
+    {
+      "speaker": "viktor-belenyesi",
+      "twitter": "https://www.twitter.com/bvic23"
+    },
+    {
+      "speaker": "yasuhiro-inami",
+      "twitter": "https://www.twitter.com/inamiy"
+    },
+    {
+      "speaker": "karoly-lorentey",
+      "twitter": "https://www.twitter.com/lorentey"
+    },
+    {
+      "speaker": "daniel-haight",
+      "twitter": "https://www.twitter.com/Daniel1of1"
+    },
+    {
+      "speaker": "rheese-burgess",
+      "twitter": "https://www.twitter.com/RheeseyB"
+    },
+    {
+      "speaker": "brandon-williams",
+      "twitter": "https://www.twitter.com/mbrandonw"
+    }
+  ]
+}

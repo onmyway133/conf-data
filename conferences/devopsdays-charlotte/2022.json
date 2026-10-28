@@ -1,0 +1,16 @@
+{
+  "name": "Devopsdays Charlotte 2022",
+  "year": 2022,
+  "url": "https://devopsdays.org/events/2022-charlotte/welcome",
+  "startDate": "2022-09-08",
+  "endDate": "2022-09-09",
+  "city": "Charlotte, NC",
+  "country": "US",
+  "lat": 35.22709,
+  "lng": -80.84313,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devopsdays_clt",
+  "source": "confs.tech"
+}

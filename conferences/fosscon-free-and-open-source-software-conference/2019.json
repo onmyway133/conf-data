@@ -1,0 +1,18 @@
+{
+  "name": "FOSSCON - Free and Open Source Software Conference 2019",
+  "year": 2019,
+  "url": "http://www.fosscon.in",
+  "startDate": "2019-08-29",
+  "endDate": "2019-08-31",
+  "city": "Belagavi",
+  "country": "IN",
+  "lat": 15.85212,
+  "lng": 74.50447,
+  "topics": [],
+  "cfp": {
+    "url": "https://cmt3.research.microsoft.com/FOSSCONIndia2019",
+    "deadline": "2019-06-10",
+    "open": false
+  },
+  "source": "confs.tech"
+}

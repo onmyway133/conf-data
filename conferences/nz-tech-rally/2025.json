@@ -1,0 +1,19 @@
+{
+  "name": "NZ Tech Rally 2025",
+  "year": 2025,
+  "url": "https://nztechrally.nz",
+  "startDate": "2025-05-16",
+  "endDate": "2025-05-16",
+  "city": "Wellington",
+  "country": "NZ",
+  "lat": -41.28664,
+  "lng": 174.77557,
+  "topics": [],
+  "cfp": {
+    "url": "https://nztechrally.nz/call-for-proposals",
+    "deadline": "2024-06-27",
+    "open": false
+  },
+  "twitter": "https://x.com/NZTechRally",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Dotnetos - .NET Performance Conference 2019",
+  "year": 2019,
+  "url": "https://conf.dotnetos.org",
+  "startDate": "2019-10-10",
+  "endDate": "2019-10-11",
+  "city": "Warsaw",
+  "country": "PL",
+  "lat": 52.22977,
+  "lng": 21.01178,
+  "topics": [
+    ".NET"
+  ],
+  "twitter": "https://x.com/dotnetosorg",
+  "source": "confs.tech"
+}

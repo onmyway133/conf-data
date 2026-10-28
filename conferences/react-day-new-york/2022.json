@@ -1,0 +1,19 @@
+{
+  "name": "React Day New York 2022",
+  "year": 2022,
+  "url": "https://www.reactnewyork.com",
+  "startDate": "2022-09-09",
+  "endDate": "2022-09-09",
+  "city": "New York, NY",
+  "country": "US",
+  "lat": 40.71427,
+  "lng": -74.00597,
+  "topics": [],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSeZGFyO9ee5-ZLvu4s3eTXx7noSjGs-2469kovhLuA1QzA1rw/viewform",
+    "deadline": "2022-08-01",
+    "open": false
+  },
+  "twitter": "https://x.com/ReactNewYork",
+  "source": "confs.tech"
+}

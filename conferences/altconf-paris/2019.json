@@ -1,0 +1,20 @@
+{
+  "name": "AltConf Paris 2019",
+  "year": 2019,
+  "url": "http://paris.altconf.com",
+  "startDate": "2019-06-03",
+  "endDate": "2019-06-03",
+  "city": "Paris",
+  "country": "FR",
+  "lat": 48.85341,
+  "lng": 2.3488,
+  "topics": [
+    "iOS"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLScSuuFh2o2xrgh4uNrl-NL0BNLCISM3Hw9ehmBvQgsAdBwlbA/viewform?usp=sf_link",
+    "deadline": "2019-04-29",
+    "open": false
+  },
+  "source": "cocoaconferences"
+}

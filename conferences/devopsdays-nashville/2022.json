@@ -1,0 +1,20 @@
+{
+  "name": "Devopsdays Nashville 2022",
+  "year": 2022,
+  "url": "https://devopsdays.org/events/2022-nashville/welcome",
+  "startDate": "2022-05-05",
+  "endDate": "2022-05-06",
+  "city": "Nashville, TN",
+  "country": "US",
+  "lat": 36.16589,
+  "lng": -86.78444,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://devopsdays.org/events/2022-nashville/propose",
+    "open": false
+  },
+  "twitter": "https://x.com/nashvilledevops",
+  "source": "confs.tech"
+}

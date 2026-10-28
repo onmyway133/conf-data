@@ -1,0 +1,19 @@
+{
+  "name": "Init 2022",
+  "year": 2022,
+  "url": "https://initconf.org",
+  "startDate": "2022-09-24",
+  "endDate": "2022-09-24",
+  "city": "Banja Luka",
+  "country": "BA",
+  "lat": 44.77879,
+  "lng": 17.20629,
+  "topics": [],
+  "cfp": {
+    "url": "https://sessionize.com/init-2022",
+    "deadline": "2022-06-15",
+    "open": false
+  },
+  "twitter": "https://x.com/InitConfBL",
+  "source": "confs.tech"
+}

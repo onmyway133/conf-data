@@ -1,0 +1,14 @@
+{
+  "name": "Dublin Tech Summit 2019",
+  "year": 2019,
+  "url": "http://dublintechsummit.com",
+  "startDate": "2019-04-10",
+  "endDate": "2019-04-11",
+  "city": "Dublin",
+  "country": "IE",
+  "lat": 53.33306,
+  "lng": -6.24889,
+  "topics": [],
+  "twitter": "https://x.com/DubTechSummit",
+  "source": "confs.tech"
+}

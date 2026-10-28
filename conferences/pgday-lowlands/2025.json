@@ -1,0 +1,20 @@
+{
+  "name": "PGDay Lowlands 2025",
+  "year": 2025,
+  "url": "https://2025.pgday.nl/",
+  "startDate": "2025-09-12",
+  "endDate": "2025-09-12",
+  "city": "Rotterdam",
+  "country": "NL",
+  "lat": 51.9225,
+  "lng": 4.47917,
+  "topics": [
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://2025.pgday.nl/call-for-papers/",
+    "deadline": "2025-05-01",
+    "open": false
+  },
+  "source": "confs.tech"
+}

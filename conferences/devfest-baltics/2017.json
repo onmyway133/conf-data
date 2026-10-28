@@ -1,0 +1,16 @@
+{
+  "name": "DevFest Baltics 2017",
+  "year": 2017,
+  "url": "https://devfest.gdg.lv/",
+  "startDate": "2017-11-17",
+  "endDate": "2017-11-17",
+  "city": "Riga",
+  "country": "LV",
+  "lat": 56.946,
+  "lng": 24.10589,
+  "topics": [
+    "iOS",
+    "Mobile"
+  ],
+  "source": "cocoaconferences"
+}

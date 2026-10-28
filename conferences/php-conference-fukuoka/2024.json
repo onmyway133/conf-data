@@ -1,0 +1,16 @@
+{
+  "name": "PHP Conference Fukuoka 2024",
+  "year": 2024,
+  "url": "https://phpcon.fukuoka.jp/2024",
+  "startDate": "2024-06-22",
+  "endDate": "2024-06-22",
+  "city": "Fukuoka",
+  "country": "JP",
+  "lat": 33.6,
+  "lng": 130.41667,
+  "topics": [
+    "PHP"
+  ],
+  "twitter": "https://x.com/phpcon_fukuoka",
+  "source": "confs.tech"
+}

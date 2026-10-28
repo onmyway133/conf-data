@@ -1,0 +1,15 @@
+{
+  "name": "The MERGE 2024",
+  "year": 2024,
+  "url": "https://merge.berlin",
+  "startDate": "2024-06-13",
+  "endDate": "2024-06-14",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "Networking"
+  ],
+  "source": "confs.tech"
+}

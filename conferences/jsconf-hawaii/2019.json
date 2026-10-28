@@ -1,0 +1,21 @@
+{
+  "name": "JSConf Hawaii 2019",
+  "year": 2019,
+  "url": "https://www.jsconfhi.com",
+  "startDate": "2019-02-07",
+  "endDate": "2019-02-08",
+  "city": "Honolulu, HI",
+  "country": "US",
+  "lat": 21.30694,
+  "lng": -157.85833,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://www.jsconfhi.com/call-for-speakers",
+    "deadline": "2018-08-10",
+    "open": false
+  },
+  "twitter": "https://x.com/jsconfhi",
+  "source": "confs.tech"
+}

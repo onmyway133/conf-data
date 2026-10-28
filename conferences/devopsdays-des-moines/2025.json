@@ -1,0 +1,20 @@
+{
+  "name": "Devopsdays Des Moines 2025",
+  "year": 2025,
+  "url": "https://devopsdays.org/events/2025-des-moines/welcome",
+  "startDate": "2025-10-02",
+  "endDate": "2025-10-03",
+  "city": "Des Moines, IA",
+  "country": "US",
+  "lat": 41.60054,
+  "lng": -93.60911,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/agile-devopsdays-des-moines-2025",
+    "deadline": "2025-04-30",
+    "open": false
+  },
+  "source": "confs.tech"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "AltConf 2017",
+  "year": 2017,
+  "url": "http://altconf.com/",
+  "startDate": "2017-06-05",
+  "endDate": "2017-06-08",
+  "city": "San Jose",
+  "country": "US",
+  "lat": 37.33939,
+  "lng": -121.89496,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences"
+}

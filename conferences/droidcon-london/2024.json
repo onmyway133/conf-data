@@ -1,0 +1,17 @@
+{
+  "name": "droidcon London 2024",
+  "year": 2024,
+  "url": "https://london.droidcon.com",
+  "startDate": "2024-10-31",
+  "endDate": "2024-11-01",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "Android"
+  ],
+  "twitter": "https://x.com/droidconLondon",
+  "mastodon": "https://androiddev.social/@droidcon",
+  "source": "confs.tech"
+}

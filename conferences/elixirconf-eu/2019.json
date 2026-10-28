@@ -1,0 +1,16 @@
+{
+  "name": "ElixirConf EU 2019",
+  "year": 2019,
+  "url": "http://www.elixirconf.eu",
+  "startDate": "2019-04-08",
+  "endDate": "2019-04-09",
+  "city": "Prague",
+  "country": "CZ",
+  "lat": 50.08804,
+  "lng": 14.42076,
+  "topics": [
+    "Elixir"
+  ],
+  "twitter": "https://x.com/ElixirConfEU",
+  "source": "confs.tech"
+}

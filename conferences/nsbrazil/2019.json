@@ -1,0 +1,20 @@
+{
+  "name": "NSBrazil 2019",
+  "year": 2019,
+  "url": "https://nsbrazil.com/en/",
+  "startDate": "2019-11-09",
+  "endDate": "2019-11-10",
+  "city": "São Paulo",
+  "country": "BR",
+  "lat": -23.5475,
+  "lng": -46.63611,
+  "topics": [
+    "iOS"
+  ],
+  "cfp": {
+    "url": "https://www.papercall.io/nsbrazil",
+    "deadline": "2019-09-15",
+    "open": false
+  },
+  "source": "cocoaconferences"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Java Forum Nord 2023",
+  "year": 2023,
+  "url": "https://javaforumnord.de",
+  "startDate": "2023-09-12",
+  "endDate": "2023-09-12",
+  "city": "Hannover",
+  "country": "DE",
+  "lat": 52.37052,
+  "lng": 9.73322,
+  "topics": [
+    "Java"
+  ],
+  "twitter": "https://x.com/JavaForumNord",
+  "mastodon": "https://ijug.social/@JavaForumNord",
+  "source": "confs.tech"
+}

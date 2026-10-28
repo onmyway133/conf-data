@@ -1,0 +1,19 @@
+{
+  "name": "Codemotion Roma 2026",
+  "year": 2026,
+  "url": "https://conferences.codemotion.com/roma",
+  "startDate": "2026-03-31",
+  "endDate": "2026-03-31",
+  "city": "Rome",
+  "country": "IT",
+  "lat": 41.89193,
+  "lng": 12.51133,
+  "topics": [],
+  "cfp": {
+    "url": "https://sessionize.com/codemotion-roma-2026",
+    "deadline": "2025-12-15",
+    "open": false
+  },
+  "twitter": "https://x.com/CodemotionIT",
+  "source": "confs.tech"
+}

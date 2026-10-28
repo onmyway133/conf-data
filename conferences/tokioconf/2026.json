@@ -1,0 +1,22 @@
+{
+  "name": "TokioConf 2026",
+  "year": 2026,
+  "url": "https://www.tokioconf.com",
+  "startDate": "2026-04-20",
+  "endDate": "2026-04-22",
+  "city": "Portland, OR",
+  "country": "US",
+  "lat": 45.52345,
+  "lng": -122.67621,
+  "topics": [
+    "Rust"
+  ],
+  "cfp": {
+    "url": "https://www.tokioconf.com/speakers",
+    "deadline": "2025-12-08",
+    "open": false
+  },
+  "bluesky": "https://bsky.app/profile/tokioconf.com",
+  "mastodon": "https://hachyderm.io/@tokioconf",
+  "source": "confs.tech"
+}

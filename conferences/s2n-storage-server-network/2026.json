@@ -1,0 +1,22 @@
+{
+  "name": "S2N: Storage Server Network 2026",
+  "year": 2026,
+  "url": "https://s2n.heise.de",
+  "startDate": "2026-11-03",
+  "endDate": "2026-11-04",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "IoT",
+    "Performance",
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://s2n.heise.de/cfp.php",
+    "deadline": "2026-05-04",
+    "open": true
+  },
+  "source": "confs.tech"
+}

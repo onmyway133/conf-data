@@ -1,0 +1,17 @@
+{
+  "name": "Smashing Conference 2019",
+  "year": 2019,
+  "url": "https://smashingconf.com/ny-2019",
+  "startDate": "2019-10-15",
+  "endDate": "2019-10-16",
+  "city": "New York, NY",
+  "country": "US",
+  "lat": 40.71427,
+  "lng": -74.00597,
+  "topics": [
+    "JavaScript",
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/smashingconf",
+  "source": "confs.tech"
+}

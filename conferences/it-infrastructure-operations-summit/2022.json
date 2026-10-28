@@ -1,0 +1,21 @@
+{
+  "name": "IT Infrastructure & Operations Summit 2022",
+  "year": 2022,
+  "url": "https://www.it-infrastructure-operations-summit.com",
+  "startDate": "2022-11-20",
+  "endDate": "2022-11-22",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://www.it-infrastructure-operations-summit.com/sprecher",
+    "deadline": "2022-11-17",
+    "open": false
+  },
+  "twitter": "https://x.com/weCONECT",
+  "source": "confs.tech"
+}

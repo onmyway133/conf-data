@@ -1,0 +1,20 @@
+{
+  "name": "J-Fall 2019",
+  "year": 2019,
+  "url": "https://jfall.nl",
+  "startDate": "2019-10-30",
+  "endDate": "2019-10-31",
+  "city": "Ede",
+  "country": "NL",
+  "lat": 52.03333,
+  "lng": 5.65833,
+  "topics": [
+    "Java"
+  ],
+  "cfp": {
+    "url": "https://nljugcfp.nl",
+    "deadline": "2019-08-25",
+    "open": false
+  },
+  "source": "confs.tech"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "International Conference on Artificial Intelligence and Machine Learning 2027",
+  "year": 2027,
+  "url": "https://aiml.scientificmeditech.com",
+  "startDate": "2027-03-20",
+  "endDate": "2027-03-21",
+  "city": "Barcelona",
+  "country": "ES",
+  "lat": 41.38879,
+  "lng": 2.15899,
+  "topics": [
+    "Data/AI"
+  ],
+  "source": "confs.tech"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "AI Con USA 2027",
+  "year": 2027,
+  "url": "https://aiconusa.techwell.com",
+  "startDate": "2027-06-06",
+  "endDate": "2027-06-11",
+  "city": "Seattle, WA",
+  "country": "US",
+  "lat": 47.60621,
+  "lng": -122.33207,
+  "topics": [
+    "Data/AI",
+    "SRE"
+  ],
+  "cfp": {
+    "url": "https://aiconusa.techwell.com/speak-ai-con-usa",
+    "deadline": "2026-10-18",
+    "open": true
+  },
+  "source": "confs.tech"
+}

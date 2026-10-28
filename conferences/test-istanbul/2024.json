@@ -1,0 +1,15 @@
+{
+  "name": "Test Istanbul 2024",
+  "year": 2024,
+  "url": "https://testistanbul.org",
+  "startDate": "2024-10-10",
+  "endDate": "2024-10-11",
+  "city": "Istanbul",
+  "country": "TR",
+  "lat": 41.01384,
+  "lng": 28.94966,
+  "topics": [
+    "Testing"
+  ],
+  "source": "confs.tech"
+}

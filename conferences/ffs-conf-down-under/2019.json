@@ -1,0 +1,16 @@
+{
+  "name": "FFS Conf Down Under 2019",
+  "year": 2019,
+  "url": "https://ffsconfdownunder.com",
+  "startDate": "2019-02-02",
+  "endDate": "2019-02-02",
+  "city": "Melbourne",
+  "country": "AU",
+  "lat": -37.814,
+  "lng": 144.96332,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/ffscondownunder",
+  "source": "confs.tech"
+}

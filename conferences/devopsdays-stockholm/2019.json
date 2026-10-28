@@ -1,0 +1,15 @@
+{
+  "name": "DevOpsDays Stockholm 2019",
+  "year": 2019,
+  "url": "https://www.devopsdays.org/events/2019-stockholm/welcome",
+  "startDate": "2019-09-17",
+  "endDate": "2019-09-18",
+  "city": "Stockholm",
+  "country": "SE",
+  "lat": 59.32938,
+  "lng": 18.06871,
+  "topics": [
+    "DevOps"
+  ],
+  "source": "confs.tech"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "BASTA! Spring 2027",
+  "year": 2027,
+  "url": "https://basta.net/frankfurt",
+  "startDate": "2027-03-01",
+  "endDate": "2027-03-05",
+  "city": "Frankfurt am Main",
+  "country": "DE",
+  "lat": 50.11552,
+  "lng": 8.68417,
+  "topics": [
+    "Data/AI",
+    "DevOps",
+    ".NET"
+  ],
+  "twitter": "https://x.com/bastacon",
+  "bluesky": "https://bsky.app/profile/bastacon.bsky.social",
+  "source": "confs.tech"
+}

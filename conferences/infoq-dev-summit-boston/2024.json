@@ -1,0 +1,17 @@
+{
+  "name": "InfoQ Dev Summit Boston 2024",
+  "year": 2024,
+  "url": "https://devsummit.infoq.com/conference/boston2024",
+  "startDate": "2024-06-24",
+  "endDate": "2024-06-25",
+  "city": "Boston, MA",
+  "country": "US",
+  "lat": 42.35843,
+  "lng": -71.05977,
+  "topics": [
+    "Networking",
+    "Performance"
+  ],
+  "mastodon": "https://techhub.social/@infoq",
+  "source": "confs.tech"
+}

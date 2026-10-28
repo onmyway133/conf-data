@@ -1,0 +1,16 @@
+{
+  "name": "React Bootcamp 2025",
+  "year": 2025,
+  "url": "https://javascript-days.de/berlin/react-bootcamp",
+  "startDate": "2025-10-20",
+  "endDate": "2025-10-21",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/JS_Days",
+  "source": "confs.tech"
+}

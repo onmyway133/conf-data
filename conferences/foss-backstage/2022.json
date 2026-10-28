@@ -1,0 +1,21 @@
+{
+  "name": "FOSS Backstage 2022",
+  "year": 2022,
+  "url": "https://foss-backstage.de",
+  "startDate": "2022-03-17",
+  "endDate": "2022-03-18",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "Networking"
+  ],
+  "cfp": {
+    "url": "https://pretalx.com/foss-backstage-2022",
+    "deadline": "2021-11-15",
+    "open": false
+  },
+  "twitter": "https://x.com/Fossbckstg",
+  "source": "confs.tech"
+}

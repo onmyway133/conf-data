@@ -1,0 +1,14 @@
+{
+  "name": "Devoxx 2019",
+  "year": 2019,
+  "url": "https://devoxx.org.ua",
+  "startDate": "2019-11-01",
+  "endDate": "2019-11-02",
+  "city": "Kyiv",
+  "country": "UA",
+  "lat": 50.45466,
+  "lng": 30.5238,
+  "topics": [],
+  "twitter": "https://x.com/devoxx",
+  "source": "confs.tech"
+}

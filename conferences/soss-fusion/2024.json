@@ -1,0 +1,16 @@
+{
+  "name": "SOSS Fusion 2024",
+  "year": 2024,
+  "url": "https://events.linuxfoundation.org/soss-fusion",
+  "startDate": "2024-10-22",
+  "endDate": "2024-10-23",
+  "city": "Atlanta, GA",
+  "country": "US",
+  "lat": 33.749,
+  "lng": -84.38798,
+  "topics": [
+    "Security"
+  ],
+  "twitter": "https://x.com/openssf",
+  "source": "confs.tech"
+}

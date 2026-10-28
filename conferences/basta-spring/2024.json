@@ -1,0 +1,17 @@
+{
+  "name": "BASTA! Spring 2024",
+  "year": 2024,
+  "url": "https://basta.net/frankfurt-en",
+  "startDate": "2024-02-12",
+  "endDate": "2024-02-16",
+  "city": "Frankfurt am Main",
+  "country": "DE",
+  "lat": 50.11552,
+  "lng": 8.68417,
+  "topics": [
+    ".NET",
+    "Security"
+  ],
+  "twitter": "https://x.com/bastacon",
+  "source": "confs.tech"
+}

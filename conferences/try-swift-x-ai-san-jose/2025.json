@@ -1,0 +1,15 @@
+{
+  "name": "try! Swift x AI San Jose 2025",
+  "year": 2025,
+  "url": "https://www.tryswift.co/ai",
+  "startDate": "2025-01-30",
+  "endDate": "2025-01-31",
+  "city": "San Jose",
+  "country": "US",
+  "lat": 37.33939,
+  "lng": -121.89496,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences"
+}

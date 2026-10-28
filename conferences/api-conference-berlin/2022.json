@@ -1,0 +1,17 @@
+{
+  "name": "API Conference Berlin 2022",
+  "year": 2022,
+  "url": "https://apiconference.net/berlin",
+  "startDate": "2022-10-17",
+  "endDate": "2022-10-19",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "APIs",
+    "GraphQL"
+  ],
+  "twitter": "https://x.com/api_conference",
+  "source": "confs.tech"
+}

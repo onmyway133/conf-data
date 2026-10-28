@@ -1,0 +1,14 @@
+{
+  "name": "XML Summer School 2019",
+  "year": 2019,
+  "url": "https://xmlsummerschool.com",
+  "startDate": "2019-09-15",
+  "endDate": "2019-09-20",
+  "city": "Oxford",
+  "country": "GB",
+  "lat": 51.75222,
+  "lng": -1.25596,
+  "topics": [],
+  "twitter": "https://x.com/xmlsummerschool",
+  "source": "confs.tech"
+}

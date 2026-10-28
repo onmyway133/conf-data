@@ -1,0 +1,16 @@
+{
+  "name": "ElixirConf EU 2021",
+  "year": 2021,
+  "url": "https://www.elixirconf.eu",
+  "startDate": "2021-09-09",
+  "endDate": "2021-09-10",
+  "city": "Warsaw",
+  "country": "PL",
+  "lat": 52.22977,
+  "lng": 21.01178,
+  "topics": [
+    "Elixir"
+  ],
+  "twitter": "https://x.com/elixirconfeu",
+  "source": "confs.tech"
+}

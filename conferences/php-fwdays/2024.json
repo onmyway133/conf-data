@@ -1,0 +1,21 @@
+{
+  "name": "PHP fwdays 2024",
+  "year": 2024,
+  "url": "https://fwdays.com/en/event/php-fwdays-2024",
+  "startDate": "2024-08-17",
+  "endDate": "2024-08-17",
+  "city": "Kyiv",
+  "country": "UA",
+  "lat": 50.45466,
+  "lng": 30.5238,
+  "topics": [
+    "PHP"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSf4xAhBCFHOehDJdjXYv_PBkqrKU7NmMrE_5FzvuVPb-LJu1A/viewform",
+    "deadline": "2024-07-18",
+    "open": false
+  },
+  "twitter": "https://x.com/fwdays",
+  "source": "confs.tech"
+}

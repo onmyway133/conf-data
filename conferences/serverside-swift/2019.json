@@ -1,0 +1,20 @@
+{
+  "name": "ServerSide.swift 2019",
+  "year": 2019,
+  "url": "https://www.serversideswift.info/",
+  "startDate": "2019-10-30",
+  "endDate": "2019-11-01",
+  "city": "Copenhagen",
+  "country": "DK",
+  "lat": 55.67594,
+  "lng": 12.56553,
+  "topics": [
+    "iOS"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSdt5YtaOo6OUk9GoDOLEH8IAvKzfnTYWccVeSV70KM44R1oXw/closedform",
+    "deadline": "2019-07-30",
+    "open": false
+  },
+  "source": "cocoaconferences"
+}

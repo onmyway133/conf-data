@@ -1,0 +1,16 @@
+{
+  "name": "Women in Data Science (WiDS) 2020",
+  "year": 2020,
+  "url": "https://www.widsconference.org/conference.html",
+  "startDate": "2020-03-02",
+  "endDate": "2020-03-02",
+  "city": "Stanford, CA",
+  "country": "US",
+  "lat": 37.42411,
+  "lng": -122.16608,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/WiDS_Conference",
+  "source": "confs.tech"
+}

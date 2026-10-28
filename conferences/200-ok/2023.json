@@ -1,0 +1,17 @@
+{
+  "name": "200 OK 2023",
+  "year": 2023,
+  "url": "https://200ok.us",
+  "startDate": "2023-05-12",
+  "endDate": "2023-05-12",
+  "city": "Tulsa, OK",
+  "country": "US",
+  "lat": 36.15398,
+  "lng": -95.99277,
+  "topics": [
+    "CSS",
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/200okconf",
+  "source": "confs.tech"
+}

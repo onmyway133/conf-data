@@ -1,0 +1,14 @@
+{
+  "name": "Devoxx 2019",
+  "year": 2019,
+  "url": "http://devoxx.pl",
+  "startDate": "2019-06-24",
+  "endDate": "2019-06-27",
+  "city": "Kraków",
+  "country": "PL",
+  "lat": 50.06143,
+  "lng": 19.93658,
+  "topics": [],
+  "twitter": "https://x.com/devoxx",
+  "source": "confs.tech"
+}

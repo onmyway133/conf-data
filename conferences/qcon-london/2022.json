@@ -1,0 +1,14 @@
+{
+  "name": "QCon London 2022",
+  "year": 2022,
+  "url": "https://qconlondon.com",
+  "startDate": "2022-04-04",
+  "endDate": "2022-04-06",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [],
+  "twitter": "https://x.com/qconlondon",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "GrillRB 2019",
+  "year": 2019,
+  "url": "https://grillrb.com",
+  "startDate": "2019-08-31",
+  "endDate": "2019-09-01",
+  "city": "Wrocław",
+  "country": "PL",
+  "lat": 51.10286,
+  "lng": 17.03006,
+  "topics": [
+    "Ruby"
+  ],
+  "twitter": "https://x.com/grill_rb",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "IxDA 2020",
+  "year": 2020,
+  "url": "https://interaction20.ixda.org",
+  "startDate": "2020-02-05",
+  "endDate": "2020-02-07",
+  "city": "Milano",
+  "country": "IT",
+  "lat": 45.46427,
+  "lng": 9.18951,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/ixdconf",
+  "source": "confs.tech"
+}

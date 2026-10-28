@@ -1,0 +1,18 @@
+{
+  "name": "FrOSCon 2019",
+  "year": 2019,
+  "url": "https://www.froscon.de",
+  "startDate": "2019-08-10",
+  "endDate": "2019-08-11",
+  "city": "Sankt Augustin",
+  "country": "DE",
+  "lat": 50.77538,
+  "lng": 7.197,
+  "topics": [],
+  "cfp": {
+    "url": "https://www.froscon.de/en/cfp/cfpapers",
+    "deadline": "2019-05-23",
+    "open": false
+  },
+  "source": "confs.tech"
+}

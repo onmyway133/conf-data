@@ -1,0 +1,16 @@
+{
+  "name": "DinosaurJS 2019",
+  "year": 2019,
+  "url": "https://dinosaurjs.org",
+  "startDate": "2019-06-19",
+  "endDate": "2019-06-20",
+  "city": "Denver, CO",
+  "country": "US",
+  "lat": 39.73915,
+  "lng": -104.9847,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/dinosaur_js",
+  "source": "confs.tech"
+}

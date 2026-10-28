@@ -1,0 +1,18 @@
+{
+  "name": "TechSaloniki 2023",
+  "year": 2023,
+  "url": "https://techsaloniki.gr",
+  "startDate": "2023-05-12",
+  "endDate": "2023-05-13",
+  "city": "Thessaloniki",
+  "country": "GR",
+  "lat": 40.64072,
+  "lng": 22.93493,
+  "topics": [
+    "Java",
+    "JavaScript",
+    "Python"
+  ],
+  "twitter": "https://x.com/TechSaloniki",
+  "source": "confs.tech"
+}

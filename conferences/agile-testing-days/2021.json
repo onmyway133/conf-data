@@ -1,0 +1,17 @@
+{
+  "name": "Agile Testing Days 2021",
+  "year": 2021,
+  "url": "https://agiletestingdays.com",
+  "startDate": "2021-11-15",
+  "endDate": "2021-11-18",
+  "city": "Potsdam",
+  "country": "DE",
+  "lat": 52.39886,
+  "lng": 13.06566,
+  "topics": [
+    "DevOps",
+    "Testing"
+  ],
+  "twitter": "https://x.com/AgileTD",
+  "source": "confs.tech"
+}

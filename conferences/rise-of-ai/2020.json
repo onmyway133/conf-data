@@ -1,0 +1,16 @@
+{
+  "name": "Rise of AI 2020",
+  "year": 2020,
+  "url": "https://riseof.ai",
+  "startDate": "2020-05-13",
+  "endDate": "2020-05-14",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/riseofai",
+  "source": "confs.tech"
+}

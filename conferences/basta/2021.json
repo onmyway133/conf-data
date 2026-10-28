@@ -1,0 +1,16 @@
+{
+  "name": "BASTA! 2021",
+  "year": 2021,
+  "url": "https://basta.net",
+  "startDate": "2021-02-15",
+  "endDate": "2021-02-19",
+  "city": "Frankfurt am Main",
+  "country": "DE",
+  "lat": 50.11552,
+  "lng": 8.68417,
+  "topics": [
+    ".NET"
+  ],
+  "twitter": "https://x.com/bastacon",
+  "source": "confs.tech"
+}

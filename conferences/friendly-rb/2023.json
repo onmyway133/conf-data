@@ -1,0 +1,21 @@
+{
+  "name": "Friendly.rb 2023",
+  "year": 2023,
+  "url": "https://friendlyrb.com",
+  "startDate": "2023-09-27",
+  "endDate": "2023-09-28",
+  "city": "Bucharest",
+  "country": "RO",
+  "lat": 44.43225,
+  "lng": 26.10626,
+  "topics": [
+    "Ruby"
+  ],
+  "cfp": {
+    "url": "https://friendlyrb.com/cfp",
+    "deadline": "2023-04-01",
+    "open": false
+  },
+  "twitter": "https://x.com/friendlyrb",
+  "source": "confs.tech"
+}

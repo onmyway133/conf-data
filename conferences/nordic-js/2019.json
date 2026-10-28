@@ -1,0 +1,16 @@
+{
+  "name": "Nordic.js 2019",
+  "year": 2019,
+  "url": "http://nordicjs.com",
+  "startDate": "2019-10-10",
+  "endDate": "2019-10-11",
+  "city": "Stockholm",
+  "country": "SE",
+  "lat": 59.32938,
+  "lng": 18.06871,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/nordicjs",
+  "source": "confs.tech"
+}

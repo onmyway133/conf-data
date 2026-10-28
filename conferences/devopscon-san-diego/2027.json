@@ -1,0 +1,18 @@
+{
+  "name": "DevOpsCon San Diego 2027",
+  "year": 2027,
+  "url": "https://devopscon.io/san-diego",
+  "startDate": "2027-05-24",
+  "endDate": "2027-05-28",
+  "city": "San Diego, CA",
+  "country": "US",
+  "lat": 32.71571,
+  "lng": -117.16472,
+  "topics": [
+    "DevOps",
+    "SRE"
+  ],
+  "twitter": "https://x.com/devops_con",
+  "bluesky": "https://bsky.app/profile/devopscon.bsky.social",
+  "source": "confs.tech"
+}

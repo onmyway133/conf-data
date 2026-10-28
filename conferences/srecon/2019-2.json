@@ -1,0 +1,16 @@
+{
+  "name": "SREcon 2019",
+  "year": 2019,
+  "url": "https://www.usenix.org/conference/srecon19asia",
+  "startDate": "2019-06-12",
+  "endDate": "2019-06-14",
+  "city": "Singapore",
+  "country": "SG",
+  "lat": 1.28967,
+  "lng": 103.85007,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/SREcon",
+  "source": "confs.tech"
+}

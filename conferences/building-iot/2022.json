@@ -1,0 +1,21 @@
+{
+  "name": "building IoT 2022",
+  "year": 2022,
+  "url": "https://www.buildingiot.de",
+  "startDate": "2022-05-10",
+  "endDate": "2022-05-11",
+  "city": "Karlsruhe",
+  "country": "DE",
+  "lat": 49.00937,
+  "lng": 8.40444,
+  "topics": [
+    "IoT"
+  ],
+  "cfp": {
+    "url": "https://www.buildingiot.de/cfp_en.php",
+    "deadline": "2022-01-10",
+    "open": false
+  },
+  "twitter": "https://x.com/building_iot",
+  "source": "confs.tech"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "J On The Beach 2026",
+  "year": 2026,
+  "url": "https://www.jonthebeach.com",
+  "startDate": "2026-10-29",
+  "endDate": "2026-10-30",
+  "city": "Malaga",
+  "country": "ES",
+  "lat": 36.72016,
+  "lng": -4.42034,
+  "topics": [
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://confeti.app",
+    "deadline": "2026-03-31",
+    "open": true
+  },
+  "twitter": "https://x.com/jotbconf",
+  "source": "confs.tech"
+}

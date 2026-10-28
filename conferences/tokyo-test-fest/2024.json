@@ -1,0 +1,16 @@
+{
+  "name": "Tokyo Test Fest 2024",
+  "year": 2024,
+  "url": "https://tokyotestfest.com",
+  "startDate": "2024-11-15",
+  "endDate": "2024-11-15",
+  "city": "Tokyo",
+  "country": "JP",
+  "lat": 35.6895,
+  "lng": 139.69171,
+  "topics": [
+    "Testing"
+  ],
+  "twitter": "https://x.com/tokyotestfest",
+  "source": "confs.tech"
+}

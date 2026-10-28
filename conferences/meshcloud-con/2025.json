@@ -1,0 +1,21 @@
+{
+  "name": "meshcloud Con 2025",
+  "year": 2025,
+  "url": "https://con25.meshcloud.io",
+  "startDate": "2025-09-18",
+  "endDate": "2025-09-18",
+  "city": "Frankfurt am Main",
+  "country": "DE",
+  "lat": 50.11552,
+  "lng": 8.68417,
+  "topics": [
+    "DevOps",
+    "SRE"
+  ],
+  "cfp": {
+    "url": "https://cloudfoundation.org",
+    "deadline": "2025-06-01",
+    "open": false
+  },
+  "source": "confs.tech"
+}

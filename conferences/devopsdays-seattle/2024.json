@@ -1,0 +1,21 @@
+{
+  "name": "Devopsdays Seattle 2024",
+  "year": 2024,
+  "url": "https://devopsdays.org/events/2024-seattle/welcome",
+  "startDate": "2024-05-14",
+  "endDate": "2024-05-15",
+  "city": "Seattle, WA",
+  "country": "US",
+  "lat": 47.60621,
+  "lng": -122.33207,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://talks.devopsdays.org/devopsdays-seattle-2024/cfp",
+    "deadline": "2024-01-15",
+    "open": false
+  },
+  "twitter": "https://x.com/DevOpsDaysSEA",
+  "source": "confs.tech"
+}

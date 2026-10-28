@@ -1,0 +1,14 @@
+{
+  "name": "AntarctiConf 2020",
+  "year": 2020,
+  "url": "https://antarcticonf.com",
+  "startDate": "2020-01-05",
+  "endDate": "2020-01-05",
+  "city": "San Antonio",
+  "country": "CL",
+  "lat": -33.59473,
+  "lng": -71.60746,
+  "topics": [],
+  "twitter": "https://x.com/AntarctiConf",
+  "source": "confs.tech"
+}

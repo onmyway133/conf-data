@@ -1,0 +1,16 @@
+{
+  "name": "Strive - the UX Research Conference 2019",
+  "year": 2019,
+  "url": "http://uxrconference.com",
+  "startDate": "2019-06-06",
+  "endDate": "2019-06-09",
+  "city": "Toronto",
+  "country": "CA",
+  "lat": 43.70643,
+  "lng": -79.39864,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/UXResearchTO",
+  "source": "confs.tech"
+}

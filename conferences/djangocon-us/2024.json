@@ -1,0 +1,22 @@
+{
+  "name": "DjangoCon US 2024",
+  "year": 2024,
+  "url": "https://2024.djangocon.us",
+  "startDate": "2024-09-22",
+  "endDate": "2024-09-27",
+  "city": "Durham, NC",
+  "country": "US",
+  "lat": 35.99403,
+  "lng": -78.89862,
+  "topics": [
+    "Python"
+  ],
+  "cfp": {
+    "url": "https://2024.djangocon.us/speaking",
+    "deadline": "2024-04-24",
+    "open": false
+  },
+  "twitter": "https://x.com/djangocon",
+  "mastodon": "https://fosstodon.org/@djangocon",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "DevOpsCon New York 2021",
+  "year": 2021,
+  "url": "https://devopscon.io/new-york",
+  "startDate": "2021-09-27",
+  "endDate": "2021-09-30",
+  "city": "New York, NY",
+  "country": "US",
+  "lat": 40.71427,
+  "lng": -74.00597,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devops_con",
+  "source": "confs.tech"
+}

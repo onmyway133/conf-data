@@ -1,0 +1,15 @@
+{
+  "name": "SREcon EMEA 2022",
+  "year": 2022,
+  "url": "https://www.usenix.org/conferences",
+  "startDate": "2022-10-25",
+  "endDate": "2022-10-27",
+  "city": "Amsterdam",
+  "country": "NL",
+  "lat": 52.37403,
+  "lng": 4.88969,
+  "topics": [
+    "DevOps"
+  ],
+  "source": "confs.tech"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "DevOpsDays Sydney 2019",
+  "year": 2019,
+  "url": "https://devopsdays.org/events/2019-sydney/welcome",
+  "startDate": "2019-10-10",
+  "endDate": "2019-10-11",
+  "city": "Sydney",
+  "country": "AU",
+  "lat": -33.86785,
+  "lng": 151.20732,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/dodsyd2019",
+    "deadline": "2019-08-05",
+    "open": false
+  },
+  "twitter": "https://x.com/devopsdownunder",
+  "source": "confs.tech"
+}

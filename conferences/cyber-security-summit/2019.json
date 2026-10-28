@@ -1,0 +1,16 @@
+{
+  "name": "Cyber Security Summit 2019",
+  "year": 2019,
+  "url": "https://cybersummitusa.com/losangeles19",
+  "startDate": "2019-10-05",
+  "endDate": "2019-10-05",
+  "city": "Los Angeles, CA",
+  "country": "US",
+  "lat": 34.05223,
+  "lng": -118.24368,
+  "topics": [
+    "Security"
+  ],
+  "twitter": "https://x.com/CyberSummitUSA",
+  "source": "confs.tech"
+}

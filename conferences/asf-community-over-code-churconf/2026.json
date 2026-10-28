@@ -1,0 +1,23 @@
+{
+  "name": "ASF Community Over Code / ChurConf 2026",
+  "year": 2026,
+  "url": "https://au.churconf.com",
+  "startDate": "2026-11-18",
+  "endDate": "2026-11-19",
+  "city": "Sidney",
+  "country": "AU",
+  "lat": -33.86785,
+  "lng": 151.20732,
+  "topics": [
+    "Groovy",
+    "Java",
+    "Open Source"
+  ],
+  "cfp": {
+    "url": "https://tinyurl.com/asfchurconfcfp",
+    "deadline": "2026-07-31",
+    "open": true
+  },
+  "twitter": "https://x.com/Chur_Conf",
+  "source": "confs.tech"
+}

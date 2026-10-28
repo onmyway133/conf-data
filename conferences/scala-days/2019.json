@@ -1,0 +1,16 @@
+{
+  "name": "Scala Days 2019",
+  "year": 2019,
+  "url": "https://scaladays.org",
+  "startDate": "2019-06-11",
+  "endDate": "2019-06-13",
+  "city": "Lausanne",
+  "country": "CH",
+  "lat": 46.516,
+  "lng": 6.63282,
+  "topics": [
+    "Scala"
+  ],
+  "twitter": "https://x.com/scaladays",
+  "source": "confs.tech"
+}

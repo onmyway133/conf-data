@@ -1,0 +1,14 @@
+{
+  "name": "International PHP Conference 2022",
+  "year": 2022,
+  "url": "https://phpconference.com/munich",
+  "startDate": "2022-10-24",
+  "endDate": "2022-10-28",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [],
+  "twitter": "https://x.com/phpconference",
+  "source": "confs.tech"
+}

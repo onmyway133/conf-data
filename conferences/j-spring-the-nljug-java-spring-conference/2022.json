@@ -1,0 +1,16 @@
+{
+  "name": "J-Spring - The NLJUG Java Spring Conference 2022",
+  "year": 2022,
+  "url": "https://jspring.nl",
+  "startDate": "2022-06-08",
+  "endDate": "2022-06-08",
+  "city": "Utrecht",
+  "country": "NL",
+  "lat": 52.09083,
+  "lng": 5.12222,
+  "topics": [
+    "Java"
+  ],
+  "twitter": "https://x.com/nljug",
+  "source": "confs.tech"
+}

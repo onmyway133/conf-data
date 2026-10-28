@@ -1,0 +1,21 @@
+{
+  "name": "sfday 2020",
+  "year": 2020,
+  "url": "https://2020.sfday.it",
+  "startDate": "2020-11-27",
+  "endDate": "2020-11-27",
+  "city": "Verona",
+  "country": "IT",
+  "lat": 45.43854,
+  "lng": 10.9938,
+  "topics": [
+    "PHP"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSfFh53tWIezFiQTq-b_F9Q939hif9LmyUIfvNs7kVJNDAuA-A/viewform",
+    "deadline": "2020-06-27",
+    "open": false
+  },
+  "twitter": "https://x.com/sfdayit",
+  "source": "confs.tech"
+}

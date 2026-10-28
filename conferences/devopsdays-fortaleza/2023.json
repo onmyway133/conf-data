@@ -1,0 +1,16 @@
+{
+  "name": "Devopsdays Fortaleza 2023",
+  "year": 2023,
+  "url": "https://devopsdays.org/events/2023-fortaleza/welcome",
+  "startDate": "2023-09-23",
+  "endDate": "2023-09-23",
+  "city": "Fortaleza",
+  "country": "BR",
+  "lat": -3.71722,
+  "lng": -38.54306,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devopsdaysce",
+  "source": "confs.tech"
+}

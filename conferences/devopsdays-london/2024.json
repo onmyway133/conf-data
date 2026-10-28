@@ -1,0 +1,21 @@
+{
+  "name": "Devopsdays London 2024",
+  "year": 2024,
+  "url": "https://devopsdays.org/events/2024-london/welcome",
+  "startDate": "2024-09-26",
+  "endDate": "2024-09-27",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSdUK4VNyhpfpqhrm8BY7KmAvSNQHIuL49YOabkYDInbnyKD1g/viewform",
+    "deadline": "2024-05-24",
+    "open": false
+  },
+  "twitter": "https://x.com/DevOpsDaysLDN",
+  "source": "confs.tech"
+}

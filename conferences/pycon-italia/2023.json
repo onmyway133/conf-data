@@ -1,0 +1,16 @@
+{
+  "name": "PyCon Italia 2023",
+  "year": 2023,
+  "url": "https://pycon.it",
+  "startDate": "2023-05-25",
+  "endDate": "2023-05-28",
+  "city": "Florence",
+  "country": "IT",
+  "lat": 43.77925,
+  "lng": 11.24626,
+  "topics": [
+    "Python"
+  ],
+  "twitter": "https://x.com/pyconit",
+  "source": "confs.tech"
+}

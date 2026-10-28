@@ -1,0 +1,16 @@
+{
+  "name": "Devopsdays Amsterdam 2023",
+  "year": 2023,
+  "url": "https://devopsdays.org/events/2023-amsterdam/welcome",
+  "startDate": "2023-06-21",
+  "endDate": "2023-06-23",
+  "city": "Amsterdam",
+  "country": "NL",
+  "lat": 52.37403,
+  "lng": 4.88969,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devopsams",
+  "source": "confs.tech"
+}

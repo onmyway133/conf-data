@@ -1,0 +1,19 @@
+{
+  "name": "DEV: Challenge Accepted 2023",
+  "year": 2023,
+  "url": "https://www.challengeaccepted.dev",
+  "startDate": "2023-09-30",
+  "endDate": "2023-09-30",
+  "city": "Sofia",
+  "country": "BG",
+  "lat": 42.69751,
+  "lng": 23.32415,
+  "topics": [],
+  "cfp": {
+    "url": "https://forms.gle/wtt2t1SajDSeWLkE8",
+    "deadline": "2023-05-01",
+    "open": false
+  },
+  "twitter": "https://x.com/devchallenge",
+  "source": "confs.tech"
+}

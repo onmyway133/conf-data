@@ -1,0 +1,21 @@
+{
+  "name": "DevOpsCon Singapore 2024",
+  "year": 2024,
+  "url": "https://devopscon.io/singapore",
+  "startDate": "2024-11-25",
+  "endDate": "2024-11-28",
+  "city": "Singapore",
+  "country": "SG",
+  "lat": 1.28967,
+  "lng": 103.85007,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://devopscon.io/call-for-papers",
+    "deadline": "2024-05-13",
+    "open": false
+  },
+  "twitter": "https://x.com/devops_con",
+  "source": "confs.tech"
+}

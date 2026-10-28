@@ -1,0 +1,17 @@
+{
+  "name": "React Native London Conference 2024",
+  "year": 2024,
+  "url": "https://www.reactnativelondon.co.uk",
+  "startDate": "2024-11-15",
+  "endDate": "2024-11-15",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "JavaScript",
+    "TypeScript"
+  ],
+  "twitter": "https://x.com/RNLConf",
+  "source": "confs.tech"
+}

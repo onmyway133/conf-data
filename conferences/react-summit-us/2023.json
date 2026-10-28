@@ -1,0 +1,16 @@
+{
+  "name": "React Summit US 2023",
+  "year": 2023,
+  "url": "https://reactsummit.us",
+  "startDate": "2023-11-13",
+  "endDate": "2023-11-15",
+  "city": "New York, NY",
+  "country": "US",
+  "lat": 40.71427,
+  "lng": -74.00597,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/reactsummit",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Kafka Summit SF 2019",
+  "year": 2019,
+  "url": "https://kafka-summit.org/events/kafka-summit-san-francisco-2019",
+  "startDate": "2019-09-30",
+  "endDate": "2019-10-01",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/confluentinc",
+  "source": "confs.tech"
+}

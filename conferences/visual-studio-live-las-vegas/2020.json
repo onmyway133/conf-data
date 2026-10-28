@@ -1,0 +1,16 @@
+{
+  "name": "Visual Studio Live! Las Vegas 2020",
+  "year": 2020,
+  "url": "https://vslive.com/Events/Las-Vegas-2020/Home.aspx",
+  "startDate": "2020-03-01",
+  "endDate": "2020-03-06",
+  "city": "Las Vegas, NV",
+  "country": "US",
+  "lat": 36.17497,
+  "lng": -115.13722,
+  "topics": [
+    ".NET"
+  ],
+  "twitter": "https://x.com/vslive",
+  "source": "confs.tech"
+}

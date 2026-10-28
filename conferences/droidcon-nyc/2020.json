@@ -1,0 +1,15 @@
+{
+  "name": "droidcon NYC 2020",
+  "year": 2020,
+  "url": "https://www.nyc.droidcon.com",
+  "startDate": "2020-11-17",
+  "endDate": "2020-11-18",
+  "city": "Brooklyn, NY",
+  "country": "US",
+  "lat": 40.6501,
+  "lng": -73.94958,
+  "topics": [
+    "Android"
+  ],
+  "source": "confs.tech"
+}

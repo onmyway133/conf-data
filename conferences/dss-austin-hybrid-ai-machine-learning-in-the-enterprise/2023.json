@@ -1,0 +1,16 @@
+{
+  "name": "DSS Austin Hybrid: AI & Machine Learning in the Enterprise 2023",
+  "year": 2023,
+  "url": "https://www.datascience.salon/austin",
+  "startDate": "2023-02-21",
+  "endDate": "2023-02-22",
+  "city": "Austin, TX",
+  "country": "US",
+  "lat": 30.26715,
+  "lng": -97.74306,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/DataSciSalon",
+  "source": "confs.tech"
+}

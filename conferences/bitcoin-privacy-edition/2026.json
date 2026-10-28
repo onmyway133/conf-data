@@ -1,0 +1,21 @@
+{
+  "name": "bitcoin++ privacy edition 2026",
+  "year": 2026,
+  "url": "https://btcpp.dev/seoul",
+  "startDate": "2026-11-05",
+  "endDate": "2026-11-06",
+  "city": "Seoul",
+  "country": "KR",
+  "lat": 37.566,
+  "lng": 126.9784,
+  "topics": [
+    "Open Source"
+  ],
+  "cfp": {
+    "url": "https://btcpp.dev/talk/seoul",
+    "deadline": "2026-09-22",
+    "open": true
+  },
+  "twitter": "https://x.com/btcplusplus",
+  "source": "confs.tech"
+}

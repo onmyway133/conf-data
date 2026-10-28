@@ -1,0 +1,16 @@
+{
+  "name": "International PHP Conference 2020",
+  "year": 2020,
+  "url": "https://phpconference.com",
+  "startDate": "2020-05-25",
+  "endDate": "2020-05-29",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "PHP"
+  ],
+  "twitter": "https://x.com/phpconference",
+  "source": "confs.tech"
+}

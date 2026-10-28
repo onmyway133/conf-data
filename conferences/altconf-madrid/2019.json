@@ -1,0 +1,20 @@
+{
+  "name": "AltConf Madrid 2019",
+  "year": 2019,
+  "url": "http://madrid.altconf.com",
+  "startDate": "2019-06-03",
+  "endDate": "2019-06-03",
+  "city": "Madrid",
+  "country": "ES",
+  "lat": 40.4165,
+  "lng": -3.70256,
+  "topics": [
+    "iOS"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLScCwUdS6Bi7m9X7RVnu68OtbkfRYoKs5eQ8CZ0_t9s-GG0wFA/viewform?usp=sf_link",
+    "deadline": "2019-04-29",
+    "open": false
+  },
+  "source": "cocoaconferences"
+}

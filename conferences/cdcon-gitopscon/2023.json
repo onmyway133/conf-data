@@ -1,0 +1,21 @@
+{
+  "name": "cdCon + GitOpsCon 2023",
+  "year": 2023,
+  "url": "https://events.linuxfoundation.org/cdcon-gitopscon",
+  "startDate": "2023-05-08",
+  "endDate": "2023-05-09",
+  "city": "Vancouver",
+  "country": "CA",
+  "lat": 49.24966,
+  "lng": -123.11934,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://events.linuxfoundation.org/cdcon-gitopscon/program/cfp",
+    "deadline": "2023-02-10",
+    "open": false
+  },
+  "twitter": "https://x.com/CDeliveryFdn",
+  "source": "confs.tech"
+}

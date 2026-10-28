@@ -1,0 +1,23 @@
+{
+  "name": "Skytalks at BSidesLV 2025",
+  "year": 2025,
+  "url": "https://skytalks.info",
+  "startDate": "2025-08-04",
+  "endDate": "2025-08-06",
+  "city": "Las Vegas, NV",
+  "country": "US",
+  "lat": 36.17497,
+  "lng": -115.13722,
+  "topics": [
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/document/d/11jSdqNirJm6zqci2xBth6M8toEm2nkw6A7y4ggnwXtI",
+    "deadline": "2025-04-07",
+    "open": false
+  },
+  "twitter": "https://x.com/dcskytalks",
+  "bluesky": "https://bsky.app/profile/skytalks.bsky.social",
+  "mastodon": "https://defcon.social/@skytalks",
+  "source": "confs.tech"
+}

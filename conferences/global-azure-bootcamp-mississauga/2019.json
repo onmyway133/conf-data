@@ -1,0 +1,18 @@
+{
+  "name": "Global Azure Bootcamp  Mississauga 2019",
+  "year": 2019,
+  "url": "https://global.azurebootcamp.net/locations/canada-mississauga",
+  "startDate": "2019-04-27",
+  "endDate": "2019-04-27",
+  "city": "Mississauga",
+  "country": "CA",
+  "lat": 43.5789,
+  "lng": -79.6583,
+  "topics": [],
+  "cfp": {
+    "url": "https://sessionize.com/global-azure-bootcamp-2019-mississauga",
+    "deadline": "2019-03-08",
+    "open": false
+  },
+  "source": "confs.tech"
+}

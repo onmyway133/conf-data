@@ -1,0 +1,16 @@
+{
+  "name": "LibertyJS 2019",
+  "year": 2019,
+  "url": "https://libertyjs.com",
+  "startDate": "2019-10-24",
+  "endDate": "2019-10-25",
+  "city": "Philadelphia, PA",
+  "country": "US",
+  "lat": 39.95238,
+  "lng": -75.16362,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/liberty_js",
+  "source": "confs.tech"
+}

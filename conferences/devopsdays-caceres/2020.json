@@ -1,0 +1,16 @@
+{
+  "name": "devopsdays Cáceres 2020",
+  "year": 2020,
+  "url": "https://devopsdays.org/events/2020-caceres/welcome",
+  "startDate": "2020-03-05",
+  "endDate": "2020-03-06",
+  "city": "Cáceres",
+  "country": "ES",
+  "lat": 39.47649,
+  "lng": -6.37224,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/DevOpsDaysCC",
+  "source": "confs.tech"
+}

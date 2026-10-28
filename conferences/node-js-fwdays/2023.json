@@ -1,0 +1,21 @@
+{
+  "name": "Node.js fwdays 2023",
+  "year": 2023,
+  "url": "https://fwdays.com/en/event/node-js-fwdays-2023",
+  "startDate": "2023-12-02",
+  "endDate": "2023-12-02",
+  "city": "Kyiv",
+  "country": "UA",
+  "lat": 50.45466,
+  "lng": 30.5238,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSes9Bd2ZGAavmc4ajVFUH03XbuEF3Q3utaiFRYf_eTZAUA1KQ/viewform",
+    "deadline": "2023-11-01",
+    "open": false
+  },
+  "twitter": "https://x.com/fwdays",
+  "source": "confs.tech"
+}

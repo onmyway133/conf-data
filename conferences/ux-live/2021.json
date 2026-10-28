@@ -1,0 +1,16 @@
+{
+  "name": "UX Live 2021",
+  "year": 2021,
+  "url": "https://uxliveconference.com",
+  "startDate": "2021-11-25",
+  "endDate": "2021-11-26",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/techcircus_",
+  "source": "confs.tech"
+}

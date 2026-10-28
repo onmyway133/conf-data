@@ -1,0 +1,16 @@
+{
+  "name": "IIW Internet Identity Workshop 2024",
+  "year": 2024,
+  "url": "https://internetidentityworkshop.com",
+  "startDate": "2024-04-16",
+  "endDate": "2024-04-18",
+  "city": "Mountain View, CA",
+  "country": "US",
+  "lat": 37.38605,
+  "lng": -122.08385,
+  "topics": [
+    "Identity"
+  ],
+  "twitter": "https://x.com/idworkshop",
+  "source": "confs.tech"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "MageTitans NL 2019",
+  "year": 2019,
+  "url": "https://www.mage-titans.nl",
+  "startDate": "2019-06-07",
+  "endDate": "2019-06-07",
+  "city": "Groningen",
+  "country": "NL",
+  "lat": 53.21917,
+  "lng": 6.56667,
+  "topics": [
+    "PHP"
+  ],
+  "cfp": {
+    "url": "https://cfp.mage-titans.nl",
+    "deadline": "2019-05-12",
+    "open": false
+  },
+  "twitter": "https://x.com/magetitansnl",
+  "source": "confs.tech"
+}

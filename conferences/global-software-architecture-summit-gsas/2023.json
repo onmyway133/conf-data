@@ -1,0 +1,21 @@
+{
+  "name": "Global Software Architecture Summit (GSAS) 2023",
+  "year": 2023,
+  "url": "https://gsas.io",
+  "startDate": "2023-10-09",
+  "endDate": "2023-10-11",
+  "city": "Barcelona",
+  "country": "ES",
+  "lat": 41.38879,
+  "lng": 2.15899,
+  "topics": [
+    "Performance"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSdTHOW73JXdo4quGqBgRpnABd0zjd3_Op4B-bWDCmnNPIiElw/viewform",
+    "deadline": "2023-05-01",
+    "open": false
+  },
+  "twitter": "https://x.com/gsas_io",
+  "source": "confs.tech"
+}

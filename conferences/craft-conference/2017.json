@@ -1,0 +1,16 @@
+{
+  "name": "Craft Conference 2017",
+  "year": 2017,
+  "url": "http://craft-conf.com",
+  "startDate": "2017-04-25",
+  "endDate": "2017-04-28",
+  "city": "Budapest",
+  "country": "HU",
+  "lat": 47.49835,
+  "lng": 19.04045,
+  "topics": [
+    "iOS",
+    "Mobile"
+  ],
+  "source": "cocoaconferences"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "DevOpsDays Philadelphia 2019",
+  "year": 2019,
+  "url": "https://devopsdays.org/events/2019-philadelphia/welcome",
+  "startDate": "2019-10-22",
+  "endDate": "2019-10-23",
+  "city": "Philadelphia, PA",
+  "country": "US",
+  "lat": 39.95238,
+  "lng": -75.16362,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/DevOpsDaysPHL",
+  "source": "confs.tech"
+}

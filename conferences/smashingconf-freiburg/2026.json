@@ -1,0 +1,19 @@
+{
+  "name": "SmashingConf Freiburg 2026",
+  "year": 2026,
+  "url": "https://smashingconf.com/freiburg-2026",
+  "startDate": "2026-09-07",
+  "endDate": "2026-09-10",
+  "city": "Freiburg",
+  "country": "DE",
+  "lat": 47.9959,
+  "lng": 7.85222,
+  "topics": [
+    "CSS",
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/smashingconf",
+  "bluesky": "https://bsky.app/profile/smashingconf.com",
+  "mastodon": "https://mastodon.social/@smashingconf",
+  "source": "confs.tech"
+}

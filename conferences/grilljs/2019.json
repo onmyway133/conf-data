@@ -1,0 +1,16 @@
+{
+  "name": "GrillJS 2019",
+  "year": 2019,
+  "url": "https://grilljs.com",
+  "startDate": "2019-09-06",
+  "endDate": "2019-09-07",
+  "city": "Wrocław",
+  "country": "PL",
+  "lat": 51.10286,
+  "lng": 17.03006,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/grill_js",
+  "source": "confs.tech"
+}

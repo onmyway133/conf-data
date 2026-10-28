@@ -1,0 +1,16 @@
+{
+  "name": "JAX London 2022",
+  "year": 2022,
+  "url": "https://jaxlondon.com",
+  "startDate": "2022-10-03",
+  "endDate": "2022-10-06",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "Java"
+  ],
+  "twitter": "https://x.com/jaxlondon",
+  "source": "confs.tech"
+}

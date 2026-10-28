@@ -1,0 +1,15 @@
+{
+  "name": "PGConf Dev 2025",
+  "year": 2025,
+  "url": "https://2025.pgconf.dev/",
+  "startDate": "2025-05-13",
+  "endDate": "2025-05-16",
+  "city": "Montreal",
+  "country": "CA",
+  "lat": 45.50884,
+  "lng": -73.58781,
+  "topics": [
+    "Data/AI"
+  ],
+  "source": "confs.tech"
+}

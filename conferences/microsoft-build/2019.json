@@ -1,0 +1,19 @@
+{
+  "name": "Microsoft Build 2019",
+  "year": 2019,
+  "url": "https://www.microsoft.com/en-us/build",
+  "startDate": "2019-05-06",
+  "endDate": "2019-05-08",
+  "city": "Seattle, WA",
+  "country": "US",
+  "lat": 47.60621,
+  "lng": -122.33207,
+  "topics": [],
+  "cfp": {
+    "url": "https://sessionize.com/build",
+    "deadline": "2019-03-16",
+    "open": false
+  },
+  "twitter": "https://x.com/MicrosoftBuild",
+  "source": "confs.tech"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "CHI 2019",
+  "year": 2019,
+  "url": "http://chi2019.acm.org",
+  "startDate": "2019-05-04",
+  "endDate": "2019-05-09",
+  "city": "Glasgow",
+  "country": "GB",
+  "lat": 55.86515,
+  "lng": -4.25763,
+  "topics": [
+    "Design/UX"
+  ],
+  "source": "confs.tech"
+}

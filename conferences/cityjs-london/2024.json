@@ -1,0 +1,21 @@
+{
+  "name": "CityJS London 2024",
+  "year": 2024,
+  "url": "https://london.cityjsconf.org",
+  "startDate": "2024-04-05",
+  "endDate": "2024-04-05",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSf6qcmCOYCfUZdsQ6XbxTWV03P7k5rFMXbSoi9FHU9t6l9R9g/viewform",
+    "deadline": "2023-12-31",
+    "open": false
+  },
+  "twitter": "https://x.com/cityjsconf",
+  "source": "confs.tech"
+}

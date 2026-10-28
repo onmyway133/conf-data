@@ -1,0 +1,22 @@
+{
+  "name": "Build It Summit 2026",
+  "year": 2026,
+  "url": "https://builditsummit.com",
+  "startDate": "2026-12-01",
+  "endDate": "2026-12-03",
+  "city": "Paris",
+  "country": "FR",
+  "lat": 48.85341,
+  "lng": 2.3488,
+  "topics": [
+    "Data/AI",
+    "DevOps",
+    "Open Source"
+  ],
+  "cfp": {
+    "url": "https://builditsummit.com/call-for-speakers",
+    "deadline": "2026-10-31",
+    "open": true
+  },
+  "source": "confs.tech"
+}

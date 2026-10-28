@@ -1,0 +1,16 @@
+{
+  "name": "React Summit 2023",
+  "year": 2023,
+  "url": "https://reactsummit.com",
+  "startDate": "2023-06-02",
+  "endDate": "2023-06-06",
+  "city": "Amsterdam",
+  "country": "NL",
+  "lat": 52.37403,
+  "lng": 4.88969,
+  "topics": [
+    "Networking"
+  ],
+  "twitter": "https://x.com/reactsummit",
+  "source": "confs.tech"
+}

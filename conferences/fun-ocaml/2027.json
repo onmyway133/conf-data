@@ -1,0 +1,21 @@
+{
+  "name": "FUN OCaml 2027",
+  "year": 2027,
+  "url": "https://fun-ocaml.com",
+  "startDate": "2027-01-25",
+  "endDate": "2027-01-26",
+  "city": "Bangalore",
+  "country": "IN",
+  "lat": 12.97194,
+  "lng": 77.59369,
+  "topics": [
+    "Open Source"
+  ],
+  "cfp": {
+    "url": "https://cfp.fun-ocaml.com/fun-ocaml-2027-bengaluru/cfp",
+    "deadline": "2026-09-30",
+    "open": true
+  },
+  "twitter": "https://x.com/FUNOCaml",
+  "source": "confs.tech"
+}

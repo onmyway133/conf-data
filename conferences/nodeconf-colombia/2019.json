@@ -1,0 +1,21 @@
+{
+  "name": "NodeConf Colombia 2019",
+  "year": 2019,
+  "url": "https://colombia.nodeconf.com",
+  "startDate": "2019-06-21",
+  "endDate": "2019-06-22",
+  "city": "Medellín",
+  "country": "CO",
+  "lat": 6.245,
+  "lng": -75.57151,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://cfp.nodeconf.co",
+    "deadline": "2019-02-28",
+    "open": false
+  },
+  "twitter": "https://x.com/NodeConfCo",
+  "source": "confs.tech"
+}

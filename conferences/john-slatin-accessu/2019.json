@@ -1,0 +1,16 @@
+{
+  "name": "John Slatin AccessU 2019",
+  "year": 2019,
+  "url": "https://knowbility.org/programs/accessu",
+  "startDate": "2019-05-14",
+  "endDate": "2019-05-17",
+  "city": "Austin, TX",
+  "country": "US",
+  "lat": 30.26715,
+  "lng": -97.74306,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/knowbility",
+  "source": "confs.tech"
+}

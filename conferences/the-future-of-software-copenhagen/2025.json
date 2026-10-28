@@ -1,0 +1,21 @@
+{
+  "name": "The Future of Software - Copenhagen 2025",
+  "year": 2025,
+  "url": "https://www.thefutureofsoftware.com/copenhagen",
+  "startDate": "2025-10-21",
+  "endDate": "2025-10-21",
+  "city": "Copenhagen",
+  "country": "DK",
+  "lat": 55.67594,
+  "lng": 12.56553,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/the-future-of-software-conference-cph-stlm",
+    "deadline": "2025-06-08",
+    "open": false
+  },
+  "bluesky": "https://bsky.app/profile/eficode.bsky.social",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": ".Net Day Franken 2020",
+  "year": 2020,
+  "url": "https://www.dotnet-day-franken.de",
+  "startDate": "2020-09-11",
+  "endDate": "2020-09-12",
+  "city": "Nürnberg",
+  "country": "DE",
+  "lat": 49.45421,
+  "lng": 11.07752,
+  "topics": [
+    ".NET"
+  ],
+  "twitter": "https://x.com/NETDayFranken",
+  "source": "confs.tech"
+}

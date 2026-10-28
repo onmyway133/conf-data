@@ -1,0 +1,14 @@
+{
+  "name": "Barcamp Graz 2026",
+  "year": 2026,
+  "url": "https://barcamp-graz.org",
+  "startDate": "2026-05-30",
+  "endDate": "2026-05-30",
+  "city": "Graz",
+  "country": "AT",
+  "lat": 47.06733,
+  "lng": 15.44197,
+  "topics": [],
+  "mastodon": "https://graz.social/@barcamp",
+  "source": "confs.tech"
+}

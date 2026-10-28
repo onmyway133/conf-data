@@ -1,0 +1,16 @@
+{
+  "name": "React Days 2022",
+  "year": 2022,
+  "url": "https://javascript-days.de/react",
+  "startDate": "2022-10-17",
+  "endDate": "2022-10-20",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/React_Days",
+  "source": "confs.tech"
+}

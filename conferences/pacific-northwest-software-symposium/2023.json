@@ -1,0 +1,16 @@
+{
+  "name": "Pacific Northwest Software Symposium 2023",
+  "year": 2023,
+  "url": "https://nofluffjuststuff.com/seattle",
+  "startDate": "2023-04-14",
+  "endDate": "2023-04-15",
+  "city": "Seattle, WA",
+  "country": "US",
+  "lat": 47.60621,
+  "lng": -122.33207,
+  "topics": [
+    "Java"
+  ],
+  "twitter": "https://x.com/nofluff",
+  "source": "confs.tech"
+}

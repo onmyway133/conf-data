@@ -1,0 +1,16 @@
+{
+  "name": "ReactFoo 2019",
+  "year": 2019,
+  "url": "https://reactfoo.in/2019",
+  "startDate": "2019-03-01",
+  "endDate": "2019-03-02",
+  "city": "Bengaluru",
+  "country": "IN",
+  "lat": 12.97194,
+  "lng": 77.59369,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/ReactFoo",
+  "source": "confs.tech"
+}

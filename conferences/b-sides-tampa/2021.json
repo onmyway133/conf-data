@@ -1,0 +1,16 @@
+{
+  "name": "B-Sides Tampa 2021",
+  "year": 2021,
+  "url": "https://bsidestampa.net",
+  "startDate": "2021-02-27",
+  "endDate": "2021-02-27",
+  "city": "Tampa, FL",
+  "country": "US",
+  "lat": 27.94752,
+  "lng": -82.45843,
+  "topics": [
+    "Security"
+  ],
+  "twitter": "https://x.com/BSidesTampa",
+  "source": "confs.tech"
+}

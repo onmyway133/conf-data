@@ -1,0 +1,15 @@
+{
+  "name": "UXCon Vienna 2024",
+  "year": 2024,
+  "url": "https://www.uxcon.at",
+  "startDate": "2024-04-19",
+  "endDate": "2024-04-20",
+  "city": "Vienna",
+  "country": "AT",
+  "lat": 48.20849,
+  "lng": 16.37208,
+  "topics": [
+    "Design/UX"
+  ],
+  "source": "confs.tech"
+}

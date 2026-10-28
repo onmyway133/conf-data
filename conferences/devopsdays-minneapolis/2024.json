@@ -1,0 +1,16 @@
+{
+  "name": "Devopsdays Minneapolis 2024",
+  "year": 2024,
+  "url": "https://devopsdays.org/events/2024-minneapolis/welcome",
+  "startDate": "2024-08-06",
+  "endDate": "2024-08-07",
+  "city": "Minneapolis, MN",
+  "country": "US",
+  "lat": 44.97997,
+  "lng": -93.26384,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devopsdaysmsp",
+  "source": "confs.tech"
+}

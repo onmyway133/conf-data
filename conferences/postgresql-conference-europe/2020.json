@@ -1,0 +1,16 @@
+{
+  "name": "PostgreSQL Conference Europe 2020",
+  "year": 2020,
+  "url": "https://2020.pgconf.eu",
+  "startDate": "2020-10-20",
+  "endDate": "2020-10-23",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/pgconfeu",
+  "source": "confs.tech"
+}

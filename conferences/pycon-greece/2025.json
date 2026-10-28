@@ -1,0 +1,20 @@
+{
+  "name": "PyCon Greece 2025",
+  "year": 2025,
+  "url": "https://2025.pycon.gr/en",
+  "startDate": "2025-08-29",
+  "endDate": "2025-08-30",
+  "city": "Athens",
+  "country": "GR",
+  "lat": 37.98376,
+  "lng": 23.72784,
+  "topics": [
+    "Python"
+  ],
+  "cfp": {
+    "url": "https://2025.pycon.gr/en/program/proposal-guidelines",
+    "deadline": "2025-05-04",
+    "open": false
+  },
+  "source": "confs.tech"
+}

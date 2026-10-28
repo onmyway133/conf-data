@@ -1,0 +1,15 @@
+{
+  "name": "Droidcon 2019",
+  "year": 2019,
+  "url": "https://droidcon.at",
+  "startDate": "2019-09-19",
+  "endDate": "2019-09-20",
+  "city": "Vienna",
+  "country": "AT",
+  "lat": 48.20849,
+  "lng": 16.37208,
+  "topics": [
+    "Android"
+  ],
+  "source": "confs.tech"
+}

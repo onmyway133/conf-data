@@ -1,0 +1,16 @@
+{
+  "name": "Software Quality Days 2025",
+  "year": 2025,
+  "url": "https://www.software-quality-days.com",
+  "startDate": "2025-05-20",
+  "endDate": "2025-05-22",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [
+    "Testing"
+  ],
+  "twitter": "https://x.com/swqd",
+  "source": "confs.tech"
+}

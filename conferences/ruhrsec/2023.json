@@ -1,0 +1,16 @@
+{
+  "name": "RuhrSec 2023",
+  "year": 2023,
+  "url": "https://www.ruhrsec.de/2023",
+  "startDate": "2023-05-11",
+  "endDate": "2023-05-12",
+  "city": "Bochum",
+  "country": "DE",
+  "lat": 51.48165,
+  "lng": 7.21648,
+  "topics": [
+    "Security"
+  ],
+  "twitter": "https://x.com/ruhrsec",
+  "source": "confs.tech"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Code Camp NYC 2019",
+  "year": 2019,
+  "url": "https://codecampnyc.org",
+  "startDate": "2019-10-12",
+  "endDate": "2019-10-12",
+  "city": "New York, NY",
+  "country": "US",
+  "lat": 40.71427,
+  "lng": -74.00597,
+  "topics": [],
+  "cfp": {
+    "url": "https://sessionize.com/code-camp-nyc-2019",
+    "deadline": "2019-08-31",
+    "open": false
+  },
+  "twitter": "https://x.com/codecampnyc",
+  "source": "confs.tech"
+}

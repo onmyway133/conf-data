@@ -1,0 +1,16 @@
+{
+  "name": "Design Matters 2022",
+  "year": 2022,
+  "url": "https://designmatters.io",
+  "startDate": "2022-09-28",
+  "endDate": "2022-09-29",
+  "city": "Copenhagen",
+  "country": "DK",
+  "lat": 55.67594,
+  "lng": 12.56553,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/designmattersdk",
+  "source": "confs.tech"
+}

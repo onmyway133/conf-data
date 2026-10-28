@@ -1,0 +1,19 @@
+{
+  "name": "CityJS India 2022",
+  "year": 2022,
+  "url": "https://india.cityjsconf.org",
+  "startDate": "2022-02-17",
+  "endDate": "2022-02-18",
+  "city": "Tamil Nadu",
+  "country": "IN",
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://tinyurl.com/cityjsconfindia",
+    "deadline": "2000-12-31",
+    "open": false
+  },
+  "twitter": "https://x.com/cityjsindia",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "MobileTech 2018",
+  "year": 2018,
+  "url": "https://mobiletechcon.de/en/",
+  "startDate": "2018-03-12",
+  "endDate": "2018-03-14",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [
+    "iOS",
+    "Mobile"
+  ],
+  "source": "cocoaconferences"
+}

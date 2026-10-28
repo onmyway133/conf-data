@@ -1,0 +1,16 @@
+{
+  "name": "NG-DE 2022",
+  "year": 2022,
+  "url": "https://ng-de.org",
+  "startDate": "2022-10-06",
+  "endDate": "2022-10-07",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/ngdeconf",
+  "source": "confs.tech"
+}

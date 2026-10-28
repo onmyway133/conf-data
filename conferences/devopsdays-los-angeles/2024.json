@@ -1,0 +1,16 @@
+{
+  "name": "Devopsdays Los Angeles 2024",
+  "year": 2024,
+  "url": "https://devopsdays.org/events/2024-los-angeles/welcome",
+  "startDate": "2024-03-15",
+  "endDate": "2024-03-15",
+  "city": "Los Angeles, CA",
+  "country": "US",
+  "lat": 34.05223,
+  "lng": -118.24368,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/socaldevops",
+  "source": "confs.tech"
+}

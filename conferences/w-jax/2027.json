@@ -1,0 +1,17 @@
+{
+  "name": "W-JAX 2027",
+  "year": 2027,
+  "url": "https://jax.de/muenchen",
+  "startDate": "2027-11-08",
+  "endDate": "2027-11-12",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [
+    "Java"
+  ],
+  "twitter": "https://x.com/jaxcon",
+  "bluesky": "https://bsky.app/profile/jaxkonferenz.bsky.social",
+  "source": "confs.tech"
+}

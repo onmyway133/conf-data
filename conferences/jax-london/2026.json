@@ -1,0 +1,17 @@
+{
+  "name": "Jax London 2026",
+  "year": 2026,
+  "url": "https://jaxlondon.com",
+  "startDate": "2026-10-05",
+  "endDate": "2026-10-09",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "Java",
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/jaxlondon",
+  "source": "confs.tech"
+}

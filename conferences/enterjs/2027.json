@@ -1,0 +1,21 @@
+{
+  "name": "enterJS 2027",
+  "year": 2027,
+  "url": "https://enterjs.de",
+  "startDate": "2027-06-09",
+  "endDate": "2027-06-10",
+  "city": "Cologne",
+  "country": "DE",
+  "lat": 50.93333,
+  "lng": 6.95,
+  "topics": [
+    "JavaScript",
+    "TypeScript"
+  ],
+  "cfp": {
+    "url": "https://enterjs.de/cfp.php",
+    "deadline": "2026-11-03",
+    "open": true
+  },
+  "source": "confs.tech"
+}

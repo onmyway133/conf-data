@@ -1,0 +1,15 @@
+{
+  "name": "ESPC 2025",
+  "year": 2025,
+  "url": "https://www.sharepointeurope.com",
+  "startDate": "2025-12-01",
+  "endDate": "2025-12-04",
+  "city": "Dublin",
+  "country": "IE",
+  "lat": 53.33306,
+  "lng": -6.24889,
+  "topics": [],
+  "twitter": "https://x.com/ESPC_Community",
+  "bluesky": "https://bsky.app/profile/espccommunity.bsky",
+  "source": "confs.tech"
+}

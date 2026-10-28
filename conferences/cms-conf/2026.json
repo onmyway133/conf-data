@@ -1,0 +1,18 @@
+{
+  "name": "CMS Conf 2026",
+  "year": 2026,
+  "url": "https://cmsconf.com",
+  "startDate": "2026-11-12",
+  "endDate": "2026-11-14",
+  "city": "Gdynia",
+  "country": "PL",
+  "lat": 54.51889,
+  "lng": 18.53188,
+  "topics": [],
+  "cfp": {
+    "url": "https://cmsconf.com/call-for-papers",
+    "deadline": "2026-04-30",
+    "open": true
+  },
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "ThunderPlains 2019",
+  "year": 2019,
+  "url": "https://2019.thunderplainsconf.com",
+  "startDate": "2019-10-22",
+  "endDate": "2019-10-22",
+  "city": "Oklahoma City, OK",
+  "country": "US",
+  "lat": 35.46756,
+  "lng": -97.51643,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/thunderplains",
+  "source": "confs.tech"
+}

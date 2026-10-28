@@ -1,0 +1,16 @@
+{
+  "name": "Nor(Dev):Con 2020",
+  "year": 2020,
+  "url": "https://nordevcon.com",
+  "startDate": "2020-02-26",
+  "endDate": "2020-02-28",
+  "city": "Norwich",
+  "country": "GB",
+  "lat": 52.62783,
+  "lng": 1.29834,
+  "topics": [
+    "Networking"
+  ],
+  "twitter": "https://x.com/NorfolkDev",
+  "source": "confs.tech"
+}

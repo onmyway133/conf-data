@@ -1,0 +1,15 @@
+{
+  "name": "IEEE/SICE SII 2025",
+  "year": 2025,
+  "url": "https://sice-si.org/SII2025/sii2025.html",
+  "startDate": "2025-01-21",
+  "endDate": "2025-01-24",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [
+    "Data/AI"
+  ],
+  "source": "confs.tech"
+}

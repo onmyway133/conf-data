@@ -1,0 +1,17 @@
+{
+  "name": "SmashingConf Amsterdam 2026",
+  "year": 2026,
+  "url": "https://smashingconf.com/amsterdam-2026",
+  "startDate": "2026-04-13",
+  "endDate": "2026-04-16",
+  "city": "Amsterdam",
+  "country": "NL",
+  "lat": 52.37403,
+  "lng": 4.88969,
+  "topics": [
+    "CSS",
+    "Design/UX"
+  ],
+  "bluesky": "https://bsky.app/profile/smashingconf.com",
+  "source": "confs.tech"
+}

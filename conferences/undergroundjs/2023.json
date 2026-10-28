@@ -1,0 +1,16 @@
+{
+  "name": "UndergroundJS 2023",
+  "year": 2023,
+  "url": "https://undergroundjs.com",
+  "startDate": "2023-09-21",
+  "endDate": "2023-09-21",
+  "city": "Nashville, TN",
+  "country": "US",
+  "lat": 36.16589,
+  "lng": -86.78444,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/undergroundjs",
+  "source": "confs.tech"
+}

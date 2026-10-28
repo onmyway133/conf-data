@@ -1,0 +1,16 @@
+{
+  "name": "KubeCon + CloudNativeCon 2019",
+  "year": 2019,
+  "url": "https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019",
+  "startDate": "2019-11-18",
+  "endDate": "2019-11-21",
+  "city": "San Diego, CA",
+  "country": "US",
+  "lat": 32.71571,
+  "lng": -117.16472,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/CloudNativeFdn",
+  "source": "confs.tech"
+}

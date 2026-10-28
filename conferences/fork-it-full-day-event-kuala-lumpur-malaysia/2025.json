@@ -1,0 +1,20 @@
+{
+  "name": "Fork it! Full-day event Kuala Lumpur, Malaysia 2025",
+  "year": 2025,
+  "url": "https://www.forkit.community/events/2025-malaysia-kuala-lumpur",
+  "startDate": "2025-10-25",
+  "endDate": "2025-10-25",
+  "city": "Kuala Lumpur",
+  "country": "MY",
+  "lat": 3.1412,
+  "lng": 101.68653,
+  "topics": [],
+  "cfp": {
+    "url": "https://conference-hall.io/fork-it-community-malaysia-2025",
+    "deadline": "2025-08-30",
+    "open": false
+  },
+  "twitter": "https://x.com/ForkitCommunity",
+  "bluesky": "https://bsky.app/profile/forkit.community",
+  "source": "confs.tech"
+}

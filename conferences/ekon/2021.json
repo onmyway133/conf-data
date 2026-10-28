@@ -1,0 +1,16 @@
+{
+  "name": "EKON 2021",
+  "year": 2021,
+  "url": "https://entwickler-konferenz.de/de",
+  "startDate": "2021-11-08",
+  "endDate": "2021-11-10",
+  "city": "Düsseldorf",
+  "country": "DE",
+  "lat": 51.22319,
+  "lng": 6.77927,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/EntwicklerKON",
+  "source": "confs.tech"
+}

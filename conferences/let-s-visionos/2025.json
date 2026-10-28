@@ -1,0 +1,15 @@
+{
+  "name": "Let's visionOS 2025",
+  "year": 2025,
+  "url": "https://letsvision.swiftgg.team/",
+  "startDate": "2025-03-01",
+  "endDate": "2025-03-02",
+  "city": "Shanghai",
+  "country": "CN",
+  "lat": 31.22222,
+  "lng": 121.45806,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences"
+}

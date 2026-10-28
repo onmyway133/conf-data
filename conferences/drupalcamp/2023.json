@@ -1,0 +1,22 @@
+{
+  "name": "DrupalCamp 2023",
+  "year": 2023,
+  "url": "https://www.drupalcamp.pl/en",
+  "startDate": "2023-05-13",
+  "endDate": "2023-05-14",
+  "city": "Wrocław",
+  "country": "PL",
+  "lat": 51.10286,
+  "lng": 17.03006,
+  "topics": [
+    "Networking",
+    "PHP"
+  ],
+  "cfp": {
+    "url": "https://www.drupalcamp.pl/en/proposed-sessions",
+    "deadline": "2023-04-16",
+    "open": false
+  },
+  "twitter": "https://x.com/DrupalCampPol",
+  "source": "confs.tech"
+}

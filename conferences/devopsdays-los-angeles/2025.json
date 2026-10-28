@@ -1,0 +1,16 @@
+{
+  "name": "Devopsdays Los Angeles 2025",
+  "year": 2025,
+  "url": "https://devopsdays.org/events/2025-los-angeles/welcome/",
+  "startDate": "2025-03-07",
+  "endDate": "2025-03-07",
+  "city": "Los Angeles, CA",
+  "country": "US",
+  "lat": 34.05223,
+  "lng": -118.24368,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/socaldevops",
+  "source": "confs.tech"
+}

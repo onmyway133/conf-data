@@ -1,0 +1,22 @@
+{
+  "name": "Swift Craft 2025",
+  "year": 2025,
+  "url": "https://swiftcraft.uk",
+  "startDate": "2025-05-20",
+  "endDate": "2025-05-21",
+  "city": "Folkestone",
+  "country": "GB",
+  "lat": 51.08169,
+  "lng": 1.16734,
+  "topics": [
+    "iOS"
+  ],
+  "cfp": {
+    "url": "https://swiftcraft.uk/callforspeakers",
+    "deadline": "2024-11-15",
+    "open": false
+  },
+  "twitter": "https://x.com/swiftcraftuk",
+  "mastodon": "https://hachyderm.io/@swiftcraft",
+  "source": "confs.tech"
+}

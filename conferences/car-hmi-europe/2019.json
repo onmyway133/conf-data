@@ -1,0 +1,16 @@
+{
+  "name": "Car HMi Europe 2019",
+  "year": 2019,
+  "url": "https://www.car-hmi.com",
+  "startDate": "2019-07-01",
+  "endDate": "2019-07-02",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/SmartMobi_Hub",
+  "source": "confs.tech"
+}

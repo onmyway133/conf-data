@@ -1,0 +1,21 @@
+{
+  "name": "Into the Box 2022",
+  "year": 2022,
+  "url": "https://intothebox.org",
+  "startDate": "2022-09-06",
+  "endDate": "2022-09-08",
+  "city": "Houston, TX",
+  "country": "US",
+  "lat": 29.76328,
+  "lng": -95.36327,
+  "topics": [
+    "CFML"
+  ],
+  "cfp": {
+    "url": "https://forms.gle/HR1vQf2T5rs8yCZo9",
+    "deadline": "2022-04-17",
+    "open": false
+  },
+  "twitter": "https://x.com/GoIntoTheBox",
+  "source": "confs.tech"
+}

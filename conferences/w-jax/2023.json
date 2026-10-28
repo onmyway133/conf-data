@@ -1,0 +1,21 @@
+{
+  "name": "W-JAX 2023",
+  "year": 2023,
+  "url": "https://jax.de/munich",
+  "startDate": "2023-11-06",
+  "endDate": "2023-11-10",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [
+    "Java"
+  ],
+  "cfp": {
+    "url": "https://jax.de/contact-en",
+    "deadline": "2023-05-11",
+    "open": false
+  },
+  "twitter": "https://x.com/jaxcon",
+  "source": "confs.tech"
+}

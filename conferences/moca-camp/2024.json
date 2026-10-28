@@ -1,0 +1,21 @@
+{
+  "name": "Moca  Camp 2024",
+  "year": 2024,
+  "url": "https://moca.camp/en/home-moca2024/index.html",
+  "startDate": "2024-09-13",
+  "endDate": "2024-09-15",
+  "city": "Pescara",
+  "country": "IT",
+  "lat": 42.4584,
+  "lng": 14.20283,
+  "topics": [
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://moca.camp/en/call-for-papers-moca2024/index.html",
+    "deadline": "2024-07-17",
+    "open": false
+  },
+  "twitter": "https://x.com/metroolografix",
+  "source": "confs.tech"
+}

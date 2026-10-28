@@ -1,0 +1,19 @@
+{
+  "name": "gRPConf 2024",
+  "year": 2024,
+  "url": "https://events.linuxfoundation.org/grpconf",
+  "startDate": "2024-08-27",
+  "endDate": "2024-08-27",
+  "city": "Sunnyvale, CA",
+  "country": "US",
+  "lat": 37.36883,
+  "lng": -122.03635,
+  "topics": [],
+  "cfp": {
+    "url": "https://events.linuxfoundation.org/grpconf/program/cfp",
+    "deadline": "2024-05-29",
+    "open": false
+  },
+  "twitter": "https://x.com/KubeCon_",
+  "source": "confs.tech"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Disney Data & Analytics Conference (DDAC) 2026",
+  "year": 2026,
+  "url": "https://disneydataconference.com",
+  "startDate": "2026-09-14",
+  "endDate": "2026-09-16",
+  "city": "Orlando, FL",
+  "country": "US",
+  "lat": 28.53834,
+  "lng": -81.37924,
+  "topics": [
+    "Data/AI"
+  ],
+  "source": "confs.tech"
+}

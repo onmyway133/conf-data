@@ -1,0 +1,16 @@
+{
+  "name": "Experience Fighters 2019",
+  "year": 2019,
+  "url": "https://experiencefighters.com",
+  "startDate": "2019-06-01",
+  "endDate": "2019-06-01",
+  "city": "Madrid",
+  "country": "ES",
+  "lat": 40.4165,
+  "lng": -3.70256,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/expfighters",
+  "source": "confs.tech"
+}

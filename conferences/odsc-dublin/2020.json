@@ -1,0 +1,15 @@
+{
+  "name": "ODSC Dublin 2020",
+  "year": 2020,
+  "url": "https://odsc.com/dublin",
+  "startDate": "2020-09-14",
+  "endDate": "2020-09-18",
+  "city": "Dublin",
+  "country": "IE",
+  "lat": 53.33306,
+  "lng": -6.24889,
+  "topics": [
+    "Data/AI"
+  ],
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Celosphere 2023",
+  "year": 2023,
+  "url": "https://www.celonis.com/celosphere",
+  "startDate": "2023-11-14",
+  "endDate": "2023-11-15",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/Celonis",
+  "source": "confs.tech"
+}

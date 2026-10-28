@@ -1,0 +1,19 @@
+{
+  "name": "Working Software Conference 2019",
+  "year": 2019,
+  "url": "https://www.agilemovement.it/workingsoftware",
+  "startDate": "2019-07-03",
+  "endDate": "2019-07-03",
+  "city": "Milano",
+  "country": "IT",
+  "lat": 45.46427,
+  "lng": 9.18951,
+  "topics": [],
+  "cfp": {
+    "url": "https://sessionize.com/working-software",
+    "deadline": "2019-05-15",
+    "open": false
+  },
+  "twitter": "https://x.com/WorkingSWConf",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "UXPA 2019",
+  "year": 2019,
+  "url": "http://uxpa2019.org",
+  "startDate": "2019-06-25",
+  "endDate": "2019-06-27",
+  "city": "Scottsdale, AZ",
+  "country": "US",
+  "lat": 33.50921,
+  "lng": -111.89903,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/UXPA_Int",
+  "source": "confs.tech"
+}

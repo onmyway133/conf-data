@@ -1,0 +1,16 @@
+{
+  "name": "SREDay 2025",
+  "year": 2025,
+  "url": "https://sreday.com/2025-redmond-q2",
+  "startDate": "2025-04-14",
+  "endDate": "2025-04-14",
+  "city": "Redmond, WA",
+  "country": "US",
+  "lat": 47.67399,
+  "lng": -122.12151,
+  "topics": [
+    "SRE"
+  ],
+  "twitter": "https://x.com/sreday_com",
+  "source": "confs.tech"
+}

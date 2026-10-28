@@ -1,0 +1,20 @@
+{
+  "name": "JoomlaDay DACH 2024",
+  "year": 2024,
+  "url": "https://dach.joomladay.org",
+  "startDate": "2024-09-20",
+  "endDate": "2024-09-21",
+  "city": "Hamburg",
+  "country": "DE",
+  "lat": 53.55073,
+  "lng": 9.99302,
+  "topics": [],
+  "cfp": {
+    "url": "https://dach.joomladay.org/vortrag-einreichen",
+    "deadline": "2024-06-15",
+    "open": false
+  },
+  "twitter": "https://x.com/joomlatag",
+  "mastodon": "https://joom.la/@jddach",
+  "source": "confs.tech"
+}

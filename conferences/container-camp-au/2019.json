@@ -1,0 +1,21 @@
+{
+  "name": "Container Camp AU 2019",
+  "year": 2019,
+  "url": "https://2019.container.camp/au",
+  "startDate": "2019-07-25",
+  "endDate": "2019-07-26",
+  "city": "Sidney",
+  "country": "AU",
+  "lat": -33.86785,
+  "lng": 151.20732,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://containercamp.typeform.com/to/a1BQqx",
+    "deadline": "2019-05-31",
+    "open": false
+  },
+  "twitter": "https://x.com/containercamp",
+  "source": "confs.tech"
+}

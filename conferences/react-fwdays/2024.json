@@ -1,0 +1,21 @@
+{
+  "name": "React+ fwdays 2024",
+  "year": 2024,
+  "url": "https://fwdays.com/event/react-fwdays-2024",
+  "startDate": "2024-10-19",
+  "endDate": "2024-10-19",
+  "city": "Kyiv",
+  "country": "UA",
+  "lat": 50.45466,
+  "lng": 30.5238,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://forms.gle/5nANUewLt5N5u4hm7",
+    "deadline": "2024-09-16",
+    "open": false
+  },
+  "twitter": "https://x.com/fwdays",
+  "source": "confs.tech"
+}

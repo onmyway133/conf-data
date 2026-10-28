@@ -1,0 +1,73 @@
+{
+  "name": "Swift Island 2025",
+  "year": 2025,
+  "url": "https://swiftisland.nl",
+  "startDate": "2025-09-02",
+  "endDate": "2025-09-04",
+  "city": "Texel",
+  "country": "NL",
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences",
+  "speakers": [
+    {
+      "speaker": "janina-kutyn",
+      "photoUrl": "https://framerusercontent.com/images/lgV4fmAQMV50WeTuyf0YD6BAbI.jpg?width=2200&height=2200",
+      "twitter": "https://twitter.com/JaninaKutyn",
+      "linkedin": "https://www.linkedin.com/in/janinakutyn/"
+    },
+    {
+      "speaker": "tim-condon",
+      "photoUrl": "https://framerusercontent.com/images/WAbWJUHDrLqOtW6TExLfqNlXiQA.jpg?width=2316&height=2312",
+      "twitter": "https://twitter.com/0xTim",
+      "linkedin": "https://www.linkedin.com/in/timjcondon/"
+    },
+    {
+      "speaker": "sofia-diniz",
+      "photoUrl": "https://framerusercontent.com/images/NZy90liQJUZqHUv0lKdg4QH3bgk.jpg?width=2048&height=1365",
+      "linkedin": "https://www.linkedin.com/in/sofiadiniz/"
+    },
+    {
+      "speaker": "john-solsma",
+      "photoUrl": "https://framerusercontent.com/images/LiS7TK942mIRjrUOcAKmQsbB4.jpg?width=793&height=991",
+      "linkedin": "https://www.linkedin.com/in/jsolsma/"
+    },
+    {
+      "speaker": "burcu-k-kutluay",
+      "photoUrl": "https://framerusercontent.com/images/EUUQ2ZB2ItH2sswIPMsLhV3zrI.jpg?width=595&height=595",
+      "twitter": "https://x.com/burcukutluay",
+      "linkedin": "https://www.linkedin.com/in/burcukutluay/"
+    },
+    {
+      "speaker": "bruno-scheele",
+      "photoUrl": "https://framerusercontent.com/images/b7JK1PnLeWJtXP9DBXdlgA0DDo.jpg?width=3285&height=3285",
+      "twitter": "https://x.com/brunoscheele",
+      "linkedin": "https://www.linkedin.com/in/bruno-scheele-2a08aa295/"
+    },
+    {
+      "speaker": "celina-landgraf",
+      "photoUrl": "https://framerusercontent.com/images/xWrN7FtpeRSUx1X4E0w8BenL7E.jpg?width=4820&height=4820",
+      "linkedin": "https://www.linkedin.com/in/celina-landgraf-520564180/"
+    },
+    {
+      "speaker": "frank-lefebvre",
+      "photoUrl": "https://framerusercontent.com/images/eFVZeeeZ3gEr0wEK1MyCifknFo.jpg?width=800&height=792",
+      "twitter": "https://x.com/franklefebvre",
+      "linkedin": "https://www.linkedin.com/in/franklefebvre/"
+    },
+    {
+      "speaker": "feli-bernutz",
+      "photoUrl": "https://framerusercontent.com/images/2KWz26nHaUHgrWfDO9mrlBgbDU.jpg?width=960&height=960"
+    },
+    {
+      "speaker": "fennande-van-der-meulen",
+      "photoUrl": "https://framerusercontent.com/images/a121MjRbuugEvAf6xHQi0ORqh74.png?width=481&height=504",
+      "linkedin": "https://www.linkedin.com/in/fennande/"
+    },
+    {
+      "speaker": "ryan-mcleod",
+      "photoUrl": "https://framerusercontent.com/images/Ua1cvWuse0VoUPV93AWpIH6Ifo.jpg?width=552&height=552"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Devopsdays Geneva 2024",
+  "year": 2024,
+  "url": "https://devopsdays.org/events/2024-geneva/welcome",
+  "startDate": "2024-05-13",
+  "endDate": "2024-05-14",
+  "city": "Geneva",
+  "country": "CH",
+  "lat": 46.20222,
+  "lng": 6.14569,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://devopsdays.org/events/2024-geneva/propose",
+    "deadline": "2024-01-07",
+    "open": false
+  },
+  "twitter": "https://x.com/DevopsdaysGe",
+  "source": "confs.tech"
+}

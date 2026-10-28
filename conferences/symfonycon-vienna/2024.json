@@ -1,0 +1,21 @@
+{
+  "name": "SymfonyCon Vienna 2024",
+  "year": 2024,
+  "url": "https://live.symfony.com/2024-vienna-con",
+  "startDate": "2024-12-03",
+  "endDate": "2024-12-06",
+  "city": "Vienna",
+  "country": "AT",
+  "lat": 48.20849,
+  "lng": 16.37208,
+  "topics": [
+    "PHP"
+  ],
+  "cfp": {
+    "url": "https://live.symfony.com/2024-vienna-con/cfp",
+    "deadline": "2024-09-02",
+    "open": false
+  },
+  "twitter": "https://x.com/SymfonyCon",
+  "source": "confs.tech"
+}

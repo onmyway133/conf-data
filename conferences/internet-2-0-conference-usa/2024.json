@@ -1,0 +1,17 @@
+{
+  "name": "Internet 2.0 Conference USA 2024",
+  "year": 2024,
+  "url": "https://www.internet2conf.com",
+  "startDate": "2024-03-18",
+  "endDate": "2024-03-20",
+  "city": "Las Vegas, NV",
+  "country": "US",
+  "lat": 36.17497,
+  "lng": -115.13722,
+  "topics": [
+    "Networking",
+    "Security"
+  ],
+  "twitter": "https://x.com/internet2conf",
+  "source": "confs.tech"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Devopsdays Montreal 2024",
+  "year": 2024,
+  "url": "https://devopsdays.org/events/2024-montreal/welcome",
+  "startDate": "2024-05-27",
+  "endDate": "2024-05-28",
+  "city": "Montreal",
+  "country": "CA",
+  "lat": 45.50884,
+  "lng": -73.58781,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/devopsdays-montreal-2024",
+    "deadline": "2024-01-28",
+    "open": false
+  },
+  "twitter": "https://x.com/DevOpsDaysMTL",
+  "source": "confs.tech"
+}

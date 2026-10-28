@@ -1,0 +1,15 @@
+{
+  "name": "ScalaDays 2023",
+  "year": 2023,
+  "url": "https://scaladays.org/seattle-2023",
+  "startDate": "2023-06-05",
+  "endDate": "2023-06-07",
+  "city": "Seattle, WA",
+  "country": "US",
+  "lat": 47.60621,
+  "lng": -122.33207,
+  "topics": [
+    "Scala"
+  ],
+  "source": "confs.tech"
+}

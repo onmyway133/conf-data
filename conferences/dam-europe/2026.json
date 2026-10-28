@@ -1,0 +1,16 @@
+{
+  "name": "DAM Europe 2026",
+  "year": 2026,
+  "url": "https://www.henrystewartconferences.com/events/dam-europe-2026",
+  "startDate": "2026-06-25",
+  "endDate": "2026-06-26",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/henrystewartdam",
+  "source": "confs.tech"
+}

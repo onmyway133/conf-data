@@ -1,0 +1,16 @@
+{
+  "name": "UXOK 2021",
+  "year": 2021,
+  "url": "https://uxok.org",
+  "startDate": "2021-02-05",
+  "endDate": "2021-02-05",
+  "city": "Tulsa, OK",
+  "country": "US",
+  "lat": 36.15398,
+  "lng": -95.99277,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/uxokconf",
+  "source": "confs.tech"
+}

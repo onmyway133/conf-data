@@ -1,0 +1,19 @@
+{
+  "name": "Soft Skills fwdays conference 2025",
+  "year": 2025,
+  "url": "https://fwdays.com/en/event/soft-skills-fwdays-2025",
+  "startDate": "2025-03-15",
+  "endDate": "2025-03-15",
+  "city": "Kyiv",
+  "country": "UA",
+  "lat": 50.45466,
+  "lng": 30.5238,
+  "topics": [],
+  "cfp": {
+    "url": "https://forms.gle/6uf9nuWxtATFU8CM7",
+    "deadline": "2025-02-13",
+    "open": false
+  },
+  "twitter": "https://x.com/fwdays",
+  "source": "confs.tech"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "WordCamp Rotterdam 2019",
+  "year": 2019,
+  "url": "https://2019.rotterdam.wordcamp.org",
+  "startDate": "2019-04-12",
+  "endDate": "2019-04-13",
+  "city": "Rotterdam",
+  "country": "NL",
+  "lat": 51.9225,
+  "lng": 4.47917,
+  "topics": [],
+  "twitter": "https://x.com/WCRotterdam",
+  "source": "confs.tech"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "JavaDay Istanbul 2022",
+  "year": 2022,
+  "url": "https://www.javaday.istanbul",
+  "startDate": "2022-05-27",
+  "endDate": "2022-05-28",
+  "city": "Istanbul",
+  "country": "TR",
+  "lat": 41.01384,
+  "lng": 28.94966,
+  "topics": [
+    "Java"
+  ],
+  "cfp": {
+    "url": "https://www.papercall.io/javadayistanbul2022",
+    "deadline": "2022-03-31",
+    "open": false
+  },
+  "twitter": "https://x.com/javadayistanbul",
+  "source": "confs.tech"
+}

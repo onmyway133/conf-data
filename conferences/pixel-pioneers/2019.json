@@ -1,0 +1,17 @@
+{
+  "name": "Pixel Pioneers 2019",
+  "year": 2019,
+  "url": "https://pixelpioneers.co/events/bristol-2019",
+  "startDate": "2019-06-07",
+  "endDate": "2019-06-07",
+  "city": "Bristol",
+  "country": "GB",
+  "lat": 51.45523,
+  "lng": -2.59665,
+  "topics": [],
+  "cfp": {
+    "url": "https://pixelpioneers.co/call-for-speakers",
+    "open": false
+  },
+  "source": "confs.tech"
+}

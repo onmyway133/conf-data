@@ -1,0 +1,16 @@
+{
+  "name": "Ruby On Ice 2019",
+  "year": 2019,
+  "url": "https://rubyonice.com",
+  "startDate": "2019-02-22",
+  "endDate": "2019-02-24",
+  "city": "Tegernsee",
+  "country": "DE",
+  "lat": 47.7123,
+  "lng": 11.7582,
+  "topics": [
+    "Ruby"
+  ],
+  "twitter": "https://x.com/rubyoniceconf",
+  "source": "confs.tech"
+}

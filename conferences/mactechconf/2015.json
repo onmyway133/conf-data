@@ -1,0 +1,15 @@
+{
+  "name": "MacTechConf 2015",
+  "year": 2015,
+  "url": "http://mactech.com/conference",
+  "startDate": "2015-11-04",
+  "endDate": "2015-11-06",
+  "city": "Los Angeles",
+  "country": "US",
+  "lat": 34.05223,
+  "lng": -118.24368,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences"
+}

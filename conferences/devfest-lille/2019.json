@@ -1,0 +1,19 @@
+{
+  "name": "DevFest Lille 2019",
+  "year": 2019,
+  "url": "https://devfest.gdglille.org",
+  "startDate": "2019-06-14",
+  "endDate": "2019-06-14",
+  "city": "Lille",
+  "country": "FR",
+  "lat": 50.63391,
+  "lng": 3.05512,
+  "topics": [],
+  "cfp": {
+    "url": "https://conference-hall.io/public/event/6HVEO4aISYO7ctNdOIWx",
+    "deadline": "2019-03-31",
+    "open": false
+  },
+  "twitter": "https://x.com/devfestLille",
+  "source": "confs.tech"
+}

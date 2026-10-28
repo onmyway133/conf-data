@@ -1,0 +1,16 @@
+{
+  "name": "SymfonyLive Paris 2026",
+  "year": 2026,
+  "url": "https://live.symfony.com/2026-paris",
+  "startDate": "2026-03-26",
+  "endDate": "2026-03-27",
+  "city": "Paris",
+  "country": "FR",
+  "lat": 48.85341,
+  "lng": 2.3488,
+  "topics": [
+    "PHP"
+  ],
+  "twitter": "https://x.com/symfony_live",
+  "source": "confs.tech"
+}

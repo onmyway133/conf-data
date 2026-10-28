@@ -1,0 +1,16 @@
+{
+  "name": "ForwardJS 2019",
+  "year": 2019,
+  "url": "https://forwardjs.com",
+  "startDate": "2019-01-24",
+  "endDate": "2019-01-24",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/forwardjs",
+  "source": "confs.tech"
+}

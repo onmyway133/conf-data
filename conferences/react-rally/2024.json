@@ -1,0 +1,16 @@
+{
+  "name": "React Rally 2024",
+  "year": 2024,
+  "url": "https://reactrally.com",
+  "startDate": "2024-08-12",
+  "endDate": "2024-08-14",
+  "city": "Park City, UT",
+  "country": "US",
+  "lat": 41.17923,
+  "lng": -73.18945,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/ReactRally",
+  "source": "confs.tech"
+}

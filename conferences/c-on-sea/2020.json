@@ -1,0 +1,16 @@
+{
+  "name": "C++ on Sea 2020",
+  "year": 2020,
+  "url": "https://cpponsea.uk",
+  "startDate": "2020-06-07",
+  "endDate": "2020-06-10",
+  "city": "Folkestone",
+  "country": "GB",
+  "lat": 51.08169,
+  "lng": 1.16734,
+  "topics": [
+    "C++"
+  ],
+  "twitter": "https://x.com/cpponsea",
+  "source": "confs.tech"
+}

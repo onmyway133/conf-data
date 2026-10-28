@@ -1,0 +1,17 @@
+{
+  "name": "Java Land 2023",
+  "year": 2023,
+  "url": "https://www.javaland.eu",
+  "startDate": "2023-03-21",
+  "endDate": "2023-03-23",
+  "city": "Brühl",
+  "country": "DE",
+  "lat": 50.82928,
+  "lng": 6.90499,
+  "topics": [
+    "DevOps",
+    "Java"
+  ],
+  "twitter": "https://x.com/JavaLandConf",
+  "source": "confs.tech"
+}

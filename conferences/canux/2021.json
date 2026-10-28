@@ -1,0 +1,16 @@
+{
+  "name": "CanUX 2021",
+  "year": 2021,
+  "url": "https://canux.io",
+  "startDate": "2021-11-04",
+  "endDate": "2021-11-07",
+  "city": "Ottawa",
+  "country": "CA",
+  "lat": 45.41117,
+  "lng": -75.69812,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/canuxconf",
+  "source": "confs.tech"
+}

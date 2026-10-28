@@ -1,0 +1,21 @@
+{
+  "name": "API World 2024",
+  "year": 2024,
+  "url": "https://apiworld.co",
+  "startDate": "2024-11-05",
+  "endDate": "2024-11-07",
+  "city": "Santa Clara, CA",
+  "country": "US",
+  "lat": 37.35411,
+  "lng": -121.95524,
+  "topics": [
+    "APIs"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/api-world-2024",
+    "deadline": "2024-05-31",
+    "open": false
+  },
+  "twitter": "https://x.com/APIWorld",
+  "source": "confs.tech"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "DevOpsDays Seattle 2022",
+  "year": 2022,
+  "url": "https://devopsdays.org/events/2022-seattle/welcome",
+  "startDate": "2022-07-19",
+  "endDate": "2022-07-20",
+  "city": "Seattle, WA",
+  "country": "US",
+  "lat": 47.60621,
+  "lng": -122.33207,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/devopsdays-seattle-2022",
+    "deadline": "2022-03-25",
+    "open": false
+  },
+  "twitter": "https://x.com/devopsdayssea",
+  "source": "confs.tech"
+}

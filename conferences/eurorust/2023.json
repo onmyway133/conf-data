@@ -1,0 +1,16 @@
+{
+  "name": "EuroRust 2023",
+  "year": 2023,
+  "url": "https://eurorust.eu",
+  "startDate": "2023-10-12",
+  "endDate": "2023-10-13",
+  "city": "Brussels",
+  "country": "BE",
+  "lat": 50.85045,
+  "lng": 4.34878,
+  "topics": [
+    "Rust"
+  ],
+  "twitter": "https://x.com/euro_rust",
+  "source": "confs.tech"
+}

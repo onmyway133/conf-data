@@ -1,0 +1,16 @@
+{
+  "name": "ML in PL Conference 2024",
+  "year": 2024,
+  "url": "https://conference.mlinpl.org",
+  "startDate": "2024-11-07",
+  "endDate": "2024-11-10",
+  "city": "Warsaw",
+  "country": "PL",
+  "lat": 52.22977,
+  "lng": 21.01178,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/MLinPL",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "DevOpsCon Berlin 2020",
+  "year": 2020,
+  "url": "https://devopscon.io/berlin",
+  "startDate": "2020-10-12",
+  "endDate": "2020-10-15",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devops_con",
+  "source": "confs.tech"
+}

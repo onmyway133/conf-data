@@ -1,0 +1,21 @@
+{
+  "name": "Gophercon India 2023",
+  "year": 2023,
+  "url": "https://gopherconindia.org",
+  "startDate": "2023-09-09",
+  "endDate": "2023-09-10",
+  "city": "Pune",
+  "country": "IN",
+  "lat": 18.51957,
+  "lng": 73.85535,
+  "topics": [
+    "Go"
+  ],
+  "cfp": {
+    "url": "https://www.papercall.io/gci23",
+    "deadline": "2023-08-06",
+    "open": false
+  },
+  "twitter": "https://x.com/GopherConIndia",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "HalfStack Phoenix 2021",
+  "year": 2021,
+  "url": "https://halfstackconf.com/phoenix",
+  "startDate": "2021-01-15",
+  "endDate": "2021-01-15",
+  "city": "Phoenix, AZ",
+  "country": "US",
+  "lat": 33.44838,
+  "lng": -112.07404,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/halfstackconf",
+  "source": "confs.tech"
+}

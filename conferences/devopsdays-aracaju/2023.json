@@ -1,0 +1,16 @@
+{
+  "name": "Devopsdays Aracaju 2023",
+  "year": 2023,
+  "url": "https://devopsdays.org/events/2023-aracaju/welcome",
+  "startDate": "2023-05-06",
+  "endDate": "2023-05-06",
+  "city": "Aracaju",
+  "country": "BR",
+  "lat": -10.91111,
+  "lng": -37.07167,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/dodaracaju",
+  "source": "confs.tech"
+}

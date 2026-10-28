@@ -1,0 +1,16 @@
+{
+  "name": "CityJS Athens 2024",
+  "year": 2024,
+  "url": "https://athens.cityjsconf.org",
+  "startDate": "2024-11-28",
+  "endDate": "2024-11-29",
+  "city": "Athens",
+  "country": "GR",
+  "lat": 37.98376,
+  "lng": 23.72784,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/cityjsconf",
+  "source": "confs.tech"
+}

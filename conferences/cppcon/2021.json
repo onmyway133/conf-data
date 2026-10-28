@@ -1,0 +1,16 @@
+{
+  "name": "CppCon 2021",
+  "year": 2021,
+  "url": "https://cppcon.org",
+  "startDate": "2021-10-24",
+  "endDate": "2021-10-29",
+  "city": "Aurora, CO",
+  "country": "US",
+  "lat": 39.72943,
+  "lng": -104.83192,
+  "topics": [
+    "C++"
+  ],
+  "twitter": "https://x.com/cppcon",
+  "source": "confs.tech"
+}

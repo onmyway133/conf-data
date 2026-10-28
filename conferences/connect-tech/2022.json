@@ -1,0 +1,23 @@
+{
+  "name": "CONNECT.TECH 2022",
+  "year": 2022,
+  "url": "https://2022.connect.tech",
+  "startDate": "2022-11-07",
+  "endDate": "2022-11-09",
+  "city": "Atlanta, GA",
+  "country": "US",
+  "lat": 33.749,
+  "lng": -84.38798,
+  "topics": [
+    "CSS",
+    "JavaScript",
+    "Design/UX"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/connect-tech-2022",
+    "deadline": "2022-06-18",
+    "open": false
+  },
+  "twitter": "https://x.com/connect_js",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "JSCamp Romania 2019",
+  "year": 2019,
+  "url": "http://www.jscamp.ro",
+  "startDate": "2019-09-24",
+  "endDate": "2019-09-24",
+  "city": "Bucharest",
+  "country": "RO",
+  "lat": 44.43225,
+  "lng": 26.10626,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/jscampro",
+  "source": "confs.tech"
+}

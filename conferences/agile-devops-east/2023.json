@@ -1,0 +1,16 @@
+{
+  "name": "Agile + DevOps East 2023",
+  "year": 2023,
+  "url": "https://agiledevopseast.techwell.com",
+  "startDate": "2023-11-05",
+  "endDate": "2023-11-10",
+  "city": "Orlando, FL",
+  "country": "US",
+  "lat": 28.53834,
+  "lng": -81.37924,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/techwell",
+  "source": "confs.tech"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "data2day 2025",
+  "year": 2025,
+  "url": "https://www.data2day.de",
+  "startDate": "2025-11-04",
+  "endDate": "2025-11-05",
+  "city": "Karlsruhe",
+  "country": "DE",
+  "lat": 49.00937,
+  "lng": 8.40444,
+  "topics": [
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://www.data2day.de/cfp.php",
+    "deadline": "2025-05-12",
+    "open": false
+  },
+  "source": "confs.tech"
+}

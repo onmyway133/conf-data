@@ -1,0 +1,21 @@
+{
+  "name": "The Annual Nepal AI School (ANAIS) 2023",
+  "year": 2023,
+  "url": "https://nepalschool.naamii.com.np",
+  "startDate": "2023-05-22",
+  "endDate": "2023-06-01",
+  "city": "Kathmandu",
+  "country": "NP",
+  "lat": 27.70169,
+  "lng": 85.3206,
+  "topics": [
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://nepalschool.naamii.com.np/applications",
+    "deadline": "2023-04-07",
+    "open": false
+  },
+  "twitter": "https://x.com/naamii_nepal",
+  "source": "confs.tech"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Paris Web 2019",
+  "year": 2019,
+  "url": "https://www.paris-web.fr",
+  "startDate": "2019-10-10",
+  "endDate": "2019-10-12",
+  "city": "Paris",
+  "country": "FR",
+  "lat": 48.85341,
+  "lng": 2.3488,
+  "topics": [],
+  "cfp": {
+    "url": "https://appel.paris-web.fr",
+    "deadline": "2019-03-24",
+    "open": false
+  },
+  "twitter": "https://x.com/ParisWeb",
+  "source": "confs.tech"
+}

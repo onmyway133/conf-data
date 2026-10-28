@@ -1,0 +1,15 @@
+{
+  "name": "TECHSPO Los Angeles 2019",
+  "year": 2019,
+  "url": "https://techspola.com",
+  "startDate": "2019-06-12",
+  "endDate": "2019-06-13",
+  "city": "Los Angeles, CA",
+  "country": "US",
+  "lat": 34.05223,
+  "lng": -118.24368,
+  "topics": [
+    "Networking"
+  ],
+  "source": "confs.tech"
+}

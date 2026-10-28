@@ -1,0 +1,17 @@
+{
+  "name": "DevOpsCon San Diego 2026",
+  "year": 2026,
+  "url": "https://devopscon.io/san-diego",
+  "startDate": "2026-06-01",
+  "endDate": "2026-06-05",
+  "city": "San Diego, CA",
+  "country": "US",
+  "lat": 32.71571,
+  "lng": -117.16472,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devops_con",
+  "bluesky": "https://bsky.app/profile/devopscon.bluesky",
+  "source": "confs.tech"
+}

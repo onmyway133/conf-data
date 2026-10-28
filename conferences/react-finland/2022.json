@@ -1,0 +1,16 @@
+{
+  "name": "React Finland 2022",
+  "year": 2022,
+  "url": "https://react-finland.fi",
+  "startDate": "2022-09-12",
+  "endDate": "2022-09-16",
+  "city": "Helsinki",
+  "country": "FI",
+  "lat": 60.16952,
+  "lng": 24.93545,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/ReactFinland",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "JAX London 2025",
+  "year": 2025,
+  "url": "https://jaxlondon.com",
+  "startDate": "2025-09-29",
+  "endDate": "2025-10-03",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "Java"
+  ],
+  "twitter": "https://x.com/jaxlondon",
+  "source": "confs.tech"
+}

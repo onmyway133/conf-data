@@ -1,0 +1,21 @@
+{
+  "name": "React India 2019",
+  "year": 2019,
+  "url": "https://www.reactindia.io",
+  "startDate": "2019-09-26",
+  "endDate": "2019-09-28",
+  "city": "Goa",
+  "country": "IN",
+  "lat": 15.38914,
+  "lng": 73.81491,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/1-OLrzL6CEx075V7aX6uUaWH1clr29qnf6OQMmYT2VsU/viewform",
+    "deadline": "2019-05-25",
+    "open": false
+  },
+  "twitter": "https://x.com/react_india",
+  "source": "confs.tech"
+}

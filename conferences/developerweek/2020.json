@@ -1,0 +1,14 @@
+{
+  "name": "DeveloperWeek 2020",
+  "year": 2020,
+  "url": "https://www.developerweek.com",
+  "startDate": "2020-02-12",
+  "endDate": "2020-02-16",
+  "city": "Oakland, CA",
+  "country": "US",
+  "lat": 37.80437,
+  "lng": -122.2708,
+  "topics": [],
+  "twitter": "https://x.com/developerweek",
+  "source": "confs.tech"
+}

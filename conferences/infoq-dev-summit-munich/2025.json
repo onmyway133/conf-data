@@ -1,0 +1,19 @@
+{
+  "name": "InfoQ Dev Summit Munich 2025",
+  "year": 2025,
+  "url": "https://devsummit.infoq.com/munich2025_medialisting",
+  "startDate": "2025-10-15",
+  "endDate": "2025-10-16",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [
+    "APIs",
+    "Data/AI",
+    "Rust"
+  ],
+  "bluesky": "https://bsky.app/profile/infoq.bsky.social",
+  "mastodon": "https://techhub.social/@infoq",
+  "source": "confs.tech"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "BrazilJS 2019",
+  "year": 2019,
+  "url": "https://braziljs.org",
+  "startDate": "2019-08-23",
+  "endDate": "2019-08-24",
+  "city": "Porto Alegre",
+  "country": "BR",
+  "lat": -30.03283,
+  "lng": -51.23019,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSdpydtv5heYvykRwiH67bjRrCFxvPal9gMLZPovdsQuLqNhcQ/viewform",
+    "deadline": "2019-05-20",
+    "open": false
+  },
+  "source": "confs.tech"
+}

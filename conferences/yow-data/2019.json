@@ -1,0 +1,16 @@
+{
+  "name": "YOW! Data 2019",
+  "year": 2019,
+  "url": "https://data.yowconference.com.au",
+  "startDate": "2019-05-06",
+  "endDate": "2019-05-07",
+  "city": "Sydney",
+  "country": "AU",
+  "lat": -33.86785,
+  "lng": 151.20732,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/yow_conf",
+  "source": "confs.tech"
+}

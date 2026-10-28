@@ -1,0 +1,16 @@
+{
+  "name": "DevOps Fusion 2020",
+  "year": 2020,
+  "url": "https://www.devops-fusion.com",
+  "startDate": "2020-08-26",
+  "endDate": "2020-08-26",
+  "city": "Zurich",
+  "country": "CH",
+  "lat": 47.36667,
+  "lng": 8.55,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/DevOpsFusion",
+  "source": "confs.tech"
+}

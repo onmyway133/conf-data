@@ -1,0 +1,16 @@
+{
+  "name": "Interaction (IxDA) 2019",
+  "year": 2019,
+  "url": "https://interaction19.ixda.org",
+  "startDate": "2019-02-04",
+  "endDate": "2019-02-10",
+  "city": "Seattle, WA",
+  "country": "US",
+  "lat": 47.60621,
+  "lng": -122.33207,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/ixdconf",
+  "source": "confs.tech"
+}

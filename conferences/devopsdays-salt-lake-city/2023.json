@@ -1,0 +1,16 @@
+{
+  "name": "Devopsdays Salt Lake City 2023",
+  "year": 2023,
+  "url": "https://devopsdays.org/events/2023-salt-lake-city/welcome",
+  "startDate": "2023-03-14",
+  "endDate": "2023-03-15",
+  "city": "Salt Lake City, UT",
+  "country": "US",
+  "lat": 40.76078,
+  "lng": -111.89105,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devopsdaysslc",
+  "source": "confs.tech"
+}

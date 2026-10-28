@@ -1,0 +1,16 @@
+{
+  "name": "App Builders 2017",
+  "year": 2017,
+  "url": "http://www.appbuilders.ch",
+  "startDate": "2017-04-24",
+  "endDate": "2017-04-25",
+  "city": "Lausanne",
+  "country": "CH",
+  "lat": 46.516,
+  "lng": 6.63282,
+  "topics": [
+    "iOS",
+    "Mobile"
+  ],
+  "source": "cocoaconferences"
+}

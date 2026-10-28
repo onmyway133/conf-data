@@ -1,0 +1,21 @@
+{
+  "name": "Devopsdays Chicago 2023",
+  "year": 2023,
+  "url": "https://devopsdays.org/events/2023-chicago/welcome",
+  "startDate": "2023-08-09",
+  "endDate": "2023-08-10",
+  "city": "Chicago, IL",
+  "country": "US",
+  "lat": 41.85003,
+  "lng": -87.65005,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://chicago-proposals.devopsdays.org/devopsdays-chicago-2023/cfp",
+    "deadline": "2023-03-17",
+    "open": false
+  },
+  "twitter": "https://x.com/devopsdayschi",
+  "source": "confs.tech"
+}

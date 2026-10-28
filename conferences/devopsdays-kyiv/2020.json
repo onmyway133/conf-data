@@ -1,0 +1,16 @@
+{
+  "name": "Devopsdays Kyiv 2020",
+  "year": 2020,
+  "url": "https://devopsdays.com.ua",
+  "startDate": "2020-09-04",
+  "endDate": "2020-09-05",
+  "city": "Kyiv",
+  "country": "UA",
+  "lat": 50.45466,
+  "lng": 30.5238,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/days_dev",
+  "source": "confs.tech"
+}

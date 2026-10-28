@@ -1,0 +1,21 @@
+{
+  "name": "Devopsdays Birmingham 2024",
+  "year": 2024,
+  "url": "https://devopsdays.org/events/2024-birmingham-al/welcome",
+  "startDate": "2024-04-17",
+  "endDate": "2024-04-18",
+  "city": "Birmingham, AL",
+  "country": "US",
+  "lat": 33.52066,
+  "lng": -86.80249,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://talks.devopsdays.org/devopsdays-birmingham-al-2024/cfp",
+    "deadline": "2024-01-07",
+    "open": false
+  },
+  "twitter": "https://x.com/devopsdaysbham",
+  "source": "confs.tech"
+}

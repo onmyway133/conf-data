@@ -1,0 +1,21 @@
+{
+  "name": "NationJS Frontrunners React Day 2019",
+  "year": 2019,
+  "url": "http://nationjs.com",
+  "startDate": "2019-12-06",
+  "endDate": "2019-12-06",
+  "city": "Washington, DC",
+  "country": "US",
+  "lat": 38.89511,
+  "lng": -77.03637,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://www.papercall.io/frontrunners-react-2019",
+    "deadline": "2019-10-18",
+    "open": false
+  },
+  "twitter": "https://x.com/nationjs",
+  "source": "confs.tech"
+}

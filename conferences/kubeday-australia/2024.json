@@ -1,0 +1,21 @@
+{
+  "name": "KubeDay Australia 2024",
+  "year": 2024,
+  "url": "https://events.linuxfoundation.org/kubeday-australia",
+  "startDate": "2024-10-15",
+  "endDate": "2024-10-15",
+  "city": "Melbourne",
+  "country": "AU",
+  "lat": -37.814,
+  "lng": 144.96332,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://events.linuxfoundation.org/kubeday-australia/program/cfp",
+    "deadline": "2024-06-28",
+    "open": false
+  },
+  "twitter": "https://x.com/KubeCon_",
+  "source": "confs.tech"
+}

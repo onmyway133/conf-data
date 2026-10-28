@@ -1,0 +1,21 @@
+{
+  "name": "Global Congress on Advanced Satellite Communications 2023",
+  "year": 2023,
+  "url": "https://advanced-satellite-communications.peersalleyconferences.com",
+  "startDate": "2023-11-16",
+  "endDate": "2023-11-17",
+  "city": "Barcelona",
+  "country": "ES",
+  "lat": 41.38879,
+  "lng": 2.15899,
+  "topics": [
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://advanced-satellite-communications.peersalleyconferences.com/submit-abstract",
+    "deadline": "2023-08-19",
+    "open": false
+  },
+  "twitter": "https://x.com/2023_adv",
+  "source": "confs.tech"
+}

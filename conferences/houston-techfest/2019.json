@@ -1,0 +1,14 @@
+{
+  "name": "Houston Techfest 2019",
+  "year": 2019,
+  "url": "http://houstontechfest.com",
+  "startDate": "2019-09-14",
+  "endDate": "2019-09-14",
+  "city": "Houston, TX",
+  "country": "US",
+  "lat": 29.76328,
+  "lng": -95.36327,
+  "topics": [],
+  "twitter": "https://x.com/HoustonTechFest",
+  "source": "confs.tech"
+}

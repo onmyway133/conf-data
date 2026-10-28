@@ -1,0 +1,21 @@
+{
+  "name": "Pixel Pioneers 2022",
+  "year": 2022,
+  "url": "https://pixelpioneers.co/events/bristol-2022",
+  "startDate": "2022-06-09",
+  "endDate": "2022-06-10",
+  "city": "Bristol",
+  "country": "GB",
+  "lat": 51.45523,
+  "lng": -2.59665,
+  "topics": [
+    "Design/UX"
+  ],
+  "cfp": {
+    "url": "https://pixelpioneers.co/call-for-speakers",
+    "deadline": "2022-02-01",
+    "open": false
+  },
+  "twitter": "https://x.com/pixelpioneers",
+  "source": "confs.tech"
+}

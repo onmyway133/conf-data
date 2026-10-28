@@ -1,0 +1,423 @@
+{
+  "name": "try! Swift NYC 2019",
+  "year": 2019,
+  "url": "https://www.tryswift.co/events/2019/nyc",
+  "startDate": "2019-09-09",
+  "endDate": "2019-09-10",
+  "city": "New York, NY",
+  "country": "US",
+  "lat": 40.71427,
+  "lng": -74.00597,
+  "topics": [
+    "iOS"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSdZGAKQLn8CmSz2dVkDzUUVTp3eV0I-7krx5VUnJQRy9FlDVQ/viewform",
+    "open": false
+  },
+  "twitter": "https://x.com/tryswiftnyc",
+  "source": "confs.tech",
+  "speakers": [
+    {
+      "speaker": "paul-hudson",
+      "role": "Swift Author",
+      "bio": "Paul is the author of Hacking with Swift, Pro Swift, Swift Design Patterns, Testing Swift, Server-Side Swift, Hacking with watchOS, Swift Coding Challenges, and more. Suffice it to say, he quite likes Swift. And coffee. (But mostly Swift.) (And coffee.)",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2019/paul.jpg",
+      "twitter": "https://twitter.com/twostraws"
+    },
+    {
+      "speaker": "kelly-hutchison",
+      "role": "iOS Engineer @ Reddit",
+      "bio": "Kelly is an iOS engineer at Reddit, building out moderator tools in the mobile app. When she is not coding, you can find her playing Pokémon GO, browsing Reddit, or petting her two cats.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2019/kelly.jpg",
+      "twitter": "https://twitter.com/kelhutch17"
+    },
+    {
+      "speaker": "jordan-morgan",
+      "role": "iOS Engineer @ Buffer",
+      "bio": "Jordan is an iOS engineer from Ozark, Missouri where he lives with his wife and three kids. Currently, he works remotely at Buffer on the iOS team building a suite of social media tools. In addition, is the author of swiftjectivec.com where he writes about technical topics on iOS development and life as an indie developer",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2019/jordan.jpg",
+      "twitter": "https://twitter.com/JordanMorgan10",
+      "website": "https://www.swiftjectivec.com/"
+    },
+    {
+      "speaker": "eli-budelli",
+      "role": "Head of Mobile @ Automattic",
+      "bio": "Eli Budelli has spent most of her professional career developing mobile apps, from the Palm Pilot to the iPhone X. She has worked as a developer and release manager for the WordPress iOS app. In her current role as Head of Mobile at Automattic she leads a 45 people team distributed across 18 countries.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2019/eli.jpg",
+      "twitter": "https://twitter.com/elibud"
+    },
+    {
+      "speaker": "dabby-ndubisi",
+      "role": "iOS Engineer @ Shopify",
+      "bio": "Dabby is an iOS engineer at Shopify, where he is currently working on the Checkout functionality for the Shopify POS app. In his spare time, he is either blogging on his website (yourfriendlyioscoder.com), learning new languages, or trying to understand what his dog is thinking.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2019/dabby.jpg",
+      "twitter": "https://twitter.com/DabbyNdubisi",
+      "website": "http://yourfriendlyioscoder.com/"
+    },
+    {
+      "speaker": "yuki-aki",
+      "role": "iOS Engineer @ LINE Fukuoka",
+      "bio": "Yuki is an iOS engineer at LINE Fukuoka. He tries to understand Swift's language specifications better every day to improve his code. He likes to draw cat illustration on his iPad, which he uses to expresses his feelings in everyday life.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2019/yuki.jpg",
+      "twitter": "https://twitter.com/___freddi___"
+    },
+    {
+      "speaker": "kaitlin-mahar",
+      "role": "Software Engineer @ MongoDB",
+      "bio": "Kaitlin is a software engineer living in NYC. She works at MongoDB, where she leads development of the official MongoDB driver for Swift. Outside of work she enjoys doing crossword puzzles, playing with her cats, and trying all of the amazing food and drinks NYC has to offer.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2019/kaitlin.jpg",
+      "twitter": "https://twitter.com/k__mahar"
+    },
+    {
+      "speaker": "paige-bailey",
+      "role": "Swift for TensorFlow",
+      "bio": "Paige Bailey is the product manager for Swift for TensorFlow and TensorFlow's core Python APIs. Prior to her role as a PM in Google's Research and Machine Intelligence org, Paige was developer advocate for TensorFlow core; a senior software engineer and machine learning engineer in the office of the Microsoft Azure CTO; and a data scientist at Chevron. Her academic research was focused on lunar ultraviolet, at the Laboratory for Atmospheric and Space Physics (LASP) in Boulder, CO, as well as Southwest Research Institute (SwRI) in San Antonio, TX.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2019/paige.jpg",
+      "twitter": "https://twitter.com/DynamicWebPaige"
+    },
+    {
+      "speaker": "anne-cahalan",
+      "role": "iOS Developer @ Detroit Labs",
+      "bio": "Anne is an iOS developer at Detroit Labs, where she is constantly delighted by the niftiness of Swift. Passionate about clean code, craft cocktails, and nice yarn, she dreams of an elegantly-designed app that pairs cocktails with knitting patterns. She is contractually required to mention her three-legged cat, Wobbles.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2019/anne.jpg",
+      "twitter": "https://twitter.com/northofnormal"
+    },
+    {
+      "speaker": "lea-marolt",
+      "role": "Raywenderlich.com Contributor",
+      "bio": "Lea spent three years in New York, working on the iOS application for Rent the Runway and teaching Swift at General Assembly. Now, she's getting a masters in Innovation Design Engineering in London, and spends most of her time playing with sensors and microcontrollers. She still Swifts, though, by writing tutorials and creating video courses for raywenderlich.com.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2019/lea.jpg",
+      "twitter": "https://twitter.com/hellosunschein"
+    },
+    {
+      "speaker": "ishmael-shabazz",
+      "role": "Indie App Developer",
+      "bio": "Ish is an independent app developer from Southern California. He’s been developing iOS apps since 2010 and was featured in the 2017 documentary App: The Human Story. He is the founder of Illuminated Bits and has published several iOS apps including Capsicum, a new daily-planner for iOS inspired by beautiful paper-based planners. Ish has been fortunate enough to have his work featured by Apple, Starbucks, The Verge, TechCrunch, Daring Fireball, iMore, 9to5Mac, iDownloadBlog, CNET and many more. He hosts a meetup once a month in Rancho Cucamonga, CA and loves to support and mentor those interested in software development.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2019/ish.jpg",
+      "twitter": "https://twitter.com/ishabazz"
+    },
+    {
+      "speaker": "jean-baptiste-dominguez",
+      "role": "Engineering Lead at Bitcoin.com",
+      "bio": "Swift lover, JB fell in love with Swift when he got his first MacBook in 2016. Currently he works at Bitcoin.com as engineering lead where he develops with his team SDK and Apps on top of Bitcoin Cash. Living in Tokyo, he likes riding on his hover board listening Taylor Swift and eating good foods.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2019/jean.jpg",
+      "twitter": "https://twitter.com/jbdtky"
+    },
+    {
+      "speaker": "laura-savino",
+      "role": "iOS developer @ Adobe",
+      "bio": "Laura is an iOS developer who’s used Swift since the early betas (at Khan Academy), and now contributes in C++ and Objective C to Photoshop for iPad at Adobe. She’s a frequent conference speaker and mother to a toddler, and has ordered coffee in ten different languages.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2019/laura.jpg",
+      "twitter": "https://twitter.com/savinola"
+    },
+    {
+      "speaker": "dave-verwer",
+      "role": "Independent iOS Developer, Author of iOS Dev Weekly",
+      "bio": "Dave is a independent and freelance iOS developer and author of iOS Dev Weekly. He has been developing for the Mac and iOS since 2006 and is secretly quite proud that his first professional gig had him using a (real) vt100 green screen terminal. He's glad he doesn't have to use that any more though! If you'd like to learn more about Dave, visit his personal site.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2019/dave.jpg",
+      "twitter": "https://twitter.com/daveverwer",
+      "website": "https://daveverwer.com"
+    },
+    {
+      "speaker": "soojin-ro",
+      "role": "iOS developer @ WEBTOON",
+      "bio": "Soojin is an iOS developer based in South Korea, making the comics app WEBTOON for 55M+ global users. He is passionate about Swift and ARKit, and believes everyone will have their own AR glasses one day. Once a business major in university, he started coding in spare time and the first iOS app he crafted was awarded the Best of 2015, 2016, and 2017 (Yes, three years in a row!) Top Paid Apps in South Korea. He writes about Swift, programming, and mobile apps on his blog.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2019/soojinro.jpg",
+      "twitter": "https://twitter.com/soojinro",
+      "website": "https://soojin.ro/about"
+    },
+    {
+      "speaker": "shai-mishali",
+      "role": "iOS Tech Lead @ Gett",
+      "bio": "Shai is iOS Tech Lead for Gett, the on-demand mobility company, and is involved in several open source projects on his spare time - mainly the RxSwiftCommunity and RxSwift projects, as well as an international speaker. Author on the upcoming Combine book from raywenderlich.com and a hackathon addict and 1st place winner of BattleHack World Finals 2014. You can find him on GitHub and Twitter as @freak4pc.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2019/shai.jpg",
+      "twitter": "https://twitter.com/freak4pc"
+    },
+    {
+      "speaker": "marc-aupont",
+      "role": "iOS Engineer @ Lickability",
+      "bio": "Marc Aupont is a first-generation American born from Haitian immigrant parents. His passion for technology led him to move from Orlando, FL to NYC 2 years ago. He currently works at Lickability as an iOS Engineer and his hobbies include: working on side projects involving electronics and hardware, hosting and organizing tech meetups, as well as weekend road trips to random destinations with his wife and two boys.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2019/marc.jpg",
+      "twitter": "https://twitter.com/digimarktech"
+    },
+    {
+      "speaker": "tom-doron",
+      "role": "Senior Engineering Manager at Apple",
+      "bio": "Tom works at Apple where he is serving as a senior engineering manager focusing on core cloud technologies and open source libraries and frameworks.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2019/speakers/tom_doron.jpg",
+      "twitter": "https://twitter.com/tomerdoron"
+    },
+    {
+      "speaker": "ian-partridge",
+      "role": "Swift@IBM Lead",
+      "bio": "Ian Partridge is the technical lead of the Swift@IBM development team, working in open source to bring Swift to the cloud. A committer to the core Swift libraries and a developer of Kitura, one of the leading Swift web frameworks, he comes from a background in virtual machine performance and debugging. Ian regularly speaks at conferences including AltConf, iOSCon, dotSwift, SwiftConf and more.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2018/instructors/ian.jpg",
+      "twitter": "https://twitter.com/alfa"
+    },
+    {
+      "speaker": "cate-huston",
+      "role": "Tech Lead at Automattic",
+      "bio": "Cate spent her career working on mobile and documenting everything she learnt using WordPress, eventually joining Automattic to combine the two as mobile lead. She has since gone on to lead other teams and now has a broader role across the engineering organization. Cate admins the New-(ish) Manager Slack and her writing on leadership regularly appears in Quartz. You can find her on Twitter at @catehstn and at cate.blog.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/cate.jpg",
+      "twitter": "https://twitter.com/catehstn",
+      "website": "https://cate.blog/"
+    },
+    {
+      "speaker": "dr-bhaswati-bhattacharya",
+      "role": "physician-author@Cornell Med, body hacker for Ayurveda",
+      "bio": "Bhaswati is a board-certified holistic physician trained in family medicine and preventive medicine; she is also a scientist trained in pharmacology, neuroscience and ancient ayurvedic chemistry. When she is not working as a Fulbright Specialist 2018-2021 in Global Public Health & Integrative Medicine or as Clinical Assistant Professor in the Dept of Medicine at Cornell Medical College, she is body hacking using ayurvedic bhasmas .... and teaching Ayurveda to students and patients. A documentary film on her work, Healers: Journey into Ayurveda is shown on The Discovery Channel. Her book Everyday Ayurveda is a national bestseller in India published by Penguin Random House.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2019/dr.jpg",
+      "twitter": "https://twitter.com/drbhaswati"
+    },
+    {
+      "speaker": "dave-delong",
+      "role": "Principal iOS Engineer at WeWork",
+      "bio": "Dave DeLong is a Principal iOS Engineer at WeWork in their Enterprise Technology group. He has a passion for teaching, experimentation, and designing APIs. Prior to joining WeWork, he spent seven years at Apple, where he worked on the UIKit framework, Developer Evangelism, and Apple Maps. Dave, his family, and his large collection of Brandon Sanderson books live near Salt Lake City, where he’s an active member of the local developer community. He can often be found on Twitter teaching developers about all the ways that calendrical calculations can go wrong and pontificating on the virtues of eating chocolate with peanut butter.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2019/speakers/dave_deLong.jpg",
+      "twitter": "https://twitter.com/davedelong"
+    },
+    {
+      "speaker": "paul-solt",
+      "bio": "Paul is an iOS Instructor at Lambda School living in Rochester, NY. Previously he worked at both Apple and Microsoft. When he's not working on iOS apps he loves pour-over coffee, running, gardening, and ultimate frisbee.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2019/instructors/paul.jpg",
+      "twitter": "https://twitter.com/PaulSolt"
+    },
+    {
+      "speaker": "sanjeev-ghimire",
+      "bio": "Sanjeev is a Developer Advocate at IBM Digital Business Group. He mostly focuses on creating code patterns for developers based on AI Data and Analytics using IBM Cloud and Watson services. He is also an open source contributor and highly promotes open source projects.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2019/instructors/sanjeev.jpg",
+      "twitter": "https://twitter.com/sanjeevghimire"
+    },
+    {
+      "speaker": "jon-bott",
+      "bio": "By day, Jon is a Senior Mobile Developer at Mercari in Tokyo, Japan, and a LinkedIn author. By night he is a Photographer (@Herbal7ea) and aspiring YouTuber. With over 10 years of mobile, and ~20 in backend experience, he is passionate about teaching and making development simple, fast and stable.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2019/instructors/jonbott.jpg",
+      "twitter": "https://twitter.com/Herbal7ea"
+    },
+    {
+      "speaker": "carson-ramsden",
+      "bio": "Carson is a iOS engineer at One Medical, where she finds herself doing everything from app development to building Ruby GraphQL APIs. She is passionate about architecture and design and finds that she can accomplish this best with a complete understanding of the system; backend and frontend. When she is not coding, Carson tries to spend as much time as possible outdoors - enjoying beautiful California!",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2019/instructors/carson.jpg",
+      "twitter": "https://twitter.com/carson_ramsden"
+    },
+    {
+      "speaker": "mark-stuenkel",
+      "bio": "Mark is a senior product designer at One Medical and focuses on creating experiences for doctors and patients. He's also a board member for Inneract Project, a nonprofit that teaches design to underserved youth in the Bay Area. Talk to him about prototyping, design systems, and collaboration.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2019/instructors/mas.png",
+      "twitter": "https://twitter.com/mstuenkel"
+    },
+    {
+      "speaker": "chris-britt",
+      "role": "Freelance Magician & Emcee",
+      "bio": "Chris Britt has led communication skill-building workshops at Kellogg School of Management, Babson College, Dell Technologies, and at smaller organizations nationwide. In addition to graduating from Northwestern University’s School of Communications with a focus on leadership and communication styles, Chris attended the Second City Conservatory of improv comedy. He likes to bring fun into learning environments through interactive exercises, games and a touch of magic.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2019/instructors/chris.jpg",
+      "twitter": "https://twitter.com/chrisbritt"
+    }
+  ],
+  "talks": [
+    {
+      "slug": "a-deeper-deep-dive-into-swift-literal",
+      "title": "A Deeper Deep dive into Swift Literal",
+      "speakers": [
+        "yuki-aki"
+      ]
+    },
+    {
+      "slug": "app-subscriptions-the-good-the-bad-and-the-ugly",
+      "title": "App subscriptions - the good, the bad, and the ugly",
+      "speakers": [
+        "ishmael-shabazz"
+      ]
+    },
+    {
+      "slug": "body-hacking-using-ayurveda",
+      "title": "Body Hacking Using Ayurveda",
+      "speakers": [
+        "dr-bhaswati-bhattacharya"
+      ]
+    },
+    {
+      "slug": "build-a-cloud-ready-websocket-server-in-swift",
+      "title": "Build a cloud-ready WebSocket server in Swift",
+      "speakers": [
+        "ian-partridge"
+      ]
+    },
+    {
+      "slug": "building-the-server-side-swift-ecosystem",
+      "title": "Building the Server-side Swift ecosystem",
+      "speakers": [
+        "ian-partridge"
+      ]
+    },
+    {
+      "slug": "deeper-into-arkit-with-coreml-and-turi-create",
+      "title": "Deeper into ARKit with CoreML and Turi Create",
+      "speakers": [
+        "soojin-ro"
+      ]
+    },
+    {
+      "slug": "designing-accessible-apis",
+      "title": "Designing Accessible APIs",
+      "speakers": [
+        "dave-delong"
+      ]
+    },
+    {
+      "slug": "encoding-and-decoding-in-swift",
+      "title": "Encoding and Decoding in Swift",
+      "speakers": [
+        "kaitlin-mahar"
+      ]
+    },
+    {
+      "slug": "extending-uicolor-to-support-custom-styling",
+      "title": "Extending UIColor to Support Custom Styling",
+      "speakers": [
+        "kelly-hutchison"
+      ]
+    },
+    {
+      "slug": "fractal-atomic-design-theory-with-declarative-ui-think-swiftui-for-today",
+      "title": "Fractal: Atomic Design Theory with Declarative UI (think SwiftUI for Today)",
+      "speakers": [
+        "jon-bott"
+      ]
+    },
+    {
+      "slug": "getting-started-with-combine",
+      "title": "Getting Started with Combine",
+      "speakers": [
+        "shai-mishali"
+      ]
+    },
+    {
+      "slug": "introduction-to-asynchttpclient",
+      "title": "Introduction to AsyncHTTPClient",
+      "speakers": [
+        "tom-doron"
+      ]
+    },
+    {
+      "slug": "it-s-probably-fine",
+      "title": "It’s Probably Fine",
+      "speakers": [
+        "cate-huston"
+      ]
+    },
+    {
+      "slug": "let-s-play-with-bitcoin-cash-using-swift",
+      "title": "Let’s play with Bitcoin Cash using Swift",
+      "speakers": [
+        "jean-baptiste-dominguez"
+      ]
+    },
+    {
+      "slug": "making-your-app-feel-at-home-on-ios-13",
+      "title": "Making your app feel at home on iOS 13",
+      "speakers": [
+        "dave-verwer"
+      ]
+    },
+    {
+      "slug": "parsing-natural-languages-in-swift",
+      "title": "Parsing natural languages in Swift",
+      "speakers": [
+        "dabby-ndubisi"
+      ]
+    },
+    {
+      "slug": "professional-communication-skill-building",
+      "title": "Professional Communication Skill-Building",
+      "speakers": [
+        "chris-britt"
+      ]
+    },
+    {
+      "slug": "streamlining-mobile-releases",
+      "title": "Streamlining Mobile Releases",
+      "speakers": [
+        "eli-budelli"
+      ]
+    },
+    {
+      "slug": "super-easy-combine-this-is-an-awesome-app-workshop",
+      "title": "Super Easy Combine - This is an Awesome App Workshop",
+      "speakers": [
+        "paul-solt"
+      ]
+    },
+    {
+      "slug": "swift-for-tensorflow-machine-learning-with-no-boundaries",
+      "title": "Swift for TensorFlow: machine learning with no boundaries.",
+      "speakers": [
+        "paige-bailey"
+      ]
+    },
+    {
+      "slug": "swift-on-the-raspberry-pi-building-a-circuit-to-control-an-led",
+      "title": "Swift on the Raspberry PI - Building A Circuit to Control an LED",
+      "speakers": [
+        "marc-aupont"
+      ]
+    },
+    {
+      "slug": "swift-without-screens-powering-connected-devices",
+      "title": "Swift Without Screens - Powering Connected Devices",
+      "speakers": [
+        "marc-aupont"
+      ]
+    },
+    {
+      "slug": "swiftui-for-production",
+      "title": "SwiftUI for Production",
+      "speakers": [
+        "lea-marolt"
+      ]
+    },
+    {
+      "slug": "swiftui-hands-on",
+      "title": "SwiftUI Hands-on",
+      "speakers": [
+        "paul-hudson"
+      ]
+    },
+    {
+      "slug": "swiftui-in-25-minutes",
+      "title": "SwiftUI in 25 Minutes",
+      "speakers": [
+        "paul-hudson"
+      ]
+    },
+    {
+      "slug": "technology-experience-prototyping",
+      "title": "Technology Experience Prototyping",
+      "speakers": [
+        "carson-ramsden"
+      ]
+    },
+    {
+      "slug": "the-life-of-an-image-on-ios",
+      "title": "The Life of an Image on iOS",
+      "speakers": [
+        "jordan-morgan"
+      ]
+    },
+    {
+      "slug": "truths-universally-acknowledged-swift-design-patterns-as-jane-austen-heroes",
+      "title": "Truths Universally Acknowledged: Swift Design Patterns as Jane Austen Heroes",
+      "speakers": [
+        "anne-cahalan"
+      ]
+    },
+    {
+      "slug": "what-swift-devs-can-learn-from-c",
+      "title": "What Swift devs can learn from C++",
+      "speakers": [
+        "laura-savino"
+      ]
+    }
+  ]
+}

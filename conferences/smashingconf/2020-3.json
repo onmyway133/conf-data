@@ -1,0 +1,16 @@
+{
+  "name": "SmashingConf 2020",
+  "year": 2020,
+  "url": "https://smashingconf.com/ny-2020",
+  "startDate": "2020-10-20",
+  "endDate": "2020-10-21",
+  "city": "New York, NY",
+  "country": "US",
+  "lat": 40.71427,
+  "lng": -74.00597,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/smashingconf",
+  "source": "confs.tech"
+}

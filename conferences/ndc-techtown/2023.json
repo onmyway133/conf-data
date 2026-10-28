@@ -1,0 +1,19 @@
+{
+  "name": "NDC TechTown 2023",
+  "year": 2023,
+  "url": "https://ndctechtown.com",
+  "startDate": "2023-09-18",
+  "endDate": "2023-09-21",
+  "city": "Kongsberg",
+  "country": "NO",
+  "lat": 59.66858,
+  "lng": 9.65017,
+  "topics": [],
+  "cfp": {
+    "url": "https://ndctechtown.com/call-for-papers",
+    "deadline": "2023-05-19",
+    "open": false
+  },
+  "twitter": "https://x.com/NDC_Conferences",
+  "source": "confs.tech"
+}

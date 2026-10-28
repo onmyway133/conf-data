@@ -1,0 +1,19 @@
+{
+  "name": "Infobip Shift 2023",
+  "year": 2023,
+  "url": "https://shift.infobip.com",
+  "startDate": "2023-09-18",
+  "endDate": "2023-09-19",
+  "city": "Zadar",
+  "country": "HR",
+  "lat": 44.11578,
+  "lng": 15.22514,
+  "topics": [],
+  "cfp": {
+    "url": "https://sessionize.com/infobip-shift-2023",
+    "deadline": "2023-05-15",
+    "open": false
+  },
+  "twitter": "https://x.com/InfobipShift",
+  "source": "confs.tech"
+}

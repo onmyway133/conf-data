@@ -1,0 +1,22 @@
+{
+  "name": "React Day Berlin 2022",
+  "year": 2022,
+  "url": "https://reactday.berlin",
+  "startDate": "2022-12-02",
+  "endDate": "2022-12-02",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "JavaScript",
+    "Networking"
+  ],
+  "cfp": {
+    "url": "https://forms.gle/fvEuTAsn7cSGGzXN7",
+    "deadline": "2022-09-25",
+    "open": false
+  },
+  "twitter": "https://x.com/reactdayberlin",
+  "source": "confs.tech"
+}

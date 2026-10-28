@@ -1,0 +1,21 @@
+{
+  "name": "ShipItCon 2019",
+  "year": 2019,
+  "url": "https://ShipItCon.com",
+  "startDate": "2019-09-06",
+  "endDate": "2019-09-06",
+  "city": "Dublin",
+  "country": "IE",
+  "lat": 53.33306,
+  "lng": -6.24889,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://ShipItCon.com/cfp",
+    "deadline": "2019-04-10",
+    "open": false
+  },
+  "twitter": "https://x.com/shipitcon",
+  "source": "confs.tech"
+}

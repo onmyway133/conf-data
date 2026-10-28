@@ -1,0 +1,16 @@
+{
+  "name": "Devops Days Phoenix 2023",
+  "year": 2023,
+  "url": "https://devopsdays.org/events/2023-phoenix",
+  "startDate": "2023-04-27",
+  "endDate": "2023-04-27",
+  "city": "Phoenix, AZ",
+  "country": "US",
+  "lat": 33.44838,
+  "lng": -112.07404,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/DevOpsDaysPHX",
+  "source": "confs.tech"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "vueday 2022",
+  "year": 2022,
+  "url": "https://2022.vueday.it",
+  "startDate": "2022-11-18",
+  "endDate": "2022-11-18",
+  "city": "Verona",
+  "country": "IT",
+  "lat": 45.43854,
+  "lng": 10.9938,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://2022.vueday.it/welcome/cfp.html",
+    "deadline": "2022-08-21",
+    "open": false
+  },
+  "twitter": "https://x.com/vuedayit",
+  "source": "confs.tech"
+}

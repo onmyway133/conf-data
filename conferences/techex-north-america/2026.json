@@ -1,0 +1,20 @@
+{
+  "name": "TechEx North America 2026",
+  "year": 2026,
+  "url": "https://techexevent.com/northamerica",
+  "startDate": "2026-05-18",
+  "endDate": "2026-05-19",
+  "city": "San Jose, CA",
+  "country": "US",
+  "lat": 37.33939,
+  "lng": -121.89496,
+  "topics": [
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://techexevent.com/register-now",
+    "deadline": "2026-05-17",
+    "open": false
+  },
+  "source": "confs.tech"
+}

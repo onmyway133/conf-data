@@ -1,0 +1,16 @@
+{
+  "name": "Euro IA 2019",
+  "year": 2019,
+  "url": "https://euroia.org",
+  "startDate": "2019-09-26",
+  "endDate": "2019-09-29",
+  "city": "Riga",
+  "country": "LV",
+  "lat": 56.946,
+  "lng": 24.10589,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/euroia",
+  "source": "confs.tech"
+}

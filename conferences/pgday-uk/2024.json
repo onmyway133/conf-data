@@ -1,0 +1,15 @@
+{
+  "name": "PGDay UK 2024",
+  "year": 2024,
+  "url": "https://pgday.uk",
+  "startDate": "2024-09-11",
+  "endDate": "2024-09-11",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "Data/AI"
+  ],
+  "source": "confs.tech"
+}

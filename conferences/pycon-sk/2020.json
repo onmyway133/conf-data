@@ -1,0 +1,15 @@
+{
+  "name": "PyCon SK 2020",
+  "year": 2020,
+  "url": "https://2020.pycon.sk",
+  "startDate": "2020-09-11",
+  "endDate": "2020-09-13",
+  "city": "Bratislava",
+  "country": "SK",
+  "lat": 48.14816,
+  "lng": 17.10674,
+  "topics": [
+    "Python"
+  ],
+  "source": "confs.tech"
+}

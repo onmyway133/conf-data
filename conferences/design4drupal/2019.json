@@ -1,0 +1,21 @@
+{
+  "name": "Design4Drupal 2019",
+  "year": 2019,
+  "url": "http://design4drupal.org",
+  "startDate": "2019-06-26",
+  "endDate": "2019-06-28",
+  "city": "Boston, MA",
+  "country": "US",
+  "lat": 42.35843,
+  "lng": -71.05977,
+  "topics": [
+    "Design/UX"
+  ],
+  "cfp": {
+    "url": "https://design4drupal.org/submit-session",
+    "deadline": "2019-05-03",
+    "open": false
+  },
+  "twitter": "https://x.com/D4DBoston",
+  "source": "confs.tech"
+}

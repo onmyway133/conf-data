@@ -1,0 +1,16 @@
+{
+  "name": "SnowOne 2020",
+  "year": 2020,
+  "url": "https://snowone.ru/en",
+  "startDate": "2020-02-29",
+  "endDate": "2020-02-29",
+  "city": "Novosibirsk",
+  "country": "RU",
+  "lat": 55.02259,
+  "lng": 82.93175,
+  "topics": [
+    "Java"
+  ],
+  "twitter": "https://x.com/snowone_conf",
+  "source": "confs.tech"
+}

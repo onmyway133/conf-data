@@ -1,0 +1,16 @@
+{
+  "name": "DevOpsDays Auckland 2019",
+  "year": 2019,
+  "url": "https://devopsdays.org/events/2019-auckland/welcome",
+  "startDate": "2019-10-21",
+  "endDate": "2019-10-22",
+  "city": "Auckland",
+  "country": "NZ",
+  "lat": -36.84853,
+  "lng": 174.76349,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devopsdaysnz",
+  "source": "confs.tech"
+}

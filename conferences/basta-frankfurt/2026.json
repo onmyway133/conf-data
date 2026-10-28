@@ -1,0 +1,17 @@
+{
+  "name": "Basta! Frankfurt 2026",
+  "year": 2026,
+  "url": "https://basta.net/frankfurt",
+  "startDate": "2026-03-02",
+  "endDate": "2026-03-06",
+  "city": "Frankfurt am Main",
+  "country": "DE",
+  "lat": 50.11552,
+  "lng": 8.68417,
+  "topics": [
+    ".NET"
+  ],
+  "twitter": "https://x.com/BASTAcon",
+  "bluesky": "https://bsky.app/profile/bastacon.bsky.social",
+  "source": "confs.tech"
+}

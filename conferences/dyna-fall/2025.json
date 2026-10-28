@@ -1,0 +1,16 @@
+{
+  "name": "DYNA Fall 2025",
+  "year": 2025,
+  "url": "https://dyna.dyalog.com",
+  "startDate": "2025-09-29",
+  "endDate": "2025-09-30",
+  "city": "New York, NY",
+  "country": "US",
+  "lat": 40.71427,
+  "lng": -74.00597,
+  "topics": [],
+  "twitter": "https://x.com/dyalogapl",
+  "bluesky": "https://bsky.app/profile/dyalog.bsky.social",
+  "mastodon": "https://mastodon.social/@dyalog",
+  "source": "confs.tech"
+}

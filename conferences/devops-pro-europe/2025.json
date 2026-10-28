@@ -1,0 +1,21 @@
+{
+  "name": "DevOps Pro Europe 2025",
+  "year": 2025,
+  "url": "https://devopspro.lt",
+  "startDate": "2025-05-20",
+  "endDate": "2025-05-23",
+  "city": "Vilnius",
+  "country": "LT",
+  "lat": 54.68916,
+  "lng": 25.2798,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://airtable.com/appxohB7p2Fk5gv92/shrKKg4aOrOJ0HBwB",
+    "deadline": "2025-04-30",
+    "open": false
+  },
+  "twitter": "https://x.com/DevOpsEU",
+  "source": "confs.tech"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Swift Connection 2025",
+  "year": 2025,
+  "url": "https://www.swiftconnection.io",
+  "startDate": "2025-10-06",
+  "endDate": "2025-10-07",
+  "city": "Paris",
+  "country": "FR",
+  "lat": 48.85341,
+  "lng": 2.3488,
+  "topics": [
+    "iOS"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/swift-connection-2025/",
+    "deadline": "2025-06-22",
+    "open": false
+  },
+  "source": "cocoaconferences"
+}

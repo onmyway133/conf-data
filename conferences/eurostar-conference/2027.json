@@ -1,0 +1,21 @@
+{
+  "name": "EuroSTAR Conference 2027",
+  "year": 2027,
+  "url": "https://conference.eurostarsoftwaretesting.com",
+  "startDate": "2027-05-11",
+  "endDate": "2027-05-14",
+  "city": "Copenhagen",
+  "country": "DK",
+  "lat": 55.67594,
+  "lng": 12.56553,
+  "topics": [
+    "Testing"
+  ],
+  "cfp": {
+    "url": "https://conference.eurostarsoftwaretesting.com/call-for-submissions",
+    "deadline": "2026-09-30",
+    "open": true
+  },
+  "twitter": "https://x.com/esconfes",
+  "source": "confs.tech"
+}

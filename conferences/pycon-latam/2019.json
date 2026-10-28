@@ -1,0 +1,21 @@
+{
+  "name": "PyCon Latam 2019",
+  "year": 2019,
+  "url": "https://www.pylatam.org",
+  "startDate": "2019-08-29",
+  "endDate": "2019-08-31",
+  "city": "Puerto Vallarta",
+  "country": "MX",
+  "lat": 20.617,
+  "lng": -105.23018,
+  "topics": [
+    "Python"
+  ],
+  "cfp": {
+    "url": "https://www.papercall.io/pyconlatam",
+    "deadline": "2019-05-31",
+    "open": false
+  },
+  "twitter": "https://x.com/PyLatam",
+  "source": "confs.tech"
+}

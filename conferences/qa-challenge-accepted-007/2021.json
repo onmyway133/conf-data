@@ -1,0 +1,15 @@
+{
+  "name": "QA: Challenge Accepted 007 2021",
+  "year": 2021,
+  "url": "https://qachallengeaccepted.com",
+  "startDate": "2021-10-02",
+  "endDate": "2021-10-02",
+  "city": "Sofia",
+  "country": "BG",
+  "lat": 42.69751,
+  "lng": 23.32415,
+  "topics": [
+    "Testing"
+  ],
+  "source": "confs.tech"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Machine Learning Essentials 2020",
+  "year": 2020,
+  "url": "https://ml-essentials.de",
+  "startDate": "2020-02-17",
+  "endDate": "2020-02-19",
+  "city": "Heidelberg",
+  "country": "DE",
+  "lat": 49.40768,
+  "lng": 8.69079,
+  "topics": [
+    "Data/AI"
+  ],
+  "source": "confs.tech"
+}

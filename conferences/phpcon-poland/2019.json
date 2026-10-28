@@ -1,0 +1,16 @@
+{
+  "name": "PHPCon Poland 2019",
+  "year": 2019,
+  "url": "https://2019.phpcon.pl",
+  "startDate": "2019-11-15",
+  "endDate": "2019-11-17",
+  "city": "Szczyrk",
+  "country": "PL",
+  "lat": 49.71724,
+  "lng": 19.03183,
+  "topics": [
+    "PHP"
+  ],
+  "twitter": "https://x.com/phpconpoland",
+  "source": "confs.tech"
+}

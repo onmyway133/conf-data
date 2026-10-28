@@ -1,0 +1,16 @@
+{
+  "name": "API Conference 2019",
+  "year": 2019,
+  "url": "https://apiconference.net",
+  "startDate": "2019-10-14",
+  "endDate": "2019-10-16",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/api_conference",
+  "source": "confs.tech"
+}

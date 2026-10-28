@@ -1,0 +1,20 @@
+{
+  "name": "hayaData 2024",
+  "year": 2024,
+  "url": "https://www.haya-data.com",
+  "startDate": "2024-09-24",
+  "endDate": "2024-09-24",
+  "city": "Tel Aviv",
+  "country": "IL",
+  "lat": 32.08088,
+  "lng": 34.78057,
+  "topics": [
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/hayadata-2024",
+    "deadline": "2024-05-18",
+    "open": false
+  },
+  "source": "confs.tech"
+}

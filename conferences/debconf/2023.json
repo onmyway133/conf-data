@@ -1,0 +1,18 @@
+{
+  "name": "DebConf 2023",
+  "year": 2023,
+  "url": "https://debconf23.debconf.org",
+  "startDate": "2023-09-10",
+  "endDate": "2023-09-17",
+  "city": "Kochi",
+  "country": "IN",
+  "lat": 9.93988,
+  "lng": 76.26022,
+  "topics": [],
+  "cfp": {
+    "url": "https://debconf23.debconf.org/cfp",
+    "open": false
+  },
+  "twitter": "https://x.com/DebConf",
+  "source": "confs.tech"
+}

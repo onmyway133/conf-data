@@ -1,0 +1,23 @@
+{
+  "name": "Global Conference On Cyber Security And Cloud Engineering 2022",
+  "year": 2022,
+  "url": "https://gcbme.org/gccsce-december-3-2022",
+  "startDate": "2022-12-03",
+  "endDate": "2022-12-03",
+  "city": "Vancouver",
+  "country": "CA",
+  "lat": 49.24966,
+  "lng": -123.11934,
+  "topics": [
+    "Accessibility",
+    "Networking",
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://gcbme.org",
+    "deadline": "2022-11-26",
+    "open": false
+  },
+  "twitter": "https://x.com/GCBME",
+  "source": "confs.tech"
+}

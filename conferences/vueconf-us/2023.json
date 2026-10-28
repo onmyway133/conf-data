@@ -1,0 +1,21 @@
+{
+  "name": "Vueconf.US 2023",
+  "year": 2023,
+  "url": "https://vueconf.us",
+  "startDate": "2023-05-24",
+  "endDate": "2023-05-26",
+  "city": "New Orleans, LA",
+  "country": "US",
+  "lat": 29.95465,
+  "lng": -90.07507,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/vueconf-us-2023",
+    "deadline": "2023-01-15",
+    "open": false
+  },
+  "twitter": "https://x.com/vueconf.us",
+  "source": "confs.tech"
+}

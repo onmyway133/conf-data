@@ -1,0 +1,16 @@
+{
+  "name": "JSConf México 2024",
+  "year": 2024,
+  "url": "https://jsconfmx.org",
+  "startDate": "2024-10-31",
+  "endDate": "2024-11-01",
+  "city": "Guadalajara",
+  "country": "MX",
+  "lat": 20.67738,
+  "lng": -103.34749,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/jsconfmx",
+  "source": "confs.tech"
+}

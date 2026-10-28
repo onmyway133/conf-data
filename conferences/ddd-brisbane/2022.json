@@ -1,0 +1,19 @@
+{
+  "name": "DDD Brisbane 2022",
+  "year": 2022,
+  "url": "https://www.dddbrisbane.com",
+  "startDate": "2022-12-03",
+  "endDate": "2022-12-03",
+  "city": "Brisbane",
+  "country": "AU",
+  "lat": -27.46794,
+  "lng": 153.02809,
+  "topics": [],
+  "cfp": {
+    "url": "https://sessionize.com/ddd-brisbane-2022",
+    "deadline": "2022-10-03",
+    "open": false
+  },
+  "twitter": "https://x.com/DDDBrisbane",
+  "source": "confs.tech"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Devopsdays Medellín 2023",
+  "year": 2023,
+  "url": "https://devopsdays.org/events/2023-medellin/welcome",
+  "startDate": "2023-05-18",
+  "endDate": "2023-05-19",
+  "city": "Medellín",
+  "country": "CO",
+  "lat": 6.245,
+  "lng": -75.57151,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://devopsdays.org/events/2023-medellin/propose",
+    "deadline": "2023-04-18",
+    "open": false
+  },
+  "twitter": "https://x.com/DevopsdaysMed",
+  "source": "confs.tech"
+}

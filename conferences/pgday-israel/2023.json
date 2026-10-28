@@ -1,0 +1,20 @@
+{
+  "name": "PGDay Israel 2023",
+  "year": 2023,
+  "url": "https://pgday.org.il",
+  "startDate": "2023-10-19",
+  "endDate": "2023-10-19",
+  "city": "Tel Aviv",
+  "country": "IL",
+  "lat": 32.08088,
+  "lng": 34.78057,
+  "topics": [
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://pgday.org.il/#cfp",
+    "deadline": "2023-06-30",
+    "open": false
+  },
+  "source": "confs.tech"
+}

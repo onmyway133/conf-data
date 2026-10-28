@@ -1,0 +1,15 @@
+{
+  "name": "Jfokus 2025",
+  "year": 2025,
+  "url": "https://www.jfokus.se/",
+  "startDate": "2025-02-03",
+  "endDate": "2025-02-05",
+  "city": "Stockholm",
+  "country": "SE",
+  "lat": 59.32938,
+  "lng": 18.06871,
+  "topics": [
+    "Java"
+  ],
+  "source": "confs.tech"
+}

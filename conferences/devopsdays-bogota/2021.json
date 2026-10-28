@@ -1,0 +1,16 @@
+{
+  "name": "Devopsdays Bogotá 2021",
+  "year": 2021,
+  "url": "https://devopsdays.org/events/2021-bogota/welcome",
+  "startDate": "2021-11-24",
+  "endDate": "2021-11-25",
+  "city": "Bogotá",
+  "country": "CO",
+  "lat": 4.60971,
+  "lng": -74.08175,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devopsdaysb",
+  "source": "confs.tech"
+}

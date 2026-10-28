@@ -1,0 +1,15 @@
+{
+  "name": "CocoaConf Las Vegas 2014",
+  "year": 2014,
+  "url": "http://cocoaconf.com/lasvegas-2014/home",
+  "startDate": "2014-09-19",
+  "endDate": "2014-09-20",
+  "city": "Las Vegas",
+  "country": "US",
+  "lat": 36.17497,
+  "lng": -115.13722,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences"
+}

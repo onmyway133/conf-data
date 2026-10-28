@@ -1,0 +1,16 @@
+{
+  "name": "TestCon Europe 2024",
+  "year": 2024,
+  "url": "https://testcon.lt",
+  "startDate": "2024-10-22",
+  "endDate": "2024-10-25",
+  "city": "Vilnius",
+  "country": "LT",
+  "lat": 54.68916,
+  "lng": 25.2798,
+  "topics": [
+    "Testing"
+  ],
+  "twitter": "https://x.com/TestConEurope",
+  "source": "confs.tech"
+}

@@ -1,0 +1,245 @@
+{
+  "name": "Swiftable 2023",
+  "year": 2023,
+  "url": "https://www.swiftable.co/",
+  "startDate": "2023-11-29",
+  "endDate": "2023-12-01",
+  "city": "Buenos Aires",
+  "country": "AR",
+  "lat": -34.61315,
+  "lng": -58.37723,
+  "topics": [
+    "iOS"
+  ],
+  "cfp": {
+    "url": "https://www.papercall.io/swiftable2023",
+    "deadline": "2023-09-16",
+    "open": false
+  },
+  "source": "cocoaconferences",
+  "speakers": [
+    {
+      "speaker": "antoine-van-der-lee",
+      "role": "Staff Engineer, WeTransfer",
+      "photoUrl": "https://www.swiftable.co/speaker/antoine-vanderlee.jpg"
+    },
+    {
+      "speaker": "pedro-pinera",
+      "role": "Creator of Tuist",
+      "photoUrl": "https://www.swiftable.co/speaker/pedro-pinera.jpg"
+    },
+    {
+      "speaker": "carola-nitz",
+      "role": "Software Engineer, Netflix",
+      "photoUrl": "https://www.swiftable.co/speaker/carola-nitz.jpg"
+    },
+    {
+      "speaker": "noah-martin",
+      "role": "Co-Founder, EmergeTools",
+      "photoUrl": "https://www.swiftable.co/speaker/noah-martin.jpg"
+    },
+    {
+      "speaker": "josh-holtz",
+      "role": "Software engineer, RevenueCat",
+      "photoUrl": "https://www.swiftable.co/speaker/josh-holtz.jpg"
+    },
+    {
+      "speaker": "dima-kalachniuk",
+      "role": "Software Engineer Leader, KLM",
+      "photoUrl": "https://www.swiftable.co/speaker/dima-kalachniuk.jpg"
+    },
+    {
+      "speaker": "rita-zerrizuela",
+      "role": "iOS engineer, Okta",
+      "photoUrl": "https://www.swiftable.co/speaker/rita-zerrizuela.jpg"
+    },
+    {
+      "speaker": "j-manuel-mosso",
+      "role": "iOS Software Architect, lululemon",
+      "photoUrl": "https://www.swiftable.co/speaker/manuel-mosso.jpg"
+    },
+    {
+      "speaker": "daniela-riesgo",
+      "role": "iOS engineer, Podcast App",
+      "photoUrl": "https://www.swiftable.co/speaker/danila-riesgo.jpg"
+    },
+    {
+      "speaker": "manuel-nakamurakare",
+      "role": "Engineering Manager, Pinterest",
+      "photoUrl": "https://www.swiftable.co/speaker/manuel-nakamurakare.jpg"
+    },
+    {
+      "speaker": "charles-pisciotta",
+      "role": "Software Engineer, Audible",
+      "photoUrl": "https://www.swiftable.co/speaker/charles-pisciotta.jpg"
+    },
+    {
+      "speaker": "ashli-rankin",
+      "role": "iOS Engineer, Lickability",
+      "photoUrl": "https://www.swiftable.co/speaker/ashli-rankin.jpg"
+    },
+    {
+      "speaker": "osamu-hiraoka",
+      "role": "iOS Engineer, Classmethod",
+      "photoUrl": "https://www.swiftable.co/speaker/osamu-hiraoka.jpg"
+    },
+    {
+      "speaker": "claudia-maciel",
+      "role": "iOS Engineer, Jack Henry & Associates",
+      "photoUrl": "https://www.swiftable.co/speaker/claudia-maciel.jpg"
+    },
+    {
+      "speaker": "itay-brenner",
+      "role": "Senior iOS Engineer, EmergeTools",
+      "photoUrl": "https://www.swiftable.co/speaker/itay-brenner.jpg"
+    },
+    {
+      "speaker": "petr-pavlik",
+      "role": "Staff Engineer, Perry Street Software",
+      "photoUrl": "https://www.swiftable.co/speaker/petr-pavlik.jpg"
+    },
+    {
+      "speaker": "mauricio-chirino",
+      "role": "Mobile Engineer, Bitso",
+      "photoUrl": "https://www.swiftable.co/speaker/mauricio-chirino.jpg"
+    },
+    {
+      "speaker": "nahuel-zapata",
+      "role": "Tech Lead, Taller",
+      "photoUrl": "https://www.swiftable.co/speaker/nahuel-zapata.jpg"
+    },
+    {
+      "speaker": "marcelo-busico",
+      "role": "iOS Tech Lead, Taller",
+      "photoUrl": "https://www.swiftable.co/speaker/marcelo-busico.jpg"
+    }
+  ],
+  "talks": [
+    {
+      "slug": "atomic-coding-habits",
+      "title": "~atomic~ coding habits",
+      "speakers": [
+        "mauricio-chirino"
+      ]
+    },
+    {
+      "slug": "525600-minutes",
+      "title": "525600 minutes",
+      "speakers": [
+        "daniela-riesgo"
+      ]
+    },
+    {
+      "slug": "a-journey-into-your-pr-reviews",
+      "title": "A journey into your PR reviews",
+      "speakers": [
+        "nahuel-zapata"
+      ]
+    },
+    {
+      "slug": "adopting-graphql",
+      "title": "Adopting GraphQL",
+      "speakers": [
+        "carola-nitz"
+      ]
+    },
+    {
+      "slug": "automating-audible-s-ios-release-process",
+      "title": "Automating Audible's iOS Release Process",
+      "speakers": [
+        "charles-pisciotta"
+      ]
+    },
+    {
+      "slug": "build-health-and-velocity-score-how-pinterest-tracks-the-state-of-builds",
+      "title": "Build Health and Velocity Score: How Pinterest tracks the state of builds",
+      "speakers": [
+        "manuel-nakamurakare"
+      ]
+    },
+    {
+      "slug": "demystifying-app-intents",
+      "title": "Demystifying App Intents",
+      "speakers": [
+        "ashli-rankin"
+      ]
+    },
+    {
+      "slug": "from-challenge-to-joy-my-journey-developing-tuist-for-scalable-xcode-projects",
+      "title": "From Challenge to Joy: My Journey Developing Tuist for Scalable Xcode Projects",
+      "speakers": [
+        "pedro-pinera"
+      ]
+    },
+    {
+      "slug": "from-learning-to-writing-an-opensource-tool",
+      "title": "From learning to writing an opensource tool",
+      "speakers": [
+        "dima-kalachniuk"
+      ]
+    },
+    {
+      "slug": "harnessing-the-potential-swift-macros-in-action",
+      "title": "Harnessing the Potential: Swift Macros in Action",
+      "speakers": [
+        "antoine-van-der-lee"
+      ]
+    },
+    {
+      "slug": "managing-oss-libraries-at-scale",
+      "title": "Managing OSS libraries at scale",
+      "speakers": [
+        "rita-zerrizuela"
+      ]
+    },
+    {
+      "slug": "mpos-evolution-pain-points-and-wins",
+      "title": "mPOS evolution, pain points and wins",
+      "speakers": [
+        "j-manuel-mosso"
+      ]
+    },
+    {
+      "slug": "open-source-you-can-do-it",
+      "title": "Open Source - You Can Do It",
+      "speakers": [
+        "josh-holtz"
+      ]
+    },
+    {
+      "slug": "searching-for-aliens",
+      "title": "Searching for Aliens",
+      "speakers": [
+        "noah-martin"
+      ]
+    },
+    {
+      "slug": "swift-unit-testing-best-practices-and-design-principles",
+      "title": "Swift Unit Testing: Best Practices and Design Principles",
+      "speakers": [
+        "marcelo-busico"
+      ]
+    },
+    {
+      "slug": "the-joy-and-pain-of-swift-packages",
+      "title": "The Joy and Pain of Swift Packages",
+      "speakers": [
+        "petr-pavlik"
+      ]
+    },
+    {
+      "slug": "the-widget-revolution",
+      "title": "The Widget Revolution",
+      "speakers": [
+        "osamu-hiraoka"
+      ]
+    },
+    {
+      "slug": "tiny-improvements-better-user-experience-more-users",
+      "title": "Tiny improvements = better user experience = more users",
+      "speakers": [
+        "claudia-maciel"
+      ]
+    }
+  ]
+}

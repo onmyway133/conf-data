@@ -1,0 +1,20 @@
+{
+  "name": "Great International AI Native Summit (GAINS) 2026",
+  "year": 2026,
+  "url": "https://ainativesummit.com",
+  "startDate": "2026-12-09",
+  "endDate": "2026-12-10",
+  "city": "Bangalore",
+  "country": "IN",
+  "lat": 12.97194,
+  "lng": 77.59369,
+  "topics": [
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://ainativesummit.com/cfp",
+    "deadline": "2026-07-15",
+    "open": true
+  },
+  "source": "confs.tech"
+}

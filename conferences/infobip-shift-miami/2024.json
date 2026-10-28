@@ -1,0 +1,21 @@
+{
+  "name": "Infobip Shift Miami 2024",
+  "year": 2024,
+  "url": "https://shift.infobip.com/us",
+  "startDate": "2024-04-23",
+  "endDate": "2024-04-23",
+  "city": "Miami, FL",
+  "country": "US",
+  "lat": 25.77427,
+  "lng": -80.19366,
+  "topics": [
+    "APIs"
+  ],
+  "cfp": {
+    "url": "https://airtable.com/apphDmd86uwqL6Riw/shrMHCWCVQK5rbHhz",
+    "deadline": "2023-12-15",
+    "open": false
+  },
+  "twitter": "https://x.com/InfobipShift",
+  "source": "confs.tech"
+}

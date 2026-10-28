@@ -1,0 +1,16 @@
+{
+  "name": "Pause Fest 2019",
+  "year": 2019,
+  "url": "https://pausefest.com.au",
+  "startDate": "2019-02-06",
+  "endDate": "2019-02-08",
+  "city": "Melbourne",
+  "country": "AU",
+  "lat": -37.814,
+  "lng": 144.96332,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/pausefest",
+  "source": "confs.tech"
+}

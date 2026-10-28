@@ -1,0 +1,21 @@
+{
+  "name": "UX Brighton 2026",
+  "year": 2026,
+  "url": "https://uxbri.org",
+  "startDate": "2026-11-06",
+  "endDate": "2026-11-06",
+  "city": "Brighton",
+  "country": "GB",
+  "lat": 50.82838,
+  "lng": -0.13947,
+  "topics": [
+    "Design/UX"
+  ],
+  "cfp": {
+    "url": "https://cal.com/dannyhope/uxbrighton",
+    "deadline": "2026-09-04",
+    "open": true
+  },
+  "twitter": "https://x.com/uxbri",
+  "source": "confs.tech"
+}

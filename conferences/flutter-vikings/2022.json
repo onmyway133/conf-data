@@ -1,0 +1,14 @@
+{
+  "name": "Flutter Vikings 2022",
+  "year": 2022,
+  "url": "https://fluttervikings.com",
+  "startDate": "2022-02-02",
+  "endDate": "2022-02-03",
+  "city": "Oslo",
+  "country": "NO",
+  "lat": 59.91273,
+  "lng": 10.74609,
+  "topics": [],
+  "twitter": "https://x.com/FlutterVikings",
+  "source": "confs.tech"
+}

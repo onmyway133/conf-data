@@ -1,0 +1,16 @@
+{
+  "name": "AI Con USA 2026",
+  "year": 2026,
+  "url": "https://aiconusa.techwell.com",
+  "startDate": "2026-06-07",
+  "endDate": "2026-06-12",
+  "city": "Seattle, WA",
+  "country": "US",
+  "lat": 47.60621,
+  "lng": -122.33207,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/Coveros",
+  "source": "confs.tech"
+}

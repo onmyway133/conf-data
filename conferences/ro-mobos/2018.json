@@ -1,0 +1,16 @@
+{
+  "name": "MobOS 2018",
+  "year": 2018,
+  "url": "http://romobos.com/",
+  "startDate": "2018-02-15",
+  "endDate": "2018-02-16",
+  "city": "Cluj-Napoca",
+  "country": "RO",
+  "lat": 46.76667,
+  "lng": 23.6,
+  "topics": [
+    "iOS",
+    "Mobile"
+  ],
+  "source": "cocoaconferences"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "TECHSPO Sydney 2021",
+  "year": 2021,
+  "url": "https://techsposydney.com",
+  "startDate": "2021-08-25",
+  "endDate": "2021-08-26",
+  "city": "Sydney",
+  "country": "AU",
+  "lat": -33.86785,
+  "lng": 151.20732,
+  "topics": [
+    "Networking"
+  ],
+  "source": "confs.tech"
+}

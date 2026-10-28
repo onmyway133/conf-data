@@ -1,0 +1,16 @@
+{
+  "name": "#a11yTO Conf 2024",
+  "year": 2024,
+  "url": "https://conf.a11yto.com",
+  "startDate": "2024-10-03",
+  "endDate": "2024-10-04",
+  "city": "Toronto",
+  "country": "CA",
+  "lat": 43.70643,
+  "lng": -79.39864,
+  "topics": [
+    "Accessibility"
+  ],
+  "twitter": "https://x.com/a11yto",
+  "source": "confs.tech"
+}

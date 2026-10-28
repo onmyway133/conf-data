@@ -1,0 +1,15 @@
+{
+  "name": "GITEX AI LATAM 2027",
+  "year": 2027,
+  "url": "https://www.gitexlatam.com",
+  "startDate": "2027-03-16",
+  "endDate": "2027-03-17",
+  "city": "São Paulo",
+  "country": "BR",
+  "lat": -23.5475,
+  "lng": -46.63611,
+  "topics": [
+    "Data/AI"
+  ],
+  "source": "confs.tech"
+}

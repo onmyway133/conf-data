@@ -1,0 +1,16 @@
+{
+  "name": "BlackHat USA 2021",
+  "year": 2021,
+  "url": "https://blackhat.com/us-21",
+  "startDate": "2021-07-31",
+  "endDate": "2021-08-05",
+  "city": "Las Vegas, NV",
+  "country": "US",
+  "lat": 36.17497,
+  "lng": -115.13722,
+  "topics": [
+    "Security"
+  ],
+  "twitter": "https://x.com/BlackHatEvents",
+  "source": "confs.tech"
+}

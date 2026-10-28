@@ -1,0 +1,20 @@
+{
+  "name": "European GNU Radio Days 2023",
+  "year": 2023,
+  "url": "https://gnuradio-eu-23.sciencesconf.org",
+  "startDate": "2023-03-29",
+  "endDate": "2023-03-30",
+  "city": "Paris",
+  "country": "FR",
+  "lat": 48.85341,
+  "lng": 2.3488,
+  "topics": [
+    "Networking"
+  ],
+  "cfp": {
+    "url": "https://gnuradio-eu-23.sciencesconf.org/registration",
+    "deadline": "2023-02-28",
+    "open": false
+  },
+  "source": "confs.tech"
+}

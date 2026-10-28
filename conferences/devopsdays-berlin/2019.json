@@ -1,0 +1,21 @@
+{
+  "name": "DevOpsDays Berlin 2019",
+  "year": 2019,
+  "url": "https://www.devopsdays.org/events/2019-berlin",
+  "startDate": "2019-11-27",
+  "endDate": "2019-11-28",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://www.papercall.io/2019-berlin",
+    "deadline": "2019-07-31",
+    "open": false
+  },
+  "twitter": "https://x.com/blndevops",
+  "source": "confs.tech"
+}

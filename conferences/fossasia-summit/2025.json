@@ -1,0 +1,16 @@
+{
+  "name": "FOSSASIA Summit 2025",
+  "year": 2025,
+  "url": "https://eventyay.com/e/4c0e0c27",
+  "startDate": "2025-03-13",
+  "endDate": "2025-03-15",
+  "city": "Bangkok",
+  "country": "TH",
+  "lat": 13.75398,
+  "lng": 100.50144,
+  "topics": [
+    "Open Source"
+  ],
+  "twitter": "https://x.com/fossasia",
+  "source": "confs.tech"
+}

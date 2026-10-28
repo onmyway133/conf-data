@@ -1,0 +1,16 @@
+{
+  "name": "ConFoo 2021",
+  "year": 2021,
+  "url": "https://confoo.ca/en/yul2021",
+  "startDate": "2021-02-24",
+  "endDate": "2021-02-26",
+  "city": "Montreal",
+  "country": "CA",
+  "lat": 45.50884,
+  "lng": -73.58781,
+  "topics": [
+    "PHP"
+  ],
+  "twitter": "https://x.com/confooca",
+  "source": "confs.tech"
+}

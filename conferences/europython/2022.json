@@ -1,0 +1,15 @@
+{
+  "name": "EuroPython 2022",
+  "year": 2022,
+  "url": "https://ep2022.europython.eu",
+  "startDate": "2022-07-11",
+  "endDate": "2022-07-17",
+  "city": "Dublin",
+  "country": "IE",
+  "lat": 53.33306,
+  "lng": -6.24889,
+  "topics": [
+    "Python"
+  ],
+  "source": "confs.tech"
+}

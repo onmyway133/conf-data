@@ -1,0 +1,16 @@
+{
+  "name": "UXPA 2019",
+  "year": 2019,
+  "url": "http://conference.uxpaboston.org",
+  "startDate": "2019-05-10",
+  "endDate": "2019-05-10",
+  "city": "Boston, MA",
+  "country": "US",
+  "lat": 42.35843,
+  "lng": -71.05977,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/uxpaboston",
+  "source": "confs.tech"
+}

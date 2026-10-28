@@ -1,0 +1,16 @@
+{
+  "name": "React Alicante 2022",
+  "year": 2022,
+  "url": "https://reactalicante.es",
+  "startDate": "2022-09-29",
+  "endDate": "2022-10-01",
+  "city": "Alicante",
+  "country": "ES",
+  "lat": 38.34517,
+  "lng": -0.48149,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/reactalicante",
+  "source": "confs.tech"
+}

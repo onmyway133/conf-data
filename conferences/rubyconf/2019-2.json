@@ -1,0 +1,16 @@
+{
+  "name": "RubyConf 2019",
+  "year": 2019,
+  "url": "https://rubyconf.org",
+  "startDate": "2019-11-18",
+  "endDate": "2019-11-20",
+  "city": "Nashville, TN",
+  "country": "US",
+  "lat": 36.16589,
+  "lng": -86.78444,
+  "topics": [
+    "Ruby"
+  ],
+  "twitter": "https://x.com/rubyconf",
+  "source": "confs.tech"
+}

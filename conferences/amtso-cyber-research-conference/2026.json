@@ -1,0 +1,20 @@
+{
+  "name": "AMTSO Cyber Research Conference 2026",
+  "year": 2026,
+  "url": "https://www.amtso.org/special-events/amtso-cyber-research-conference-2026",
+  "startDate": "2026-10-20",
+  "endDate": "2026-10-21",
+  "city": "Brussels",
+  "country": "BE",
+  "lat": 50.85045,
+  "lng": 4.34878,
+  "topics": [
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/amtso-cyber-research-conference-2026",
+    "deadline": "2026-03-31",
+    "open": false
+  },
+  "source": "confs.tech"
+}

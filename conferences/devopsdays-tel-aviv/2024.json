@@ -1,0 +1,16 @@
+{
+  "name": "Devopsdays Tel Aviv 2024",
+  "year": 2024,
+  "url": "https://devopsdays.org/events/2024-tel-aviv/welcome",
+  "startDate": "2024-01-21",
+  "endDate": "2024-01-22",
+  "city": "Tel Aviv",
+  "country": "IL",
+  "lat": 32.08088,
+  "lng": 34.78057,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devopsdaystlv",
+  "source": "confs.tech"
+}

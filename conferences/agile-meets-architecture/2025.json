@@ -1,0 +1,14 @@
+{
+  "name": "Agile meets Architecture 2025",
+  "year": 2025,
+  "url": "https://www.agile-meets-architecture.com",
+  "startDate": "2025-04-03",
+  "endDate": "2025-04-04",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [],
+  "mastodon": "https://fosstodon.org/@ama_conf",
+  "source": "confs.tech"
+}

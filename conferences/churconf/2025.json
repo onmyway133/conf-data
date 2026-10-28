@@ -1,0 +1,16 @@
+{
+  "name": "ChurConf 2025",
+  "year": 2025,
+  "url": "https://churconf.com",
+  "startDate": "2025-11-02",
+  "endDate": "2025-11-02",
+  "city": "Auckland",
+  "country": "NZ",
+  "lat": -36.84853,
+  "lng": 174.76349,
+  "topics": [
+    "Java"
+  ],
+  "twitter": "https://x.com/Chur_Conf",
+  "source": "confs.tech"
+}

@@ -1,0 +1,190 @@
+{
+  "name": "droidcon USA 2026",
+  "year": 2026,
+  "url": "https://usa.droidcon.com",
+  "startDate": "2026-07-16",
+  "endDate": "2026-07-17",
+  "city": "Orlando, FL",
+  "country": "US",
+  "lat": 28.53834,
+  "lng": -81.37924,
+  "topics": [
+    "Android",
+    "Kotlin"
+  ],
+  "twitter": "https://x.com/droidcon",
+  "bluesky": "https://bsky.app/profile/droidcon.bsky.social",
+  "mastodon": "https://androiddev.social/@droidcon",
+  "source": "confs.tech",
+  "speakers": [
+    {
+      "speaker": "lauren-darcey",
+      "role": "Founder | Engineering Leader | Author & Speaker",
+      "bio": "Lauren has more than two decades of mobile engineering leadership and entrepreneurial experience who believes when you invest in people and empower healthy teams, they will build great products. She is a devx geek, entrepreneur and author of best-selling Android books who champions engineering best practices and building diverse high performing teams to deliver the best innovations to users.",
+      "photoUrl": "https://cdn.sessionize.com/image/843a-400o400o1-pYjEGTEB4rJuEf7fWhU2rC.jpg"
+    },
+    {
+      "speaker": "rafa-moreno",
+      "role": "Senior Software Engineer at Airbnb",
+      "bio": "Currently a software engineer working on making your trips experience delightful on the Airbnb app",
+      "photoUrl": "https://cdn.sessionize.com/image/5665-400o400o1-KcunvhBajrWi5zupuooD3a.png"
+    },
+    {
+      "speaker": "chris-shmerling",
+      "role": "Developer Relations Engineer, Google",
+      "bio": "Chris Shmerling is a Senior Developer Relations Engineer at Google. He has five years of experience bringing new Android features  to developers, helping them understand and adopt the latest technologies. Outside of work, Chris is an avid collector of retro technology, board games, and stationary.",
+      "photoUrl": "https://cdn.sessionize.com/image/c0a2-400o400o1-WQZ6hRrXf1krmvyYHE7Tye.jpg"
+    },
+    {
+      "speaker": "chrystian-vieyra-cortes",
+      "role": "Director of Engineering",
+      "bio": "Chrystian Vieyra Cortes is Director of Engineering at Thomson Reuters, where he leads mobile teams building cross-platform news experiences. A longtime Android and iOS developer, Chrystian specializes in sensor data visualization and has published several popular educational apps. Originally from Celaya, Mexico, he came to the United States as a student to earn a B.S. in Computer Science from Western Illinois University and later made the U.S. his permanent home.",
+      "photoUrl": "https://cdn.sessionize.com/image/e02a-400o400o1-Y27vRVQocc9Y4yhBoqSAEy.jpg"
+    },
+    {
+      "speaker": "inaki-villar",
+      "role": "gradle, solutions engineer",
+      "bio": "Inaki Villar is a Solutions Engineer on the Develocity team, and he is based in Los Angeles.\nIn this role, Inaki is working on providing solutions and optimizations for Clients of Develocity in Gradle/Maven builds. Before this role, Inaki was focused on Android and Build performance for other companies like Tinder, Agoda, Synchronous, Ryanair and Ideaknow.\nOriginally from Mallorca, Spain. He enjoys watching real football and water activities.",
+      "photoUrl": "https://cdn.sessionize.com/image/5e93-400o400o1-9gJkG1vRShogCP9BnY8gGk.jpg",
+      "twitter": "https://twitter.com/inyaki_mwc"
+    },
+    {
+      "speaker": "sebastian-aigner",
+      "role": "Developer Advocate at JetBrains",
+      "bio": "As a Kotlin and Compose Multiplatform Developer Advocate at JetBrains, Sebastian spends a lot of time thinking about how technology can advance and inspire people. When he first tried Kotlin, it was love at first sight. He is one of the hosts of the Talking Kotlin podcast, and creates videos for the official Kotlin YouTube channel. Sebastian loves to develop networked applications, uses Kotlin on a variety of platforms, and passionately tinkers on his programs until late into the night.",
+      "photoUrl": "https://cdn.sessionize.com/image/2ef9-400o400o1-XGxKBoqZvxxQxosrZHQHTT.png",
+      "twitter": "https://twitter.com/sebi_io"
+    },
+    {
+      "speaker": "kevin-galligan",
+      "role": "Partner at Touchlab",
+      "bio": "Kevin Galligan is a Partner at Touchlab. He has 20 years of professional software development experience, and has been working on Android since the first public platform release. Kevin is currently focused on developing and evangelizing Kotlin multiplatform native tools for the next generation of mobile development.",
+      "photoUrl": "https://cdn.sessionize.com/image/7518-400o400o1-7f-2a71-4d40-a3e1-cb481f328361.91f83573-a3b9-471e-8815-e1de2f897e6e.jpg"
+    },
+    {
+      "speaker": "meghan-mehta",
+      "role": "Android Developer Advocate",
+      "bio": "Meghan Mehta is an Android Developer Advocate at Google. She is passionate about mobile development and before Google worked on apps at Disney, Foursquare and Yelp. Outside of work she sings musical theater and swing dances. Follow her on Twitter and Instagram @adressyengineer.",
+      "photoUrl": "https://cdn.sessionize.com/image/731e-400o400o1-5bb8a1c6-da2d-4090-b84f-9f505e0b5d3f.jpg"
+    },
+    {
+      "speaker": "marton-braun",
+      "role": "Developer Advocate at JetBrains",
+      "bio": "Márton is a Kotlin Developer Advocate at JetBrains, working on making Kotlin Multiplatform awesome. Passionate about education, he's a guest lecturer at the Budapest University of Technology and Economics.\n\nHe’s been contributing to the community through writing, speaking, and open source libraries since his university days. He is a Google Developer Expert for Android, and a co-organizer of Android Budapest.",
+      "photoUrl": "https://cdn.sessionize.com/image/e76e-400o400o1-48Xecw4YZ8eXv2jhaMBiqP.png"
+    },
+    {
+      "speaker": "ben-kadel",
+      "role": "Android / Mobile Platform Engineer",
+      "bio": "Developer, Presenter/Teacher, Open source advocate, Ultimate frisbee player & Board game hoarder.\nI love the fact that I get to code for a living, but I am also incredibly passionate about sharing, collaborating and helping others on their dev journey!\nI also have a growing YouTube channel (youtube.com/benkadel), where I try to make entertaining & educational content about programming, the tech industry and specific tutorials to breakdown complex topics.\nI adore presenting, story-telling and just generally engaging with an audience. If I am able to make life, even just a little brighter for someone then I have succeeded!",
+      "photoUrl": "https://cdn.sessionize.com/image/54f5-400o400o1-31mVG35BLhHT49izHuyZnY.jpg",
+      "twitter": "https://twitter.com/Ben_Kadel"
+    },
+    {
+      "speaker": "stacy-devino",
+      "role": "Principal Engineer @Fanatics",
+      "bio": "Stacy leads the Fanatics App and client platforms in the Fanatics Ecosystem. She is a multifaceted, international keynote speaker noted for her work in diversity advocacy, tech democracy, and \"real-talk\" leadership development. She has been a mobile specialist her whole career and worked on nearly every aspect of the ecosystem, currently specializing in engaging, fan-first Sports experiences for Fanatics. Her work has been featured on sites like Wired, Gizmodo, and Geek.com in addition to being mentioned directly in published books and being named to WWC's \"100 Technologists to Watch\". You can catch Stacy posting advice on LinkedIn, traveling to conferences, or working in her local DFW community as an educator and mentor for all career stages.",
+      "photoUrl": "https://cdn.sessionize.com/image/405b-400o400o1-e874168d-f762-43b3-9726-efb18cc3fafb.jpg",
+      "twitter": "https://twitter.com/DoesitPew"
+    },
+    {
+      "speaker": "john-o-reilly",
+      "role": "Software Engineer @ Neat",
+      "bio": "John is an Android Google Developer Expert with over 15 years of Android and iOS development experience. He has been actively exploring and advocating for all things Kotlin Multiplatform since 2018.",
+      "photoUrl": "https://cdn.sessionize.com/image/a075-400o400o1-TLqNe69nTw1RTsYoaYJyKz.jpg"
+    }
+  ],
+  "talks": [
+    {
+      "slug": "appfunctions-making-your-android-app-agent-ready",
+      "title": "AppFunctions: Making Your Android App Agent-Ready",
+      "speakers": [
+        "chrystian-vieyra-cortes"
+      ]
+    },
+    {
+      "slug": "bff4eae-your-backend-s-new-best-friend-forever",
+      "title": "BFF4EAE: Your Backend's New Best Friend Forever",
+      "speakers": [
+        "stacy-devino"
+      ]
+    },
+    {
+      "slug": "build-custom-design-systems-with-jetpack-compose-s-new-styles-api",
+      "title": "Build custom design systems with Jetpack Compose's new Styles API",
+      "speakers": [
+        "meghan-mehta"
+      ]
+    },
+    {
+      "slug": "congratulations-you-re-staff-now-why-are-you-still-stuck",
+      "title": "Congratulations, You're Staff. Now Why Are You Still Stuck?",
+      "speakers": [
+        "stacy-devino"
+      ]
+    },
+    {
+      "slug": "full-stack-kotlin-ai-powering-compose-multiplatform-apps-with-koog-mcp",
+      "title": "Full-Stack Kotlin AI: Powering Compose Multiplatform apps with Koog & MCP",
+      "speakers": [
+        "john-o-reilly"
+      ]
+    },
+    {
+      "slug": "go-beyond-the-prompt-using-context-to-build-reliable-ai-assisted-android-workflo",
+      "title": "Go Beyond the Prompt: Using Context to Build Reliable AI-Assisted Android Workflows",
+      "speakers": [
+        "rafa-moreno"
+      ]
+    },
+    {
+      "slug": "native-mobile-and-ai",
+      "title": "Native Mobile and AI",
+      "speakers": [
+        "kevin-galligan"
+      ]
+    },
+    {
+      "slug": "new-performance-challenges-in-the-agentic-era-for-android-builds",
+      "title": "New Performance Challenges in the Agentic Era for Android Builds",
+      "speakers": [
+        "inaki-villar"
+      ]
+    },
+    {
+      "slug": "protecting-your-users-in-an-agentic-world",
+      "title": "Protecting Your Users in an Agentic World",
+      "speakers": [
+        "chris-shmerling"
+      ]
+    },
+    {
+      "slug": "the-lord-of-collection-functions-the-fellowship-of-kotlin",
+      "title": "The Lord of Collection Functions - The Fellowship of Kotlin",
+      "speakers": [
+        "ben-kadel"
+      ]
+    },
+    {
+      "slug": "to-migrate-or-not-managing-technical-hype-cycles-with-kmp-ai",
+      "title": "To Migrate or Not? Managing Technical Hype Cycles with KMP & AI",
+      "speakers": [
+        "lauren-darcey"
+      ]
+    },
+    {
+      "slug": "what-should-we-measure-in-the-age-of-agentic-engineering",
+      "title": "What Should We Measure in the Age of Agentic Engineering?",
+      "speakers": [
+        "chrystian-vieyra-cortes"
+      ]
+    },
+    {
+      "slug": "what-s-new-in-compose-multiplatform-better-shared-ui-for-ios-and-beyond-2",
+      "title": "What's New in Compose Multiplatform: Better Shared UI for iOS and Beyond",
+      "speakers": [
+        "sebastian-aigner"
+      ]
+    }
+  ]
+}

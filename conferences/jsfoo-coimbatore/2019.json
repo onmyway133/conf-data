@@ -1,0 +1,21 @@
+{
+  "name": "JSFoo Coimbatore 2019",
+  "year": 2019,
+  "url": "https://jsfoo.in/2019-coimbatore",
+  "startDate": "2019-06-08",
+  "endDate": "2019-06-08",
+  "city": "Coimbatore",
+  "country": "IN",
+  "lat": 11.00555,
+  "lng": 76.96612,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://hasgeek.com/jsfoo/2019-coimbatore",
+    "deadline": "2019-04-29",
+    "open": false
+  },
+  "twitter": "https://x.com/jsfoo",
+  "source": "confs.tech"
+}

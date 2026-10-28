@@ -1,0 +1,21 @@
+{
+  "name": "JSConf EU 2019",
+  "year": 2019,
+  "url": "https://2019.jsconf.eu",
+  "startDate": "2019-06-01",
+  "endDate": "2019-06-02",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://2019.jsconf.eu/call-for-speakers",
+    "deadline": "2018-12-23",
+    "open": false
+  },
+  "twitter": "https://x.com/jsconfeu",
+  "source": "confs.tech"
+}

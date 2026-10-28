@@ -1,0 +1,24 @@
+{
+  "name": "Devnexus 2026",
+  "year": 2026,
+  "url": "https://devnexus.com",
+  "startDate": "2026-03-04",
+  "endDate": "2026-03-06",
+  "city": "Atlanta, GA",
+  "country": "US",
+  "lat": 33.749,
+  "lng": -84.38798,
+  "topics": [
+    "Java",
+    "Open Source",
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/devnexus-2026",
+    "deadline": "2025-09-15",
+    "open": false
+  },
+  "twitter": "https://x.com/devnexus",
+  "bluesky": "https://bsky.app/profile/devnexus.bsky.social",
+  "source": "confs.tech"
+}

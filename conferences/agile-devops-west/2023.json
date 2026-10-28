@@ -1,0 +1,16 @@
+{
+  "name": "Agile + DevOps West 2023",
+  "year": 2023,
+  "url": "https://agiledevopswest.techwell.com",
+  "startDate": "2023-06-04",
+  "endDate": "2023-06-09",
+  "city": "Las Vegas, NV",
+  "country": "US",
+  "lat": 36.17497,
+  "lng": -115.13722,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/techwell",
+  "source": "confs.tech"
+}

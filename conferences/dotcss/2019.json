@@ -1,0 +1,16 @@
+{
+  "name": "dotCSS 2019",
+  "year": 2019,
+  "url": "https://2019.dotcss.io",
+  "startDate": "2019-12-04",
+  "endDate": "2019-12-04",
+  "city": "Paris",
+  "country": "FR",
+  "lat": 48.85341,
+  "lng": 2.3488,
+  "topics": [
+    "CSS"
+  ],
+  "twitter": "https://x.com/dotCSS",
+  "source": "confs.tech"
+}

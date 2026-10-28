@@ -1,0 +1,22 @@
+{
+  "name": "PyCon DE & PyData 2025",
+  "year": 2025,
+  "url": "https://2025.pycon.de",
+  "startDate": "2025-04-22",
+  "endDate": "2025-04-25",
+  "city": "Darmstadt",
+  "country": "DE",
+  "lat": 49.87167,
+  "lng": 8.65027,
+  "topics": [
+    "Data/AI",
+    "Python"
+  ],
+  "cfp": {
+    "deadline": "2025-01-05",
+    "open": false
+  },
+  "twitter": "https://x.com/pyconde",
+  "mastodon": "https://fosstodon.org/@pyconde",
+  "source": "confs.tech"
+}

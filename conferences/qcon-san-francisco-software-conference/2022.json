@@ -1,0 +1,16 @@
+{
+  "name": "QCon San Francisco Software Conference 2022",
+  "year": 2022,
+  "url": "https://qconsf.com",
+  "startDate": "2022-10-24",
+  "endDate": "2022-10-28",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/QCon",
+  "source": "confs.tech"
+}

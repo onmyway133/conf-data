@@ -1,0 +1,21 @@
+{
+  "name": "Open Source Cloud Strategies and Solutions 2023",
+  "year": 2023,
+  "url": "https://www.sardinasystems.com/cloudsolutions-day-europe",
+  "startDate": "2023-11-23",
+  "endDate": "2023-11-23",
+  "city": "Frankfurt am Main",
+  "country": "DE",
+  "lat": 50.11552,
+  "lng": 8.68417,
+  "topics": [
+    "DevOps",
+    "Networking"
+  ],
+  "cfp": {
+    "url": "https://www.sardinasystems.com",
+    "deadline": "2023-11-22",
+    "open": false
+  },
+  "source": "confs.tech"
+}

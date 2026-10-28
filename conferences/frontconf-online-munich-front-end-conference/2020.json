@@ -1,0 +1,16 @@
+{
+  "name": "FrontConf Online - Munich Front-end Conference 2020",
+  "year": 2020,
+  "url": "https://frontconf.com",
+  "startDate": "2020-03-21",
+  "endDate": "2020-03-21",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/TheFrontConf",
+  "source": "confs.tech"
+}

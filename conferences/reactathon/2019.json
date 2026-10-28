@@ -1,0 +1,21 @@
+{
+  "name": "Reactathon 2019",
+  "year": 2019,
+  "url": "https://www.reactathon.com",
+  "startDate": "2019-03-30",
+  "endDate": "2019-03-31",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSf3gtpQkYb2SNNI2WxBTC2rFYpFUn6cyMA9k8HZVZrwg0gYVw/viewform",
+    "deadline": "2019-01-15",
+    "open": false
+  },
+  "twitter": "https://x.com/reactathon",
+  "source": "confs.tech"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "iOSCon 2017",
+  "year": 2017,
+  "url": "https://skillsmatter.com/conferences/8180-ioscon-2017-the-conference-for-ios-and-swift-developers",
+  "startDate": "2017-03-30",
+  "endDate": "2017-03-31",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences"
+}

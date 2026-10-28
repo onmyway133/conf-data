@@ -1,0 +1,16 @@
+{
+  "name": "HalfStack Phoenix 2027",
+  "year": 2027,
+  "url": "https://halfstackconf.com/phoenix",
+  "startDate": "2027-02-05",
+  "endDate": "2027-02-05",
+  "city": "Phoenix, AZ",
+  "country": "US",
+  "lat": 33.44838,
+  "lng": -112.07404,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/halfstackconf",
+  "source": "confs.tech"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "B-Sides Cape Town 2019",
+  "year": 2019,
+  "url": "https://bsidescapetown.co.za",
+  "startDate": "2019-12-07",
+  "endDate": "2019-12-07",
+  "city": "Cape Town",
+  "country": "ZA",
+  "lat": -33.92584,
+  "lng": 18.42322,
+  "topics": [
+    "Security"
+  ],
+  "source": "confs.tech"
+}

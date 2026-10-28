@@ -1,0 +1,16 @@
+{
+  "name": "ScalaDays 2020",
+  "year": 2020,
+  "url": "https://www.scaladays.org",
+  "startDate": "2020-07-01",
+  "endDate": "2020-07-03",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "Scala"
+  ],
+  "twitter": "https://x.com/scaladays",
+  "source": "confs.tech"
+}

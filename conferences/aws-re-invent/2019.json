@@ -1,0 +1,16 @@
+{
+  "name": "AWS re:Invent 2019",
+  "year": 2019,
+  "url": "https://reinvent.awsevents.com",
+  "startDate": "2019-12-02",
+  "endDate": "2019-12-06",
+  "city": "Las Vegas, NV",
+  "country": "US",
+  "lat": 36.17497,
+  "lng": -115.13722,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/AWSreInvent",
+  "source": "confs.tech"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Scenic City Summit 2024",
+  "year": 2024,
+  "url": "https://sceniccitysummit.com",
+  "startDate": "2024-06-28",
+  "endDate": "2024-06-28",
+  "city": "Chattanooga, TN",
+  "country": "US",
+  "lat": 35.04563,
+  "lng": -85.30968,
+  "topics": [],
+  "cfp": {
+    "url": "https://sessionize.com/scenic-city-summit-2024",
+    "deadline": "2024-03-08",
+    "open": false
+  },
+  "twitter": "https://x.com/ScenicSummit",
+  "source": "confs.tech"
+}

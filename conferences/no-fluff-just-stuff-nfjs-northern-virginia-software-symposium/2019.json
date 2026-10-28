@@ -1,0 +1,17 @@
+{
+  "name": "No Fluff Just Stuff (NFJS) - Northern Virginia Software Symposium 2019",
+  "year": 2019,
+  "url": "https://nofluffjuststuff.com/conference/reston/2019/04/home",
+  "startDate": "2019-04-12",
+  "endDate": "2019-04-13",
+  "city": "Reston, VA",
+  "country": "US",
+  "lat": 38.96872,
+  "lng": -77.3411,
+  "topics": [],
+  "cfp": {
+    "url": "https://nofluffjuststuff.com/home/speaker_request",
+    "open": false
+  },
+  "source": "confs.tech"
+}

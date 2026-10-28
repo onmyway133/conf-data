@@ -1,0 +1,19 @@
+{
+  "name": "Berlin Buzzwords 2025",
+  "year": 2025,
+  "url": "https://2025.berlinbuzzwords.de",
+  "startDate": "2025-06-15",
+  "endDate": "2025-06-17",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [],
+  "cfp": {
+    "url": "https://2025.berlinbuzzwords.de/call-for-papers",
+    "deadline": "2025-02-23",
+    "open": false
+  },
+  "mastodon": "https://floss.social/@berlinbuzzwords",
+  "source": "confs.tech"
+}

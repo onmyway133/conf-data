@@ -1,0 +1,16 @@
+{
+  "name": "Salt Lake City DevOps Days 2019",
+  "year": 2019,
+  "url": "https://www.slcdevopsdays.org",
+  "startDate": "2019-05-14",
+  "endDate": "2019-05-15",
+  "city": "Salt Lake City, UT",
+  "country": "US",
+  "lat": 40.76078,
+  "lng": -111.89105,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devopsdaysslc",
+  "source": "confs.tech"
+}

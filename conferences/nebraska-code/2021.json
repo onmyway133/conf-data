@@ -1,0 +1,16 @@
+{
+  "name": "Nebraska Code 2021",
+  "year": 2021,
+  "url": "https://nebraskacode.amegala.com",
+  "startDate": "2021-07-13",
+  "endDate": "2021-07-15",
+  "city": "Lincoln, NE",
+  "country": "US",
+  "lat": 40.8,
+  "lng": -96.66696,
+  "topics": [
+    ".NET"
+  ],
+  "twitter": "https://x.com/amegala",
+  "source": "confs.tech"
+}

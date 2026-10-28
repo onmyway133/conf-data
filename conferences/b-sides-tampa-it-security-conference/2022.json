@@ -1,0 +1,16 @@
+{
+  "name": "B-Sides Tampa IT Security Conference 2022",
+  "year": 2022,
+  "url": "https://bsidestampa.net",
+  "startDate": "2022-03-04",
+  "endDate": "2022-03-05",
+  "city": "Tampa, FL",
+  "country": "US",
+  "lat": 27.94752,
+  "lng": -82.45843,
+  "topics": [
+    "Security"
+  ],
+  "twitter": "https://x.com/BSidesTampa",
+  "source": "confs.tech"
+}

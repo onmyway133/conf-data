@@ -1,0 +1,20 @@
+{
+  "name": "AlmaLinux Day 2026",
+  "year": 2026,
+  "url": "https://almalinux.org/almalinux-day-los-angeles-2026",
+  "startDate": "2026-07-18",
+  "endDate": "2026-07-18",
+  "city": "Los Angeles, CA",
+  "country": "US",
+  "lat": 34.05223,
+  "lng": -118.24368,
+  "topics": [
+    "Open Source"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/almalinux-day-los-angeles",
+    "deadline": "2026-06-05",
+    "open": false
+  },
+  "source": "confs.tech"
+}

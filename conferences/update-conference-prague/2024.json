@@ -1,0 +1,18 @@
+{
+  "name": "Update Conference Prague 2024",
+  "year": 2024,
+  "url": "https://www.updateconference.net",
+  "startDate": "2024-11-14",
+  "endDate": "2024-11-15",
+  "city": "Prague",
+  "country": "CZ",
+  "lat": 50.08804,
+  "lng": 14.42076,
+  "topics": [
+    "Data/AI",
+    ".NET",
+    "Security"
+  ],
+  "twitter": "https://x.com/update_conf",
+  "source": "confs.tech"
+}

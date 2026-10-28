@@ -1,0 +1,22 @@
+{
+  "name": "TechSummit Amsterdam 2026",
+  "year": 2026,
+  "url": "https://techsummit.io",
+  "startDate": "2026-09-30",
+  "endDate": "2026-09-30",
+  "city": "Amsterdam",
+  "country": "NL",
+  "lat": 52.37403,
+  "lng": 4.88969,
+  "topics": [
+    "DevOps",
+    "Security",
+    "SRE"
+  ],
+  "cfp": {
+    "url": "https://pretalx.com/techsummit-2026/cfp",
+    "deadline": "2026-05-15",
+    "open": false
+  },
+  "source": "confs.tech"
+}

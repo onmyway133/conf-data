@@ -1,0 +1,16 @@
+{
+  "name": "ngSpain 2019",
+  "year": 2019,
+  "url": "https://ngspain.com",
+  "startDate": "2019-10-18",
+  "endDate": "2019-10-20",
+  "city": "Madrid",
+  "country": "ES",
+  "lat": 40.4165,
+  "lng": -3.70256,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/ngspain",
+  "source": "confs.tech"
+}

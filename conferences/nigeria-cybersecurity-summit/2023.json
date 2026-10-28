@@ -1,0 +1,15 @@
+{
+  "name": "Nigeria Cybersecurity Summit 2023",
+  "year": 2023,
+  "url": "https://nigeriacybersecuritysummit.com",
+  "startDate": "2023-03-16",
+  "endDate": "2023-03-17",
+  "city": "Lagos",
+  "country": "NG",
+  "lat": 6.45407,
+  "lng": 3.39467,
+  "topics": [
+    "Security"
+  ],
+  "source": "confs.tech"
+}

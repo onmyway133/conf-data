@@ -1,0 +1,14 @@
+{
+  "name": "NZ Tech Rally 2023",
+  "year": 2023,
+  "url": "https://nztechrally.com",
+  "startDate": "2023-07-07",
+  "endDate": "2023-07-07",
+  "city": "Wellington",
+  "country": "NZ",
+  "lat": -41.28664,
+  "lng": 174.77557,
+  "topics": [],
+  "twitter": "https://x.com/NZTechRally",
+  "source": "confs.tech"
+}

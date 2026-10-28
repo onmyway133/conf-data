@@ -1,0 +1,17 @@
+{
+  "name": "PromCon 2024",
+  "year": 2024,
+  "url": "https://promcon.io/2024-berlin",
+  "startDate": "2024-09-11",
+  "endDate": "2024-09-12",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "DevOps",
+    "SRE"
+  ],
+  "twitter": "https://x.com/PrometheusIO",
+  "source": "confs.tech"
+}

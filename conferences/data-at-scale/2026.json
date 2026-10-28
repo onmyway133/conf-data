@@ -1,0 +1,21 @@
+{
+  "name": "Data at Scale 2026",
+  "year": 2026,
+  "url": "https://www.dataatscale.dev",
+  "startDate": "2026-07-07",
+  "endDate": "2026-07-07",
+  "city": "Amsterdam",
+  "country": "NL",
+  "lat": 52.37403,
+  "lng": 4.88969,
+  "topics": [
+    "C++",
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/data-at-scale-amsterdam",
+    "deadline": "2026-06-20",
+    "open": false
+  },
+  "source": "confs.tech"
+}

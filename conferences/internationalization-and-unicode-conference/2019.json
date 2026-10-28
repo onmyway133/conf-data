@@ -1,0 +1,14 @@
+{
+  "name": "Internationalization and Unicode Conference 2019",
+  "year": 2019,
+  "url": "http://www.unicodeconference.org",
+  "startDate": "2019-10-16",
+  "endDate": "2019-10-18",
+  "city": "Santa Clara, CA",
+  "country": "US",
+  "lat": 37.35411,
+  "lng": -121.95524,
+  "topics": [],
+  "twitter": "https://x.com/unicode",
+  "source": "confs.tech"
+}

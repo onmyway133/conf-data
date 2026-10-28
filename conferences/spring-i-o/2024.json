@@ -1,0 +1,21 @@
+{
+  "name": "Spring I/O 2024",
+  "year": 2024,
+  "url": "https://2024.springio.net",
+  "startDate": "2024-05-30",
+  "endDate": "2024-05-31",
+  "city": "Barcelona",
+  "country": "ES",
+  "lat": 41.38879,
+  "lng": 2.15899,
+  "topics": [
+    "Java"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/spring-io-2024",
+    "deadline": "2024-02-18",
+    "open": false
+  },
+  "twitter": "https://x.com/spring_io",
+  "source": "confs.tech"
+}

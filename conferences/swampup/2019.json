@@ -1,0 +1,15 @@
+{
+  "name": "swampUP 2019",
+  "year": 2019,
+  "url": "https://swampup.jfrog.com",
+  "startDate": "2019-06-17",
+  "endDate": "2019-06-19",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [
+    "DevOps"
+  ],
+  "source": "confs.tech"
+}

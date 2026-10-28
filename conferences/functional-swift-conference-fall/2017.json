@@ -1,0 +1,15 @@
+{
+  "name": "Functional Swift Conference Fall 2017",
+  "year": 2017,
+  "url": "http://www.funswiftconf.com",
+  "startDate": "2017-09-30",
+  "endDate": "2017-09-30",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences"
+}

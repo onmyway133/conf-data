@@ -1,0 +1,16 @@
+{
+  "name": "STARWEST 2023",
+  "year": 2023,
+  "url": "https://starwest.techwell.com",
+  "startDate": "2023-10-01",
+  "endDate": "2023-10-06",
+  "city": "Anaheim, CA",
+  "country": "US",
+  "lat": 33.83529,
+  "lng": -117.9145,
+  "topics": [
+    "Testing"
+  ],
+  "twitter": "https://x.com/techwell",
+  "source": "confs.tech"
+}

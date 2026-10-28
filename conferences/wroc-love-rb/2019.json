@@ -1,0 +1,16 @@
+{
+  "name": "wroc_love.rb 2019",
+  "year": 2019,
+  "url": "https://wrocloverb.com",
+  "startDate": "2019-03-22",
+  "endDate": "2019-03-24",
+  "city": "Wrocław",
+  "country": "PL",
+  "lat": 51.10286,
+  "lng": 17.03006,
+  "topics": [
+    "Ruby"
+  ],
+  "twitter": "https://x.com/wrocloverb",
+  "source": "confs.tech"
+}

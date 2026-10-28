@@ -1,0 +1,16 @@
+{
+  "name": "DSConf 2019",
+  "year": 2019,
+  "url": "https://dsconf.in",
+  "startDate": "2019-02-16",
+  "endDate": "2019-02-16",
+  "city": "Pune",
+  "country": "IN",
+  "lat": 18.51957,
+  "lng": 73.85535,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/dist_sys",
+  "source": "confs.tech"
+}

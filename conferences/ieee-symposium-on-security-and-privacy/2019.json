@@ -1,0 +1,16 @@
+{
+  "name": "IEEE Symposium on Security and Privacy 2019",
+  "year": 2019,
+  "url": "https://www.ieee-security.org/TC/SP2019",
+  "startDate": "2019-05-20",
+  "endDate": "2019-05-22",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [
+    "Security"
+  ],
+  "twitter": "https://x.com/ieeessp",
+  "source": "confs.tech"
+}

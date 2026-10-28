@@ -1,0 +1,15 @@
+{
+  "name": "UX Vietnam Festival 2019",
+  "year": 2019,
+  "url": "https://www.uxvn.org",
+  "startDate": "2019-01-13",
+  "endDate": "2019-01-14",
+  "city": "Ho Chi Minh City",
+  "country": "VN",
+  "lat": 10.82302,
+  "lng": 106.62965,
+  "topics": [
+    "Design/UX"
+  ],
+  "source": "confs.tech"
+}

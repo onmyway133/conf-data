@@ -1,0 +1,16 @@
+{
+  "name": "Úll 2017",
+  "year": 2017,
+  "url": "http://2017.ull.ie/",
+  "startDate": "2017-04-10",
+  "endDate": "2017-04-11",
+  "city": "Killarney",
+  "country": "IE",
+  "lat": 52.0598,
+  "lng": -9.50858,
+  "topics": [
+    "iOS",
+    "Mobile"
+  ],
+  "source": "cocoaconferences"
+}

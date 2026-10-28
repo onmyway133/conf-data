@@ -1,0 +1,23 @@
+{
+  "name": "Ray Summit 2025",
+  "year": 2025,
+  "url": "https://www.anyscale.com/ray-summit/2025",
+  "startDate": "2025-11-03",
+  "endDate": "2025-11-05",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [
+    "Data/AI",
+    "Open Source",
+    "Performance"
+  ],
+  "cfp": {
+    "url": "https://raysummit.anyscale.com/flow/anyscale/raysummit2025/callforpapers",
+    "deadline": "2025-06-30",
+    "open": false
+  },
+  "twitter": "https://x.com/raydistributed",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "RuhrJS 2019",
+  "year": 2019,
+  "url": "https://ruhrjs.de",
+  "startDate": "2019-10-05",
+  "endDate": "2019-10-06",
+  "city": "Bochum",
+  "country": "DE",
+  "lat": 51.48165,
+  "lng": 7.21648,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/RuhrJS",
+  "source": "confs.tech"
+}

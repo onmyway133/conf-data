@@ -1,0 +1,23 @@
+{
+  "name": "AI DevWorld 2023",
+  "year": 2023,
+  "url": "https://aidevworld.com",
+  "startDate": "2023-10-24",
+  "endDate": "2023-11-02",
+  "city": "Santa Clara, CA",
+  "country": "US",
+  "lat": 37.35411,
+  "lng": -121.95524,
+  "topics": [
+    "Data/AI",
+    "Performance",
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/ai-devworld-2023",
+    "deadline": "2023-06-09",
+    "open": false
+  },
+  "twitter": "https://x.com/APIWorld",
+  "source": "confs.tech"
+}

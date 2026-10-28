@@ -1,0 +1,16 @@
+{
+  "name": "RAD Summit 2019",
+  "year": 2019,
+  "url": "http://radsummit.co",
+  "startDate": "2019-08-15",
+  "endDate": "2019-08-18",
+  "city": "Denver, CO",
+  "country": "US",
+  "lat": 39.73915,
+  "lng": -104.9847,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/radsummit",
+  "source": "confs.tech"
+}

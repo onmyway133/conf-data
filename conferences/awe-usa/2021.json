@@ -1,0 +1,19 @@
+{
+  "name": "AWE USA 2021",
+  "year": 2021,
+  "url": "https://www.awexr.com",
+  "startDate": "2021-11-09",
+  "endDate": "2021-11-11",
+  "city": "Santa Clara, CA",
+  "country": "US",
+  "lat": 37.35411,
+  "lng": -121.95524,
+  "topics": [],
+  "cfp": {
+    "url": "https://www.awexr.com/usa-2021/submit_a_talk",
+    "deadline": "2021-07-30",
+    "open": false
+  },
+  "twitter": "https://x.com/ARealityEvent",
+  "source": "confs.tech"
+}

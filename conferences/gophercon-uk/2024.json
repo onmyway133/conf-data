@@ -1,0 +1,21 @@
+{
+  "name": "GopherCon UK 2024",
+  "year": 2024,
+  "url": "https://www.gophercon.co.uk",
+  "startDate": "2024-08-14",
+  "endDate": "2024-08-16",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "Go"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/gophercon-uk-2024",
+    "deadline": "2024-05-17",
+    "open": false
+  },
+  "twitter": "https://x.com/gopherconuk",
+  "source": "confs.tech"
+}

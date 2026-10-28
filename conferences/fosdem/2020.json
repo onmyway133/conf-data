@@ -1,0 +1,14 @@
+{
+  "name": "FOSDEM 2020",
+  "year": 2020,
+  "url": "https://fosdem.org/2020",
+  "startDate": "2020-02-01",
+  "endDate": "2020-02-02",
+  "city": "Brussels",
+  "country": "BE",
+  "lat": 50.85045,
+  "lng": 4.34878,
+  "topics": [],
+  "twitter": "https://x.com/fosdem",
+  "source": "confs.tech"
+}

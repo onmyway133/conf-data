@@ -1,0 +1,16 @@
+{
+  "name": "Fable conf 2019",
+  "year": 2019,
+  "url": "https://fable.io/fableconf",
+  "startDate": "2019-09-06",
+  "endDate": "2019-09-07",
+  "city": "Antwerp",
+  "country": "BE",
+  "lat": 51.22047,
+  "lng": 4.40026,
+  "topics": [
+    ".NET"
+  ],
+  "twitter": "https://x.com/FableCompiler",
+  "source": "confs.tech"
+}

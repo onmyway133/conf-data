@@ -1,0 +1,21 @@
+{
+  "name": "KotLand 2020",
+  "year": 2020,
+  "url": "https://www.kotland.org",
+  "startDate": "2020-06-13",
+  "endDate": "2020-06-13",
+  "city": "Kyiv",
+  "country": "UA",
+  "lat": 50.45466,
+  "lng": 30.5238,
+  "topics": [
+    "Kotlin"
+  ],
+  "cfp": {
+    "url": "https://www.papercall.io/kotland-kyiv",
+    "deadline": "2020-04-30",
+    "open": false
+  },
+  "twitter": "https://x.com/land_kot",
+  "source": "confs.tech"
+}

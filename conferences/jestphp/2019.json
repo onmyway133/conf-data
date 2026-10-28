@@ -1,0 +1,16 @@
+{
+  "name": "JestPHP 2019",
+  "year": 2019,
+  "url": "https://jestphp.com",
+  "startDate": "2019-02-22",
+  "endDate": "2019-02-22",
+  "city": "Mesa, AZ",
+  "country": "US",
+  "lat": 33.42227,
+  "lng": -111.82264,
+  "topics": [
+    "PHP"
+  ],
+  "twitter": "https://x.com/jestphp",
+  "source": "confs.tech"
+}

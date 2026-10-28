@@ -1,0 +1,19 @@
+{
+  "name": "Ad-Filtering Dev Summit 2025",
+  "year": 2025,
+  "url": "https://adfilteringdevsummit.com",
+  "startDate": "2025-10-23",
+  "endDate": "2025-10-24",
+  "city": "Limassol",
+  "country": "CY",
+  "lat": 34.68406,
+  "lng": 33.03794,
+  "topics": [],
+  "cfp": {
+    "url": "https://agrd.io/afds2025-talks",
+    "deadline": "2025-08-10",
+    "open": false
+  },
+  "twitter": "https://x.com/AdGuard",
+  "source": "confs.tech"
+}

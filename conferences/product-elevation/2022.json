@@ -1,0 +1,16 @@
+{
+  "name": "Product Elevation 2022",
+  "year": 2022,
+  "url": "https://productelevation.org",
+  "startDate": "2022-08-08",
+  "endDate": "2022-08-10",
+  "city": "Dublin",
+  "country": "IE",
+  "lat": 53.33306,
+  "lng": -6.24889,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/ProductElev8n",
+  "source": "confs.tech"
+}

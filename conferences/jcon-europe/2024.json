@@ -1,0 +1,22 @@
+{
+  "name": "JCON EUROPE 2024",
+  "year": 2024,
+  "url": "https://2024.europe.jcon.one",
+  "startDate": "2024-05-13",
+  "endDate": "2024-05-16",
+  "city": "Cologne",
+  "country": "DE",
+  "lat": 50.93333,
+  "lng": 6.95,
+  "topics": [
+    "Java"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/jcon-europe-2024",
+    "deadline": "2023-12-10",
+    "open": false
+  },
+  "twitter": "https://x.com/jcon_conference",
+  "mastodon": "https://mastodon.social/@jcon",
+  "source": "confs.tech"
+}

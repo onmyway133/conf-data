@@ -1,0 +1,15 @@
+{
+  "name": "Swift Summit 2017",
+  "year": 2017,
+  "url": "https://www.swiftsummit.com/",
+  "startDate": "2017-10-30",
+  "endDate": "2017-10-31",
+  "city": "San Francisco",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences"
+}

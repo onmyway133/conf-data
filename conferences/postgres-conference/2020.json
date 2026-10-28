@@ -1,0 +1,16 @@
+{
+  "name": "Postgres Conference 2020",
+  "year": 2020,
+  "url": "https://postgresconf.org/conferences/2020",
+  "startDate": "2020-03-23",
+  "endDate": "2020-03-27",
+  "city": "New York, NY",
+  "country": "US",
+  "lat": 40.71427,
+  "lng": -74.00597,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/postgresconf",
+  "source": "confs.tech"
+}

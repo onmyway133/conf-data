@@ -1,0 +1,16 @@
+{
+  "name": "The Responsible AI Forum 2020",
+  "year": 2020,
+  "url": "http://www.responsibleaiforum.com",
+  "startDate": "2020-11-04",
+  "endDate": "2020-11-06",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/TRAIF2020",
+  "source": "confs.tech"
+}

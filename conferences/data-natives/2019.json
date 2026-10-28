@@ -1,0 +1,16 @@
+{
+  "name": "Data Natives 2019",
+  "year": 2019,
+  "url": "https://datanatives.io",
+  "startDate": "2019-11-21",
+  "endDate": "2019-11-22",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/DataNativesConf",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "KubeCon + CloudNativeCon North America 2026",
+  "year": 2026,
+  "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026",
+  "startDate": "2026-10-26",
+  "endDate": "2026-10-29",
+  "city": "Los Angeles, CA",
+  "country": "US",
+  "lat": 34.05223,
+  "lng": -118.24368,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/CloudNativeFdn",
+  "source": "confs.tech"
+}

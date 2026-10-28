@@ -1,0 +1,16 @@
+{
+  "name": "Laracon 2023",
+  "year": 2023,
+  "url": "https://laracon.us",
+  "startDate": "2023-07-19",
+  "endDate": "2023-07-20",
+  "city": "Nashville, TN",
+  "country": "US",
+  "lat": 36.16589,
+  "lng": -86.78444,
+  "topics": [
+    "PHP"
+  ],
+  "twitter": "https://x.com/LaraconUS",
+  "source": "confs.tech"
+}

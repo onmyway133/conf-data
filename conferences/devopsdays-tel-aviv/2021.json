@@ -1,0 +1,16 @@
+{
+  "name": "DevOpsDays Tel Aviv 2021",
+  "year": 2021,
+  "url": "https://tlvcommunity.dev/devopsdays",
+  "startDate": "2021-11-24",
+  "endDate": "2021-11-25",
+  "city": "Tel Aviv",
+  "country": "IL",
+  "lat": 32.08088,
+  "lng": 34.78057,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devopsdaystlv",
+  "source": "confs.tech"
+}

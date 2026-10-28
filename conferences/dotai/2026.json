@@ -1,0 +1,16 @@
+{
+  "name": "dotAI 2026",
+  "year": 2026,
+  "url": "https://www.dotai.io",
+  "startDate": "2026-09-17",
+  "endDate": "2026-09-17",
+  "city": "Paris",
+  "country": "FR",
+  "lat": 48.85341,
+  "lng": 2.3488,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/@dotaiconf",
+  "source": "confs.tech"
+}

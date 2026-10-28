@@ -1,0 +1,16 @@
+{
+  "name": "JavaScript Days - JavaScript, Angular, React, HTML & CSS Days 2024",
+  "year": 2024,
+  "url": "https://javascript-days.de/muenchen",
+  "startDate": "2024-03-18",
+  "endDate": "2024-03-21",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/JS_Days",
+  "source": "confs.tech"
+}

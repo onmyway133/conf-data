@@ -1,0 +1,14 @@
+{
+  "name": "Techsylvania 2023",
+  "year": 2023,
+  "url": "https://techsylvania.com",
+  "startDate": "2023-06-07",
+  "endDate": "2023-06-08",
+  "city": "Cluj-Napoca",
+  "country": "RO",
+  "lat": 46.76667,
+  "lng": 23.6,
+  "topics": [],
+  "twitter": "https://x.com/techsylvania",
+  "source": "confs.tech"
+}

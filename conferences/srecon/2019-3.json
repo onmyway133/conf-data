@@ -1,0 +1,16 @@
+{
+  "name": "SREcon 2019",
+  "year": 2019,
+  "url": "https://www.usenix.org/conference/srecon19europe",
+  "startDate": "2019-10-02",
+  "endDate": "2019-10-04",
+  "city": "Dublin",
+  "country": "IE",
+  "lat": 53.33306,
+  "lng": -6.24889,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/SREcon",
+  "source": "confs.tech"
+}

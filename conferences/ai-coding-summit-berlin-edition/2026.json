@@ -1,0 +1,21 @@
+{
+  "name": "AI Coding Summit Berlin Edition 2026",
+  "year": 2026,
+  "url": "https://aicodingsummit.com/berlin",
+  "startDate": "2026-12-04",
+  "endDate": "2026-12-07",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://gitnation.com/events/ai-coding-summit-berlin/cfp",
+    "deadline": "2026-08-12",
+    "open": true
+  },
+  "twitter": "https://x.com/AICodingSummit",
+  "source": "confs.tech"
+}

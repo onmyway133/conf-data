@@ -1,0 +1,15 @@
+{
+  "name": "You Got This 2020",
+  "year": 2020,
+  "url": "https://2020.yougotthis.io",
+  "startDate": "2020-01-18",
+  "endDate": "2020-01-18",
+  "city": "Birmingham",
+  "country": "GB",
+  "lat": 52.48142,
+  "lng": -1.89983,
+  "topics": [
+    "Design/UX"
+  ],
+  "source": "confs.tech"
+}

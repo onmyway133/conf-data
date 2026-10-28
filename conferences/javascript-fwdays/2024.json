@@ -1,0 +1,21 @@
+{
+  "name": "JavaScript fwdays 2024",
+  "year": 2024,
+  "url": "https://fwdays.com/en/event/javascript-fwdays-2024",
+  "startDate": "2024-06-15",
+  "endDate": "2024-06-15",
+  "city": "Kyiv",
+  "country": "UA",
+  "lat": 50.45466,
+  "lng": 30.5238,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSdP8Zin7kaNw_L32HWONGhXoxbnFalh6Hl0YWxE98qW5l0tFg/viewform",
+    "deadline": "2024-05-15",
+    "open": false
+  },
+  "twitter": "https://x.com/fwdays",
+  "source": "confs.tech"
+}

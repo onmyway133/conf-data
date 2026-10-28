@@ -1,0 +1,16 @@
+{
+  "name": "CDAO Frankfurt 2024",
+  "year": 2024,
+  "url": "https://cdao-frankfurt.coriniumintelligence.com",
+  "startDate": "2024-10-30",
+  "endDate": "2024-10-30",
+  "city": "Frankfurt am Main",
+  "country": "DE",
+  "lat": 50.11552,
+  "lng": 8.68417,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/CoriniumGlobal",
+  "source": "confs.tech"
+}

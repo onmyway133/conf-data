@@ -1,0 +1,20 @@
+{
+  "name": "DevOpsDays Graz 2026",
+  "year": 2026,
+  "url": "https://www.devopsdays.at",
+  "startDate": "2026-09-04",
+  "endDate": "2026-09-05",
+  "city": "Graz",
+  "country": "AT",
+  "lat": 47.06733,
+  "lng": 15.44197,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://pretalx.com/devopsdays-graz-2026/cfp",
+    "deadline": "2026-04-30",
+    "open": false
+  },
+  "source": "confs.tech"
+}

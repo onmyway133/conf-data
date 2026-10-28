@@ -1,0 +1,21 @@
+{
+  "name": "PyConf Hyderabad 2026",
+  "year": 2026,
+  "url": "https://2026.pyconfhyd.org",
+  "startDate": "2026-03-14",
+  "endDate": "2026-03-15",
+  "city": "Hyderabad",
+  "country": "IN",
+  "lat": 17.38405,
+  "lng": 78.45636,
+  "topics": [
+    "Python"
+  ],
+  "cfp": {
+    "url": "https://www.papercall.io/pyconfhyd2026",
+    "deadline": "2026-01-15",
+    "open": false
+  },
+  "twitter": "https://x.com/pyconfhyd",
+  "source": "confs.tech"
+}

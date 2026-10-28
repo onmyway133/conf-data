@@ -1,0 +1,16 @@
+{
+  "name": "Big Data LDN 2023",
+  "year": 2023,
+  "url": "https://bigdataldn.com",
+  "startDate": "2023-09-20",
+  "endDate": "2023-09-21",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/bigdata_ldn",
+  "source": "confs.tech"
+}

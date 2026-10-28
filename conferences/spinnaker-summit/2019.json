@@ -1,0 +1,16 @@
+{
+  "name": "Spinnaker Summit 2019",
+  "year": 2019,
+  "url": "https://www.spinnakersummit.com",
+  "startDate": "2019-11-15",
+  "endDate": "2019-11-17",
+  "city": "San Diego, CA",
+  "country": "US",
+  "lat": 32.71571,
+  "lng": -117.16472,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/spinnakersummit",
+  "source": "confs.tech"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Python Pizza Holguín 2022",
+  "year": 2022,
+  "url": "https://holguin.python.pizza",
+  "startDate": "2022-01-15",
+  "endDate": "2022-01-15",
+  "city": "Holguín",
+  "country": "CU",
+  "lat": 20.88722,
+  "lng": -76.26306,
+  "topics": [
+    "Python"
+  ],
+  "cfp": {
+    "url": "https://forms.gle/feQmZLe2vb2LQJyN9",
+    "deadline": "2021-12-18",
+    "open": false
+  },
+  "twitter": "https://x.com/pythonpizzaconf",
+  "source": "confs.tech"
+}

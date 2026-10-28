@@ -1,0 +1,21 @@
+{
+  "name": "InnerSource Summit 2025",
+  "year": 2025,
+  "url": "https://innersourcecommons.org/events/isc-2025",
+  "startDate": "2025-11-13",
+  "endDate": "2025-11-13",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "Open Source"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSfWKkRDWIYN8eTOMlxONZp23-_i9nnAfqSJm26QCdzS5NtO9w/viewform",
+    "deadline": "2025-08-31",
+    "open": false
+  },
+  "twitter": "https://x.com/InnerSourceOrg",
+  "source": "confs.tech"
+}

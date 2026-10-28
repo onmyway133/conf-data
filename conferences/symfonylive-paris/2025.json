@@ -1,0 +1,16 @@
+{
+  "name": "SymfonyLive Paris 2025",
+  "year": 2025,
+  "url": "https://live.symfony.com/2025-paris",
+  "startDate": "2025-03-27",
+  "endDate": "2025-03-28",
+  "city": "Paris",
+  "country": "FR",
+  "lat": 48.85341,
+  "lng": 2.3488,
+  "topics": [
+    "PHP"
+  ],
+  "twitter": "https://x.com/SymfonyCon",
+  "source": "confs.tech"
+}

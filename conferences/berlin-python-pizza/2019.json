@@ -1,0 +1,16 @@
+{
+  "name": "Berlin Python Pizza 2019",
+  "year": 2019,
+  "url": "https://berlin.python.pizza",
+  "startDate": "2019-02-23",
+  "endDate": "2019-02-23",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "Python"
+  ],
+  "twitter": "https://x.com/pythonpizzaconf",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "iOSDev UK 2022",
+  "year": 2022,
+  "url": "https://www.iosdevuk.com",
+  "startDate": "2022-09-05",
+  "endDate": "2022-09-08",
+  "city": "Aberystwyth",
+  "country": "GB",
+  "lat": 52.41548,
+  "lng": -4.08292,
+  "topics": [
+    "iOS"
+  ],
+  "twitter": "https://x.com/IOSDEVUK",
+  "source": "confs.tech"
+}

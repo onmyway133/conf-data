@@ -1,0 +1,16 @@
+{
+  "name": "HalfStack London 2020",
+  "year": 2020,
+  "url": "https://halfstackconf.com/london",
+  "startDate": "2020-11-20",
+  "endDate": "2020-11-20",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/halfstackconf",
+  "source": "confs.tech"
+}

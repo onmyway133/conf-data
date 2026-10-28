@@ -1,0 +1,18 @@
+{
+  "name": "CONFidence 2025",
+  "year": 2025,
+  "url": "https://confidence-conference.org",
+  "startDate": "2025-06-02",
+  "endDate": "2025-06-03",
+  "city": "Kraków",
+  "country": "PL",
+  "lat": 50.06143,
+  "lng": 19.93658,
+  "topics": [
+    "Data/AI",
+    "Networking",
+    "Security"
+  ],
+  "twitter": "https://x.com/CONFidenceConf",
+  "source": "confs.tech"
+}

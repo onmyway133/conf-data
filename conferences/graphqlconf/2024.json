@@ -1,0 +1,23 @@
+{
+  "name": "GraphQLConf 2024",
+  "year": 2024,
+  "url": "https://graphql.org/conf/2024",
+  "startDate": "2024-09-10",
+  "endDate": "2024-09-12",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [
+    "APIs",
+    "Data/AI",
+    "GraphQL"
+  ],
+  "cfp": {
+    "url": "https://graphql.org/conf/2024/speak",
+    "deadline": "2024-05-22",
+    "open": false
+  },
+  "twitter": "https://x.com/graphql",
+  "source": "confs.tech"
+}

@@ -1,0 +1,293 @@
+{
+  "name": "ServerSide.swift 2025",
+  "year": 2025,
+  "url": "https://www.serversideswift.info",
+  "startDate": "2025-10-02",
+  "endDate": "2025-10-03",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "iOS"
+  ],
+  "cfp": {
+    "url": "https://www.papercall.io/serversideswift-2025",
+    "deadline": "2025-06-30",
+    "open": false
+  },
+  "source": "cocoaconferences",
+  "speakers": [
+    {
+      "speaker": "daniel-steinberg",
+      "role": "Author, Speaker and Trainer @ Dim Sum Thinking",
+      "photoUrl": "https://www.serversideswift.info/App/Images/speakers/daniel-steinberg.png"
+    },
+    {
+      "speaker": "matt-massicotte",
+      "role": "Apple Platforms Developer",
+      "photoUrl": "https://www.serversideswift.info/App/Images/speakers/matt-massicotte.jpg"
+    },
+    {
+      "speaker": "frank-lefebvre",
+      "role": "Trainer",
+      "photoUrl": "https://www.serversideswift.info/App/Images/speakers/frank-lefebvre.jpg"
+    },
+    {
+      "speaker": "agam-dua",
+      "role": "Technical Lead on the Swift Server Ecosystem & Education team @ Apple",
+      "photoUrl": "https://www.serversideswift.info/App/Images/speakers/agam-dua.png"
+    },
+    {
+      "speaker": "emma-gaubert",
+      "role": "iOS Developer @ Decathlon",
+      "photoUrl": "https://www.serversideswift.info/App/Images/speakers/emma-gaubert.jpg"
+    },
+    {
+      "speaker": "joannis-orlandos",
+      "role": "OpenSource Developer",
+      "photoUrl": "https://www.serversideswift.info/App/Images/speakers/joannis-orlandos.jpg"
+    },
+    {
+      "speaker": "honza-dvorsky",
+      "role": "Engineer on the Swift Server Ecosystem team @ Apple",
+      "photoUrl": "https://www.serversideswift.info/App/Images/speakers/honza-dvorsky.jpg"
+    },
+    {
+      "speaker": "george-barnett",
+      "role": "Software Engineer @ Apple",
+      "photoUrl": "https://www.serversideswift.info/App/Images/speakers/george-barnett.jpg"
+    },
+    {
+      "speaker": "moritz-lang",
+      "role": "Senior iOS Engineer @ Blinkist",
+      "photoUrl": "https://www.serversideswift.info/App/Images/speakers/moritz-lang.jpg"
+    },
+    {
+      "speaker": "adam-fowler",
+      "role": "Open Source Developer",
+      "photoUrl": "https://www.serversideswift.info/App/Images/speakers/adam-fowler.jpg"
+    },
+    {
+      "speaker": "ben-rosen",
+      "role": "Founder @ SongShift",
+      "photoUrl": "https://www.serversideswift.info/App/Images/speakers/ben-rosen.jpg"
+    },
+    {
+      "speaker": "mona-dierickx",
+      "role": "Applied Informatics graduate",
+      "photoUrl": "https://www.serversideswift.info/App/Images/speakers/mona-dierickx.jpg"
+    },
+    {
+      "speaker": "georg-tuparev",
+      "role": "Founder @ Tuparev Software",
+      "photoUrl": "https://www.serversideswift.info/App/Images/speakers/georg-tuparev.jpg"
+    },
+    {
+      "speaker": "oliver-binns",
+      "role": "Software Engineer @ Deloitte LLC",
+      "photoUrl": "https://www.serversideswift.info/App/Images/speakers/oliver-binns.jpg"
+    },
+    {
+      "speaker": "franz-busch",
+      "role": "Software Engineer @ Apple",
+      "photoUrl": "https://www.serversideswift.info/App/Images/speakers/franz-busch.jpg"
+    },
+    {
+      "speaker": "mads-odgaard",
+      "role": "Software Engineer",
+      "photoUrl": "https://www.serversideswift.info/App/Images/speakers/mads-odgaard.jpg"
+    },
+    {
+      "speaker": "eric-ernst",
+      "role": "Software Engineering Leader @ Apple",
+      "photoUrl": "https://www.serversideswift.info/App/Images/speakers/eric-ernst.png"
+    },
+    {
+      "speaker": "eric-bariaux",
+      "role": "Software Engineer @ Nelcea",
+      "photoUrl": "https://www.serversideswift.info/App/Images/speakers/eric-bariaux.png"
+    },
+    {
+      "speaker": "mikaela-caron",
+      "role": "Independent iOS Engineer @ Icy App Studio LLC",
+      "photoUrl": "https://www.serversideswift.info/App/Images/speakers/mikaela-caron.jpg"
+    },
+    {
+      "speaker": "daniel-jilg",
+      "role": "CTO @ TelemetryDeck",
+      "photoUrl": "https://www.serversideswift.info/App/Images/speakers/daniel-jilg.jpg"
+    },
+    {
+      "speaker": "si-beaumont",
+      "role": "Software Engineer @ Apple",
+      "photoUrl": "https://www.serversideswift.info/App/Images/speakers/si-beaumont.png"
+    },
+    {
+      "speaker": "simon-pilkington",
+      "role": "Principle Engineer @ Atlassian",
+      "photoUrl": "https://www.serversideswift.info/App/Images/speakers/simon-pilkington.jpg"
+    },
+    {
+      "speaker": "ben-cohen",
+      "role": "Manager @ Swift Core Team",
+      "photoUrl": "https://www.serversideswift.info/App/Images/speakers/ben-cohen.jpg"
+    }
+  ],
+  "talks": [
+    {
+      "slug": "battle-of-the-giants-vapor-vs-hummingbird-which-one-should-you-choose",
+      "title": "Battle of the Giants: Vapor vs Hummingbird which one should you choose?",
+      "speakers": [
+        "emma-gaubert"
+      ]
+    },
+    {
+      "slug": "beyond-web-services-swift-for-low-level-container-infrastructure",
+      "title": "Beyond Web Services: Swift for Low-Level Container infrastructure",
+      "speakers": [
+        "eric-ernst"
+      ]
+    },
+    {
+      "slug": "building-networking-libraries-with-span-and-concurrency",
+      "title": "Building Networking Libraries with Span and Concurrency",
+      "speakers": [
+        "joannis-orlandos"
+      ]
+    },
+    {
+      "slug": "cryptography-101-what-every-swift-developer-should-understand",
+      "title": "Cryptography 101: What Every Swift Developer Should Understand",
+      "speakers": [
+        "eric-bariaux"
+      ]
+    },
+    {
+      "slug": "effective-strategies-for-testing-and-releasing-server-side-changes",
+      "title": "Effective Strategies for Testing and Releasing Server Side Changes",
+      "speakers": [
+        "simon-pilkington"
+      ]
+    },
+    {
+      "slug": "embedded-swift-workshop",
+      "title": "Embedded Swift Workshop",
+      "speakers": [
+        "frank-lefebvre"
+      ]
+    },
+    {
+      "slug": "exabyte-data-storage",
+      "title": "Exabyte Data Storage",
+      "speakers": [
+        "georg-tuparev"
+      ]
+    },
+    {
+      "slug": "expanding-swift-java-interoperability",
+      "title": "Expanding Swift/Java Interoperability",
+      "speakers": [
+        "mads-odgaard"
+      ]
+    },
+    {
+      "slug": "getting-started-with-grpc-swift",
+      "title": "Getting started with gRPC Swift",
+      "speakers": [
+        "george-barnett"
+      ]
+    },
+    {
+      "slug": "how-to-approach-approachable-concurrency",
+      "title": "How to Approach Approachable Concurrency",
+      "speakers": [
+        "matt-massicotte"
+      ]
+    },
+    {
+      "slug": "introduction-to-valkey-swift",
+      "title": "Introduction to Valkey-swift",
+      "speakers": [
+        "adam-fowler"
+      ]
+    },
+    {
+      "slug": "keynote",
+      "title": "Keynote",
+      "speakers": [
+        "ben-cohen"
+      ]
+    },
+    {
+      "slug": "lessons-learned-from-running-a-saas-entirely-on-swift-vapor",
+      "title": "Lessons learned from running a SaaS entirely on Swift Vapor",
+      "speakers": [
+        "daniel-jilg"
+      ]
+    },
+    {
+      "slug": "observability-in-server-side-swift",
+      "title": "Observability in Server-Side Swift",
+      "speakers": [
+        "moritz-lang"
+      ]
+    },
+    {
+      "slug": "protecting-apis-with-devicecheck-app-attest-webauthn",
+      "title": "Protecting APIs with DeviceCheck, App Attest & WebAuthn",
+      "speakers": [
+        "oliver-binns"
+      ]
+    },
+    {
+      "slug": "separate-code-from-configuration-with-swift-configuration",
+      "title": "Separate code from configuration with Swift Configuration",
+      "speakers": [
+        "honza-dvorsky"
+      ]
+    },
+    {
+      "slug": "server-side-swift-surviving-or-thriving",
+      "title": "Server-Side Swift: Surviving or Thriving?",
+      "speakers": [
+        "mikaela-caron"
+      ]
+    },
+    {
+      "slug": "swift-lambdas-at-scale-how-a-tiny-ios-team-built-a-big-backend",
+      "title": "Swift Lambdas at Scale: How a Tiny iOS Team Built a Big Backend",
+      "speakers": [
+        "ben-rosen"
+      ]
+    },
+    {
+      "slug": "swift-server-fundamentals",
+      "title": "Swift Server Fundamentals",
+      "speakers": [
+        "daniel-steinberg"
+      ]
+    },
+    {
+      "slug": "understanding-isolation",
+      "title": "Understanding Isolation",
+      "speakers": [
+        "matt-massicotte"
+      ]
+    },
+    {
+      "slug": "unlock-generative-ai-for-swift-server-side-development",
+      "title": "Unlock Generative AI for Swift Server-Side Development",
+      "speakers": [
+        "mona-dierickx"
+      ]
+    },
+    {
+      "slug": "write-durable-and-resilient-workflows-in-swift",
+      "title": "Write durable and resilient workflows in Swift",
+      "speakers": [
+        "franz-busch"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Agentic Engineering Days Zurich 2026",
+  "year": 2026,
+  "url": "https://www.agenticdays.com",
+  "startDate": "2026-11-20",
+  "endDate": "2026-11-20",
+  "city": "Zurich",
+  "country": "CH",
+  "lat": 47.36667,
+  "lng": 8.55,
+  "topics": [
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/agentic-engineering-days-zurich-2026",
+    "deadline": "2026-07-23",
+    "open": true
+  },
+  "source": "confs.tech"
+}

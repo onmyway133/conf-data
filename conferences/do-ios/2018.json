@@ -1,0 +1,15 @@
+{
+  "name": "Do iOS 2018",
+  "year": 2018,
+  "url": "https://do-ios.com/",
+  "startDate": "2018-11-02",
+  "endDate": "2018-11-02",
+  "city": "Amsterdam",
+  "country": "NL",
+  "lat": 52.37403,
+  "lng": 4.88969,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences"
+}

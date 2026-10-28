@@ -1,0 +1,16 @@
+{
+  "name": "Mobiconf 2018",
+  "year": 2018,
+  "url": "https://2018.mobiconf.org/",
+  "startDate": "2018-10-04",
+  "endDate": "2018-10-05",
+  "city": "Krakow",
+  "country": "PL",
+  "lat": 50.06143,
+  "lng": 19.93658,
+  "topics": [
+    "iOS",
+    "Mobile"
+  ],
+  "source": "cocoaconferences"
+}

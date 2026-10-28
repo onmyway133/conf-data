@@ -1,0 +1,16 @@
+{
+  "name": "Python at Scale 2022",
+  "year": 2022,
+  "url": "https://www.pythonatscale.com",
+  "startDate": "2022-10-27",
+  "endDate": "2022-10-28",
+  "city": "Austin, TX",
+  "country": "US",
+  "lat": 30.26715,
+  "lng": -97.74306,
+  "topics": [
+    "Python"
+  ],
+  "twitter": "https://x.com/CoiledHQ",
+  "source": "confs.tech"
+}

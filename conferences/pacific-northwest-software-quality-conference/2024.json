@@ -1,0 +1,21 @@
+{
+  "name": "Pacific Northwest Software Quality Conference 2024",
+  "year": 2024,
+  "url": "https://pnsqc.org",
+  "startDate": "2024-10-14",
+  "endDate": "2024-10-16",
+  "city": "Portland, OR",
+  "country": "US",
+  "lat": 45.52345,
+  "lng": -122.67621,
+  "topics": [
+    "Testing"
+  ],
+  "cfp": {
+    "url": "https://pnsqc.org/cfp",
+    "deadline": "2024-04-01",
+    "open": false
+  },
+  "twitter": "https://x.com/PNSQC",
+  "source": "confs.tech"
+}

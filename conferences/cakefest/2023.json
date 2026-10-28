@@ -1,0 +1,16 @@
+{
+  "name": "CakeFest 2023",
+  "year": 2023,
+  "url": "https://cakefest.org",
+  "startDate": "2023-09-28",
+  "endDate": "2023-09-30",
+  "city": "Los Angeles, CA",
+  "country": "US",
+  "lat": 34.05223,
+  "lng": -118.24368,
+  "topics": [
+    "PHP"
+  ],
+  "twitter": "https://x.com/cakephp",
+  "source": "confs.tech"
+}

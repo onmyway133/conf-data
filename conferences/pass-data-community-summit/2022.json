@@ -1,0 +1,17 @@
+{
+  "name": "PASS Data Community SUMMIT 2022",
+  "year": 2022,
+  "url": "https://passdatacommunitysummit.com",
+  "startDate": "2022-11-15",
+  "endDate": "2022-11-18",
+  "city": "Seattle, WA",
+  "country": "US",
+  "lat": 47.60621,
+  "lng": -122.33207,
+  "topics": [
+    "Data/AI",
+    "DevOps"
+  ],
+  "twitter": "https://x.com/PASSDataSummit",
+  "source": "confs.tech"
+}

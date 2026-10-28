@@ -1,0 +1,17 @@
+{
+  "name": "REACT PARIS 2026",
+  "year": 2026,
+  "url": "https://react.paris",
+  "startDate": "2026-03-26",
+  "endDate": "2026-03-27",
+  "city": "Paris",
+  "country": "FR",
+  "lat": 48.85341,
+  "lng": 2.3488,
+  "topics": [
+    "JavaScript",
+    "Networking"
+  ],
+  "twitter": "https://x.com/BeJS_",
+  "source": "confs.tech"
+}

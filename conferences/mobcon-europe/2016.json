@@ -1,0 +1,16 @@
+{
+  "name": "MobCon Europe 2016",
+  "year": 2016,
+  "url": "http://mobcon.com/mobcon-europe/",
+  "startDate": "2016-04-10",
+  "endDate": "2016-04-10",
+  "city": "Sofia",
+  "country": "BG",
+  "lat": 42.69751,
+  "lng": 23.32415,
+  "topics": [
+    "iOS",
+    "Mobile"
+  ],
+  "source": "cocoaconferences"
+}

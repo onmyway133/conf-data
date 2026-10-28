@@ -1,0 +1,21 @@
+{
+  "name": "Devopsdays Rio De Janeiro 2022",
+  "year": 2022,
+  "url": "https://devopsdays.org/events/2022-rio-de-janeiro/welcome",
+  "startDate": "2022-11-05",
+  "endDate": "2022-11-05",
+  "city": "Rio De Janeiro",
+  "country": "BR",
+  "lat": -22.90642,
+  "lng": -43.18223,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://www.papercall.io/devopsdaysrio2022",
+    "deadline": "2022-08-16",
+    "open": false
+  },
+  "twitter": "https://x.com/devopsdayrio",
+  "source": "confs.tech"
+}

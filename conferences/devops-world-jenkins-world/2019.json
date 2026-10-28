@@ -1,0 +1,15 @@
+{
+  "name": "DevOps world / Jenkins world 2019",
+  "year": 2019,
+  "url": "https://www.cloudbees.com/devops-world/lisbon",
+  "startDate": "2019-12-03",
+  "endDate": "2019-12-05",
+  "city": "Lisbon",
+  "country": "PT",
+  "lat": 38.72509,
+  "lng": -9.1498,
+  "topics": [
+    "DevOps"
+  ],
+  "source": "confs.tech"
+}

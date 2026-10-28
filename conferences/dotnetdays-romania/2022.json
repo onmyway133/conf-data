@@ -1,0 +1,16 @@
+{
+  "name": "dotnetdays Romania 2022",
+  "year": 2022,
+  "url": "https://dotnetdays.ro",
+  "startDate": "2022-10-20",
+  "endDate": "2022-10-22",
+  "city": "Iasi",
+  "country": "RO",
+  "lat": 47.16667,
+  "lng": 27.6,
+  "topics": [
+    ".NET"
+  ],
+  "twitter": "https://x.com/dotnetdaysro",
+  "source": "confs.tech"
+}

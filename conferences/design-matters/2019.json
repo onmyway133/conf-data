@@ -1,0 +1,16 @@
+{
+  "name": "Design Matters 2019",
+  "year": 2019,
+  "url": "https://designmatters.io",
+  "startDate": "2019-09-18",
+  "endDate": "2019-09-19",
+  "city": "Copenhagen",
+  "country": "DK",
+  "lat": 55.67594,
+  "lng": 12.56553,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/designmattersdk",
+  "source": "confs.tech"
+}

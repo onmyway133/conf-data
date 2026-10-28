@@ -1,0 +1,16 @@
+{
+  "name": "Hands-on Testing 2024",
+  "year": 2024,
+  "url": "https://handsontesting.com",
+  "startDate": "2024-08-28",
+  "endDate": "2024-08-31",
+  "city": "Mexico City",
+  "country": "MX",
+  "lat": 19.42847,
+  "lng": -99.12766,
+  "topics": [
+    "Testing"
+  ],
+  "twitter": "https://x.com/handsontesting",
+  "source": "confs.tech"
+}

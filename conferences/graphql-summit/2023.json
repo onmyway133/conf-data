@@ -1,0 +1,23 @@
+{
+  "name": "GraphQL Summit 2023",
+  "year": 2023,
+  "url": "https://summit.graphql.com",
+  "startDate": "2023-10-10",
+  "endDate": "2023-10-12",
+  "city": "San Diego, CA",
+  "country": "US",
+  "lat": 32.71571,
+  "lng": -117.16472,
+  "topics": [
+    "APIs",
+    "GraphQL",
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://forms.gle/8kovzMG5nioK4Dkn6",
+    "deadline": "2023-03-27",
+    "open": false
+  },
+  "twitter": "https://x.com/graphqlsummit",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "dotnetdays 2019",
+  "year": 2019,
+  "url": "https://dotnetdays.ro",
+  "startDate": "2019-02-23",
+  "endDate": "2019-02-23",
+  "city": "Iasi",
+  "country": "RO",
+  "lat": 47.16667,
+  "lng": 27.6,
+  "topics": [
+    ".NET"
+  ],
+  "twitter": "https://x.com/dotnetdaysro",
+  "source": "confs.tech"
+}

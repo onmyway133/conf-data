@@ -1,0 +1,21 @@
+{
+  "name": "JAX Hybrid 2022",
+  "year": 2022,
+  "url": "https://jax.de/mainz-en",
+  "startDate": "2022-05-02",
+  "endDate": "2022-05-06",
+  "city": "Mainz",
+  "country": "DE",
+  "lat": 49.98185,
+  "lng": 8.28008,
+  "topics": [
+    "Java"
+  ],
+  "cfp": {
+    "url": "https://callforpapers.sandsmedia.com",
+    "deadline": "2021-11-15",
+    "open": false
+  },
+  "twitter": "https://x.com/jaxcon",
+  "source": "confs.tech"
+}

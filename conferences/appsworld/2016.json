@@ -1,0 +1,16 @@
+{
+  "name": "AppsWorld 2016",
+  "year": 2016,
+  "url": "http://www.apps-world.net/northamerica/",
+  "startDate": "2016-05-11",
+  "endDate": "2016-05-12",
+  "city": "Santa Clara",
+  "country": "US",
+  "lat": 37.35411,
+  "lng": -121.95524,
+  "topics": [
+    "iOS",
+    "Mobile"
+  ],
+  "source": "cocoaconferences"
+}

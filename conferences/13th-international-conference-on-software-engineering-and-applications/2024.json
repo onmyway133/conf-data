@@ -1,0 +1,16 @@
+{
+  "name": "13th International Conference on Software Engineering and Applications 2024",
+  "year": 2024,
+  "url": "https://ccsea2024.org/sea/index",
+  "startDate": "2024-05-18",
+  "endDate": "2024-05-19",
+  "city": "Zurich",
+  "country": "CH",
+  "lat": 47.36667,
+  "lng": 8.55,
+  "topics": [
+    "IoT",
+    "Security"
+  ],
+  "source": "confs.tech"
+}

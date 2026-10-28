@@ -1,0 +1,21 @@
+{
+  "name": "Droidcon 2019",
+  "year": 2019,
+  "url": "http://www.droidcon-boston.com",
+  "startDate": "2019-04-08",
+  "endDate": "2019-04-09",
+  "city": "Boston, MA",
+  "country": "US",
+  "lat": 42.35843,
+  "lng": -71.05977,
+  "topics": [
+    "Android"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLScPXdw15uBkS6Cgq4zT0EBUFx4QNzgeeLzHbuLB1T6UNWsgnQ/closedform",
+    "deadline": "2019-01-01",
+    "open": false
+  },
+  "twitter": "https://x.com/droidconbos",
+  "source": "confs.tech"
+}

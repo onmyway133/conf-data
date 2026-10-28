@@ -1,0 +1,19 @@
+{
+  "name": "Nullcon Goa 2025",
+  "year": 2025,
+  "url": "https://nullcon.net/goa-2025",
+  "startDate": "2025-03-01",
+  "endDate": "2025-03-02",
+  "city": "Goa",
+  "country": "IN",
+  "lat": 15.38914,
+  "lng": 73.81491,
+  "topics": [],
+  "cfp": {
+    "url": "https://nullcon.net/goa-2025/cfp",
+    "deadline": "2024-11-15",
+    "open": false
+  },
+  "twitter": "https://x.com/nullcon",
+  "source": "confs.tech"
+}

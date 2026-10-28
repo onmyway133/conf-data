@@ -1,0 +1,15 @@
+{
+  "name": ".NET Fest 2019",
+  "year": 2019,
+  "url": "http://dotnetfest.com",
+  "startDate": "2019-10-25",
+  "endDate": "2019-10-26",
+  "city": "Kyiv",
+  "country": "UA",
+  "lat": 50.45466,
+  "lng": 30.5238,
+  "topics": [
+    ".NET"
+  ],
+  "source": "confs.tech"
+}

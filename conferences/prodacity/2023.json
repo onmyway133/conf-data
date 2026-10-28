@@ -1,0 +1,21 @@
+{
+  "name": "Prodacity 2023",
+  "year": 2023,
+  "url": "https://rise8.us/prodacity",
+  "startDate": "2023-11-06",
+  "endDate": "2023-11-08",
+  "city": "Washington, DC",
+  "country": "US",
+  "lat": 38.89511,
+  "lng": -77.03637,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://share.hsforms.com/1CRq585GqTKatR1fRiN2RHQc2xkr",
+    "deadline": "2023-07-31",
+    "open": false
+  },
+  "twitter": "https://x.com/Rise8_Inc",
+  "source": "confs.tech"
+}

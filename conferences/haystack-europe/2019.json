@@ -1,0 +1,20 @@
+{
+  "name": "Haystack Europe 2019",
+  "year": 2019,
+  "url": "https://haystackconf.com/europe2019",
+  "startDate": "2019-10-28",
+  "endDate": "2019-10-28",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://haystackconf.com",
+    "deadline": "2019-07-31",
+    "open": false
+  },
+  "source": "confs.tech"
+}

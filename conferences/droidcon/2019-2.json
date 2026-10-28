@@ -1,0 +1,16 @@
+{
+  "name": "Droidcon 2019",
+  "year": 2019,
+  "url": "https://www.de.droidcon.com",
+  "startDate": "2019-05-27",
+  "endDate": "2019-05-29",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "Android"
+  ],
+  "twitter": "https://x.com/droidconberlin",
+  "source": "confs.tech"
+}

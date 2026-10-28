@@ -1,0 +1,15 @@
+{
+  "name": "UIG-Tagung 2024",
+  "year": 2024,
+  "url": "https://www.digitalzentrum-fokus-mensch.de/events/uig-tagung-2024",
+  "startDate": "2024-09-05",
+  "endDate": "2024-09-05",
+  "city": "Karlsruhe",
+  "country": "DE",
+  "lat": 49.00937,
+  "lng": 8.40444,
+  "topics": [
+    "Design/UX"
+  ],
+  "source": "confs.tech"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Barcelona Developers Conference 2023",
+  "year": 2023,
+  "url": "https://www.devbcn.com",
+  "startDate": "2023-07-03",
+  "endDate": "2023-07-05",
+  "city": "Barcelona",
+  "country": "ES",
+  "lat": 41.38879,
+  "lng": 2.15899,
+  "topics": [],
+  "twitter": "https://x.com/dev_bcn",
+  "source": "confs.tech"
+}

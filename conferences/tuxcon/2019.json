@@ -1,0 +1,16 @@
+{
+  "name": "TuxCon 2019",
+  "year": 2019,
+  "url": "http://tuxcon.mobi",
+  "startDate": "2019-06-08",
+  "endDate": "2019-06-09",
+  "city": "Plovdiv",
+  "country": "BG",
+  "lat": 42.15387,
+  "lng": 24.75001,
+  "topics": [
+    "Networking"
+  ],
+  "twitter": "https://x.com/TuxConMobi",
+  "source": "confs.tech"
+}

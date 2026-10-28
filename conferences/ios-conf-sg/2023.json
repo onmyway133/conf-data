@@ -1,0 +1,226 @@
+{
+  "name": "iOS Conf SG 2023",
+  "year": 2023,
+  "url": "https://iosconf.sg",
+  "startDate": "2023-01-12",
+  "endDate": "2023-01-13",
+  "city": "Singapore",
+  "country": "SG",
+  "lat": 1.28967,
+  "lng": 103.85007,
+  "topics": [
+    "iOS"
+  ],
+  "twitter": "https://x.com/iosconfsg",
+  "source": "confs.tech",
+  "speakers": [
+    {
+      "speaker": "paul-hudson",
+      "role": "Hacking with Swift",
+      "bio": "Paul is the author of Hacking with Swift. He quite likes Swift. And coffee. (But mostly Swift.) (And coffee.)",
+      "photoUrl": "https://2023.iosconf.sg/images/speakers/paul.jpg",
+      "twitter": "https://twitter.com/twostraws",
+      "website": "https://www.hackingwithswift.com/"
+    },
+    {
+      "speaker": "danijela-vrzan",
+      "role": "Bally's Corporation",
+      "bio": "Danijela is an iOS Developer and an article author for raywenderlich.com. In her free time, you can find her hiking or lifting heavy weights at the gym.",
+      "photoUrl": "https://2023.iosconf.sg/images/speakers/danijela.jpg",
+      "twitter": "https://twitter.com/dvrzan",
+      "website": "https://www.ballys.com"
+    },
+    {
+      "speaker": "donny-wals",
+      "role": "Freelance iOS Dev",
+      "bio": "Donny is a freelance iOS engineer and author who loves learning and sharing knowledge.",
+      "photoUrl": "https://2023.iosconf.sg/images/speakers/donny.jpg",
+      "twitter": "https://twitter.com/donnywals",
+      "linkedin": "https://www.linkedin.com/in/donny-wals-33660014",
+      "website": "https://www.donnywals.com/"
+    },
+    {
+      "speaker": "tunde-adegoroye",
+      "role": "Bally's Corporation",
+      "bio": "SwiftUI and all things related to iOS development on YouTube @tundsdev",
+      "photoUrl": "https://2023.iosconf.sg/images/speakers/tunde.jpg",
+      "twitter": "https://twitter.com/tundsdev",
+      "website": "https://ballys.com"
+    },
+    {
+      "speaker": "antoine-van-der-lee",
+      "role": "WeTransfer",
+      "bio": "As a Staff iOS Engineer at WeTransfer, Antoine’s work is focused on code architecture and team processes.",
+      "photoUrl": "https://2023.iosconf.sg/images/speakers/antoine.jpg",
+      "twitter": "https://twitter.com/twannl",
+      "linkedin": "https://www.linkedin.com/in/ajvanderlee",
+      "website": "https://www.avanderlee.com/"
+    },
+    {
+      "speaker": "erin-weigel",
+      "role": "Erin Does Things",
+      "bio": "Erin delivers impactful design, user-centric products and tells stories about how she does it. She's got lots of experience testing designs in her previous role as Principal Designer at Booking.com.",
+      "photoUrl": "https://2023.iosconf.sg/images/speakers/erin.jpg",
+      "twitter": "https://twitter.com/endesignonline",
+      "linkedin": "https://www.linkedin.com/in/erindoesthings",
+      "website": "http://www.erindoesthings.com/"
+    },
+    {
+      "speaker": "betty-godier",
+      "role": "VanMoof",
+      "bio": "Betty works as a Senior iOS Engineer at VanMoof in Amsterdam. In her spare time, she enjoys sailing with her family.",
+      "photoUrl": "https://2023.iosconf.sg/images/speakers/betty.jpg",
+      "twitter": "https://twitter.com/bettygodier",
+      "website": "https://www.vanmoof.com/en"
+    },
+    {
+      "speaker": "adam-bell",
+      "role": "Netflix",
+      "bio": "Adam is a software engineer specialising in audio, animations, interactions, and gestures, currently working at Netflix.",
+      "photoUrl": "https://2023.iosconf.sg/images/speakers/bell.jpg",
+      "twitter": "https://twitter.com/b3ll",
+      "linkedin": "https://www.linkedin.com/in/b3ll",
+      "website": "https://www.netflix.com/"
+    },
+    {
+      "speaker": "masahiko-funaki",
+      "role": "CircleCI",
+      "bio": "Principal, Developer Advocate at CircleCI",
+      "photoUrl": "https://2023.iosconf.sg/images/speakers/masahiko-funaki.jpg",
+      "twitter": "https://twitter.com/mfunaki",
+      "website": "https://circleci.com/"
+    },
+    {
+      "speaker": "anya-traille",
+      "role": "Rolls-Royce",
+      "bio": "Anya is a decision scientist, engineer, designer and creator of LaminarModes.",
+      "photoUrl": "https://2023.iosconf.sg/images/speakers/anya.jpg",
+      "twitter": "https://twitter.com/LaminarModes",
+      "linkedin": "https://www.linkedin.com/in/anyatraille",
+      "website": "https://www.rolls-royce.com"
+    },
+    {
+      "speaker": "pradnya-nikam",
+      "role": "Rakuten Viki",
+      "bio": "Pradnya is an iOS engineer currently working at Rakuten Viki. She loves all things coding and also enjoys writing blog posts. In her free time you can find her practicing yoga or running around with her one year old.",
+      "photoUrl": "https://2023.iosconf.sg/images/speakers/pradnya.jpg",
+      "twitter": "https://twitter.com/pradnya_nikam",
+      "website": "https://www.viki.com"
+    },
+    {
+      "speaker": "jordi-bruin",
+      "role": "Good Snooze",
+      "bio": "Apple Design Award Finalist, Jordi, builds things that make life easier and help others do the same.",
+      "photoUrl": "https://2023.iosconf.sg/images/speakers/jordi.jpg",
+      "twitter": "https://twitter.com/jordibruin",
+      "website": "https://goodsnooze.gumroad.com/"
+    },
+    {
+      "speaker": "martin-mitrevski",
+      "role": "Stream",
+      "bio": "Martin is leading the iOS team at Stream. He has over 10 years of experience, working on apps and sdks in digital payments, chats, healthcare, transport, augmented reality, conversational interfaces, insurance etc.",
+      "photoUrl": "https://2023.iosconf.sg/images/speakers/martin.jpg",
+      "twitter": "https://twitter.com/mitrevski",
+      "website": "https://getstream.io/"
+    },
+    {
+      "speaker": "eleni-papanikolopoulou",
+      "role": "Skroutz",
+      "bio": "Eleni works at Skroutz, the biggest e-commerce platform in Greece and is part of the core mobile team focusing primarily on infrastructure, architecture and testing.",
+      "photoUrl": "https://2023.iosconf.sg/images/speakers/eleni.jpg",
+      "twitter": "https://twitter.com/elenipapanikolo",
+      "website": "https://www.skroutz.gr"
+    },
+    {
+      "speaker": "mikaela-caron",
+      "role": "Lickability",
+      "bio": "Mikaela is an iOS Engineer at Lickability. She creates content on YouTube, Instagram, and Twitter, sharing her knowledge about iOS development, and is an organizer of iOSDevHappy Hour.",
+      "photoUrl": "https://2023.iosconf.sg/images/speakers/mikaela.jpg",
+      "twitter": "https://twitter.com/mikaela__caron",
+      "website": "https://lickability.com/"
+    },
+    {
+      "speaker": "vincent-pradeilles",
+      "role": "PhotoRoom",
+      "bio": "Vincent works at PhotoRoom and contributes to building great apps. He also enjoys sharing about Swift and iOS on his YouTube channel.",
+      "photoUrl": "https://2023.iosconf.sg/images/speakers/vincent.jpg",
+      "twitter": "https://twitter.com/v_pradeilles",
+      "website": "https://www.photoroom.com"
+    },
+    {
+      "speaker": "priyal-porwal",
+      "role": "Paytm",
+      "bio": "Priyal loves to learn and share knowledge with the community. She is passionate about accessibility, application security, testability and animations.",
+      "photoUrl": "https://2023.iosconf.sg/images/speakers/priyal.jpg",
+      "twitter": "https://twitter.com/priyal_porwal_",
+      "linkedin": "https://www.linkedin.com/in/priyal-porwal",
+      "website": "https://paytm.com"
+    },
+    {
+      "speaker": "daniel-steinberg",
+      "role": "Dim Sum Thinking",
+      "bio": "Daniel is the author of more than a dozen books, including the best selling books A Functional Programming Kickstart, A SwiftUI Kickstart, A Swift Kickstart and Dear Elena.",
+      "photoUrl": "https://2023.iosconf.sg/images/speakers/daniel.jpg",
+      "twitter": "https://twitter.com/dimsumthinking",
+      "website": "https://dimsumthinking.com"
+    },
+    {
+      "speaker": "omar-khaled-gawish",
+      "role": "Grab",
+      "bio": "Omar is an iOS lead software engineer at Grab with a focus on code architecture as well as developer experience. When he's not writing code you can find him hiking around the Over the river and through the woods.",
+      "photoUrl": "https://2023.iosconf.sg/images/speakers/omar.jpg",
+      "linkedin": "https://www.linkedin.com/in/gawish"
+    }
+  ],
+  "talks": [
+    {
+      "slug": "an-async-await-kickstart",
+      "title": "An Async/Await Kickstart",
+      "speakers": [
+        "daniel-steinberg"
+      ]
+    },
+    {
+      "slug": "experimentation-for-engineers",
+      "title": "Experimentation for Engineers",
+      "speakers": [
+        "erin-weigel"
+      ]
+    },
+    {
+      "slug": "mo-tips-less-problems-building-a-tip-jar-in-storekit2",
+      "title": "Mo Tips, Less Problems - Building a Tip Jar in StoreKit2",
+      "speakers": [
+        "tunde-adegoroye"
+      ]
+    },
+    {
+      "slug": "shadow-rendering-performance",
+      "title": "Shadow Rendering Performance",
+      "speakers": [
+        "pradnya-nikam"
+      ]
+    },
+    {
+      "slug": "shipping-side-projects-in-2-2-2-easy-steps",
+      "title": "Shipping Side Projects in 2-2-2 Easy Steps",
+      "speakers": [
+        "jordi-bruin"
+      ]
+    },
+    {
+      "slug": "swift-charts-with-weatherkit-behind-the-scene",
+      "title": "Swift Charts with WeatherKit - Behind the Scene",
+      "speakers": [
+        "betty-godier"
+      ]
+    },
+    {
+      "slug": "swiftui-performance-tips",
+      "title": "SwiftUI Performance Tips",
+      "speakers": [
+        "martin-mitrevski"
+      ]
+    }
+  ]
+}

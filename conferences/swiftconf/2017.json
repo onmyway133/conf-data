@@ -1,0 +1,15 @@
+{
+  "name": "SwiftConf 2017",
+  "year": 2017,
+  "url": "http://www.swiftconf.com/",
+  "startDate": "2017-09-06",
+  "endDate": "2017-09-07",
+  "city": "Cologne",
+  "country": "DE",
+  "lat": 50.93333,
+  "lng": 6.95,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences"
+}

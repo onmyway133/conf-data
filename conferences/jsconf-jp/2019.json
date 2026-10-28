@@ -1,0 +1,16 @@
+{
+  "name": "jsconf.jp 2019",
+  "year": 2019,
+  "url": "https://www.jsconf.jp",
+  "startDate": "2019-11-30",
+  "endDate": "2019-12-01",
+  "city": "Tokyo",
+  "country": "JP",
+  "lat": 35.6895,
+  "lng": 139.69171,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/jsconfjp",
+  "source": "confs.tech"
+}

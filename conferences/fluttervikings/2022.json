@@ -1,0 +1,19 @@
+{
+  "name": "FlutterVikings 2022",
+  "year": 2022,
+  "url": "https://fluttervikings.com",
+  "startDate": "2022-08-31",
+  "endDate": "2022-09-01",
+  "city": "Oslo",
+  "country": "NO",
+  "lat": 59.91273,
+  "lng": 10.74609,
+  "topics": [],
+  "cfp": {
+    "url": "https://fluttervikings.com/cfp",
+    "deadline": "2022-05-01",
+    "open": false
+  },
+  "twitter": "https://x.com/fluttervikings",
+  "source": "confs.tech"
+}

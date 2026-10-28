@@ -1,0 +1,16 @@
+{
+  "name": "Shift Dev 2020",
+  "year": 2020,
+  "url": "https://dev.shiftconf.co",
+  "startDate": "2020-09-14",
+  "endDate": "2020-09-15",
+  "city": "Split",
+  "country": "HR",
+  "lat": 43.50891,
+  "lng": 16.43915,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/shiftconf_co",
+  "source": "confs.tech"
+}

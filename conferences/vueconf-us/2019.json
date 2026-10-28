@@ -1,0 +1,16 @@
+{
+  "name": "VueConf US 2019",
+  "year": 2019,
+  "url": "http://us.vuejs.org",
+  "startDate": "2019-03-25",
+  "endDate": "2019-03-27",
+  "city": "Tampa, FL",
+  "country": "US",
+  "lat": 27.94752,
+  "lng": -82.45843,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/vueconfus",
+  "source": "confs.tech"
+}

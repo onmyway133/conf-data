@@ -1,0 +1,16 @@
+{
+  "name": "MLCon Berlin 2023",
+  "year": 2023,
+  "url": "https://mlconference.ai/berlin",
+  "startDate": "2023-11-27",
+  "endDate": "2023-11-30",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/mlconference",
+  "source": "confs.tech"
+}

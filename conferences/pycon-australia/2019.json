@@ -1,0 +1,16 @@
+{
+  "name": "PyCon Australia 2019",
+  "year": 2019,
+  "url": "https://2019.pycon-au.org",
+  "startDate": "2019-08-02",
+  "endDate": "2019-08-06",
+  "city": "Sydney",
+  "country": "AU",
+  "lat": -33.86785,
+  "lng": 151.20732,
+  "topics": [
+    "Python"
+  ],
+  "twitter": "https://x.com/pyconau",
+  "source": "confs.tech"
+}

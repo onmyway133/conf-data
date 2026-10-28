@@ -1,0 +1,15 @@
+{
+  "name": "Swipe Conference 2012",
+  "year": 2012,
+  "url": "http://swipeconference.com.au/",
+  "startDate": "2012-09-05",
+  "endDate": "2012-09-07",
+  "city": "Sydney",
+  "country": "AU",
+  "lat": -33.86785,
+  "lng": 151.20732,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences"
+}

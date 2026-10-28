@@ -1,0 +1,22 @@
+{
+  "name": "CodeMobile 2019",
+  "year": 2019,
+  "url": "http://www.codemobile.co.uk",
+  "startDate": "2019-04-01",
+  "endDate": "2019-04-04",
+  "city": "Chester",
+  "country": "GB",
+  "lat": 53.1905,
+  "lng": -2.89189,
+  "topics": [
+    "Android",
+    "iOS"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSdf9uZoBzmfv-oCN0povGPNK3kFKNb5MIvThZd8QH-dVnuQzQ/viewform",
+    "deadline": "2018-10-31",
+    "open": false
+  },
+  "twitter": "https://x.com/codemobileuk",
+  "source": "confs.tech"
+}

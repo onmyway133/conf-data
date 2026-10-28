@@ -1,0 +1,21 @@
+{
+  "name": "TS-Conf - Independent Italian TypeScript Conference 2019",
+  "year": 2019,
+  "url": "https://ts-conf.it",
+  "startDate": "2019-10-25",
+  "endDate": "2019-10-25",
+  "city": "Desenzano del Garda (BS)",
+  "country": "IT",
+  "lat": 45.47127,
+  "lng": 10.53559,
+  "topics": [
+    "TypeScript"
+  ],
+  "cfp": {
+    "url": "https://www.papercall.io/tsconf-it",
+    "deadline": "2019-06-30",
+    "open": false
+  },
+  "twitter": "https://x.com/webdebresa",
+  "source": "confs.tech"
+}

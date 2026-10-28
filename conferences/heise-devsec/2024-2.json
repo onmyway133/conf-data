@@ -1,0 +1,20 @@
+{
+  "name": "heise devSec 2024",
+  "year": 2024,
+  "url": "https://www.heise-devsec.de",
+  "startDate": "2024-09-25",
+  "endDate": "2024-09-26",
+  "city": "Cologne",
+  "country": "DE",
+  "lat": 50.93333,
+  "lng": 6.95,
+  "topics": [
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://www.heise-devsec.de/cfp.php",
+    "deadline": "2024-04-08",
+    "open": false
+  },
+  "source": "confs.tech"
+}

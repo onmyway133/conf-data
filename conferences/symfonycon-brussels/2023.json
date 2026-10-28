@@ -1,0 +1,16 @@
+{
+  "name": "SymfonyCon Brussels 2023",
+  "year": 2023,
+  "url": "https://live.symfony.com/2023-brussels-con",
+  "startDate": "2023-12-07",
+  "endDate": "2023-12-08",
+  "city": "Brussels",
+  "country": "BE",
+  "lat": 50.85045,
+  "lng": 4.34878,
+  "topics": [
+    "PHP"
+  ],
+  "twitter": "https://x.com/SymfonyCon",
+  "source": "confs.tech"
+}

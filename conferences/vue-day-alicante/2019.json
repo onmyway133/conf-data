@@ -1,0 +1,16 @@
+{
+  "name": "Vue Day Alicante 2019",
+  "year": 2019,
+  "url": "https://vueday.org",
+  "startDate": "2019-05-31",
+  "endDate": "2019-05-31",
+  "city": "Alicante",
+  "country": "ES",
+  "lat": 38.34517,
+  "lng": -0.48149,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/VueDay",
+  "source": "confs.tech"
+}

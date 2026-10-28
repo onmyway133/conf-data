@@ -1,0 +1,16 @@
+{
+  "name": "IT Security Summit 2025",
+  "year": 2025,
+  "url": "https://it-security-summit.de/berlin",
+  "startDate": "2025-06-16",
+  "endDate": "2025-06-19",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "Security"
+  ],
+  "twitter": "https://x.com/ITSecSummit",
+  "source": "confs.tech"
+}

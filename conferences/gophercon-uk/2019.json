@@ -1,0 +1,15 @@
+{
+  "name": "GopherCon UK 2019",
+  "year": 2019,
+  "url": "https://www.gophercon.co.uk",
+  "startDate": "2019-08-21",
+  "endDate": "2019-08-23",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "Go"
+  ],
+  "source": "confs.tech"
+}

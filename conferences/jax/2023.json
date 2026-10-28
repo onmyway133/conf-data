@@ -1,0 +1,14 @@
+{
+  "name": "JAX 2023",
+  "year": 2023,
+  "url": "https://jax.de/mainz",
+  "startDate": "2023-05-08",
+  "endDate": "2023-05-12",
+  "city": "Mainz",
+  "country": "DE",
+  "lat": 49.98185,
+  "lng": 8.28008,
+  "topics": [],
+  "twitter": "https://x.com/jaxcon",
+  "source": "confs.tech"
+}

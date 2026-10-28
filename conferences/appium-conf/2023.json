@@ -1,0 +1,21 @@
+{
+  "name": "Appium Conf 2023",
+  "year": 2023,
+  "url": "https://appiumconf.com",
+  "startDate": "2023-06-22",
+  "endDate": "2023-06-24",
+  "city": "Bengaluru",
+  "country": "IN",
+  "lat": 12.97194,
+  "lng": 77.59369,
+  "topics": [
+    "Testing"
+  ],
+  "cfp": {
+    "url": "https://confng.in/911K6WUX",
+    "deadline": "2023-03-19",
+    "open": false
+  },
+  "twitter": "https://x.com/appium_conf",
+  "source": "confs.tech"
+}

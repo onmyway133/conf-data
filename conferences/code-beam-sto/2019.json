@@ -1,0 +1,21 @@
+{
+  "name": "Code BEAM STO 2019",
+  "year": 2019,
+  "url": "https://codesync.global/conferences/code-beam-sto-2019",
+  "startDate": "2019-05-16",
+  "endDate": "2019-05-17",
+  "city": "Stockholm",
+  "country": "SE",
+  "lat": 59.32938,
+  "lng": 18.06871,
+  "topics": [
+    "Elixir"
+  ],
+  "cfp": {
+    "url": "https://codesync.global/conferences/code-beam-sto-2019/#call-for-proposals",
+    "deadline": "2019-02-13",
+    "open": false
+  },
+  "twitter": "https://x.com/CodeBEAMio",
+  "source": "confs.tech"
+}

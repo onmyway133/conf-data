@@ -1,0 +1,16 @@
+{
+  "name": "Ruby Conference Thailand 2019",
+  "year": 2019,
+  "url": "https://rubyconfth.com",
+  "startDate": "2019-09-06",
+  "endDate": "2019-09-07",
+  "city": "Bangkok",
+  "country": "TH",
+  "lat": 13.75398,
+  "lng": 100.50144,
+  "topics": [
+    "Ruby"
+  ],
+  "twitter": "https://x.com/rubyconfth",
+  "source": "confs.tech"
+}

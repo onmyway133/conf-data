@@ -1,0 +1,19 @@
+{
+  "name": "NDC London 2025",
+  "year": 2025,
+  "url": "https://ndclondon.com",
+  "startDate": "2025-01-27",
+  "endDate": "2025-01-31",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [],
+  "cfp": {
+    "url": "https://ndclondon.com/call-for-papers",
+    "deadline": "2024-09-01",
+    "open": false
+  },
+  "twitter": "https://x.com/ndc_conferences",
+  "source": "confs.tech"
+}

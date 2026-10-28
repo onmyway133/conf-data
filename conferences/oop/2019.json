@@ -1,0 +1,14 @@
+{
+  "name": "OOP 2019",
+  "year": 2019,
+  "url": "https://www.oop-konferenz.de",
+  "startDate": "2019-01-21",
+  "endDate": "2019-01-25",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [],
+  "twitter": "https://x.com/oop_conference",
+  "source": "confs.tech"
+}

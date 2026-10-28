@@ -1,0 +1,16 @@
+{
+  "name": "VeChain Summit 2019",
+  "year": 2019,
+  "url": "https://summit.vechain.com",
+  "startDate": "2019-04-18",
+  "endDate": "2019-04-18",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [
+    "Go"
+  ],
+  "twitter": "https://x.com/vechainofficial",
+  "source": "confs.tech"
+}

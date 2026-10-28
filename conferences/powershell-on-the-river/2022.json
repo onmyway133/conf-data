@@ -1,0 +1,16 @@
+{
+  "name": "PowerShell on the River 2022",
+  "year": 2022,
+  "url": "https://www.powershellchatt.com",
+  "startDate": "2022-08-12",
+  "endDate": "2022-08-13",
+  "city": "Chattanooga, TN",
+  "country": "US",
+  "lat": 35.04563,
+  "lng": -85.30968,
+  "topics": [
+    ".NET"
+  ],
+  "twitter": "https://x.com/PSHChatt",
+  "source": "confs.tech"
+}

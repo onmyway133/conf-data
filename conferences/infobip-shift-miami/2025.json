@@ -1,0 +1,16 @@
+{
+  "name": "Infobip Shift Miami 2025",
+  "year": 2025,
+  "url": "https://shift.infobip.com/us",
+  "startDate": "2025-05-06",
+  "endDate": "2025-05-07",
+  "city": "Miami, FL",
+  "country": "US",
+  "lat": 25.77427,
+  "lng": -80.19366,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/InfobipShift",
+  "source": "confs.tech"
+}

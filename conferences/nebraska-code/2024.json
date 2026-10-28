@@ -1,0 +1,19 @@
+{
+  "name": "Nebraska.Code() 2024",
+  "year": 2024,
+  "url": "https://nebraskacode.amegala.com",
+  "startDate": "2024-07-17",
+  "endDate": "2024-07-19",
+  "city": "Lincoln, NE",
+  "country": "US",
+  "lat": 40.8,
+  "lng": -96.66696,
+  "topics": [],
+  "cfp": {
+    "url": "https://sessionize.com/nebraska-code-2024",
+    "deadline": "2024-02-29",
+    "open": false
+  },
+  "twitter": "https://x.com/amegala",
+  "source": "confs.tech"
+}

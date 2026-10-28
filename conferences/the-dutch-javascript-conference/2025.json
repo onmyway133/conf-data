@@ -1,0 +1,15 @@
+{
+  "name": "The Dutch JavaScript Conference 2025",
+  "year": 2025,
+  "url": "https://www.djsconf.com",
+  "startDate": "2025-09-26",
+  "endDate": "2025-09-28",
+  "city": "Amsterdam",
+  "country": "NL",
+  "lat": 52.37403,
+  "lng": 4.88969,
+  "topics": [
+    "JavaScript"
+  ],
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Update Conference Prague 2025",
+  "year": 2025,
+  "url": "https://www.updateconference.net",
+  "startDate": "2025-11-13",
+  "endDate": "2025-11-14",
+  "city": "Prague",
+  "country": "CZ",
+  "lat": 50.08804,
+  "lng": 14.42076,
+  "topics": [
+    ".NET"
+  ],
+  "twitter": "https://x.com/update_conf",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "ACCU Conference 2024",
+  "year": 2024,
+  "url": "https://accuconference.org",
+  "startDate": "2024-04-17",
+  "endDate": "2024-04-20",
+  "city": "Bristol",
+  "country": "GB",
+  "lat": 51.45523,
+  "lng": -2.59665,
+  "topics": [
+    "C++"
+  ],
+  "twitter": "https://x.com/cpponsea",
+  "source": "confs.tech"
+}

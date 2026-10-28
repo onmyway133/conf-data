@@ -1,0 +1,20 @@
+{
+  "name": "KotlinConf 2024",
+  "year": 2024,
+  "url": "https://kotlinconf.com",
+  "startDate": "2024-05-23",
+  "endDate": "2024-05-24",
+  "city": "Copenhagen",
+  "country": "DK",
+  "lat": 55.67594,
+  "lng": 12.56553,
+  "topics": [
+    "Kotlin"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/kotlinconf-2024",
+    "deadline": "2023-12-04",
+    "open": false
+  },
+  "source": "confs.tech"
+}

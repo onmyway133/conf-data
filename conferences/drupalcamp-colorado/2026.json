@@ -1,0 +1,15 @@
+{
+  "name": "Drupalcamp Colorado 2026",
+  "year": 2026,
+  "url": "https://www.drupal.org/community/events/drupalcamp-colorado-2026-2026-08-27",
+  "startDate": "2026-08-27",
+  "endDate": "2026-08-28",
+  "city": "Denver, CO",
+  "country": "US",
+  "lat": 39.73915,
+  "lng": -104.9847,
+  "topics": [
+    "PHP"
+  ],
+  "source": "confs.tech"
+}

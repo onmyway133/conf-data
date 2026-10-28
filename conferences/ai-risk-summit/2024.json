@@ -1,0 +1,15 @@
+{
+  "name": "AI Risk Summit 2024",
+  "year": 2024,
+  "url": "https://www.airisksummit.com",
+  "startDate": "2024-06-25",
+  "endDate": "2024-06-26",
+  "city": "Half Moon Bay, CA",
+  "country": "US",
+  "lat": 37.46355,
+  "lng": -122.42859,
+  "topics": [
+    "Security"
+  ],
+  "source": "confs.tech"
+}

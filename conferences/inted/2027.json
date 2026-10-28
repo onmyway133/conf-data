@@ -1,0 +1,18 @@
+{
+  "name": "INTED 2027",
+  "year": 2027,
+  "url": "https://iated.org/inted",
+  "startDate": "2027-03-09",
+  "endDate": "2027-03-11",
+  "city": "Valencia",
+  "country": "ES",
+  "lat": 39.47391,
+  "lng": -0.37966,
+  "topics": [],
+  "cfp": {
+    "url": "https://iated.org/inted/call_for_abstracts",
+    "deadline": "2026-11-19",
+    "open": true
+  },
+  "source": "confs.tech"
+}

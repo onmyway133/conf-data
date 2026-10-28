@@ -1,0 +1,16 @@
+{
+  "name": "VueConfTO 2019",
+  "year": 2019,
+  "url": "https://vuetoronto.com",
+  "startDate": "2019-11-11",
+  "endDate": "2019-11-12",
+  "city": "Toronto",
+  "country": "CA",
+  "lat": 43.70643,
+  "lng": -79.39864,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/VueToronto",
+  "source": "confs.tech"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "App.js Conf 2022",
+  "year": 2022,
+  "url": "https://appjs.co",
+  "startDate": "2022-06-08",
+  "endDate": "2022-06-10",
+  "city": "Kraków",
+  "country": "PL",
+  "lat": 50.06143,
+  "lng": 19.93658,
+  "topics": [],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/1-TUgnCqqGsTufBv2W5Nn8rXzoBg7qpBZKoQT0qKp7jA/edit",
+    "deadline": "2022-02-22",
+    "open": false
+  },
+  "twitter": "https://x.com/appjsconf",
+  "source": "confs.tech"
+}

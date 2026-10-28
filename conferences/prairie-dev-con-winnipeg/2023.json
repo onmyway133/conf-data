@@ -1,0 +1,18 @@
+{
+  "name": "Prairie Dev Con winnipeg 2023",
+  "year": 2023,
+  "url": "https://www.prairiedevcon.com/winnipeg.html",
+  "startDate": "2023-06-12",
+  "endDate": "2023-06-13",
+  "city": "Winnipeg",
+  "country": "CA",
+  "lat": 49.8844,
+  "lng": -97.14704,
+  "topics": [],
+  "cfp": {
+    "url": "https://www.papercall.io/prdcwinnipeg2023",
+    "deadline": "2023-02-25",
+    "open": false
+  },
+  "source": "confs.tech"
+}

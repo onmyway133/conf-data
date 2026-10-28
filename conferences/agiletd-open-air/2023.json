@@ -1,0 +1,19 @@
+{
+  "name": "AgileTD Open Air 2023",
+  "year": 2023,
+  "url": "https://openair.agiletestingdays.com",
+  "startDate": "2023-06-13",
+  "endDate": "2023-06-15",
+  "city": "Cologne",
+  "country": "DE",
+  "lat": 50.93333,
+  "lng": 6.95,
+  "topics": [],
+  "cfp": {
+    "url": "https://cfp.trendig.com/AgileTD_OpenAir_2023",
+    "deadline": "2022-08-31",
+    "open": false
+  },
+  "twitter": "https://x.com/AgileTDOpenAir",
+  "source": "confs.tech"
+}

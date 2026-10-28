@@ -1,0 +1,20 @@
+{
+  "name": "Open Source Camp on Kubernetes 2024",
+  "year": 2024,
+  "url": "https://opensourcecamp.de",
+  "startDate": "2024-02-27",
+  "endDate": "2024-02-27",
+  "city": "Nürnberg",
+  "country": "DE",
+  "lat": 49.45421,
+  "lng": 11.07752,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://opensourcecamp.de/call-for-papers",
+    "deadline": "2023-11-30",
+    "open": false
+  },
+  "source": "confs.tech"
+}

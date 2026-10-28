@@ -1,0 +1,16 @@
+{
+  "name": "Open Source Analytics Conference 2026",
+  "year": 2026,
+  "url": "https://osacon.io",
+  "startDate": "2026-11-02",
+  "endDate": "2026-11-02",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [
+    "Data/AI",
+    "Open Source"
+  ],
+  "source": "confs.tech"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Workplace Ninjas India 2026",
+  "year": 2026,
+  "url": "https://www.wpninjas-india.com",
+  "startDate": "2026-11-27",
+  "endDate": "2026-11-28",
+  "city": "Delhi",
+  "country": "IN",
+  "lat": 28.65195,
+  "lng": 77.23149,
+  "topics": [
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/workplace-ninjas-india-2026",
+    "deadline": "2026-07-31",
+    "open": true
+  },
+  "twitter": "https://x.com/wpninjasummit",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "MLCon NYC 2026",
+  "year": 2026,
+  "url": "https://mlconference.ai/new-york",
+  "startDate": "2026-09-28",
+  "endDate": "2026-10-02",
+  "city": "New York, NY",
+  "country": "US",
+  "lat": 40.71427,
+  "lng": -74.00597,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/mlconference",
+  "source": "confs.tech"
+}

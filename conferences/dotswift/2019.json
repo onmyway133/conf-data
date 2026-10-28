@@ -1,0 +1,19 @@
+{
+  "name": "dotSwift 2019",
+  "year": 2019,
+  "url": "https://www.dotswift.io",
+  "startDate": "2019-01-28",
+  "endDate": "2019-01-28",
+  "city": "Paris",
+  "country": "FR",
+  "lat": 48.85341,
+  "lng": 2.3488,
+  "topics": [
+    "iOS"
+  ],
+  "cfp": {
+    "url": "https://goo.gl/forms/T4Z7rTy2RxfhUebd2",
+    "open": false
+  },
+  "source": "cocoaconferences"
+}

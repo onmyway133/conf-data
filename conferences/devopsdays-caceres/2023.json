@@ -1,0 +1,16 @@
+{
+  "name": "Devopsdays Cáceres 2023",
+  "year": 2023,
+  "url": "https://devopsdays.org/events/2023-caceres/welcome",
+  "startDate": "2023-04-28",
+  "endDate": "2023-04-29",
+  "city": "Cáceres",
+  "country": "ES",
+  "lat": 39.47649,
+  "lng": -6.37224,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/DevOpsDaysCC",
+  "source": "confs.tech"
+}

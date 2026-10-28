@@ -1,0 +1,16 @@
+{
+  "name": "WE 2020",
+  "year": 2020,
+  "url": "https://societyofwomenengineers.swe.org",
+  "startDate": "2020-11-05",
+  "endDate": "2020-11-07",
+  "city": "New Orleans, LA",
+  "country": "US",
+  "lat": 29.95465,
+  "lng": -90.07507,
+  "topics": [
+    "Networking"
+  ],
+  "twitter": "https://x.com/SWEtalk",
+  "source": "confs.tech"
+}

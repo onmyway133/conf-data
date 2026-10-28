@@ -1,0 +1,16 @@
+{
+  "name": "React Conference Live 2022",
+  "year": 2022,
+  "url": "https://reactlive.nl",
+  "startDate": "2022-04-01",
+  "endDate": "2022-04-01",
+  "city": "Amsterdam",
+  "country": "NL",
+  "lat": 52.37403,
+  "lng": 4.88969,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/reactlivenl",
+  "source": "confs.tech"
+}

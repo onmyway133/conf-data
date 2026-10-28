@@ -1,0 +1,16 @@
+{
+  "name": "Ai4 2020",
+  "year": 2020,
+  "url": "https://ai4.io",
+  "startDate": "2020-09-01",
+  "endDate": "2020-09-02",
+  "city": "Las Vegas, NV",
+  "country": "US",
+  "lat": 36.17497,
+  "lng": -115.13722,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/Ai4Conferences",
+  "source": "confs.tech"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "360iDev 2021",
+  "year": 2021,
+  "url": "https://360idev.com",
+  "startDate": "2021-08-22",
+  "endDate": "2021-08-25",
+  "city": "Denver",
+  "country": "US",
+  "lat": 39.73915,
+  "lng": -104.9847,
+  "topics": [
+    "iOS"
+  ],
+  "cfp": {
+    "url": "https://360idev.com/call-for-papers/",
+    "deadline": "2021-05-07",
+    "open": false
+  },
+  "source": "cocoaconferences"
+}

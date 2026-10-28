@@ -1,0 +1,19 @@
+{
+  "name": "iOSDevUK 2019",
+  "year": 2019,
+  "url": "http://www.iosdevuk.com/",
+  "startDate": "2019-09-02",
+  "endDate": "2019-09-05",
+  "city": "Aberystwyth",
+  "country": "GB",
+  "lat": 52.41548,
+  "lng": -4.08292,
+  "topics": [
+    "iOS"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSehHlTPYDW0NjegZfJDAiOWE65GMAK1k36Yf-TTIteYswP3CA/viewform",
+    "open": false
+  },
+  "source": "cocoaconferences"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "SwiftLeeds 2022",
+  "year": 2022,
+  "url": "https://swiftleeds.co.uk",
+  "startDate": "2022-10-20",
+  "endDate": "2022-10-20",
+  "city": "Leeds",
+  "country": "GB",
+  "lat": 53.79648,
+  "lng": -1.54785,
+  "topics": [
+    "iOS"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/swiftleeds",
+    "deadline": "2022-04-30",
+    "open": false
+  },
+  "twitter": "https://x.com/swift_leeds",
+  "source": "confs.tech"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Unhacked 360 International Cybersecurity Conference 2026",
+  "year": 2026,
+  "url": "https://momentera.org/conferences/unhacked360conference",
+  "startDate": "2026-06-15",
+  "endDate": "2026-06-17",
+  "city": "Tbilisi",
+  "country": "GE",
+  "lat": 41.69143,
+  "lng": 44.83412,
+  "topics": [
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://momentera.org",
+    "deadline": "2026-06-08",
+    "open": false
+  },
+  "source": "confs.tech"
+}

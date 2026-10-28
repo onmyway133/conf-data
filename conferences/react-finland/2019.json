@@ -1,0 +1,16 @@
+{
+  "name": "React Finland 2019",
+  "year": 2019,
+  "url": "https://react-finland.fi",
+  "startDate": "2019-04-24",
+  "endDate": "2019-04-26",
+  "city": "Helsinki",
+  "country": "FI",
+  "lat": 60.16952,
+  "lng": 24.93545,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/ReactFinland",
+  "source": "confs.tech"
+}

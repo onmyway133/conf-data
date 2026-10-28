@@ -1,0 +1,16 @@
+{
+  "name": "UX Scotland 2019",
+  "year": 2019,
+  "url": "https://uxscotland.net/2019",
+  "startDate": "2019-06-12",
+  "endDate": "2019-06-14",
+  "city": "Edinburgh",
+  "country": "GB",
+  "lat": 55.95206,
+  "lng": -3.19648,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/uxscotland",
+  "source": "confs.tech"
+}

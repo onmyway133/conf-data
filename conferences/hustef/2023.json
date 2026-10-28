@@ -1,0 +1,21 @@
+{
+  "name": "HUSTEF 2023",
+  "year": 2023,
+  "url": "https://hustef.hu",
+  "startDate": "2023-10-03",
+  "endDate": "2023-10-05",
+  "city": "Budapest",
+  "country": "HU",
+  "lat": 47.49835,
+  "lng": 19.04045,
+  "topics": [
+    "DevOps",
+    "Testing"
+  ],
+  "cfp": {
+    "url": "https://hustef.hu/wp-content/uploads/2023/02/HUSTEF-2023-Call-for-Proposals_final.pdf",
+    "deadline": "2023-04-24",
+    "open": false
+  },
+  "source": "confs.tech"
+}

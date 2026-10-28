@@ -1,0 +1,16 @@
+{
+  "name": "27th Annual Cybersecurity Conference 2024",
+  "year": 2024,
+  "url": "https://aavar.org/cybersecurity-conference",
+  "startDate": "2024-12-04",
+  "endDate": "2024-12-06",
+  "city": "Chennai",
+  "country": "IN",
+  "lat": 13.08784,
+  "lng": 80.27847,
+  "topics": [
+    "Security"
+  ],
+  "twitter": "https://x.com/avar_asia",
+  "source": "confs.tech"
+}

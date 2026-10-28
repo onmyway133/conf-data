@@ -1,0 +1,16 @@
+{
+  "name": "Java-Tage 2023",
+  "year": 2023,
+  "url": "https://www.informatik-aktuell.de/aktuelle-meldungen/2023/april/konferenz-fuer-java-entwicklung-2023-java-tage-in-frankfurt-am-main.html",
+  "startDate": "2023-12-11",
+  "endDate": "2023-12-14",
+  "city": "Frankfurt am Main",
+  "country": "DE",
+  "lat": 50.11552,
+  "lng": 8.68417,
+  "topics": [
+    "Java"
+  ],
+  "twitter": "https://x.com/InformatikAktue",
+  "source": "confs.tech"
+}

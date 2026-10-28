@@ -1,0 +1,21 @@
+{
+  "name": "Devopsdays Zurich 2021",
+  "year": 2021,
+  "url": "https://devopsdays.org/events/2021-zurich/welcome",
+  "startDate": "2021-09-07",
+  "endDate": "2021-09-08",
+  "city": "Zurich",
+  "country": "CH",
+  "lat": 47.36667,
+  "lng": 8.55,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/devopsdayszh-2021",
+    "deadline": "2021-05-31",
+    "open": false
+  },
+  "twitter": "https://x.com/DevOpsZH",
+  "source": "confs.tech"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Apidays Paris 2026",
+  "year": 2026,
+  "url": "https://www.apidays.global/paris",
+  "startDate": "2026-12-01",
+  "endDate": "2026-12-03",
+  "city": "Paris",
+  "country": "FR",
+  "lat": 48.85341,
+  "lng": 2.3488,
+  "topics": [
+    "GraphQL"
+  ],
+  "cfp": {
+    "url": "https://apidays.typeform.com/to/ILJeAaV8",
+    "deadline": "2026-11-30",
+    "open": true
+  },
+  "twitter": "https://x.com/APIdaysGlobal",
+  "mastodon": "https://mastodon.social/@apidaysglobal",
+  "source": "confs.tech"
+}

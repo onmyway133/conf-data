@@ -1,0 +1,16 @@
+{
+  "name": "c't <webdev> 2019",
+  "year": 2019,
+  "url": "https://ctwebdev.de",
+  "startDate": "2019-02-06",
+  "endDate": "2019-02-08",
+  "city": "Cologne",
+  "country": "DE",
+  "lat": 50.93333,
+  "lng": 6.95,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/heiseonline",
+  "source": "confs.tech"
+}

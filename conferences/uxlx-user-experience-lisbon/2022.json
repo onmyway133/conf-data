@@ -1,0 +1,21 @@
+{
+  "name": "UXLx: User Experience Lisbon 2022",
+  "year": 2022,
+  "url": "https://www.ux-lx.com",
+  "startDate": "2022-05-24",
+  "endDate": "2022-05-27",
+  "city": "Lisbon",
+  "country": "PT",
+  "lat": 38.72509,
+  "lng": -9.1498,
+  "topics": [
+    "Design/UX"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSeAwx-Xt73X0vK_fa5bG4vb2y6aHswQUFX6W11lQ7ncVjYmEw/viewform",
+    "deadline": "2021-10-31",
+    "open": false
+  },
+  "twitter": "https://x.com/uxlx",
+  "source": "confs.tech"
+}

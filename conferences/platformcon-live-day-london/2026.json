@@ -1,0 +1,15 @@
+{
+  "name": "PlatformCON Live Day London 2026",
+  "year": 2026,
+  "url": "https://platformcon.com/live-day-london",
+  "startDate": "2026-06-23",
+  "endDate": "2026-06-23",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "Networking"
+  ],
+  "source": "confs.tech"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Voxxed Days Downunder 2021",
+  "year": 2021,
+  "url": "https://australia.voxxeddays.com",
+  "startDate": "2021-08-23",
+  "endDate": "2021-08-24",
+  "city": "Melbourne",
+  "country": "AU",
+  "lat": -37.814,
+  "lng": 144.96332,
+  "topics": [],
+  "cfp": {
+    "url": "https://vxmelb21.cfp.dev",
+    "deadline": "2021-03-31",
+    "open": false
+  },
+  "twitter": "https://x.com/VoxxedAustralia",
+  "source": "confs.tech"
+}

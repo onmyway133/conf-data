@@ -1,0 +1,17 @@
+{
+  "name": "PowerShell Saturday Hannover 2023",
+  "year": 2023,
+  "url": "https://pssat.de",
+  "startDate": "2023-09-16",
+  "endDate": "2023-09-16",
+  "city": "Hannover",
+  "country": "DE",
+  "lat": 52.37052,
+  "lng": 9.73322,
+  "topics": [
+    "Networking"
+  ],
+  "twitter": "https://x.com/PSUGH",
+  "mastodon": "https://norden.social/@psugh",
+  "source": "confs.tech"
+}

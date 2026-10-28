@@ -1,0 +1,16 @@
+{
+  "name": "JSConf MX 2020",
+  "year": 2020,
+  "url": "https://jsconf.mx",
+  "startDate": "2020-05-04",
+  "endDate": "2020-05-05",
+  "city": "Mexico City",
+  "country": "MX",
+  "lat": 19.42847,
+  "lng": -99.12766,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/jsconfmx",
+  "source": "confs.tech"
+}

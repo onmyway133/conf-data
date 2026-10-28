@@ -1,0 +1,16 @@
+{
+  "name": "TYPO3camp Stuttgart 2020",
+  "year": 2020,
+  "url": "https://t3cs.de",
+  "startDate": "2020-06-11",
+  "endDate": "2020-06-13",
+  "city": "Ostfildern",
+  "country": "DE",
+  "lat": 48.72704,
+  "lng": 9.24954,
+  "topics": [
+    "PHP"
+  ],
+  "twitter": "https://x.com/t3cs",
+  "source": "confs.tech"
+}

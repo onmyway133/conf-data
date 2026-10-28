@@ -1,0 +1,15 @@
+{
+  "name": "Financial Cryptography and Data Security 2020",
+  "year": 2020,
+  "url": "https://fc20.ifca.ai",
+  "startDate": "2020-02-10",
+  "endDate": "2020-02-14",
+  "city": "Sabah",
+  "country": "MY",
+  "lat": 3.7698,
+  "lng": 100.9879,
+  "topics": [
+    "Security"
+  ],
+  "source": "confs.tech"
+}

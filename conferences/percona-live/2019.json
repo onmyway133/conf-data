@@ -1,0 +1,21 @@
+{
+  "name": "Percona Live 2019",
+  "year": 2019,
+  "url": "https://www.percona.com/live",
+  "startDate": "2019-05-28",
+  "endDate": "2019-05-30",
+  "city": "Austin, TX",
+  "country": "US",
+  "lat": 30.26715,
+  "lng": -97.74306,
+  "topics": [
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://perconacfp.hubb.me",
+    "deadline": "2019-01-27",
+    "open": false
+  },
+  "twitter": "https://x.com/percona",
+  "source": "confs.tech"
+}

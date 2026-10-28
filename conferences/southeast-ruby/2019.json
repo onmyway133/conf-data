@@ -1,0 +1,16 @@
+{
+  "name": "Southeast Ruby 2019",
+  "year": 2019,
+  "url": "https://southeastruby.com",
+  "startDate": "2019-08-01",
+  "endDate": "2019-08-02",
+  "city": "Nashville, TN",
+  "country": "US",
+  "lat": 36.16589,
+  "lng": -86.78444,
+  "topics": [
+    "Ruby"
+  ],
+  "twitter": "https://x.com/southeastruby",
+  "source": "confs.tech"
+}

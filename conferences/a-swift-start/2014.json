@@ -1,0 +1,15 @@
+{
+  "name": "A Swift Start 2014",
+  "year": 2014,
+  "url": "http://aswiftstart.com/",
+  "startDate": "2014-08-29",
+  "endDate": "2014-08-29",
+  "city": "New York City",
+  "country": "US",
+  "lat": 40.71427,
+  "lng": -74.00597,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences"
+}

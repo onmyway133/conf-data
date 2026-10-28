@@ -1,0 +1,19 @@
+{
+  "name": "PASS Data Community Summit 2024",
+  "year": 2024,
+  "url": "https://passdatacommunitysummit.com",
+  "startDate": "2024-11-04",
+  "endDate": "2024-11-08",
+  "city": "Seattle, WA",
+  "country": "US",
+  "lat": 47.60621,
+  "lng": -122.33207,
+  "topics": [],
+  "cfp": {
+    "url": "https://passdatacommunitysummit.com/about/news/2024-calls-for-speakers-volunteers-are-now-open",
+    "deadline": "2024-04-10",
+    "open": false
+  },
+  "twitter": "https://x.com/PASSDataSummit",
+  "source": "confs.tech"
+}

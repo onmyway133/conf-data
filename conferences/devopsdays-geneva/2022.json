@@ -1,0 +1,16 @@
+{
+  "name": "Devopsdays Geneva 2022",
+  "year": 2022,
+  "url": "https://devopsdays.org/events/2022-geneva/welcome",
+  "startDate": "2022-02-07",
+  "endDate": "2022-02-08",
+  "city": "Geneva",
+  "country": "CH",
+  "lat": 46.20222,
+  "lng": 6.14569,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/DevopsdaysGe",
+  "source": "confs.tech"
+}

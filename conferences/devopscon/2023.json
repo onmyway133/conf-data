@@ -1,0 +1,16 @@
+{
+  "name": "DevOpsCon 2023",
+  "year": 2023,
+  "url": "https://devopscon.io/singapore",
+  "startDate": "2023-12-11",
+  "endDate": "2023-12-14",
+  "city": "Singapore",
+  "country": "SG",
+  "lat": 1.28967,
+  "lng": 103.85007,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devops_con",
+  "source": "confs.tech"
+}

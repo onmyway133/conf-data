@@ -1,0 +1,19 @@
+{
+  "name": "Herbstcampus 2022",
+  "year": 2022,
+  "url": "https://www.herbstcampus.de",
+  "startDate": "2022-09-06",
+  "endDate": "2022-09-08",
+  "city": "Nürnberg",
+  "country": "DE",
+  "lat": 49.45421,
+  "lng": 11.07752,
+  "topics": [],
+  "cfp": {
+    "url": "https://www.herbstcampus.de/cfp.php",
+    "deadline": "2022-05-09",
+    "open": false
+  },
+  "twitter": "https://x.com/Herbstcampus",
+  "source": "confs.tech"
+}

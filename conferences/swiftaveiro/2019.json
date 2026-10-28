@@ -1,0 +1,16 @@
+{
+  "name": "SwiftAveiro 2019",
+  "year": 2019,
+  "url": "https://www.swiftaveiro.xyz",
+  "startDate": "2019-06-20",
+  "endDate": "2019-06-21",
+  "city": "Aveiro",
+  "country": "PT",
+  "lat": 40.64575,
+  "lng": -8.64643,
+  "topics": [
+    "iOS"
+  ],
+  "twitter": "https://x.com/SwiftAveiro",
+  "source": "confs.tech"
+}

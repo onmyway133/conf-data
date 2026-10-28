@@ -1,0 +1,19 @@
+{
+  "name": "Code BEAM Coruña 2024",
+  "year": 2024,
+  "url": "https://codebeamcorunha.es",
+  "startDate": "2024-06-21",
+  "endDate": "2024-06-22",
+  "city": "A Coruña",
+  "country": "ES",
+  "lat": 43.37135,
+  "lng": -8.396,
+  "topics": [],
+  "cfp": {
+    "url": "https://sessionize.com/code-beam-corunha-2024",
+    "deadline": "2024-01-31",
+    "open": false
+  },
+  "twitter": "https://x.com/CodeBEAMCorunha",
+  "source": "confs.tech"
+}

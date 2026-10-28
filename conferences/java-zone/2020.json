@@ -1,0 +1,16 @@
+{
+  "name": "Java Zone 2020",
+  "year": 2020,
+  "url": "https://2020.javazone.no",
+  "startDate": "2020-09-09",
+  "endDate": "2020-09-10",
+  "city": "Oslo",
+  "country": "NO",
+  "lat": 59.91273,
+  "lng": 10.74609,
+  "topics": [
+    "Java"
+  ],
+  "twitter": "https://x.com/javazone",
+  "source": "confs.tech"
+}

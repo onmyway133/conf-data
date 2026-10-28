@@ -1,0 +1,15 @@
+{
+  "name": "GISEC GLOBAL 2026",
+  "year": 2026,
+  "url": "https://gisec.ae",
+  "startDate": "2026-05-05",
+  "endDate": "2026-05-07",
+  "city": "Dubai",
+  "country": "AE",
+  "lat": 25.07725,
+  "lng": 55.30927,
+  "topics": [
+    "Security"
+  ],
+  "source": "confs.tech"
+}

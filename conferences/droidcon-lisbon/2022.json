@@ -1,0 +1,20 @@
+{
+  "name": "Droidcon Lisbon 2022",
+  "year": 2022,
+  "url": "https://www.lisbon.droidcon.com",
+  "startDate": "2022-04-21",
+  "endDate": "2022-04-22",
+  "city": "Lisbon",
+  "country": "PT",
+  "lat": 38.72509,
+  "lng": -9.1498,
+  "topics": [
+    "Android"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/droidcon-lisbon2022",
+    "deadline": "2022-02-28",
+    "open": false
+  },
+  "source": "confs.tech"
+}

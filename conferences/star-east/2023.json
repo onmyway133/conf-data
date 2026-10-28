@@ -1,0 +1,16 @@
+{
+  "name": "Star East 2023",
+  "year": 2023,
+  "url": "https://stareast.techwell.com",
+  "startDate": "2023-04-30",
+  "endDate": "2023-05-05",
+  "city": "Orlando, FL",
+  "country": "US",
+  "lat": 28.53834,
+  "lng": -81.37924,
+  "topics": [
+    "Testing"
+  ],
+  "twitter": "https://x.com/TechWell",
+  "source": "confs.tech"
+}

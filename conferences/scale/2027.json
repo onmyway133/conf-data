@@ -1,0 +1,23 @@
+{
+  "name": "SCaLE 2027",
+  "year": 2027,
+  "url": "https://www.socallinuxexpo.org/scale/24x",
+  "startDate": "2027-04-01",
+  "endDate": "2027-04-04",
+  "city": "Pasadena, CA",
+  "country": "US",
+  "lat": 29.69106,
+  "lng": -95.2091,
+  "topics": [
+    "Networking",
+    "Open Source"
+  ],
+  "cfp": {
+    "url": "https://www.socallinuxexpo.org/scale/24x/cfp",
+    "deadline": "2026-11-01",
+    "open": true
+  },
+  "twitter": "https://x.com/socallinuxexpo",
+  "mastodon": "https://socallinuxexpo/@social.linux.pizza",
+  "source": "confs.tech"
+}

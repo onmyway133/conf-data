@@ -1,0 +1,19 @@
+{
+  "name": "CTO fwdays 2023",
+  "year": 2023,
+  "url": "https://fwdays.com/en/event/cto-fwdays-2023",
+  "startDate": "2023-11-19",
+  "endDate": "2023-11-19",
+  "city": "Kyiv",
+  "country": "UA",
+  "lat": 50.45466,
+  "lng": 30.5238,
+  "topics": [],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSeQntZAiKQX6b0P38qpoE6_5Tpd_9Dd0KOXGwXdfI6O43Ff7w/viewform",
+    "deadline": "2023-10-09",
+    "open": false
+  },
+  "twitter": "https://x.com/fwdays",
+  "source": "confs.tech"
+}

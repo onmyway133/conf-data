@@ -1,0 +1,17 @@
+{
+  "name": "JCON USA 2026",
+  "year": 2026,
+  "url": "https://2026.usa.jcon.one",
+  "startDate": "2026-10-26",
+  "endDate": "2026-10-29",
+  "city": "Atlanta, GA",
+  "country": "US",
+  "lat": 33.749,
+  "lng": -84.38798,
+  "topics": [
+    "Java"
+  ],
+  "twitter": "https://x.com/jcon_conference",
+  "mastodon": "https://mastodon.social/@jcon",
+  "source": "confs.tech"
+}

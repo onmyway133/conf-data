@@ -1,0 +1,16 @@
+{
+  "name": "European Power Platform Conference (EPPC) 2024",
+  "year": 2024,
+  "url": "https://www.sharepointeurope.com/european-power-platform-conference",
+  "startDate": "2024-06-11",
+  "endDate": "2024-06-13",
+  "city": "Brussels",
+  "country": "BE",
+  "lat": 50.85045,
+  "lng": 4.34878,
+  "topics": [
+    "Networking"
+  ],
+  "twitter": "https://x.com/europeanppc",
+  "source": "confs.tech"
+}

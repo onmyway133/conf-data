@@ -1,0 +1,16 @@
+{
+  "name": "robocon 2025",
+  "year": 2025,
+  "url": "https://robocon.io",
+  "startDate": "2025-02-13",
+  "endDate": "2025-02-14",
+  "city": "Helsinki",
+  "country": "FI",
+  "lat": 60.16952,
+  "lng": 24.93545,
+  "topics": [
+    "Testing"
+  ],
+  "twitter": "https://x.com/robotframework",
+  "source": "confs.tech"
+}

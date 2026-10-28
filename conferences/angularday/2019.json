@@ -1,0 +1,16 @@
+{
+  "name": "AngularDay 2019",
+  "year": 2019,
+  "url": "https://2019.angularday.it",
+  "startDate": "2019-06-13",
+  "endDate": "2019-06-14",
+  "city": "Verona",
+  "country": "IT",
+  "lat": 45.43854,
+  "lng": 10.9938,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/angularday",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Clarity 2019",
+  "year": 2019,
+  "url": "https://www.clarityconf.com/2019",
+  "startDate": "2019-08-19",
+  "endDate": "2019-08-21",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/clarity_conf",
+  "source": "confs.tech"
+}

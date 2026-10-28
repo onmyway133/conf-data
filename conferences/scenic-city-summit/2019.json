@@ -1,0 +1,19 @@
+{
+  "name": "Scenic City Summit 2019",
+  "year": 2019,
+  "url": "https://sceniccitysummit.com",
+  "startDate": "2019-10-04",
+  "endDate": "2019-10-04",
+  "city": "Chattanooga, TN",
+  "country": "US",
+  "lat": 35.04563,
+  "lng": -85.30968,
+  "topics": [],
+  "cfp": {
+    "url": "https://www.papercall.io/scenic-city-summit-2019",
+    "deadline": "2019-05-04",
+    "open": false
+  },
+  "twitter": "https://x.com/ScenicSummit",
+  "source": "confs.tech"
+}

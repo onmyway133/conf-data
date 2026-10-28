@@ -1,0 +1,20 @@
+{
+  "name": "Software Architecture Gathering 2025",
+  "year": 2025,
+  "url": "https://conferences.isaqb.org/software-architecture-gathering",
+  "startDate": "2025-11-24",
+  "endDate": "2025-11-27",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [],
+  "cfp": {
+    "url": "https://conferences.isaqb.org/software-architecture-gathering/call-for-papers",
+    "deadline": "2025-06-10",
+    "open": false
+  },
+  "bluesky": "https://bsky.app/profile/sagconference.bsky.social",
+  "mastodon": "https://mastodon.social/@SAG_Conference",
+  "source": "confs.tech"
+}

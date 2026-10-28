@@ -1,0 +1,20 @@
+{
+  "name": "NSSpain 2024",
+  "year": 2024,
+  "url": "https://2024.nsspain.com",
+  "startDate": "2024-09-18",
+  "endDate": "2024-09-19",
+  "city": "Logroño",
+  "country": "ES",
+  "lat": 42.46615,
+  "lng": -2.45115,
+  "topics": [
+    "iOS"
+  ],
+  "cfp": {
+    "url": "https://2024.nsspain.com",
+    "deadline": "2024-06-24",
+    "open": false
+  },
+  "source": "cocoaconferences"
+}

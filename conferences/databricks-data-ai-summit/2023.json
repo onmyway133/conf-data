@@ -1,0 +1,16 @@
+{
+  "name": "Databricks Data + AI Summit 2023",
+  "year": 2023,
+  "url": "https://www.databricks.com/dataaisummit",
+  "startDate": "2023-06-26",
+  "endDate": "2023-06-29",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/Data_AI_Summit",
+  "source": "confs.tech"
+}

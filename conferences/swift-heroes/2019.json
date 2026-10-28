@@ -1,0 +1,15 @@
+{
+  "name": "Swift Heroes 2019",
+  "year": 2019,
+  "url": "http://www.swiftheroes.com/",
+  "startDate": "2019-11-15",
+  "endDate": "2019-11-15",
+  "city": "Turin",
+  "country": "IT",
+  "lat": 45.07049,
+  "lng": 7.68682,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences"
+}

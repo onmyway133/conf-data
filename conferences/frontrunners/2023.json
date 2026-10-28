@@ -1,0 +1,17 @@
+{
+  "name": "Frontrunners 2023",
+  "year": 2023,
+  "url": "https://frontrunners.tech",
+  "startDate": "2023-03-10",
+  "endDate": "2023-03-10",
+  "city": "Arlington, VA",
+  "country": "US",
+  "lat": 32.73569,
+  "lng": -97.10807,
+  "topics": [
+    "JavaScript",
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/frontrunnersdc",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Python Summit 2020",
+  "year": 2020,
+  "url": "https://python-summit.de",
+  "startDate": "2020-10-26",
+  "endDate": "2020-10-28",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [
+    "Python"
+  ],
+  "twitter": "https://x.com/python_summit",
+  "source": "confs.tech"
+}

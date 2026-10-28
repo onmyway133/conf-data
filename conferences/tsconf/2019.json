@@ -1,0 +1,22 @@
+{
+  "name": "TSConf 2019",
+  "year": 2019,
+  "url": "https://tsconf.io",
+  "startDate": "2019-10-11",
+  "endDate": "2019-10-11",
+  "city": "Seattle, WA",
+  "country": "US",
+  "lat": 47.60621,
+  "lng": -122.33207,
+  "topics": [
+    "JavaScript",
+    "TypeScript"
+  ],
+  "cfp": {
+    "url": "https://tsconf.io/present.html",
+    "deadline": "2019-04-30",
+    "open": false
+  },
+  "twitter": "https://x.com/typescriptconf",
+  "source": "confs.tech"
+}

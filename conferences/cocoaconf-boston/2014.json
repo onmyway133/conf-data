@@ -1,0 +1,15 @@
+{
+  "name": "CocoaConf Boston 2014",
+  "year": 2014,
+  "url": "http://cocoaconf.com/boston-2014/home",
+  "startDate": "2014-11-14",
+  "endDate": "2014-11-15",
+  "city": "Boston",
+  "country": "US",
+  "lat": 42.35843,
+  "lng": -71.05977,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences"
+}

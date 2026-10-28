@@ -1,0 +1,16 @@
+{
+  "name": "Modern DevOps Melbourne 2024",
+  "year": 2024,
+  "url": "https://devopsdays.org/events/2024-zurich/welcome",
+  "startDate": "2024-10-08",
+  "endDate": "2024-10-08",
+  "city": "Melbourne",
+  "country": "AU",
+  "lat": -37.814,
+  "lng": 144.96332,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/CoriniumGlobal",
+  "source": "confs.tech"
+}

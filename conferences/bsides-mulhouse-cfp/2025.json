@@ -1,0 +1,16 @@
+{
+  "name": "BSides Mulhouse CFP 2025",
+  "year": 2025,
+  "url": "https://bsides-mulhouse.fr",
+  "startDate": "2025-10-07",
+  "endDate": "2025-10-07",
+  "city": "Mulhouse",
+  "country": "FR",
+  "lat": 47.75205,
+  "lng": 7.32866,
+  "topics": [
+    "Security"
+  ],
+  "twitter": "https://x.com/CapitaleDev",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Rust.Tokyo 2019",
+  "year": 2019,
+  "url": "https://rust.tokyo",
+  "startDate": "2019-10-26",
+  "endDate": "2019-10-26",
+  "city": "Tokyo",
+  "country": "JP",
+  "lat": 35.6895,
+  "lng": 139.69171,
+  "topics": [
+    "Rust"
+  ],
+  "twitter": "https://x.com/rustlang_tokyo",
+  "source": "confs.tech"
+}

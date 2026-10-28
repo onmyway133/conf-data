@@ -1,0 +1,24 @@
+{
+  "name": "Voxxed Days Amsterdam 2027",
+  "year": 2027,
+  "url": "https://amsterdam.voxxeddays.com",
+  "startDate": "2027-03-31",
+  "endDate": "2027-04-01",
+  "city": "Amsterdam",
+  "country": "NL",
+  "lat": 52.37403,
+  "lng": 4.88969,
+  "topics": [
+    "Data/AI",
+    "Java",
+    "Kotlin"
+  ],
+  "cfp": {
+    "url": "https://vdams27.cfp.dev",
+    "deadline": "2026-11-14",
+    "open": true
+  },
+  "twitter": "https://x.com/VoxxedAmsterdam",
+  "bluesky": "https://bsky.app/profile/amsterdam.voxxeddays.com",
+  "source": "confs.tech"
+}

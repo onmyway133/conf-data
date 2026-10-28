@@ -1,0 +1,14 @@
+{
+  "name": "DevSum 2019",
+  "year": 2019,
+  "url": "https://www.devsum.se",
+  "startDate": "2019-05-23",
+  "endDate": "2019-05-24",
+  "city": "Stockholm",
+  "country": "SE",
+  "lat": 59.32938,
+  "lng": 18.06871,
+  "topics": [],
+  "twitter": "https://x.com/DevSum_swe",
+  "source": "confs.tech"
+}

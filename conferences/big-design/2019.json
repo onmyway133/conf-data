@@ -1,0 +1,16 @@
+{
+  "name": "Big Design 2019",
+  "year": 2019,
+  "url": "https://bigdesignevents.com",
+  "startDate": "2019-09-19",
+  "endDate": "2019-09-21",
+  "city": "Dallas, TX",
+  "country": "US",
+  "lat": 32.78306,
+  "lng": -96.80667,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/bigdesign",
+  "source": "confs.tech"
+}

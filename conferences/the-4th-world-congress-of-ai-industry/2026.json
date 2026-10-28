@@ -1,0 +1,15 @@
+{
+  "name": "The 4th World Congress of AI Industry 2026",
+  "year": 2026,
+  "url": "https://bitcongress.com/wcai2026",
+  "startDate": "2026-06-16",
+  "endDate": "2026-06-18",
+  "city": "Kyoto",
+  "country": "JP",
+  "lat": 35.02107,
+  "lng": 135.75385,
+  "topics": [
+    "Data/AI"
+  ],
+  "source": "confs.tech"
+}

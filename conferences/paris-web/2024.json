@@ -1,0 +1,18 @@
+{
+  "name": "Paris Web 2024",
+  "year": 2024,
+  "url": "https://www.paris-web.fr",
+  "startDate": "2024-09-26",
+  "endDate": "2024-09-28",
+  "city": "Paris",
+  "country": "FR",
+  "lat": 48.85341,
+  "lng": 2.3488,
+  "topics": [],
+  "cfp": {
+    "url": "https://appel.paris-web.fr",
+    "open": false
+  },
+  "twitter": "https://x.com/parisweb",
+  "source": "confs.tech"
+}

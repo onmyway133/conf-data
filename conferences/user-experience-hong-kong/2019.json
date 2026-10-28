@@ -1,0 +1,16 @@
+{
+  "name": "User Experience Hong Kong 2019",
+  "year": 2019,
+  "url": "http://uxhongkong.com",
+  "startDate": "2019-02-15",
+  "endDate": "2019-02-16",
+  "city": "Hong Kong",
+  "country": "HK",
+  "lat": 22.27832,
+  "lng": 114.17469,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/uxhk",
+  "source": "confs.tech"
+}

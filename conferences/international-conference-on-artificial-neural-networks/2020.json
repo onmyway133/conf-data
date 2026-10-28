@@ -1,0 +1,15 @@
+{
+  "name": "International Conference on Artificial Neural Networks 2020",
+  "year": 2020,
+  "url": "https://icann.coreconferences.com",
+  "startDate": "2020-09-08",
+  "endDate": "2020-09-09",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "Data/AI"
+  ],
+  "source": "confs.tech"
+}

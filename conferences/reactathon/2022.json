@@ -1,0 +1,16 @@
+{
+  "name": "Reactathon 2022",
+  "year": 2022,
+  "url": "https://www.reactathon.com",
+  "startDate": "2022-05-02",
+  "endDate": "2022-05-05",
+  "city": "Berkeley, CA",
+  "country": "US",
+  "lat": 37.87159,
+  "lng": -122.27275,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/reactathon",
+  "source": "confs.tech"
+}

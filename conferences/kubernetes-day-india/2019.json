@@ -1,0 +1,15 @@
+{
+  "name": "Kubernetes Day India 2019",
+  "year": 2019,
+  "url": "https://kdi19.sched.com",
+  "startDate": "2019-03-23",
+  "endDate": "2019-03-23",
+  "city": "Bengaluru",
+  "country": "IN",
+  "lat": 12.97194,
+  "lng": 77.59369,
+  "topics": [
+    "DevOps"
+  ],
+  "source": "confs.tech"
+}

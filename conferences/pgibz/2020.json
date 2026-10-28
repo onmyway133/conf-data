@@ -1,0 +1,16 @@
+{
+  "name": "PGIBZ 2020",
+  "year": 2020,
+  "url": "https://pgibz.io",
+  "startDate": "2020-06-25",
+  "endDate": "2020-06-26",
+  "city": "Ibiza",
+  "country": "ES",
+  "lat": 38.90883,
+  "lng": 1.43296,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/pg_ibz",
+  "source": "confs.tech"
+}

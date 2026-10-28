@@ -1,0 +1,17 @@
+{
+  "name": "PyBay 2024",
+  "year": 2024,
+  "url": "https://pybay.org",
+  "startDate": "2024-09-21",
+  "endDate": "2024-09-21",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [
+    "Python"
+  ],
+  "twitter": "https://x.com/py_bay",
+  "mastodon": "https://fosstodon.org/@pybay",
+  "source": "confs.tech"
+}

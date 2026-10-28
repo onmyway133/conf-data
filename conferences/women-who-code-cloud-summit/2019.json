@@ -1,0 +1,19 @@
+{
+  "name": "Women Who Code Cloud Summit 2019",
+  "year": 2019,
+  "url": "http://cloud.womenwhocode.dev",
+  "startDate": "2019-09-28",
+  "endDate": "2019-09-28",
+  "city": "East Point, GA",
+  "country": "US",
+  "lat": 33.67955,
+  "lng": -84.43937,
+  "topics": [],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSfgSH98xsAB3c1wt3NiSIldxWKylryllGBzGv6AZox3mXHE-w/viewform",
+    "deadline": "2019-08-23",
+    "open": false
+  },
+  "twitter": "https://x.com/WWCodeCloud",
+  "source": "confs.tech"
+}

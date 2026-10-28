@@ -1,0 +1,16 @@
+{
+  "name": "OpML 2020",
+  "year": 2020,
+  "url": "https://www.usenix.org/conference/opml20",
+  "startDate": "2020-07-30",
+  "endDate": "2020-07-30",
+  "city": "Santa Clara, CA",
+  "country": "US",
+  "lat": 37.35411,
+  "lng": -121.95524,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/OpML",
+  "source": "confs.tech"
+}

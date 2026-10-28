@@ -1,0 +1,20 @@
+{
+  "name": "Laracon EU 2024",
+  "year": 2024,
+  "url": "https://laracon.eu",
+  "startDate": "2024-02-05",
+  "endDate": "2024-02-06",
+  "city": "Amsterdam",
+  "country": "NL",
+  "lat": 52.37403,
+  "lng": 4.88969,
+  "topics": [
+    "PHP"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLScFypq0-07JLgvFylUB6RcmE_0uBqPdte4l-UPNxqbmi7kHBw/viewform",
+    "deadline": "2024-01-31",
+    "open": false
+  },
+  "source": "confs.tech"
+}

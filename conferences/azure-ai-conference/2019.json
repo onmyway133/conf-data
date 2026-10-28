@@ -1,0 +1,16 @@
+{
+  "name": "Azure AI Conference 2019",
+  "year": 2019,
+  "url": "https://www.azureaiconf.com",
+  "startDate": "2019-06-09",
+  "endDate": "2019-06-13",
+  "city": "Orlando, FL",
+  "country": "US",
+  "lat": 28.53834,
+  "lng": -81.37924,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/azureaiconf",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "React Day Norway 2019",
+  "year": 2019,
+  "url": "https://reactnorway.com",
+  "startDate": "2019-06-12",
+  "endDate": "2019-06-12",
+  "city": "Larvik",
+  "country": "NO",
+  "lat": 59.05328,
+  "lng": 10.03517,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/reactnorway",
+  "source": "confs.tech"
+}

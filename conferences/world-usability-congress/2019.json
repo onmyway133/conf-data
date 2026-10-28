@@ -1,0 +1,15 @@
+{
+  "name": "World Usability Congress 2019",
+  "year": 2019,
+  "url": "https://worldusabilitycongress.com",
+  "startDate": "2019-10-16",
+  "endDate": "2019-10-17",
+  "city": "Graz",
+  "country": "AT",
+  "lat": 47.06733,
+  "lng": 15.44197,
+  "topics": [
+    "Design/UX"
+  ],
+  "source": "confs.tech"
+}

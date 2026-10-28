@@ -1,0 +1,16 @@
+{
+  "name": "NG Rome MMXIX 2019",
+  "year": 2019,
+  "url": "https://ngrome.io/home",
+  "startDate": "2019-10-07",
+  "endDate": "2019-10-07",
+  "city": "Rome",
+  "country": "IT",
+  "lat": 41.89193,
+  "lng": 12.51133,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/ngromeconf",
+  "source": "confs.tech"
+}

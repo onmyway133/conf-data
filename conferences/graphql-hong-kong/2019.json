@@ -1,0 +1,16 @@
+{
+  "name": "GraphQL Hong Kong 2019",
+  "year": 2019,
+  "url": "https://graphql-hongkong.org",
+  "startDate": "2019-09-30",
+  "endDate": "2019-09-30",
+  "city": "Hong Kong",
+  "country": "HK",
+  "lat": 22.27832,
+  "lng": 114.17469,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/GraphQLHongKong",
+  "source": "confs.tech"
+}

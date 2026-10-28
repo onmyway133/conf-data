@@ -1,0 +1,16 @@
+{
+  "name": "JavaOne 2025",
+  "year": 2025,
+  "url": "https://www.oracle.com/javaone/",
+  "startDate": "2025-03-18",
+  "endDate": "2025-03-20",
+  "city": "Redwood City, CA",
+  "country": "US",
+  "lat": 37.48522,
+  "lng": -122.23635,
+  "topics": [
+    "Java"
+  ],
+  "twitter": "https://x.com/JavaOne",
+  "source": "confs.tech"
+}

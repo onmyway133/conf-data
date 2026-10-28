@@ -1,0 +1,21 @@
+{
+  "name": "LDX3 London 2026",
+  "year": 2026,
+  "url": "https://leaddev.com/leaddev-london",
+  "startDate": "2026-06-02",
+  "endDate": "2026-06-03",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "Networking",
+    "Performance"
+  ],
+  "cfp": {
+    "url": "https://leaddev.com/leaddev-call-proposals",
+    "deadline": "2026-01-04",
+    "open": false
+  },
+  "source": "confs.tech"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "ng-japan 2019",
+  "year": 2019,
+  "url": "https://ngjapan.org",
+  "startDate": "2019-07-13",
+  "endDate": "2019-07-13",
+  "city": "Tokyo",
+  "country": "JP",
+  "lat": 35.6895,
+  "lng": 139.69171,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/ng-japan-2019",
+    "deadline": "2019-03-15",
+    "open": false
+  },
+  "twitter": "https://x.com/ng_japan",
+  "source": "confs.tech"
+}

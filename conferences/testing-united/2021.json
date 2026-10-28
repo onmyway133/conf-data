@@ -1,0 +1,16 @@
+{
+  "name": "Testing United 2021",
+  "year": 2021,
+  "url": "https://testingunited.com",
+  "startDate": "2021-11-11",
+  "endDate": "2021-11-12",
+  "city": "Prague",
+  "country": "CZ",
+  "lat": 50.08804,
+  "lng": 14.42076,
+  "topics": [
+    "Testing"
+  ],
+  "twitter": "https://x.com/testing_united",
+  "source": "confs.tech"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "PulpoCon 2020",
+  "year": 2020,
+  "url": "https://pulpocon.es",
+  "startDate": "2020-09-05",
+  "endDate": "2020-09-05",
+  "city": "Vigo",
+  "country": "ES",
+  "lat": 42.23282,
+  "lng": -8.72264,
+  "topics": [],
+  "twitter": "https://x.com/phpulpocon",
+  "source": "confs.tech"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "JSHeroes 2026",
+  "year": 2026,
+  "url": "https://jsheroes.io",
+  "startDate": "2026-05-14",
+  "endDate": "2026-05-15",
+  "city": "Cluj-Napoca",
+  "country": "RO",
+  "lat": 46.76667,
+  "lng": 23.6,
+  "topics": [
+    "CSS",
+    "JavaScript",
+    "TypeScript"
+  ],
+  "twitter": "https://x.com/jsheroes",
+  "bluesky": "https://bsky.app/profile/jsheroes.io",
+  "source": "confs.tech"
+}

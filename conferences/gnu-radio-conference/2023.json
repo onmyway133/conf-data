@@ -1,0 +1,22 @@
+{
+  "name": "GNU Radio Conference 2023",
+  "year": 2023,
+  "url": "https://events.gnuradio.org/e/grcon23",
+  "startDate": "2023-09-05",
+  "endDate": "2023-09-09",
+  "city": "Tempe, AZ",
+  "country": "US",
+  "lat": 33.41477,
+  "lng": -111.90931,
+  "topics": [
+    "Data/AI",
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://events.gnuradio.org/event/21/abstracts",
+    "deadline": "2023-06-05",
+    "open": false
+  },
+  "twitter": "https://x.com/gnuradio",
+  "source": "confs.tech"
+}

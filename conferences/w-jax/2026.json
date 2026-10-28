@@ -1,0 +1,16 @@
+{
+  "name": "W-JAX 2026",
+  "year": 2026,
+  "url": "https://jax.de/",
+  "startDate": "2026-11-02",
+  "endDate": "2026-11-06",
+  "city": "München",
+  "country": "DE",
+  "topics": [
+    "Data/AI",
+    "Cloud",
+    "DevOps",
+    "Security",
+    "Web"
+  ]
+}

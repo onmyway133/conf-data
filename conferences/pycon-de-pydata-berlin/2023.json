@@ -1,0 +1,21 @@
+{
+  "name": "PyCon DE & PyData Berlin 2023",
+  "year": 2023,
+  "url": "https://2023.pycon.de",
+  "startDate": "2023-04-17",
+  "endDate": "2023-04-19",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "Python"
+  ],
+  "cfp": {
+    "url": "https://2023.pycon.de/blog/call-for-proposals",
+    "deadline": "2023-01-05",
+    "open": false
+  },
+  "twitter": "https://x.com/PyConDE",
+  "source": "confs.tech"
+}

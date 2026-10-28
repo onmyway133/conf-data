@@ -1,0 +1,17 @@
+{
+  "name": "Friendly.rb 2024",
+  "year": 2024,
+  "url": "https://friendlyrb.com",
+  "startDate": "2024-09-18",
+  "endDate": "2024-09-19",
+  "city": "Bucharest",
+  "country": "RO",
+  "lat": 44.43225,
+  "lng": 26.10626,
+  "topics": [
+    "Ruby"
+  ],
+  "twitter": "https://x.com/friendlyrb",
+  "mastodon": "https://ruby.social/@friendlyrb",
+  "source": "confs.tech"
+}

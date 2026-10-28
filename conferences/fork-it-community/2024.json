@@ -1,0 +1,19 @@
+{
+  "name": "Fork it! Community 2024",
+  "year": 2024,
+  "url": "https://www.forkit.community/events/2024-06-07-rouen",
+  "startDate": "2024-06-07",
+  "endDate": "2024-06-07",
+  "city": "Rouen",
+  "country": "FR",
+  "lat": 49.44313,
+  "lng": 1.09932,
+  "topics": [],
+  "cfp": {
+    "url": "https://conference-hall.io/public/event/1GyOS8KvW02suD6jQmjz",
+    "deadline": "2024-04-19",
+    "open": false
+  },
+  "twitter": "https://x.com/ForkitCommunity",
+  "source": "confs.tech"
+}

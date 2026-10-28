@@ -1,0 +1,19 @@
+{
+  "name": "GopherCon Europe 2027",
+  "year": 2027,
+  "url": "https://www.gophercon.eu",
+  "startDate": "2027-06-14",
+  "endDate": "2027-06-17",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "Data/AI",
+    "DevOps",
+    "Go"
+  ],
+  "twitter": "https://x.com/gopherconeu",
+  "bluesky": "https://bsky.app/profile/gopherconeu.bsky.social",
+  "source": "confs.tech"
+}

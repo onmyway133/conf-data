@@ -1,0 +1,16 @@
+{
+  "name": "HalfStack Newquay 2022",
+  "year": 2022,
+  "url": "https://halfstackconf.com/newquay",
+  "startDate": "2022-07-01",
+  "endDate": "2022-07-01",
+  "city": "Newquay",
+  "country": "GB",
+  "lat": 50.41557,
+  "lng": -5.07319,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/halfstackconf",
+  "source": "confs.tech"
+}

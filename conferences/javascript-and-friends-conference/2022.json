@@ -1,0 +1,16 @@
+{
+  "name": "JavaScript and Friends Conference 2022",
+  "year": 2022,
+  "url": "https://www.javascriptandfriends.com",
+  "startDate": "2022-07-29",
+  "endDate": "2022-07-29",
+  "city": "Columbus, OH",
+  "country": "US",
+  "lat": 39.96118,
+  "lng": -82.99879,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/JSFriendsConf",
+  "source": "confs.tech"
+}

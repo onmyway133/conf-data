@@ -1,0 +1,19 @@
+{
+  "name": "All Things Open 2019",
+  "year": 2019,
+  "url": "https://allthingsopen.org",
+  "startDate": "2019-10-13",
+  "endDate": "2019-10-15",
+  "city": "Raleigh, NC",
+  "country": "US",
+  "lat": 35.7721,
+  "lng": -78.63861,
+  "topics": [],
+  "cfp": {
+    "url": "https://allthingsopen.org/call-for-papers",
+    "deadline": "2019-03-15",
+    "open": false
+  },
+  "twitter": "https://x.com/AllThingsOpen",
+  "source": "confs.tech"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "DevDays Europe 2020",
+  "year": 2020,
+  "url": "https://devdays.lt",
+  "startDate": "2020-05-05",
+  "endDate": "2020-05-07",
+  "city": "Vilnius",
+  "country": "LT",
+  "lat": 54.68916,
+  "lng": 25.2798,
+  "topics": [
+    "JavaScript"
+  ],
+  "source": "confs.tech"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "InflectraCon 2023",
+  "year": 2023,
+  "url": "https://www.inflectracon.com",
+  "startDate": "2023-04-19",
+  "endDate": "2023-04-21",
+  "city": "Washington, DC",
+  "country": "US",
+  "lat": 38.89511,
+  "lng": -77.03637,
+  "topics": [
+    "DevOps",
+    "Testing"
+  ],
+  "cfp": {
+    "url": "https://www.inflectracon.com/become-a-speaker-2023",
+    "deadline": "2022-10-31",
+    "open": false
+  },
+  "twitter": "https://x.com/inflectracon",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "International JavaScript Conference New York 2025",
+  "year": 2025,
+  "url": "https://javascript-conference.com/new-york",
+  "startDate": "2025-09-29",
+  "endDate": "2025-10-02",
+  "city": "New York, NY",
+  "country": "US",
+  "lat": 40.71427,
+  "lng": -74.00597,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/JavaScriptCon",
+  "source": "confs.tech"
+}

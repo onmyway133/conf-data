@@ -1,0 +1,20 @@
+{
+  "name": "IT-Tage 2024",
+  "year": 2024,
+  "url": "https://www.it-tage.org",
+  "startDate": "2024-12-09",
+  "endDate": "2024-12-12",
+  "city": "Frankfurt am Main",
+  "country": "DE",
+  "lat": 50.11552,
+  "lng": 8.68417,
+  "topics": [],
+  "cfp": {
+    "url": "https://www.it-tage.org/cfp",
+    "deadline": "2024-04-29",
+    "open": false
+  },
+  "twitter": "https://x.com/ittage",
+  "mastodon": "https://det.social/@informatikaktuell",
+  "source": "confs.tech"
+}

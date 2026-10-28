@@ -1,0 +1,16 @@
+{
+  "name": "dotJS 2026",
+  "year": 2026,
+  "url": "https://www.dotjs.io",
+  "startDate": "2026-09-18",
+  "endDate": "2026-09-18",
+  "city": "Paris",
+  "country": "FR",
+  "lat": 48.85341,
+  "lng": 2.3488,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/dotJS",
+  "source": "confs.tech"
+}

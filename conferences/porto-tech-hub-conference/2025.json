@@ -1,0 +1,19 @@
+{
+  "name": "Porto Tech Hub Conference 2025",
+  "year": 2025,
+  "url": "https://portotechhub.com/conference-2025",
+  "startDate": "2025-10-07",
+  "endDate": "2025-10-07",
+  "city": "Porto",
+  "country": "PT",
+  "lat": 41.1485,
+  "lng": -8.61097,
+  "topics": [],
+  "cfp": {
+    "url": "https://sessionize.com/pth-2025",
+    "deadline": "2025-05-18",
+    "open": false
+  },
+  "twitter": "https://x.com/PortoTechHub",
+  "source": "confs.tech"
+}

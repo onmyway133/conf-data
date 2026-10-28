@@ -1,0 +1,16 @@
+{
+  "name": "RustConf 2022",
+  "year": 2022,
+  "url": "https://rustconf.com",
+  "startDate": "2022-08-05",
+  "endDate": "2022-08-05",
+  "city": "Portland, OR",
+  "country": "US",
+  "lat": 45.52345,
+  "lng": -122.67621,
+  "topics": [
+    "Rust"
+  ],
+  "twitter": "https://x.com/rustconf",
+  "source": "confs.tech"
+}

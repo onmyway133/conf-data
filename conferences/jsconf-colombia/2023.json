@@ -1,0 +1,21 @@
+{
+  "name": "JSConf Colombia 2023",
+  "year": 2023,
+  "url": "https://www.jsconf.co",
+  "startDate": "2023-11-17",
+  "endDate": "2023-11-18",
+  "city": "Medellín",
+  "country": "CO",
+  "lat": 6.245,
+  "lng": -75.57151,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://cfp.jsconf.co",
+    "deadline": "2023-07-31",
+    "open": false
+  },
+  "twitter": "https://x.com/jsconfco",
+  "source": "confs.tech"
+}

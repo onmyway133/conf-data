@@ -1,0 +1,16 @@
+{
+  "name": "STPCon Fall 2021",
+  "year": 2021,
+  "url": "https://stpcon.com",
+  "startDate": "2021-09-27",
+  "endDate": "2021-09-29",
+  "city": "St. Louis, MO",
+  "country": "US",
+  "lat": 38.62727,
+  "lng": -90.19789,
+  "topics": [
+    "Testing"
+  ],
+  "twitter": "https://x.com/SoftwareTestPro",
+  "source": "confs.tech"
+}

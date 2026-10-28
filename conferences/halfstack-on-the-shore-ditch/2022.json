@@ -1,0 +1,21 @@
+{
+  "name": "HalfStack on the shore(ditch) 2022",
+  "year": 2022,
+  "url": "https://halfstackconf.com/london",
+  "startDate": "2022-11-16",
+  "endDate": "2022-11-16",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://halfstackconf.com/cfp",
+    "deadline": "2022-11-15",
+    "open": false
+  },
+  "twitter": "https://x.com/halfstackconf",
+  "source": "confs.tech"
+}

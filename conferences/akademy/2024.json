@@ -1,0 +1,20 @@
+{
+  "name": "Akademy 2024",
+  "year": 2024,
+  "url": "https://akademy.kde.org/2024",
+  "startDate": "2024-09-07",
+  "endDate": "2024-09-12",
+  "city": "Wuerzburg",
+  "country": "DE",
+  "lat": 49.79391,
+  "lng": 9.95121,
+  "topics": [],
+  "cfp": {
+    "url": "https://akademy.kde.org/2024/cfp",
+    "deadline": "2024-05-31",
+    "open": false
+  },
+  "twitter": "https://x.com/akademy",
+  "mastodon": "https://floss.social/@akademy",
+  "source": "confs.tech"
+}

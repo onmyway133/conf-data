@@ -1,0 +1,16 @@
+{
+  "name": "angularday 2020",
+  "year": 2020,
+  "url": "https://2020.angularday.it",
+  "startDate": "2020-12-04",
+  "endDate": "2020-12-04",
+  "city": "Verona",
+  "country": "IT",
+  "lat": 45.43854,
+  "lng": 10.9938,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/angularday",
+  "source": "confs.tech"
+}

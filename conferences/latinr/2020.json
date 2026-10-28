@@ -1,0 +1,16 @@
+{
+  "name": "LatinR 2020",
+  "year": 2020,
+  "url": "https://latin-r.com",
+  "startDate": "2020-10-07",
+  "endDate": "2020-10-09",
+  "city": "Montevideo",
+  "country": "UY",
+  "lat": -34.90328,
+  "lng": -56.18816,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/LatinR_Conf",
+  "source": "confs.tech"
+}

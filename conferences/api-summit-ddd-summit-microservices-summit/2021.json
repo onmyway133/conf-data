@@ -1,0 +1,16 @@
+{
+  "name": "API Summit, DDD Summit & Microservices Summit 2021",
+  "year": 2021,
+  "url": "https://api-summit.de/berlin",
+  "startDate": "2021-11-22",
+  "endDate": "2021-11-24",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/apisummit_de",
+  "source": "confs.tech"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Swiss PGDay 2025",
+  "year": 2025,
+  "url": "https://www.pgday.ch/2025",
+  "startDate": "2025-06-26",
+  "endDate": "2025-06-27",
+  "city": "Rapperswil-Jona",
+  "country": "CH",
+  "topics": [
+    "Data/AI",
+    "Open Source"
+  ],
+  "cfp": {
+    "url": "https://www.pgday.ch/2025/#cfs",
+    "deadline": "2025-04-07",
+    "open": false
+  },
+  "mastodon": "https://fosstodon.org/@Swiss_PGDay",
+  "source": "confs.tech"
+}

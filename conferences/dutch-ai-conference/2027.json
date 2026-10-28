@@ -1,0 +1,22 @@
+{
+  "name": "Dutch AI Conference 2027",
+  "year": 2027,
+  "url": "https://aiconference.nl",
+  "startDate": "2027-03-16",
+  "endDate": "2027-03-18",
+  "city": "Amsterdam",
+  "country": "NL",
+  "lat": 52.37403,
+  "lng": 4.88969,
+  "topics": [
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/dawn-conferences-2027",
+    "deadline": "2026-12-18",
+    "open": true
+  },
+  "twitter": "https://x.com/dutchaicon",
+  "mastodon": "https://mastodon.social/@dutchaicon",
+  "source": "confs.tech"
+}

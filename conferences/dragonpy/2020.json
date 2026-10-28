@@ -1,0 +1,16 @@
+{
+  "name": "DragonPy 2020",
+  "year": 2020,
+  "url": "https://dragonpy.com",
+  "startDate": "2020-09-19",
+  "endDate": "2020-09-20",
+  "city": "Ljubljana",
+  "country": "SI",
+  "lat": 46.05108,
+  "lng": 14.50513,
+  "topics": [
+    "Python"
+  ],
+  "twitter": "https://x.com/dragonpyconf",
+  "source": "confs.tech"
+}

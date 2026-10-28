@@ -1,0 +1,18 @@
+{
+  "name": "Florida Drupal Camp 2026",
+  "year": 2026,
+  "url": "https://www.fldrupal.camp",
+  "startDate": "2026-02-20",
+  "endDate": "2026-02-22",
+  "city": "Orlando, FL",
+  "country": "US",
+  "lat": 28.53834,
+  "lng": -81.37924,
+  "topics": [
+    "PHP"
+  ],
+  "twitter": "https://x.com/fldrupalcamp",
+  "bluesky": "https://bsky.app/profile/fldrupal.camp",
+  "mastodon": "https://drupal.community/@fldrupalcamp",
+  "source": "confs.tech"
+}

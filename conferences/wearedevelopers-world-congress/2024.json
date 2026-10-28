@@ -1,0 +1,23 @@
+{
+  "name": "WeAreDevelopers - World Congress 2024",
+  "year": 2024,
+  "url": "https://www.wearedevelopers.com/world-congress",
+  "startDate": "2024-07-17",
+  "endDate": "2024-07-19",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    ".NET",
+    "JavaScript",
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/wearedevelopers-world-congress-2024",
+    "deadline": "2024-06-04",
+    "open": false
+  },
+  "twitter": "https://x.com/wearedevs",
+  "source": "confs.tech"
+}

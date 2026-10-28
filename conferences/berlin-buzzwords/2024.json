@@ -1,0 +1,22 @@
+{
+  "name": "Berlin Buzzwords 2024",
+  "year": 2024,
+  "url": "https://2024.berlinbuzzwords.de",
+  "startDate": "2024-06-09",
+  "endDate": "2024-06-11",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://2024.berlinbuzzwords.de/call-for-papers",
+    "deadline": "2024-02-25",
+    "open": false
+  },
+  "twitter": "https://x.com/berlinbuzzwords",
+  "mastodon": "https://floss.social/@berlinbuzzwords",
+  "source": "confs.tech"
+}

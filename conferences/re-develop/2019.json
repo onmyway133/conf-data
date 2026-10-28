@@ -1,0 +1,19 @@
+{
+  "name": "re:develop 2019",
+  "year": 2019,
+  "url": "https://redevelop.io",
+  "startDate": "2019-09-20",
+  "endDate": "2019-09-20",
+  "city": "Bournemouth",
+  "country": "GB",
+  "lat": 50.72048,
+  "lng": -1.8795,
+  "topics": [],
+  "cfp": {
+    "url": "https://redevelop.io/cfp",
+    "deadline": "2019-06-07",
+    "open": false
+  },
+  "twitter": "https://x.com/redevelopconf",
+  "source": "confs.tech"
+}

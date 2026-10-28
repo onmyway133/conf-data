@@ -1,0 +1,22 @@
+{
+  "name": "WeyWeyWeb 2023",
+  "year": 2023,
+  "url": "https://www.weyweyweb.com",
+  "startDate": "2023-11-23",
+  "endDate": "2023-11-24",
+  "city": "Malaga",
+  "country": "ES",
+  "lat": 36.72016,
+  "lng": -4.42034,
+  "topics": [
+    "Accessibility",
+    "Design/UX"
+  ],
+  "cfp": {
+    "url": "https://forms.gle/nLWop1Aw7urdzGrt6",
+    "deadline": "2023-09-01",
+    "open": false
+  },
+  "twitter": "https://x.com/WeyWeyWeb",
+  "source": "confs.tech"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "DDD Summit 2019",
+  "year": 2019,
+  "url": "https://ddd-summit.de",
+  "startDate": "2019-12-09",
+  "endDate": "2019-12-11",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [],
+  "twitter": "https://x.com/DDDSummit",
+  "source": "confs.tech"
+}

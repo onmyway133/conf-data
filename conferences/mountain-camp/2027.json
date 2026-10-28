@@ -1,0 +1,25 @@
+{
+  "name": "Mountain Camp 2027",
+  "year": 2027,
+  "url": "https://drupalmountaincamp.ch",
+  "startDate": "2027-03-02",
+  "endDate": "2027-03-04",
+  "city": "Davos",
+  "country": "CH",
+  "lat": 46.80429,
+  "lng": 9.83723,
+  "topics": [
+    "Data/AI",
+    "Open Source",
+    "PHP"
+  ],
+  "cfp": {
+    "url": "https://event.drupalmountaincamp.ch/mountain-camp-2027",
+    "deadline": "2026-10-11",
+    "open": true
+  },
+  "twitter": "https://x.com/mountaincampch",
+  "bluesky": "https://bsky.app/profile/drupal.ch",
+  "mastodon": "https://drupal.community/@mountaincampch",
+  "source": "confs.tech"
+}

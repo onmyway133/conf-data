@@ -1,0 +1,20 @@
+{
+  "name": "data2day 2026",
+  "year": 2026,
+  "url": "https://www.data2day.de",
+  "startDate": "2026-10-07",
+  "endDate": "2026-10-08",
+  "city": "Cologne",
+  "country": "DE",
+  "lat": 50.93333,
+  "lng": 6.95,
+  "topics": [
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://www.data2day.de/cfp.php",
+    "deadline": "2026-04-15",
+    "open": false
+  },
+  "source": "confs.tech"
+}

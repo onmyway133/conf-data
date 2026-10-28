@@ -1,0 +1,17 @@
+{
+  "name": "UpFront 2019",
+  "year": 2019,
+  "url": "https://upfrontconf.com",
+  "startDate": "2019-03-22",
+  "endDate": "2019-03-22",
+  "city": "Manchester",
+  "country": "GB",
+  "lat": 53.48095,
+  "lng": -2.23743,
+  "topics": [
+    "JavaScript",
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/upfrontconf",
+  "source": "confs.tech"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Drupalcamp Florida 2019",
+  "year": 2019,
+  "url": "https://www.fldrupal.camp",
+  "startDate": "2019-02-15",
+  "endDate": "2019-02-17",
+  "city": "Orlando, FL",
+  "country": "US",
+  "lat": 28.53834,
+  "lng": -81.37924,
+  "topics": [
+    "PHP"
+  ],
+  "cfp": {
+    "url": "https://www.fldrupal.camp/submit-session",
+    "deadline": "2019-01-14",
+    "open": false
+  },
+  "twitter": "https://x.com/fldrupalcamp",
+  "source": "confs.tech"
+}

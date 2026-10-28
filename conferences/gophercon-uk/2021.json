@@ -1,0 +1,15 @@
+{
+  "name": "GopherCon UK 2021",
+  "year": 2021,
+  "url": "https://www.gophercon.co.uk",
+  "startDate": "2021-10-25",
+  "endDate": "2021-10-27",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "Go"
+  ],
+  "source": "confs.tech"
+}

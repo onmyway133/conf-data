@@ -1,0 +1,16 @@
+{
+  "name": "reactjsday 2020",
+  "year": 2020,
+  "url": "http://www.reactjsday.it",
+  "startDate": "2020-10-15",
+  "endDate": "2020-10-15",
+  "city": "Verona",
+  "country": "IT",
+  "lat": 45.43854,
+  "lng": 10.9938,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/reactjsday",
+  "source": "confs.tech"
+}

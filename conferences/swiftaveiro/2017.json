@@ -1,0 +1,15 @@
+{
+  "name": "SwiftAveiro 2017",
+  "year": 2017,
+  "url": "http://swiftaveiro.xyz/",
+  "startDate": "2017-06-01",
+  "endDate": "2017-06-02",
+  "city": "Aveiro",
+  "country": "PT",
+  "lat": 40.64575,
+  "lng": -8.64643,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Balkan Computer Congress 2020",
+  "year": 2020,
+  "url": "https://2k20.balccon.org",
+  "startDate": "2020-09-25",
+  "endDate": "2020-09-27",
+  "city": "Novi Sad",
+  "country": "RS",
+  "lat": 45.25167,
+  "lng": 19.83694,
+  "topics": [
+    "Security"
+  ],
+  "twitter": "https://x.com/balcc0n",
+  "source": "confs.tech"
+}

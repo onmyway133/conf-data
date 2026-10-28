@@ -1,0 +1,15 @@
+{
+  "name": "osquery@scale 2020",
+  "year": 2020,
+  "url": "https://www.osqueryatscale.com",
+  "startDate": "2020-01-22",
+  "endDate": "2020-01-23",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [
+    "Security"
+  ],
+  "source": "confs.tech"
+}

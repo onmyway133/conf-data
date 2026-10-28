@@ -1,0 +1,16 @@
+{
+  "name": "Salon de la data 2023",
+  "year": 2023,
+  "url": "https://salondata.fr/index.php/le-salon",
+  "startDate": "2023-09-19",
+  "endDate": "2023-09-19",
+  "city": "Nantes",
+  "country": "FR",
+  "lat": 47.21725,
+  "lng": -1.55336,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/salondata",
+  "source": "confs.tech"
+}

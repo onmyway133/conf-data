@@ -1,0 +1,15 @@
+{
+  "name": "Pycon India 2023",
+  "year": 2023,
+  "url": "https://in.pycon.org/2023",
+  "startDate": "2023-09-29",
+  "endDate": "2023-10-02",
+  "city": "Hyderabad",
+  "country": "IN",
+  "lat": 17.38405,
+  "lng": 78.45636,
+  "topics": [
+    "Python"
+  ],
+  "source": "confs.tech"
+}

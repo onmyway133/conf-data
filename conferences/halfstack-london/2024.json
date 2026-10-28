@@ -1,0 +1,17 @@
+{
+  "name": "HalfStack London 2024",
+  "year": 2024,
+  "url": "https://halfstackconf.com/london",
+  "startDate": "2024-11-13",
+  "endDate": "2024-11-13",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "JavaScript",
+    "TypeScript"
+  ],
+  "twitter": "https://x.com/halfstackconf",
+  "source": "confs.tech"
+}

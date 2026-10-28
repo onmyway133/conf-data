@@ -1,0 +1,16 @@
+{
+  "name": "SunshinePHP 2020",
+  "year": 2020,
+  "url": "https://2020.sunshinephp.com",
+  "startDate": "2020-02-06",
+  "endDate": "2020-02-08",
+  "city": "Miami, FL",
+  "country": "US",
+  "lat": 25.77427,
+  "lng": -80.19366,
+  "topics": [
+    "PHP"
+  ],
+  "twitter": "https://x.com/SunShinePHP",
+  "source": "confs.tech"
+}

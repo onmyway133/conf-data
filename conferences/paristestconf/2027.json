@@ -1,0 +1,20 @@
+{
+  "name": "ParisTestConf 2027",
+  "year": 2027,
+  "url": "https://paristestconf.com",
+  "startDate": "2027-03-23",
+  "endDate": "2027-03-23",
+  "city": "Paris",
+  "country": "FR",
+  "lat": 48.85341,
+  "lng": 2.3488,
+  "topics": [
+    "Testing"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/paristestconf-2027",
+    "deadline": "2026-10-31",
+    "open": true
+  },
+  "source": "confs.tech"
+}

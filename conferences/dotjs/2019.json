@@ -1,0 +1,16 @@
+{
+  "name": "dotJS 2019",
+  "year": 2019,
+  "url": "https://2019.dotjs.io",
+  "startDate": "2019-12-05",
+  "endDate": "2019-12-06",
+  "city": "Paris",
+  "country": "FR",
+  "lat": 48.85341,
+  "lng": 2.3488,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/dotJS",
+  "source": "confs.tech"
+}

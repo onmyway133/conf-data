@@ -1,0 +1,16 @@
+{
+  "name": "SXSW Festival 2019",
+  "year": 2019,
+  "url": "https://www.sxsw.com/conference",
+  "startDate": "2019-03-09",
+  "endDate": "2019-03-16",
+  "city": "Austin, TX",
+  "country": "US",
+  "lat": 30.26715,
+  "lng": -97.74306,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/sxsw",
+  "source": "confs.tech"
+}

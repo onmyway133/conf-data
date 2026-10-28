@@ -1,0 +1,16 @@
+{
+  "name": "hardwear.io 2019",
+  "year": 2019,
+  "url": "https://hardwear.io",
+  "startDate": "2019-09-23",
+  "endDate": "2019-09-27",
+  "city": "The Hague",
+  "country": "NL",
+  "lat": 52.07667,
+  "lng": 4.29861,
+  "topics": [
+    "Security"
+  ],
+  "twitter": "https://x.com/hardwear_io",
+  "source": "confs.tech"
+}

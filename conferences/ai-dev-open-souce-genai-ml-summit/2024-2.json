@@ -1,0 +1,21 @@
+{
+  "name": "AI.dev: Open Souce GenAI & ML Summit 2024",
+  "year": 2024,
+  "url": "https://events.linuxfoundation.org/ai-dev-north-america",
+  "startDate": "2024-10-14",
+  "endDate": "2024-10-15",
+  "city": "Seattle, WA",
+  "country": "US",
+  "lat": 47.60621,
+  "lng": -122.33207,
+  "topics": [
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://events.linuxfoundation.org/ai-dev-north-america/program/cfp",
+    "deadline": "2023-10-23",
+    "open": false
+  },
+  "twitter": "https://x.com/LinuxFoundation",
+  "source": "confs.tech"
+}

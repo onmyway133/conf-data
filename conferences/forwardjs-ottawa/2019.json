@@ -1,0 +1,20 @@
+{
+  "name": "ForwardJS Ottawa 2019",
+  "year": 2019,
+  "url": "https://forwardjs.com/ottawa",
+  "startDate": "2019-04-09",
+  "endDate": "2019-04-12",
+  "city": "Ottawa",
+  "country": "CA",
+  "lat": 45.41117,
+  "lng": -75.69812,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSc-l9XDlihF2JTk5bHAzd0XCU16xg2XG-OP3a_HGInczb7CXw/closedform",
+    "open": false
+  },
+  "twitter": "https://x.com/forwardJS",
+  "source": "confs.tech"
+}

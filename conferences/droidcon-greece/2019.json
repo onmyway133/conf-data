@@ -1,0 +1,21 @@
+{
+  "name": ".droidcon Greece 2019",
+  "year": 2019,
+  "url": "https://droidcon.gr",
+  "startDate": "2019-09-24",
+  "endDate": "2019-09-25",
+  "city": "Heraklion",
+  "country": "GR",
+  "lat": 35.32787,
+  "lng": 25.14341,
+  "topics": [
+    "Android"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/droidconGR",
+    "deadline": "2019-07-31",
+    "open": false
+  },
+  "twitter": "https://x.com/droidconGr",
+  "source": "confs.tech"
+}

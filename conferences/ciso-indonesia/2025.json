@@ -1,0 +1,16 @@
+{
+  "name": "CISO Indonesia 2025",
+  "year": 2025,
+  "url": "https://ciso-id.coriniumintelligence.com",
+  "startDate": "2025-12-03",
+  "endDate": "2025-12-03",
+  "city": "Jakarta",
+  "country": "ID",
+  "lat": -6.21462,
+  "lng": 106.84513,
+  "topics": [
+    "Security"
+  ],
+  "twitter": "https://x.com/CoriniumGlobal",
+  "source": "confs.tech"
+}

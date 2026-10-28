@@ -1,0 +1,16 @@
+{
+  "name": "Devopsdays London 2023",
+  "year": 2023,
+  "url": "https://devopsdays.org/events/2023-london/welcome",
+  "startDate": "2023-09-21",
+  "endDate": "2023-09-22",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/DevOpsDaysLDN",
+  "source": "confs.tech"
+}

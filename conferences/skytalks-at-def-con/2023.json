@@ -1,0 +1,16 @@
+{
+  "name": "Skytalks at DEF CON 2023",
+  "year": 2023,
+  "url": "https://skytalks.info",
+  "startDate": "2023-08-10",
+  "endDate": "2023-08-13",
+  "city": "Las Vegas, NV",
+  "country": "US",
+  "lat": 36.17497,
+  "lng": -115.13722,
+  "topics": [
+    "Security"
+  ],
+  "twitter": "https://x.com/dcskytalks",
+  "source": "confs.tech"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Agile Testing Days 2022",
+  "year": 2022,
+  "url": "https://agiletestingdays.com",
+  "startDate": "2022-11-21",
+  "endDate": "2022-11-24",
+  "city": "Potsdam",
+  "country": "DE",
+  "lat": 52.39886,
+  "lng": 13.06566,
+  "topics": [],
+  "cfp": {
+    "url": "https://agiletestingdays.com/call-for-papers",
+    "deadline": "2022-03-20",
+    "open": false
+  },
+  "twitter": "https://x.com/AgileTD",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "SREDay 2025",
+  "year": 2025,
+  "url": "https://sreday.com/2025-san-francisco-q2",
+  "startDate": "2025-04-11",
+  "endDate": "2025-04-11",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [
+    "SRE"
+  ],
+  "twitter": "https://x.com/sreday_com",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "International JavaScript Conference 2019",
+  "year": 2019,
+  "url": "https://javascript-conference.com",
+  "startDate": "2019-10-21",
+  "endDate": "2019-10-25",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/JavaScriptCon",
+  "source": "confs.tech"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "GeekOut 2019",
+  "year": 2019,
+  "url": "https://2019.geekout.ee",
+  "startDate": "2019-09-26",
+  "endDate": "2019-09-27",
+  "city": "Tallinn",
+  "country": "EE",
+  "lat": 59.43696,
+  "lng": 24.75353,
+  "topics": [
+    "Java"
+  ],
+  "cfp": {
+    "url": "https://www.papercall.io/geekout2019",
+    "deadline": "2019-03-31",
+    "open": false
+  },
+  "twitter": "https://x.com/GeekOutEE",
+  "source": "confs.tech"
+}

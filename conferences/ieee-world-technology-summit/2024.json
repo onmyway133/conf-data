@@ -1,0 +1,16 @@
+{
+  "name": "IEEE World Technology Summit 2024",
+  "year": 2024,
+  "url": "https://wts.ieee.org",
+  "startDate": "2024-11-12",
+  "endDate": "2024-11-14",
+  "city": "San Jose, CA",
+  "country": "US",
+  "lat": 37.33939,
+  "lng": -121.89496,
+  "topics": [
+    "Data/AI",
+    "Design/UX"
+  ],
+  "source": "confs.tech"
+}

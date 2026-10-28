@@ -1,0 +1,14 @@
+{
+  "name": "IPFS Camp 2019",
+  "year": 2019,
+  "url": "https://camp.ipfs.io",
+  "startDate": "2019-06-27",
+  "endDate": "2019-06-30",
+  "city": "Barcelona",
+  "country": "ES",
+  "lat": 41.38879,
+  "lng": 2.15899,
+  "topics": [],
+  "twitter": "https://x.com/IPFSbot",
+  "source": "confs.tech"
+}

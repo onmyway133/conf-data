@@ -1,0 +1,22 @@
+{
+  "name": "DevOpsCon Berlin 2022",
+  "year": 2022,
+  "url": "https://devopscon.io/berlin",
+  "startDate": "2022-06-20",
+  "endDate": "2022-06-23",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "DevOps",
+    "Testing"
+  ],
+  "cfp": {
+    "url": "https://callforpapers.sandsmedia.com",
+    "deadline": "2022-05-01",
+    "open": false
+  },
+  "twitter": "https://x.com/devops_con",
+  "source": "confs.tech"
+}

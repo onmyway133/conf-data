@@ -1,0 +1,15 @@
+{
+  "name": "PostgreSQL Conference Nepal 2023",
+  "year": 2023,
+  "url": "https://pgconf.org.np",
+  "startDate": "2023-05-11",
+  "endDate": "2023-05-12",
+  "city": "Kathmandu",
+  "country": "NP",
+  "lat": 27.70169,
+  "lng": 85.3206,
+  "topics": [
+    "Data/AI"
+  ],
+  "source": "confs.tech"
+}

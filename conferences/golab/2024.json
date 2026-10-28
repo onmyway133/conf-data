@@ -1,0 +1,22 @@
+{
+  "name": "GoLab 2024",
+  "year": 2024,
+  "url": "https://golab.io",
+  "startDate": "2024-11-11",
+  "endDate": "2024-11-13",
+  "city": "Florence",
+  "country": "IT",
+  "lat": 43.77925,
+  "lng": 11.24626,
+  "topics": [
+    "Go"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/golab-2024",
+    "deadline": "2024-05-01",
+    "open": false
+  },
+  "twitter": "https://x.com/golab_conf",
+  "mastodon": "https://mastodon.uno/@golab",
+  "source": "confs.tech"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "ConFoo Montreal 2027",
+  "year": 2027,
+  "url": "https://confoo.ca/en/2027",
+  "startDate": "2027-02-24",
+  "endDate": "2027-02-26",
+  "city": "Montreal",
+  "country": "CA",
+  "lat": 45.50884,
+  "lng": -73.58781,
+  "topics": [],
+  "cfp": {
+    "url": "https://confoo.ca/en/2027/call-for-papers",
+    "deadline": "2026-09-20",
+    "open": true
+  },
+  "twitter": "https://x.com/confooca",
+  "bluesky": "https://bsky.app/profile/confooca.bsky.social",
+  "mastodon": "https://techhub.social/@confooca",
+  "source": "confs.tech"
+}

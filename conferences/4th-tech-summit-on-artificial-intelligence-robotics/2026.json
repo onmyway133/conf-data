@@ -1,0 +1,20 @@
+{
+  "name": "4th Tech Summit on Artificial Intelligence & Robotics 2026",
+  "year": 2026,
+  "url": "https://artificialintelligence.averconferences.com",
+  "startDate": "2026-08-02",
+  "endDate": "2026-08-02",
+  "city": "Paris",
+  "country": "FR",
+  "lat": 48.85341,
+  "lng": 2.3488,
+  "topics": [
+    "IoT"
+  ],
+  "cfp": {
+    "url": "https://artificialintelligence.averconferences.com/scientific_session.php",
+    "deadline": "2026-07-18",
+    "open": false
+  },
+  "source": "confs.tech"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Twin Cities Software Symposium 2023",
+  "year": 2023,
+  "url": "https://nofluffjuststuff.com/minneapolis",
+  "startDate": "2023-10-20",
+  "endDate": "2023-10-21",
+  "city": "Minneapolis, MN",
+  "country": "US",
+  "lat": 44.97997,
+  "lng": -93.26384,
+  "topics": [
+    "DevOps",
+    "Java"
+  ],
+  "twitter": "https://x.com/nofluff",
+  "source": "confs.tech"
+}

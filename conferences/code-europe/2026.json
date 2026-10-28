@@ -1,0 +1,19 @@
+{
+  "name": "Code Europe 2026",
+  "year": 2026,
+  "url": "https://www.codeeurope.pl",
+  "startDate": "2026-09-14",
+  "endDate": "2026-09-15",
+  "city": "Warsaw",
+  "country": "PL",
+  "lat": 52.22977,
+  "lng": 21.01178,
+  "topics": [],
+  "cfp": {
+    "url": "https://forms.gle/KpaT9ix5spaVe2A59",
+    "deadline": "2026-06-30",
+    "open": false
+  },
+  "twitter": "https://x.com/code_europe",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Umbracokalaset 2025",
+  "year": 2025,
+  "url": "https://www.umbracokalaset.se",
+  "startDate": "2025-10-22",
+  "endDate": "2025-10-22",
+  "city": "Stockholm",
+  "country": "SE",
+  "lat": 59.32938,
+  "lng": 18.06871,
+  "topics": [
+    ".NET"
+  ],
+  "twitter": "https://x.com/umbracokalaset",
+  "source": "confs.tech"
+}

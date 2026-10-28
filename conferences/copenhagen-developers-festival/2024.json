@@ -1,0 +1,19 @@
+{
+  "name": "Copenhagen Developers Festival 2024",
+  "year": 2024,
+  "url": "https://cphdevfest.com",
+  "startDate": "2024-08-26",
+  "endDate": "2024-08-30",
+  "city": "Copenhagen",
+  "country": "DK",
+  "lat": 55.67594,
+  "lng": 12.56553,
+  "topics": [],
+  "cfp": {
+    "url": "https://cphdevfest.com/call-for-papers",
+    "deadline": "2024-03-31",
+    "open": false
+  },
+  "twitter": "https://x.com/NDC_Conferences",
+  "source": "confs.tech"
+}

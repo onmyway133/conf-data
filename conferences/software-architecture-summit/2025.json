@@ -1,0 +1,17 @@
+{
+  "name": "Software Architecture Summit 2025",
+  "year": 2025,
+  "url": "https://software-architecture-summit.de/muenchen",
+  "startDate": "2025-03-24",
+  "endDate": "2025-03-26",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [
+    "IoT",
+    "Security"
+  ],
+  "twitter": "https://x.com/SoftwArchSummit",
+  "source": "confs.tech"
+}

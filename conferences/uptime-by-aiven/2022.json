@@ -1,0 +1,20 @@
+{
+  "name": "Uptime by Aiven 2022",
+  "year": 2022,
+  "url": "https://github.com/aiven/uptime-conference-2022",
+  "startDate": "2022-09-14",
+  "endDate": "2022-09-15",
+  "city": "Amsterdam",
+  "country": "NL",
+  "lat": 52.37403,
+  "lng": 4.88969,
+  "topics": [
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/uptime-conference-2022",
+    "deadline": "2022-03-09",
+    "open": false
+  },
+  "source": "confs.tech"
+}

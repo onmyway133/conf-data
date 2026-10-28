@@ -1,0 +1,14 @@
+{
+  "name": "ETHConf 2027",
+  "year": 2027,
+  "url": "https://ethconf.com/",
+  "startDate": "2027-06-14",
+  "endDate": "2027-06-16",
+  "city": "New York",
+  "country": "US",
+  "topics": [],
+  "cfp": {
+    "url": "https://ethconf.com/apply/speaker",
+    "open": true
+  }
+}

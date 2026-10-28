@@ -1,0 +1,21 @@
+{
+  "name": "AI DevSummit 2024",
+  "year": 2024,
+  "url": "https://aidevsummit.co",
+  "startDate": "2024-05-29",
+  "endDate": "2024-06-06",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/ai-devsummit-2024",
+    "deadline": "2024-03-22",
+    "open": false
+  },
+  "twitter": "https://x.com/DevNetwork_",
+  "source": "confs.tech"
+}

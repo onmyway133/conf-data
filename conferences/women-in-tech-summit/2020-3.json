@@ -1,0 +1,16 @@
+{
+  "name": "Women in Tech Summit 2020",
+  "year": 2020,
+  "url": "https://midatlantic.womenintechsummit.net",
+  "startDate": "2020-10-17",
+  "endDate": "2020-10-18",
+  "city": "Washington, DC",
+  "country": "US",
+  "lat": 38.89511,
+  "lng": -77.03637,
+  "topics": [
+    "Networking"
+  ],
+  "twitter": "https://x.com/womentechsummit",
+  "source": "confs.tech"
+}

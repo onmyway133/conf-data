@@ -1,0 +1,17 @@
+{
+  "name": "DevRelCon 2025",
+  "year": 2025,
+  "url": "https://nyc.devrelcon.dev",
+  "startDate": "2025-07-17",
+  "endDate": "2025-07-18",
+  "city": "New York, NY",
+  "country": "US",
+  "lat": 40.71427,
+  "lng": -74.00597,
+  "topics": [
+    "APIs",
+    "Open Source"
+  ],
+  "twitter": "https://x.com/devrelcon",
+  "source": "confs.tech"
+}

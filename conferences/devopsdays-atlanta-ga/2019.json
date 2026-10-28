@@ -1,0 +1,20 @@
+{
+  "name": "DevOpsDays Atlanta, GA 2019",
+  "year": 2019,
+  "url": "https://www.devopsdays.org/events/2019-atlanta/welcome",
+  "startDate": "2019-04-09",
+  "endDate": "2019-04-10",
+  "city": "Atlanta, GA",
+  "country": "US",
+  "lat": 33.749,
+  "lng": -84.38798,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://www.papercall.io/devopsdaysatl2019",
+    "deadline": "2019-02-28",
+    "open": false
+  },
+  "source": "confs.tech"
+}

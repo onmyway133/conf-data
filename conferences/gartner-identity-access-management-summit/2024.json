@@ -1,0 +1,16 @@
+{
+  "name": "Gartner Identity & Access Management Summit 2024",
+  "year": 2024,
+  "url": "https://www.gartner.com/en/conferences/na/identity-access-management-us",
+  "startDate": "2024-12-09",
+  "endDate": "2024-12-11",
+  "city": "Grapevine, TX",
+  "country": "US",
+  "lat": 32.93429,
+  "lng": -97.07807,
+  "topics": [
+    "Security"
+  ],
+  "twitter": "https://x.com/Gartner_inc",
+  "source": "confs.tech"
+}

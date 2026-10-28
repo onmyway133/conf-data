@@ -1,0 +1,16 @@
+{
+  "name": "EMERGE 2022",
+  "year": 2022,
+  "url": "https://emergeconf.io",
+  "startDate": "2022-06-01",
+  "endDate": "2022-06-02",
+  "city": "Yerevan",
+  "country": "AM",
+  "lat": 40.17765,
+  "lng": 44.5126,
+  "topics": [
+    "Networking"
+  ],
+  "twitter": "https://x.com/EmergeConfHQ",
+  "source": "confs.tech"
+}

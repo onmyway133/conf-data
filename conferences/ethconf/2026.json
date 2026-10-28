@@ -1,0 +1,21 @@
+{
+  "name": "ETHConf 2026",
+  "year": 2026,
+  "url": "https://ethconf.com/r/CTECONF",
+  "startDate": "2026-06-08",
+  "endDate": "2026-06-10",
+  "city": "New York, NY",
+  "country": "US",
+  "lat": 40.71427,
+  "lng": -74.00597,
+  "topics": [
+    "Networking"
+  ],
+  "cfp": {
+    "url": "https://ethconf.com/partner",
+    "deadline": "2026-04-01",
+    "open": false
+  },
+  "twitter": "https://x.com/ethereumconf",
+  "source": "confs.tech"
+}

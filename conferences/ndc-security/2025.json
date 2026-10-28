@@ -1,0 +1,16 @@
+{
+  "name": "NDC Security 2025",
+  "year": 2025,
+  "url": "https://ndc-security.com",
+  "startDate": "2025-01-20",
+  "endDate": "2025-01-23",
+  "city": "Oslo",
+  "country": "NO",
+  "lat": 59.91273,
+  "lng": 10.74609,
+  "topics": [
+    "Security"
+  ],
+  "twitter": "https://x.com/NDC_Conferences",
+  "source": "confs.tech"
+}

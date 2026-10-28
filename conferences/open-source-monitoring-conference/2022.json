@@ -1,0 +1,21 @@
+{
+  "name": "Open Source Monitoring Conference 2022",
+  "year": 2022,
+  "url": "https://osmc.de",
+  "startDate": "2022-11-14",
+  "endDate": "2022-11-16",
+  "city": "Nürnberg",
+  "country": "DE",
+  "lat": 49.45421,
+  "lng": 11.07752,
+  "topics": [
+    "Networking"
+  ],
+  "cfp": {
+    "url": "https://osmc.de/call-for-papers",
+    "deadline": "2022-06-30",
+    "open": false
+  },
+  "twitter": "https://x.com/netwaysevents",
+  "source": "confs.tech"
+}

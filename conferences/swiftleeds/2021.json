@@ -1,0 +1,16 @@
+{
+  "name": "SwiftLeeds 2021",
+  "year": 2021,
+  "url": "https://www.swiftleeds.co.uk",
+  "startDate": "2021-10-07",
+  "endDate": "2021-10-07",
+  "city": "Leeds",
+  "country": "GB",
+  "lat": 53.79648,
+  "lng": -1.54785,
+  "topics": [
+    "iOS"
+  ],
+  "twitter": "https://x.com/Swift_Leeds",
+  "source": "confs.tech"
+}

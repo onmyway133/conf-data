@@ -1,0 +1,13 @@
+{
+  "name": "TNW Conference 2020",
+  "year": 2020,
+  "url": "https://thenextweb.com/conference",
+  "startDate": "2020-10-01",
+  "endDate": "2020-10-02",
+  "city": "Amsterdam",
+  "country": "NL",
+  "lat": 52.37403,
+  "lng": 4.88969,
+  "topics": [],
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Rust Belt Rust 2019",
+  "year": 2019,
+  "url": "https://www.rust-belt-rust.com",
+  "startDate": "2019-10-18",
+  "endDate": "2019-10-19",
+  "city": "Dayton, OH",
+  "country": "US",
+  "lat": 39.75895,
+  "lng": -84.19161,
+  "topics": [
+    "Rust"
+  ],
+  "twitter": "https://x.com/rustbeltrust",
+  "source": "confs.tech"
+}

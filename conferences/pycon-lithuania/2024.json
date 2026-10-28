@@ -1,0 +1,21 @@
+{
+  "name": "PyCon Lithuania 2024",
+  "year": 2024,
+  "url": "https://pycon.lt/2024",
+  "startDate": "2024-04-02",
+  "endDate": "2024-04-06",
+  "city": "Vilnius",
+  "country": "LT",
+  "lat": 54.68916,
+  "lng": 25.2798,
+  "topics": [
+    "Python"
+  ],
+  "cfp": {
+    "url": "https://pycon.lt/2024/call-for-proposals",
+    "deadline": "2024-01-10",
+    "open": false
+  },
+  "twitter": "https://x.com/pyconlt",
+  "source": "confs.tech"
+}

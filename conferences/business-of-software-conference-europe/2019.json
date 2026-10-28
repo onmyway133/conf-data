@@ -1,0 +1,16 @@
+{
+  "name": "Business of Software Conference Europe 2019",
+  "year": 2019,
+  "url": "https://businessofsoftware.eu",
+  "startDate": "2019-04-11",
+  "endDate": "2019-04-12",
+  "city": "Cambridge",
+  "country": "GB",
+  "lat": 52.2,
+  "lng": 0.11667,
+  "topics": [
+    "Networking"
+  ],
+  "twitter": "https://x.com/BoSConference",
+  "source": "confs.tech"
+}

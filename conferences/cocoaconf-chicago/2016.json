@@ -1,0 +1,15 @@
+{
+  "name": "CocoaConf Chicago 2016",
+  "year": 2016,
+  "url": "http://cocoaconf.com/chicago-2016/home",
+  "startDate": "2016-03-25",
+  "endDate": "2016-03-26",
+  "city": "Chicago",
+  "country": "US",
+  "lat": 41.85003,
+  "lng": -87.65005,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences"
+}

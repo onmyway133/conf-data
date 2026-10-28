@@ -1,0 +1,15 @@
+{
+  "name": "SwiftFest 2018",
+  "year": 2018,
+  "url": "http://swiftfest.io/",
+  "startDate": "2018-06-18",
+  "endDate": "2018-06-19",
+  "city": "Boston",
+  "country": "US",
+  "lat": 42.35843,
+  "lng": -71.05977,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences"
+}

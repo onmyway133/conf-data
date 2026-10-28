@@ -1,0 +1,16 @@
+{
+  "name": "Devopsdays Prague 2020",
+  "year": 2020,
+  "url": "https://devopsdays.org/events/2020-prague/welcome",
+  "startDate": "2020-09-29",
+  "endDate": "2020-09-30",
+  "city": "Prague",
+  "country": "CZ",
+  "lat": 50.08804,
+  "lng": 14.42076,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/DevOpsDaysPrg",
+  "source": "confs.tech"
+}

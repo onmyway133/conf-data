@@ -1,0 +1,19 @@
+{
+  "name": "JSNation 2027",
+  "year": 2027,
+  "url": "https://jsnation.com/",
+  "startDate": "2027-05-21",
+  "endDate": "2027-05-25",
+  "city": "Amsterdam",
+  "country": "NL",
+  "topics": [
+    "JavaScript",
+    "Web",
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://gitnation.com/events/jsnation-2027/cfp",
+    "deadline": "2027-03-01",
+    "open": true
+  }
+}

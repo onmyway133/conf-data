@@ -1,0 +1,16 @@
+{
+  "name": "data2day 2019",
+  "year": 2019,
+  "url": "https://www.data2day.de",
+  "startDate": "2019-10-22",
+  "endDate": "2019-10-24",
+  "city": "Heidelberg",
+  "country": "DE",
+  "lat": 49.40768,
+  "lng": 8.69079,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/data2day",
+  "source": "confs.tech"
+}

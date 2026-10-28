@@ -1,0 +1,21 @@
+{
+  "name": "The Rolling Scopes Conference 2019",
+  "year": 2019,
+  "url": "https://rsconf.by",
+  "startDate": "2019-08-09",
+  "endDate": "2019-08-11",
+  "city": "Minsk",
+  "country": "BY",
+  "lat": 53.90019,
+  "lng": 27.56653,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSe1Mx_HLnAm09pB0ngzx_eCBJg29mzUdM0dLfE2BfhjdaCy6A/viewform",
+    "deadline": "2019-05-15",
+    "open": false
+  },
+  "twitter": "https://x.com/rollingscopes",
+  "source": "confs.tech"
+}

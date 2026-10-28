@@ -1,0 +1,21 @@
+{
+  "name": "Devopsdays Salt Lake City 2025",
+  "year": 2025,
+  "url": "https://devopsdays.org/events/2025-salt-lake-city/welcome/",
+  "startDate": "2025-05-12",
+  "endDate": "2025-05-13",
+  "city": "Austin, TX",
+  "country": "US",
+  "lat": 30.26715,
+  "lng": -97.74306,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/slcdod2025/",
+    "deadline": "2025-01-12",
+    "open": false
+  },
+  "twitter": "https://x.com/devopsdaysslc",
+  "source": "confs.tech"
+}

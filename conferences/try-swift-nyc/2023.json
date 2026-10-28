@@ -1,0 +1,22 @@
+{
+  "name": "Try Swift! NYC 2023",
+  "year": 2023,
+  "url": "https://www.tryswift.co/events/2023/nyc",
+  "startDate": "2023-09-05",
+  "endDate": "2023-09-07",
+  "city": "New York, NY",
+  "country": "US",
+  "lat": 40.71427,
+  "lng": -74.00597,
+  "topics": [
+    "Data/AI",
+    "iOS"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSdZGAKQLn8CmSz2dVkDzUUVTp3eV0I-7krx5VUnJQRy9FlDVQ/viewform",
+    "deadline": "2023-05-31",
+    "open": false
+  },
+  "twitter": "https://x.com/tryswiftworld",
+  "source": "confs.tech"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Camunda Community Summit 2023",
+  "year": 2023,
+  "url": "https://summit.camunda.com",
+  "startDate": "2023-05-10",
+  "endDate": "2023-05-11",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "Accessibility",
+    "DevOps",
+    "Networking"
+  ],
+  "source": "confs.tech"
+}

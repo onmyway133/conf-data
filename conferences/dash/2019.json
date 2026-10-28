@@ -1,0 +1,21 @@
+{
+  "name": "Dash 2019",
+  "year": 2019,
+  "url": "https://www.dashcon.io",
+  "startDate": "2019-07-16",
+  "endDate": "2019-07-17",
+  "city": "New York, NY",
+  "country": "US",
+  "lat": 40.71427,
+  "lng": -74.00597,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://www.dashcon.io/speak",
+    "deadline": "2019-03-04",
+    "open": false
+  },
+  "twitter": "https://x.com/dashconio",
+  "source": "confs.tech"
+}

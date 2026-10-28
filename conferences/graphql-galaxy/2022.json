@@ -1,0 +1,22 @@
+{
+  "name": "GraphQL Galaxy 2022",
+  "year": 2022,
+  "url": "https://graphqlgalaxy.com",
+  "startDate": "2022-12-09",
+  "endDate": "2022-12-09",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "GraphQL",
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://forms.gle/u1xMobfq8MVQGdDx5",
+    "deadline": "2022-09-24",
+    "open": false
+  },
+  "twitter": "https://x.com/graphqlgalaxy",
+  "source": "confs.tech"
+}

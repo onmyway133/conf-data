@@ -1,0 +1,16 @@
+{
+  "name": "Statscraft 2019",
+  "year": 2019,
+  "url": "http://www.statscraft.org.il",
+  "startDate": "2019-05-14",
+  "endDate": "2019-05-14",
+  "city": "Tel Aviv",
+  "country": "IL",
+  "lat": 32.08088,
+  "lng": 34.78057,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/statscraft",
+  "source": "confs.tech"
+}

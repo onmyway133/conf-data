@@ -1,0 +1,20 @@
+{
+  "name": "Open Tech Day: OpenTofu Edition 2026",
+  "year": 2026,
+  "url": "https://opentechday.de/coming-up",
+  "startDate": "2026-03-19",
+  "endDate": "2026-03-19",
+  "city": "Nürnberg",
+  "country": "DE",
+  "lat": 49.45421,
+  "lng": 11.07752,
+  "topics": [
+    "Open Source"
+  ],
+  "cfp": {
+    "url": "https://opentechday.de/propose",
+    "deadline": "2025-11-30",
+    "open": false
+  },
+  "source": "confs.tech"
+}

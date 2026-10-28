@@ -1,0 +1,16 @@
+{
+  "name": "CSS Day 2019",
+  "year": 2019,
+  "url": "https://cssday.nl/2019",
+  "startDate": "2019-06-13",
+  "endDate": "2019-06-14",
+  "city": "Amsterdam",
+  "country": "NL",
+  "lat": 52.37403,
+  "lng": 4.88969,
+  "topics": [
+    "CSS"
+  ],
+  "twitter": "https://x.com/cssdayconf",
+  "source": "confs.tech"
+}

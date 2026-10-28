@@ -1,0 +1,21 @@
+{
+  "name": "Hardwear.io USA 2026",
+  "year": 2026,
+  "url": "https://hardwear.io/usa-2026",
+  "startDate": "2026-05-29",
+  "endDate": "2026-05-30",
+  "city": "Anaheim, CA",
+  "country": "US",
+  "lat": 33.83529,
+  "lng": -117.9145,
+  "topics": [
+    "IoT"
+  ],
+  "cfp": {
+    "url": "https://hardwear.io/usa-2026/cfp.php",
+    "deadline": "2026-03-05",
+    "open": false
+  },
+  "twitter": "https://x.com/hardwear_io",
+  "source": "confs.tech"
+}

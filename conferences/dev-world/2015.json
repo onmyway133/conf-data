@@ -1,0 +1,15 @@
+{
+  "name": "/dev/world 2015",
+  "year": 2015,
+  "url": "http://2015.devworld.com.au/",
+  "startDate": "2015-08-31",
+  "endDate": "2015-09-01",
+  "city": "Melbourne",
+  "country": "AU",
+  "lat": -37.814,
+  "lng": 144.96332,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences"
+}

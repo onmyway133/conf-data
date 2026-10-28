@@ -1,0 +1,16 @@
+{
+  "name": "RubyConf 2021",
+  "year": 2021,
+  "url": "http://rubyconf.org",
+  "startDate": "2021-11-08",
+  "endDate": "2021-11-10",
+  "city": "Denver, CO",
+  "country": "US",
+  "lat": 39.73915,
+  "lng": -104.9847,
+  "topics": [
+    "Ruby"
+  ],
+  "twitter": "https://x.com/rubyconf",
+  "source": "confs.tech"
+}

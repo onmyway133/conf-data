@@ -1,0 +1,16 @@
+{
+  "name": "Test Coast 2027",
+  "year": 2027,
+  "url": "https://testcoast.se/",
+  "startDate": "2027-05-19",
+  "endDate": "2027-05-20",
+  "city": "Gothenburg",
+  "country": "SE",
+  "topics": [
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://testcoast.se/call-for-papers",
+    "open": true
+  }
+}

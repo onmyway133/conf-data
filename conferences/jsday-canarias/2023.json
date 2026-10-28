@@ -1,0 +1,16 @@
+{
+  "name": "JSDay Canarias 2023",
+  "year": 2023,
+  "url": "https://jsdaycanarias.com",
+  "startDate": "2023-05-25",
+  "endDate": "2023-05-28",
+  "city": "Tenerife",
+  "country": "ES",
+  "lat": 28.46824,
+  "lng": -16.25462,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/canariasjs",
+  "source": "confs.tech"
+}

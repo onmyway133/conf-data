@@ -1,0 +1,16 @@
+{
+  "name": "IndiaOS 2020",
+  "year": 2020,
+  "url": "https://indiaos.in",
+  "startDate": "2020-01-18",
+  "endDate": "2020-01-18",
+  "city": "Bangalore",
+  "country": "IN",
+  "lat": 12.97194,
+  "lng": 77.59369,
+  "topics": [
+    "Networking"
+  ],
+  "twitter": "https://x.com/IndiaOSConf",
+  "source": "confs.tech"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "CocoaConf PDX 2015",
+  "year": 2015,
+  "url": "http://cocoaconf.com/portland-2015/home",
+  "startDate": "2015-05-08",
+  "endDate": "2015-05-09",
+  "city": "Portland",
+  "country": "US",
+  "lat": 45.52345,
+  "lng": -122.67621,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "UXPA International Conference 2024",
+  "year": 2024,
+  "url": "https://uxpa2024.org",
+  "startDate": "2024-06-24",
+  "endDate": "2024-06-27",
+  "city": "Fort Lauderdale, FL",
+  "country": "US",
+  "lat": 26.12231,
+  "lng": -80.14338,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/UXPA_Int",
+  "source": "confs.tech"
+}

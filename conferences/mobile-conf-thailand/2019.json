@@ -1,0 +1,16 @@
+{
+  "name": "Mobile Conf Thailand 2019",
+  "year": 2019,
+  "url": "https://mobileconfth.com",
+  "startDate": "2019-08-24",
+  "endDate": "2019-08-24",
+  "city": "Bangkok",
+  "country": "TH",
+  "lat": 13.75398,
+  "lng": 100.50144,
+  "topics": [
+    "iOS",
+    "Mobile"
+  ],
+  "source": "cocoaconferences"
+}

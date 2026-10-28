@@ -1,0 +1,20 @@
+{
+  "name": "Minds Mastering Machines - M3 2025",
+  "year": 2025,
+  "url": "https://www.m3-konferenz.de",
+  "startDate": "2025-05-20",
+  "endDate": "2025-05-21",
+  "city": "Karlsruhe",
+  "country": "DE",
+  "lat": 49.00937,
+  "lng": 8.40444,
+  "topics": [
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://www.m3-konferenz.de/cfp.php",
+    "deadline": "2024-11-28",
+    "open": false
+  },
+  "source": "confs.tech"
+}

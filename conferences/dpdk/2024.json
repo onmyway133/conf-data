@@ -1,0 +1,19 @@
+{
+  "name": "DPDK 2024",
+  "year": 2024,
+  "url": "https://events.linuxfoundation.org/dpdk-summit-apac",
+  "startDate": "2024-07-09",
+  "endDate": "2024-07-10",
+  "city": "Bangkok",
+  "country": "TH",
+  "lat": 13.75398,
+  "lng": 100.50144,
+  "topics": [],
+  "cfp": {
+    "url": "https://events.linuxfoundation.org/dpdk-summit-apac/program/cfp",
+    "deadline": "2024-06-02",
+    "open": false
+  },
+  "twitter": "https://x.com/dpdkproject",
+  "source": "confs.tech"
+}

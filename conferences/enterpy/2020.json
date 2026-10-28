@@ -1,0 +1,16 @@
+{
+  "name": "enterPy 2020",
+  "year": 2020,
+  "url": "http://www.enterpy.de",
+  "startDate": "2020-11-23",
+  "endDate": "2020-11-24",
+  "city": "Mannheim",
+  "country": "DE",
+  "lat": 49.4891,
+  "lng": 8.46694,
+  "topics": [
+    "Python"
+  ],
+  "twitter": "https://x.com/enterpyconf",
+  "source": "confs.tech"
+}

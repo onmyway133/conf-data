@@ -1,0 +1,15 @@
+{
+  "name": "Platform Summit 2026",
+  "year": 2026,
+  "url": "https://nordicapis.com/events/platform-summit-2026",
+  "startDate": "2026-10-13",
+  "endDate": "2026-10-14",
+  "city": "Stockholm",
+  "country": "SE",
+  "lat": 59.32938,
+  "lng": 18.06871,
+  "topics": [
+    "APIs"
+  ],
+  "source": "confs.tech"
+}

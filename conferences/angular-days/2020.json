@@ -1,0 +1,16 @@
+{
+  "name": "Angular Days 2020",
+  "year": 2020,
+  "url": "https://javascript-days.de/angular",
+  "startDate": "2020-10-05",
+  "endDate": "2020-10-08",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/AngularDays",
+  "source": "confs.tech"
+}

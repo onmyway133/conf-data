@@ -1,0 +1,16 @@
+{
+  "name": "NN/g UX Conference 2020",
+  "year": 2020,
+  "url": "https://www.nngroup.com/training/singapore",
+  "startDate": "2020-02-17",
+  "endDate": "2020-02-22",
+  "city": "Singapore",
+  "country": "SG",
+  "lat": 1.28967,
+  "lng": 103.85007,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/nngroup",
+  "source": "confs.tech"
+}

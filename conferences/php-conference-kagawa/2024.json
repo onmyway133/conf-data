@@ -1,0 +1,16 @@
+{
+  "name": "PHP Conference Kagawa 2024",
+  "year": 2024,
+  "url": "https://phpcon.kagawa.jp/2024",
+  "startDate": "2024-05-11",
+  "endDate": "2024-05-11",
+  "city": "Takamatsu",
+  "country": "JP",
+  "lat": 34.33333,
+  "lng": 134.05,
+  "topics": [
+    "PHP"
+  ],
+  "twitter": "https://x.com/phpcon_kagawa",
+  "source": "confs.tech"
+}

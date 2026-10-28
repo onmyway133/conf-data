@@ -1,0 +1,16 @@
+{
+  "name": "Savvy UX Summit 2019",
+  "year": 2019,
+  "url": "https://www.savvyuxsummit.com",
+  "startDate": "2019-12-12",
+  "endDate": "2019-12-13",
+  "city": "Bangkok",
+  "country": "TH",
+  "lat": 13.75398,
+  "lng": 100.50144,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/savvyuxsummit",
+  "source": "confs.tech"
+}

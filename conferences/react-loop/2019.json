@@ -1,0 +1,21 @@
+{
+  "name": "React Loop 2019",
+  "year": 2019,
+  "url": "https://reactloop.com",
+  "startDate": "2019-06-21",
+  "endDate": "2019-06-21",
+  "city": "Chicago, IL",
+  "country": "US",
+  "lat": 41.85003,
+  "lng": -87.65005,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLScvMioNskbEVD-eVlG4tozh8VQzQm0W5XQ1bsjf6QaakyfjAg/viewform",
+    "deadline": "2019-03-20",
+    "open": false
+  },
+  "twitter": "https://x.com/reactloop",
+  "source": "confs.tech"
+}

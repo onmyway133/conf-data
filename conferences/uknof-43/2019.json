@@ -1,0 +1,21 @@
+{
+  "name": "UKNOF 43 2019",
+  "year": 2019,
+  "url": "https://indico.uknof.org.uk/event/46",
+  "startDate": "2019-04-09",
+  "endDate": "2019-04-09",
+  "city": "Manchester",
+  "country": "GB",
+  "lat": 53.48095,
+  "lng": -2.23743,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://indico.uknof.org.uk/event/46/abstracts",
+    "deadline": "2019-02-26",
+    "open": false
+  },
+  "twitter": "https://x.com/uknof",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "DevOpsDays Portugal 2019",
+  "year": 2019,
+  "url": "https://www.devopsdays.org/events/2019-portugal/welcome",
+  "startDate": "2019-06-03",
+  "endDate": "2019-06-04",
+  "city": "Lisbon",
+  "country": "PT",
+  "lat": 38.72509,
+  "lng": -9.1498,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devopsdayspt",
+  "source": "confs.tech"
+}

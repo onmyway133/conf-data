@@ -1,0 +1,50 @@
+{
+  "name": "Swift Heroes 2022",
+  "year": 2022,
+  "url": "https://swiftheroes.com/2022/#",
+  "startDate": "2022-04-07",
+  "endDate": "2022-04-08",
+  "city": "Turin",
+  "country": "IT",
+  "lat": 45.07049,
+  "lng": 7.68682,
+  "topics": [
+    "iOS"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/swift-heroes-2022/",
+    "deadline": "2022-02-13",
+    "open": false
+  },
+  "source": "cocoaconferences",
+  "speakers": [
+    {
+      "speaker": "shai-mishali",
+      "role": "Senior iOS Tech Lead, monday.com",
+      "bio": "Shai Mishali is a Senior iOS Tech Lead for monday.com, as well as an international speaker, and a highly active open-source contributor. He is also maintainer on several high-profile projects – namely, the RxSwift Community and RxSwift projects, but he also releases many open-source endeavours around Combine such as CombineCocoa, RxCombine and more.",
+      "photoUrl": "https://swiftheroes.com/2022/wp-content/uploads/shai-mishali.png",
+      "twitter": "https://twitter.com/freak4pc"
+    },
+    {
+      "speaker": "krzysztof-zablocki-2",
+      "role": "Engineering, The Browser Company",
+      "bio": "Krzysztof is a Principal Swift Engineer. Currently he is building the Browser of the future, previous he led The New York Times. He’s known for creating Sourcery, Objective-C Playgrounds, and Apple’s Essential Apps like Foldify and 3D Game Engines. Passionate about writing quality code and helping others do the same. He blogs on merowing.info and open sources tools/libraries at github.com/krzysztofzablocki",
+      "photoUrl": "https://swiftheroes.com/2022/wp-content/uploads/krzysztof-zablocki-SITO.jpg",
+      "twitter": "http://twitter.com/merowing_"
+    },
+    {
+      "speaker": "pawel-lopusinski",
+      "role": "Senior iOS Software Engineer, Glovo",
+      "bio": "‘m currently working @ Glovo as an iOS Software Engineer. I’ve been doing iOS stuff for around 9 years and can’t get enough of it – there is always something interesting to look into and dive deep into different topics. Recently I’ve found great interest in exploring SIL, especially for less obvious cases. I’ve also reached a point in my journey where I feel confident and comfortable sharing my knowledge with wider audiences and decided to start giving back to the fantastic iOS community. If I’m not currently coding I’m most likely goofing around with my kids, playing video and board games, or just being a couch potato devouring next TV series from a (too long) list..",
+      "photoUrl": "https://swiftheroes.com/2022/wp-content/uploads/530c-0o0o0-R1hKQmUCWtGvPTZjvgYrsE.png",
+      "twitter": "https://twitter.com/Losiowaty"
+    },
+    {
+      "speaker": "jane-bondar",
+      "role": "iOS Tech Lead, NIX",
+      "bio": "Jane started her career in IT as an iOS developer 8 years ago. Right now she leads a team of 30+ developers and is focused on management and consulting, but still likes to roll up her sleeves sometimes and do some code 🙂 In free time Jane enjoys freediving.",
+      "photoUrl": "https://swiftheroes.com/2022/wp-content/uploads/jane-bondar2-scaled.jpg",
+      "twitter": "https://twitter.com/jane_bondar"
+    }
+  ]
+}

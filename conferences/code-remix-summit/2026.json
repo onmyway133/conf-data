@@ -1,0 +1,22 @@
+{
+  "name": "Code Remix Summit 2026",
+  "year": 2026,
+  "url": "https://coderemix.ai",
+  "startDate": "2026-05-11",
+  "endDate": "2026-05-13",
+  "city": "Hollywood, FL",
+  "country": "US",
+  "lat": 34.09834,
+  "lng": -118.32674,
+  "topics": [
+    "DevOps",
+    "Java",
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/code-remix-summit-2026",
+    "deadline": "2025-10-31",
+    "open": false
+  },
+  "source": "confs.tech"
+}

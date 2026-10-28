@@ -1,0 +1,20 @@
+{
+  "name": "MacAdmins Conference 2025",
+  "year": 2025,
+  "url": "https://macadmins.psu.edu",
+  "startDate": "2025-07-15",
+  "endDate": "2025-07-18",
+  "city": "State College",
+  "country": "US",
+  "lat": 40.79339,
+  "lng": -77.86,
+  "topics": [
+    "iOS"
+  ],
+  "cfp": {
+    "url": "https://macadmins.psu.edu/conference/submit-proposals/",
+    "deadline": "2025-03-26",
+    "open": false
+  },
+  "source": "cocoaconferences"
+}

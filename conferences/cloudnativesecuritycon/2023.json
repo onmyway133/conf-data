@@ -1,0 +1,20 @@
+{
+  "name": "CloudNativeSecurityCon 2023",
+  "year": 2023,
+  "url": "https://events.linuxfoundation.org/cloudnativesecuritycon-north-america",
+  "startDate": "2023-02-01",
+  "endDate": "2023-02-02",
+  "city": "Seattle, WA",
+  "country": "US",
+  "lat": 47.60621,
+  "lng": -122.33207,
+  "topics": [
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://events.linuxfoundation.org/cloudnativesecuritycon-north-america/program/cfp",
+    "deadline": "2022-11-13",
+    "open": false
+  },
+  "source": "confs.tech"
+}

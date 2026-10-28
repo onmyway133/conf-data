@@ -1,0 +1,15 @@
+{
+  "name": "UX-DAY 2020",
+  "year": 2020,
+  "url": "http://www.ux-day.de",
+  "startDate": "2020-10-14",
+  "endDate": "2020-10-16",
+  "city": "Mannheim",
+  "country": "DE",
+  "lat": 49.4891,
+  "lng": 8.46694,
+  "topics": [
+    "Design/UX"
+  ],
+  "source": "confs.tech"
+}

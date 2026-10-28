@@ -1,0 +1,15 @@
+{
+  "name": "Alt Tech Talks London 2013",
+  "year": 2013,
+  "url": "http://www.alttechtalks.com",
+  "startDate": "2013-12-16",
+  "endDate": "2013-12-16",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences"
+}

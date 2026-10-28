@@ -1,0 +1,16 @@
+{
+  "name": "App.js Conf 2023",
+  "year": 2023,
+  "url": "https://appjs.co",
+  "startDate": "2023-05-10",
+  "endDate": "2023-05-12",
+  "city": "Kraków",
+  "country": "PL",
+  "lat": 50.06143,
+  "lng": 19.93658,
+  "topics": [
+    "Networking"
+  ],
+  "twitter": "https://x.com/appjsconf",
+  "source": "confs.tech"
+}

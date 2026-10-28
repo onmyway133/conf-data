@@ -1,0 +1,16 @@
+{
+  "name": "DataWorkshop Club Conf 2019",
+  "year": 2019,
+  "url": "http://conf.dataworkshop.eu",
+  "startDate": "2019-09-27",
+  "endDate": "2019-09-28",
+  "city": "Warsaw",
+  "country": "PL",
+  "lat": 52.22977,
+  "lng": 21.01178,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/dataworkshop",
+  "source": "confs.tech"
+}

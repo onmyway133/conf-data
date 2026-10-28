@@ -1,0 +1,21 @@
+{
+  "name": "iOSDevUK 2026",
+  "year": 2026,
+  "url": "https://www.iosdevuk.com",
+  "startDate": "2026-09-07",
+  "endDate": "2026-09-10",
+  "city": "Aberystwyth",
+  "country": "GB",
+  "lat": 52.41548,
+  "lng": -4.08292,
+  "topics": [
+    "iOS"
+  ],
+  "cfp": {
+    "url": "https://www.iosdevuk.com/speakercall",
+    "deadline": "2026-02-16",
+    "open": false
+  },
+  "bluesky": "https://bsky.app/profile/iosdevuk.bsky.social",
+  "source": "confs.tech"
+}

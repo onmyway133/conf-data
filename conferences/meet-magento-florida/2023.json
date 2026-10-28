@@ -1,0 +1,16 @@
+{
+  "name": "Meet Magento Florida 2023",
+  "year": 2023,
+  "url": "https://meetmagentofl.com",
+  "startDate": "2023-02-15",
+  "endDate": "2023-02-16",
+  "city": "Hollywood, FL",
+  "country": "US",
+  "lat": 34.09834,
+  "lng": -118.32674,
+  "topics": [
+    "PHP"
+  ],
+  "twitter": "https://x.com/MeetMagentoFL",
+  "source": "confs.tech"
+}

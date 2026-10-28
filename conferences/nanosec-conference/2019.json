@@ -1,0 +1,16 @@
+{
+  "name": "NanoSec Conference 2019",
+  "year": 2019,
+  "url": "https://nanosec.asia",
+  "startDate": "2019-10-07",
+  "endDate": "2019-10-09",
+  "city": "Kuala Lumpur",
+  "country": "MY",
+  "lat": 3.1412,
+  "lng": 101.68653,
+  "topics": [
+    "Security"
+  ],
+  "twitter": "https://x.com/nanosec_asia",
+  "source": "confs.tech"
+}

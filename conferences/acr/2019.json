@@ -1,0 +1,21 @@
+{
+  "name": "ACR 2019",
+  "year": 2019,
+  "url": "https://www.ancientcityruby.com",
+  "startDate": "2019-10-03",
+  "endDate": "2019-10-04",
+  "city": "Jacksonville Beach, FL",
+  "country": "US",
+  "lat": 30.29469,
+  "lng": -81.39314,
+  "topics": [
+    "Ruby"
+  ],
+  "cfp": {
+    "url": "https://www.papercall.io/acr-2019",
+    "deadline": "2019-07-31",
+    "open": false
+  },
+  "twitter": "https://x.com/ancientcityruby",
+  "source": "confs.tech"
+}

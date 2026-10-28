@@ -1,0 +1,19 @@
+{
+  "name": "TECHSPO Toronto 2019",
+  "year": 2019,
+  "url": "https://techspotoronto.ca/agenda",
+  "startDate": "2019-05-16",
+  "endDate": "2019-05-17",
+  "city": "Toronto",
+  "country": "CA",
+  "lat": 43.70643,
+  "lng": -79.39864,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "deadline": "2019-05-15",
+    "open": false
+  },
+  "source": "confs.tech"
+}

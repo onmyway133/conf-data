@@ -1,0 +1,16 @@
+{
+  "name": "Helm Summit 2019",
+  "year": 2019,
+  "url": "https://events.linuxfoundation.org/events/helm-summit-2019",
+  "startDate": "2019-09-11",
+  "endDate": "2019-09-12",
+  "city": "Amsterdam",
+  "country": "NL",
+  "lat": 52.37403,
+  "lng": 4.88969,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/HelmPack",
+  "source": "confs.tech"
+}

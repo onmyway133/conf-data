@@ -1,0 +1,17 @@
+{
+  "name": "SymfonyLive Berlin 2023",
+  "year": 2023,
+  "url": "https://live.symfony.com/2023-berlin",
+  "startDate": "2023-10-05",
+  "endDate": "2023-10-06",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "PHP"
+  ],
+  "twitter": "https://x.com/symfony_live",
+  "mastodon": "https://mastodon.social/@symfony",
+  "source": "confs.tech"
+}

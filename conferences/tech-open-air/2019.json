@@ -1,0 +1,14 @@
+{
+  "name": "Tech Open Air 2019",
+  "year": 2019,
+  "url": "https://toa.berlin",
+  "startDate": "2019-07-02",
+  "endDate": "2019-07-05",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [],
+  "twitter": "https://x.com/toaberlin",
+  "source": "confs.tech"
+}

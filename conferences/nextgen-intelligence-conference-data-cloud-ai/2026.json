@@ -1,0 +1,18 @@
+{
+  "name": "NextGen Intelligence Conference: Data, Cloud & AI 2026",
+  "year": 2026,
+  "url": "https://techaiconf.com",
+  "startDate": "2026-11-16",
+  "endDate": "2026-11-17",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [],
+  "cfp": {
+    "url": "https://techaiconf.com/register-interest",
+    "deadline": "2026-10-09",
+    "open": true
+  },
+  "source": "confs.tech"
+}

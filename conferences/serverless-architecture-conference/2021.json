@@ -1,0 +1,14 @@
+{
+  "name": "Serverless Architecture Conference 2021",
+  "year": 2021,
+  "url": "https://serverless-architecture.io/thehague",
+  "startDate": "2021-04-12",
+  "endDate": "2021-04-15",
+  "city": "The Hague",
+  "country": "NL",
+  "lat": 52.07667,
+  "lng": 4.29861,
+  "topics": [],
+  "twitter": "https://x.com/serverlesscon",
+  "source": "confs.tech"
+}

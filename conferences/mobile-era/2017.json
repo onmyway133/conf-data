@@ -1,0 +1,16 @@
+{
+  "name": "Mobile Era 2017",
+  "year": 2017,
+  "url": "https://mobileera.rocks/",
+  "startDate": "2017-10-05",
+  "endDate": "2017-10-06",
+  "city": "Oslo",
+  "country": "NO",
+  "lat": 59.91273,
+  "lng": 10.74609,
+  "topics": [
+    "iOS",
+    "Mobile"
+  ],
+  "source": "cocoaconferences"
+}

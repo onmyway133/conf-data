@@ -1,0 +1,19 @@
+{
+  "name": "Prisma Day 2022",
+  "year": 2022,
+  "url": "https://www.prisma.io/day",
+  "startDate": "2022-06-15",
+  "endDate": "2022-06-16",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [],
+  "cfp": {
+    "url": "https://prisma103696.typeform.com/to/Gm9zMrKA",
+    "deadline": "2022-04-25",
+    "open": false
+  },
+  "twitter": "https://x.com/prisma",
+  "source": "confs.tech"
+}

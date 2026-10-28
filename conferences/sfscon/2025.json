@@ -1,0 +1,16 @@
+{
+  "name": "SFSCON 2025",
+  "year": 2025,
+  "url": "https://www.sfscon.it",
+  "startDate": "2025-11-07",
+  "endDate": "2025-11-08",
+  "city": "Bolzano",
+  "country": "IT",
+  "lat": 46.49067,
+  "lng": 11.33982,
+  "topics": [
+    "Open Source"
+  ],
+  "twitter": "https://x.com/SFScon",
+  "source": "confs.tech"
+}

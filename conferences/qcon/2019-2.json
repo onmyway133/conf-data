@@ -1,0 +1,14 @@
+{
+  "name": "QCon 2019",
+  "year": 2019,
+  "url": "https://qconsf.com",
+  "startDate": "2019-11-11",
+  "endDate": "2019-11-15",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [],
+  "twitter": "https://x.com/QConSF",
+  "source": "confs.tech"
+}

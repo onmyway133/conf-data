@@ -1,0 +1,18 @@
+{
+  "name": "JNation 2022",
+  "year": 2022,
+  "url": "https://jnation.pt",
+  "startDate": "2022-06-07",
+  "endDate": "2022-06-07",
+  "city": "Coimbra",
+  "country": "PT",
+  "lat": 40.20686,
+  "lng": -8.41996,
+  "topics": [
+    "DevOps",
+    "Java",
+    "Kotlin"
+  ],
+  "twitter": "https://x.com/jnationConf",
+  "source": "confs.tech"
+}

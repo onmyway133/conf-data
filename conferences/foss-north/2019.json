@@ -1,0 +1,15 @@
+{
+  "name": "foss-north 2019",
+  "year": 2019,
+  "url": "https://foss-north.se",
+  "startDate": "2019-04-07",
+  "endDate": "2019-04-10",
+  "city": "Gothenburg",
+  "country": "SE",
+  "lat": 57.70716,
+  "lng": 11.96679,
+  "topics": [
+    "Networking"
+  ],
+  "source": "confs.tech"
+}

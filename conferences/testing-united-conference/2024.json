@@ -1,0 +1,16 @@
+{
+  "name": "Testing United conference 2024",
+  "year": 2024,
+  "url": "https://www.testingunited.com",
+  "startDate": "2024-11-07",
+  "endDate": "2024-11-08",
+  "city": "Vienna",
+  "country": "AT",
+  "lat": 48.20849,
+  "lng": 16.37208,
+  "topics": [
+    "Testing"
+  ],
+  "twitter": "https://x.com/testing_united",
+  "source": "confs.tech"
+}

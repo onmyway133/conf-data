@@ -1,0 +1,19 @@
+{
+  "name": "BDX I/O 2020",
+  "year": 2020,
+  "url": "https://www.bdxio.fr",
+  "startDate": "2020-10-30",
+  "endDate": "2020-10-30",
+  "city": "Bordeaux",
+  "country": "FR",
+  "lat": 44.84124,
+  "lng": -0.58046,
+  "topics": [],
+  "cfp": {
+    "url": "https://conference-hall.io/public/event/vzxtIlMnQqmNF2aOECVv",
+    "deadline": "2020-06-30",
+    "open": false
+  },
+  "twitter": "https://x.com/bdxio",
+  "source": "confs.tech"
+}

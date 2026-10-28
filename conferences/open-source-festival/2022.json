@@ -1,0 +1,19 @@
+{
+  "name": "Open Source Festival 2022",
+  "year": 2022,
+  "url": "https://festival.oscafrica.org",
+  "startDate": "2022-03-24",
+  "endDate": "2022-03-26",
+  "city": "Lagos",
+  "country": "NG",
+  "lat": 6.45407,
+  "lng": 3.39467,
+  "topics": [],
+  "cfp": {
+    "url": "https://www.papercall.io/cfps/4213/submissions/new",
+    "deadline": "2022-01-27",
+    "open": false
+  },
+  "twitter": "https://x.com/oscafrica",
+  "source": "confs.tech"
+}

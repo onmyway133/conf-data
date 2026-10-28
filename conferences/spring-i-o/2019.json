@@ -1,0 +1,16 @@
+{
+  "name": "Spring I/O 2019",
+  "year": 2019,
+  "url": "https://2019.springio.net",
+  "startDate": "2019-05-16",
+  "endDate": "2019-05-17",
+  "city": "Barcelona",
+  "country": "ES",
+  "lat": 41.38879,
+  "lng": 2.15899,
+  "topics": [
+    "Java"
+  ],
+  "twitter": "https://x.com/spring_io",
+  "source": "confs.tech"
+}

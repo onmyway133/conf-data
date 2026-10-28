@@ -1,0 +1,16 @@
+{
+  "name": "Colorado Gold Rust 2019",
+  "year": 2019,
+  "url": "https://cogoldrust.com",
+  "startDate": "2019-09-20",
+  "endDate": "2019-09-21",
+  "city": "Denver, CO",
+  "country": "US",
+  "lat": 39.73915,
+  "lng": -104.9847,
+  "topics": [
+    "Rust"
+  ],
+  "twitter": "https://x.com/COGoldRust",
+  "source": "confs.tech"
+}

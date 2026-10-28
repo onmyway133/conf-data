@@ -1,0 +1,22 @@
+{
+  "name": "Women Techmakers Montreal 2024",
+  "year": 2024,
+  "url": "https://wtmmontreal.com",
+  "startDate": "2024-04-06",
+  "endDate": "2024-04-06",
+  "city": "Montreal",
+  "country": "CA",
+  "lat": 45.50884,
+  "lng": -73.58781,
+  "topics": [
+    "Data/AI",
+    "Networking"
+  ],
+  "cfp": {
+    "url": "https://www.papercall.io/wtmmontreal2024",
+    "deadline": "2024-02-23",
+    "open": false
+  },
+  "twitter": "https://x.com/WTM_Montreal",
+  "source": "confs.tech"
+}

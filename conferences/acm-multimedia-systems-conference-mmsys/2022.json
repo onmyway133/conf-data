@@ -1,0 +1,19 @@
+{
+  "name": "ACM Multimedia Systems Conference - MMSys 2022",
+  "year": 2022,
+  "url": "https://mmsys2022.ie",
+  "startDate": "2022-06-14",
+  "endDate": "2022-06-17",
+  "city": "Athlone",
+  "country": "IE",
+  "lat": 53.42278,
+  "lng": -7.93722,
+  "topics": [],
+  "cfp": {
+    "url": "https://mmsys2022.ie/downloads/MMSys2022_CallForPapers.pdf",
+    "deadline": "2022-01-21",
+    "open": false
+  },
+  "twitter": "https://x.com/acmmmsys",
+  "source": "confs.tech"
+}

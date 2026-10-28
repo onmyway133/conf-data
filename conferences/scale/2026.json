@@ -1,0 +1,23 @@
+{
+  "name": "SCaLE 2026",
+  "year": 2026,
+  "url": "https://www.socallinuxexpo.org",
+  "startDate": "2026-03-05",
+  "endDate": "2026-03-08",
+  "city": "Pasadena, CA",
+  "country": "US",
+  "lat": 29.69106,
+  "lng": -95.2091,
+  "topics": [
+    "Open Source"
+  ],
+  "cfp": {
+    "url": "https://www.socallinuxexpo.org/scale/23x/cfp",
+    "deadline": "2025-12-01",
+    "open": false
+  },
+  "twitter": "https://x.com/socallinuxexpo",
+  "bluesky": "https://bsky.app/profile/socallinuxexpo.bsky.social",
+  "mastodon": "https://social.linux.pizza/@socallinuxexpo",
+  "source": "confs.tech"
+}

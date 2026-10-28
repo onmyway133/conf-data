@@ -1,0 +1,16 @@
+{
+  "name": "FutureStack Roadshow San Francisco 2023",
+  "year": 2023,
+  "url": "https://newrelic.com/events/2023-03-15/futurestack-san-francisco",
+  "startDate": "2023-03-15",
+  "endDate": "2023-03-15",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/NewRelic",
+  "source": "confs.tech"
+}

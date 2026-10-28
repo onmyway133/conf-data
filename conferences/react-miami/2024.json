@@ -1,0 +1,16 @@
+{
+  "name": "React Miami 2024",
+  "year": 2024,
+  "url": "https://www.reactmiami.com",
+  "startDate": "2024-04-19",
+  "endDate": "2024-04-20",
+  "city": "Miami, FL",
+  "country": "US",
+  "lat": 25.77427,
+  "lng": -80.19366,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/ReactMiamiConf",
+  "source": "confs.tech"
+}

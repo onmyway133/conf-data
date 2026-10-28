@@ -1,0 +1,18 @@
+{
+  "name": "Visual Studio Live 2025",
+  "year": 2025,
+  "url": "https://vslive.com/events/microsofthq-2025/home.aspx",
+  "startDate": "2025-08-04",
+  "endDate": "2025-08-08",
+  "city": "Redmond, WA",
+  "country": "US",
+  "lat": 47.67399,
+  "lng": -122.12151,
+  "topics": [
+    "C++",
+    "DevOps",
+    ".NET"
+  ],
+  "twitter": "https://x.com/vslive",
+  "source": "confs.tech"
+}

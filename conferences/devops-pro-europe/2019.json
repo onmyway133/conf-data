@@ -1,0 +1,21 @@
+{
+  "name": "DevOps Pro Europe 2019",
+  "year": 2019,
+  "url": "https://devopspro.lt",
+  "startDate": "2019-03-19",
+  "endDate": "2019-03-21",
+  "city": "Vilnius",
+  "country": "LT",
+  "lat": 54.68916,
+  "lng": 25.2798,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://devopspro.lt/cfp",
+    "deadline": "2019-02-10",
+    "open": false
+  },
+  "twitter": "https://x.com/DevOpsLT",
+  "source": "confs.tech"
+}

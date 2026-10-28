@@ -1,0 +1,16 @@
+{
+  "name": "Devopsdays Melbourne 2023",
+  "year": 2023,
+  "url": "https://devopsdays.org/events/2023-melbourne/welcome",
+  "startDate": "2023-03-16",
+  "endDate": "2023-03-17",
+  "city": "Melbourne",
+  "country": "AU",
+  "lat": -37.814,
+  "lng": 144.96332,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devopsdownunder",
+  "source": "confs.tech"
+}

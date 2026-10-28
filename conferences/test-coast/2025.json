@@ -1,0 +1,17 @@
+{
+  "name": "Test Coast 2025",
+  "year": 2025,
+  "url": "https://www.testcoast.se",
+  "startDate": "2025-05-15",
+  "endDate": "2025-05-15",
+  "city": "Gothenburg",
+  "country": "SE",
+  "lat": 57.70716,
+  "lng": 11.96679,
+  "topics": [
+    "Accessibility",
+    "Performance",
+    "Testing"
+  ],
+  "source": "confs.tech"
+}

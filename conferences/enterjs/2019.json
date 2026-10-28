@@ -1,0 +1,16 @@
+{
+  "name": "enterJS 2019",
+  "year": 2019,
+  "url": "https://www.enterjs.de/index.php",
+  "startDate": "2019-06-25",
+  "endDate": "2019-06-28",
+  "city": "Darmstadt",
+  "country": "DE",
+  "lat": 49.87167,
+  "lng": 8.65027,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/enterjsconf",
+  "source": "confs.tech"
+}

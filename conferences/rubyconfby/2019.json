@@ -1,0 +1,16 @@
+{
+  "name": "RubyConfBY 2019",
+  "year": 2019,
+  "url": "https://rubyconference.by",
+  "startDate": "2019-04-06",
+  "endDate": "2019-04-06",
+  "city": "Minsk",
+  "country": "BY",
+  "lat": 53.90019,
+  "lng": 27.56653,
+  "topics": [
+    "Ruby"
+  ],
+  "twitter": "https://x.com/rubyconfby",
+  "source": "confs.tech"
+}

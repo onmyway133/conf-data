@@ -1,0 +1,16 @@
+{
+  "name": "HalfStack 2019",
+  "year": 2019,
+  "url": "https://halfstackconf.com/vienna",
+  "startDate": "2019-09-19",
+  "endDate": "2019-09-19",
+  "city": "Vienna",
+  "country": "AT",
+  "lat": 48.20849,
+  "lng": 16.37208,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/halfstackconf",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "EmberFest 2022",
+  "year": 2022,
+  "url": "https://emberfest.eu",
+  "startDate": "2022-09-22",
+  "endDate": "2022-09-23",
+  "city": "Paris",
+  "country": "FR",
+  "lat": 48.85341,
+  "lng": 2.3488,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/emberfest",
+  "source": "confs.tech"
+}

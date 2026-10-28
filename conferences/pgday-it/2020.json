@@ -1,0 +1,16 @@
+{
+  "name": "PGDay.IT 2020",
+  "year": 2020,
+  "url": "https://2020.pgday.it/en",
+  "startDate": "2020-06-11",
+  "endDate": "2020-06-12",
+  "city": "Bergamo",
+  "country": "IT",
+  "lat": 45.69601,
+  "lng": 9.66721,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/PGDayIT",
+  "source": "confs.tech"
+}

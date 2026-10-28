@@ -1,0 +1,16 @@
+{
+  "name": "try! Swift 2024",
+  "year": 2024,
+  "url": "https://tryswift.jp/_en",
+  "startDate": "2024-03-22",
+  "endDate": "2024-03-24",
+  "city": "Tokyo",
+  "country": "JP",
+  "lat": 35.6895,
+  "lng": 139.69171,
+  "topics": [
+    "iOS"
+  ],
+  "twitter": "https://x.com/tryswiftconf",
+  "source": "confs.tech"
+}

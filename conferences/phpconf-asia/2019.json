@@ -1,0 +1,21 @@
+{
+  "name": "PHPConf.Asia 2019",
+  "year": 2019,
+  "url": "https://2019.phpconf.asia",
+  "startDate": "2019-06-24",
+  "endDate": "2019-06-25",
+  "city": "Singapore",
+  "country": "SG",
+  "lat": 1.28967,
+  "lng": 103.85007,
+  "topics": [
+    "PHP"
+  ],
+  "cfp": {
+    "url": "https://cfp.phpconf.asia",
+    "deadline": "2019-03-08",
+    "open": false
+  },
+  "twitter": "https://x.com/phpconfasia",
+  "source": "confs.tech"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "PyConFR 2023",
+  "year": 2023,
+  "url": "https://www.pycon.fr/2023",
+  "startDate": "2023-02-16",
+  "endDate": "2023-02-19",
+  "city": "Bordeaux",
+  "country": "FR",
+  "lat": 44.84124,
+  "lng": -0.58046,
+  "topics": [
+    "Python"
+  ],
+  "cfp": {
+    "url": "https://cfp-2023.pycon.fr/cfp",
+    "deadline": "2023-01-07",
+    "open": false
+  },
+  "twitter": "https://x.com/pyconfr",
+  "source": "confs.tech"
+}

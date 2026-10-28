@@ -1,0 +1,21 @@
+{
+  "name": "Kafka Summit London 2019",
+  "year": 2019,
+  "url": "https://kafka-summit.org/events/kafka-summit-london-2019",
+  "startDate": "2019-05-13",
+  "endDate": "2019-05-14",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://kafka-summit.org/kafka-summit-london-2019/speakers",
+    "deadline": "2018-12-20",
+    "open": false
+  },
+  "twitter": "https://x.com/ConfluentInc",
+  "source": "confs.tech"
+}

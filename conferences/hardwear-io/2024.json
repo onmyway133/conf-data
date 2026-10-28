@@ -1,0 +1,22 @@
+{
+  "name": "Hardwear.io 2024",
+  "year": 2024,
+  "url": "https://hardwear.io",
+  "startDate": "2024-05-31",
+  "endDate": "2024-06-01",
+  "city": "Santa Clara, CA",
+  "country": "US",
+  "lat": 37.35411,
+  "lng": -121.95524,
+  "topics": [
+    "IoT",
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://hardwear.io/usa-2024/cfp.php",
+    "deadline": "2024-02-15",
+    "open": false
+  },
+  "twitter": "https://x.com/hardwear_io",
+  "source": "confs.tech"
+}

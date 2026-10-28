@@ -1,0 +1,16 @@
+{
+  "name": "Midwest PHP 2022",
+  "year": 2022,
+  "url": "https://midwestphp.org",
+  "startDate": "2022-04-21",
+  "endDate": "2022-04-23",
+  "city": "Minneapolis, MN",
+  "country": "US",
+  "lat": 44.97997,
+  "lng": -93.26384,
+  "topics": [
+    "PHP"
+  ],
+  "twitter": "https://x.com/midwestphp",
+  "source": "confs.tech"
+}

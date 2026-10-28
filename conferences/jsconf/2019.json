@@ -1,0 +1,21 @@
+{
+  "name": "JSConf 2019",
+  "year": 2019,
+  "url": "https://jsconf.co",
+  "startDate": "2019-10-18",
+  "endDate": "2019-10-19",
+  "city": "Medellín",
+  "country": "CO",
+  "lat": 6.245,
+  "lng": -75.57151,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/jsconf-colombia-2019",
+    "deadline": "2019-06-16",
+    "open": false
+  },
+  "twitter": "https://x.com/jsconfco",
+  "source": "confs.tech"
+}

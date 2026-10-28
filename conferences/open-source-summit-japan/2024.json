@@ -1,0 +1,19 @@
+{
+  "name": "Open Source Summit Japan 2024",
+  "year": 2024,
+  "url": "https://events.linuxfoundation.org/open-source-summit-japan",
+  "startDate": "2024-10-28",
+  "endDate": "2024-10-29",
+  "city": "Tokyo",
+  "country": "JP",
+  "lat": 35.6895,
+  "lng": 139.69171,
+  "topics": [
+    "Open Source"
+  ],
+  "cfp": {
+    "url": "https://events.linuxfoundation.org/open-source-summit-japan/program/cfp",
+    "open": false
+  },
+  "source": "confs.tech"
+}

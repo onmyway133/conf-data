@@ -1,0 +1,22 @@
+{
+  "name": "J on the Beach 2025",
+  "year": 2025,
+  "url": "https://jonthebeach.com",
+  "startDate": "2025-05-21",
+  "endDate": "2025-05-23",
+  "city": "Malaga",
+  "country": "ES",
+  "lat": 36.72016,
+  "lng": -4.42034,
+  "topics": [
+    "Data/AI",
+    "Design/UX"
+  ],
+  "cfp": {
+    "url": "https://jonthebeach.com/#Side-by-side-content-image-1",
+    "deadline": "2025-01-20",
+    "open": false
+  },
+  "twitter": "https://x.com/JOTBConf",
+  "source": "confs.tech"
+}

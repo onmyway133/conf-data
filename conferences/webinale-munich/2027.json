@@ -1,0 +1,19 @@
+{
+  "name": "webinale Munich 2027",
+  "year": 2027,
+  "url": "https://webinale.com/munich",
+  "startDate": "2027-11-15",
+  "endDate": "2027-11-19",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [
+    "JavaScript",
+    "TypeScript",
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/webinale",
+  "bluesky": "https://bsky.app/profile/webinale.bsky.social",
+  "source": "confs.tech"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "One More Thing Conference 2024",
+  "year": 2024,
+  "url": "https://omt-conf.com",
+  "startDate": "2024-06-10",
+  "endDate": "2024-06-14",
+  "city": "Cupertino, CA",
+  "country": "US",
+  "lat": 37.323,
+  "lng": -122.03218,
+  "topics": [
+    "iOS"
+  ],
+  "twitter": "https://x.com/omt_conf",
+  "mastodon": "https://mastodon.social/@omt_conf",
+  "source": "confs.tech"
+}

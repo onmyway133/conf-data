@@ -1,0 +1,16 @@
+{
+  "name": "NG-DE 2019",
+  "year": 2019,
+  "url": "https://ng-de.org",
+  "startDate": "2019-08-30",
+  "endDate": "2019-08-31",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/ngdeconf",
+  "source": "confs.tech"
+}

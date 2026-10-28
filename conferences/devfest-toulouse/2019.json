@@ -1,0 +1,16 @@
+{
+  "name": "DevFest Toulouse 2019",
+  "year": 2019,
+  "url": "https://devfesttoulouse.fr",
+  "startDate": "2019-10-03",
+  "endDate": "2019-10-03",
+  "city": "Toulouse",
+  "country": "FR",
+  "lat": 43.60426,
+  "lng": 1.44367,
+  "topics": [
+    "Networking"
+  ],
+  "twitter": "https://x.com/DevFestToulouse",
+  "source": "confs.tech"
+}

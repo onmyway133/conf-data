@@ -1,0 +1,16 @@
+{
+  "name": "SymfonyCon 2026",
+  "year": 2026,
+  "url": "https://live.symfony.com/2026-warsaw-con",
+  "startDate": "2026-11-26",
+  "endDate": "2026-11-27",
+  "city": "Warsaw",
+  "country": "PL",
+  "lat": 52.22977,
+  "lng": 21.01178,
+  "topics": [
+    "PHP"
+  ],
+  "twitter": "https://x.com/symfony_live",
+  "source": "confs.tech"
+}

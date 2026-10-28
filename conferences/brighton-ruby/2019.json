@@ -1,0 +1,16 @@
+{
+  "name": "Brighton Ruby 2019",
+  "year": 2019,
+  "url": "https://brightonruby.com",
+  "startDate": "2019-07-05",
+  "endDate": "2019-07-05",
+  "city": "Brighton",
+  "country": "GB",
+  "lat": 50.82838,
+  "lng": -0.13947,
+  "topics": [
+    "Ruby"
+  ],
+  "twitter": "https://x.com/brightonruby",
+  "source": "confs.tech"
+}

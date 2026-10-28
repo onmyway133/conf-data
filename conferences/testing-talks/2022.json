@@ -1,0 +1,16 @@
+{
+  "name": "Testing Talks 2022",
+  "year": 2022,
+  "url": "https://www.testingtalks.com.au",
+  "startDate": "2022-10-20",
+  "endDate": "2022-10-20",
+  "city": "Melbourne",
+  "country": "AU",
+  "lat": -37.814,
+  "lng": 144.96332,
+  "topics": [
+    "Testing"
+  ],
+  "twitter": "https://x.com/testingtalks",
+  "source": "confs.tech"
+}

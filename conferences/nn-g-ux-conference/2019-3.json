@@ -1,0 +1,16 @@
+{
+  "name": "NN/g UX Conference 2019",
+  "year": 2019,
+  "url": "https://www.nngroup.com/training/washington-dc",
+  "startDate": "2019-04-27",
+  "endDate": "2019-05-03",
+  "city": "Washington, DC",
+  "country": "US",
+  "lat": 38.89511,
+  "lng": -77.03637,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/nngroup",
+  "source": "confs.tech"
+}

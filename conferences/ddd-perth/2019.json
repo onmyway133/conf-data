@@ -1,0 +1,16 @@
+{
+  "name": "DDD Perth 2019",
+  "year": 2019,
+  "url": "https://dddperth.com",
+  "startDate": "2019-08-03",
+  "endDate": "2019-08-03",
+  "city": "Perth",
+  "country": "AU",
+  "lat": -31.95224,
+  "lng": 115.8614,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/DDDPerth",
+  "source": "confs.tech"
+}

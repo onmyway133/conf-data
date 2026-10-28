@@ -1,0 +1,21 @@
+{
+  "name": "International JavaScript Conference Munich 2021",
+  "year": 2021,
+  "url": "https://javascript-conference.com/munich",
+  "startDate": "2021-10-25",
+  "endDate": "2021-10-29",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://javascript-conference.com/munich/call-for-papers-mun",
+    "deadline": "2021-04-26",
+    "open": false
+  },
+  "twitter": "https://x.com/JavaScriptCon",
+  "source": "confs.tech"
+}

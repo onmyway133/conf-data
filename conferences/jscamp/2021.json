@@ -1,0 +1,16 @@
+{
+  "name": "JSCAMP 2021",
+  "year": 2021,
+  "url": "https://jscamp.tech",
+  "startDate": "2021-07-15",
+  "endDate": "2021-07-16",
+  "city": "Barcelona",
+  "country": "ES",
+  "lat": 41.38879,
+  "lng": 2.15899,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/jscamp",
+  "source": "confs.tech"
+}

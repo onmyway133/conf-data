@@ -1,0 +1,20 @@
+{
+  "name": "WordCamp Europe 2026",
+  "year": 2026,
+  "url": "https://europe.wordcamp.org/2026",
+  "startDate": "2026-06-04",
+  "endDate": "2026-06-06",
+  "city": "Kraków",
+  "country": "PL",
+  "lat": 50.06143,
+  "lng": 19.93658,
+  "topics": [
+    "PHP"
+  ],
+  "cfp": {
+    "url": "https://europe.wordcamp.org/2026/call-for-speakers",
+    "deadline": "2026-01-31",
+    "open": false
+  },
+  "source": "confs.tech"
+}

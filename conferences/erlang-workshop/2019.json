@@ -1,0 +1,19 @@
+{
+  "name": "Erlang Workshop 2019",
+  "year": 2019,
+  "url": "https://icfp19.sigplan.org/home/erlang-2019",
+  "startDate": "2019-08-18",
+  "endDate": "2019-08-18",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [],
+  "cfp": {
+    "url": "https://icfp19.sigplan.org/home/erlang-2019#Call-for-Papers",
+    "deadline": "2019-05-10",
+    "open": false
+  },
+  "twitter": "https://x.com/ErlangWorkshop",
+  "source": "confs.tech"
+}

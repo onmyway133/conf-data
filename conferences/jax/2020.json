@@ -1,0 +1,16 @@
+{
+  "name": "JAX 2020",
+  "year": 2020,
+  "url": "https://jax.de",
+  "startDate": "2020-09-07",
+  "endDate": "2020-09-11",
+  "city": "Mainz",
+  "country": "DE",
+  "lat": 49.98185,
+  "lng": 8.28008,
+  "topics": [
+    "Java"
+  ],
+  "twitter": "https://x.com/jaxcon",
+  "source": "confs.tech"
+}

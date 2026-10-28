@@ -1,0 +1,16 @@
+{
+  "name": "javascript days 2021",
+  "year": 2021,
+  "url": "https://javascript-days.de/berlin",
+  "startDate": "2021-10-04",
+  "endDate": "2021-10-07",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/js_days",
+  "source": "confs.tech"
+}

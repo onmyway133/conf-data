@@ -1,0 +1,16 @@
+{
+  "name": "Devopsdays Goiânia 2023",
+  "year": 2023,
+  "url": "https://devopsdays.org/events/2023-goiania/welcome",
+  "startDate": "2023-03-03",
+  "endDate": "2023-03-04",
+  "city": "Goiânia",
+  "country": "BR",
+  "lat": -16.67861,
+  "lng": -49.25389,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devopsdaysgyn",
+  "source": "confs.tech"
+}

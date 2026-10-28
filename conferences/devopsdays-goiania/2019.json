@@ -1,0 +1,21 @@
+{
+  "name": "DevOpsDays Goiânia 2019",
+  "year": 2019,
+  "url": "https://devopsdays.org/events/2019-goiania/welcome",
+  "startDate": "2019-08-03",
+  "endDate": "2019-08-03",
+  "city": "Goiânia",
+  "country": "BR",
+  "lat": -16.67861,
+  "lng": -49.25389,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://www.papercall.io/devopsdaysgyn2019",
+    "deadline": "2019-06-24",
+    "open": false
+  },
+  "twitter": "https://x.com/devopsdaysgyn",
+  "source": "confs.tech"
+}

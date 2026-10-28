@@ -1,0 +1,16 @@
+{
+  "name": "Agent Conf 2019",
+  "year": 2019,
+  "url": "https://www.agent.sh",
+  "startDate": "2019-02-21",
+  "endDate": "2019-02-24",
+  "city": "Dornbirn",
+  "country": "AT",
+  "lat": 47.41427,
+  "lng": 9.74195,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/AgentConf",
+  "source": "confs.tech"
+}

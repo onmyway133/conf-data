@@ -1,0 +1,19 @@
+{
+  "name": "Indy.Code() 2022",
+  "year": 2022,
+  "url": "https://indycode.amegala.com",
+  "startDate": "2022-10-19",
+  "endDate": "2022-10-19",
+  "city": "Indianapolis, IN",
+  "country": "US",
+  "lat": 39.76838,
+  "lng": -86.15804,
+  "topics": [],
+  "cfp": {
+    "url": "https://www.amegala.com/#/cfp/indycode/2022",
+    "deadline": "2022-06-01",
+    "open": false
+  },
+  "twitter": "https://x.com/amegala",
+  "source": "confs.tech"
+}

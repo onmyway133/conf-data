@@ -1,0 +1,16 @@
+{
+  "name": "JSdayIE 2019",
+  "year": 2019,
+  "url": "https://www.jsday.org",
+  "startDate": "2019-09-20",
+  "endDate": "2019-09-20",
+  "city": "Dublin",
+  "country": "IE",
+  "lat": 53.33306,
+  "lng": -6.24889,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/JSDayIE",
+  "source": "confs.tech"
+}

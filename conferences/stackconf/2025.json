@@ -1,0 +1,21 @@
+{
+  "name": "stackconf 2025",
+  "year": 2025,
+  "url": "https://stackconf.eu",
+  "startDate": "2025-04-29",
+  "endDate": "2025-04-30",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [
+    "Open Source"
+  ],
+  "cfp": {
+    "url": "https://stackconf.eu/propose",
+    "deadline": "2024-12-15",
+    "open": false
+  },
+  "twitter": "https://x.com/stackconf",
+  "source": "confs.tech"
+}

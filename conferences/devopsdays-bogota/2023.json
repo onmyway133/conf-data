@@ -1,0 +1,16 @@
+{
+  "name": "Devopsdays Bogotá 2023",
+  "year": 2023,
+  "url": "https://devopsdays.org/events/2023-bogota/welcome",
+  "startDate": "2023-10-20",
+  "endDate": "2023-10-20",
+  "city": "Bogotá",
+  "country": "CO",
+  "lat": 4.60971,
+  "lng": -74.08175,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devopsdaysb",
+  "source": "confs.tech"
+}

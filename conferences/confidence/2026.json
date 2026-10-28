@@ -1,0 +1,22 @@
+{
+  "name": "CONFidence 2026",
+  "year": 2026,
+  "url": "https://confidence-conference.org/#contact",
+  "startDate": "2026-05-25",
+  "endDate": "2026-05-26",
+  "city": "Kraków",
+  "country": "PL",
+  "lat": 50.06143,
+  "lng": 19.93658,
+  "topics": [
+    "Networking",
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://confidence-conference.org/cfp-2026",
+    "deadline": "2026-03-15",
+    "open": false
+  },
+  "twitter": "https://x.com/CONFidenceConf",
+  "source": "confs.tech"
+}

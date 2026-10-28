@@ -1,0 +1,16 @@
+{
+  "name": "DevOpsCon 2019",
+  "year": 2019,
+  "url": "https://devopsconference.de",
+  "startDate": "2019-12-02",
+  "endDate": "2019-12-05",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devops_con",
+  "source": "confs.tech"
+}

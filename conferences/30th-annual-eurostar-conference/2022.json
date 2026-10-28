@@ -1,0 +1,16 @@
+{
+  "name": "30th Annual EuroSTAR Conference 2022",
+  "year": 2022,
+  "url": "https://conference.eurostarsoftwaretesting.com",
+  "startDate": "2022-06-07",
+  "endDate": "2022-06-10",
+  "city": "Copenhagen",
+  "country": "DK",
+  "lat": 55.67594,
+  "lng": 12.56553,
+  "topics": [
+    "Testing"
+  ],
+  "twitter": "https://x.com/esconfs",
+  "source": "confs.tech"
+}

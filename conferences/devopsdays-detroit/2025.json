@@ -1,0 +1,20 @@
+{
+  "name": "Devopsdays Detroit 2025",
+  "year": 2025,
+  "url": "https://devopsdays.org/events/2025-detroit/welcome/",
+  "startDate": "2025-10-22",
+  "endDate": "2025-10-22",
+  "city": "Detroit, MI",
+  "country": "US",
+  "lat": 42.33143,
+  "lng": -83.04575,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://talks.devopsdays.org/devopsdays-detroit-2025/cfp",
+    "deadline": "2025-08-17",
+    "open": false
+  },
+  "source": "confs.tech"
+}

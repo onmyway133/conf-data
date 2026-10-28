@@ -1,0 +1,21 @@
+{
+  "name": "HolyJS 2019",
+  "year": 2019,
+  "url": "https://holyjs.ru/en",
+  "startDate": "2019-11-08",
+  "endDate": "2019-11-09",
+  "city": "Moscow",
+  "country": "RU",
+  "lat": 55.75204,
+  "lng": 37.61781,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://holyjs-moscow.ru/en/callforpapers",
+    "deadline": "2019-08-29",
+    "open": false
+  },
+  "twitter": "https://x.com/HolyJSconf",
+  "source": "confs.tech"
+}

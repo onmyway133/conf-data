@@ -1,0 +1,316 @@
+{
+  "name": "NSSpain 2018",
+  "year": 2018,
+  "url": "http://nsspain.com/",
+  "startDate": "2018-09-12",
+  "endDate": "2018-09-14",
+  "city": "Logroño",
+  "country": "ES",
+  "lat": 42.46615,
+  "lng": -2.45115,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences",
+  "speakers": [
+    {
+      "speaker": "mattt",
+      "role": "Flight School | NSHipster",
+      "bio": "Mattt is the founder of Flight School a new book series about Swift, and NSHipster a journal of the overlooked bits in Objective-C, Swift, and Cocoa. Previously, he worked at Apple as a technical writer, contributing to The Swift Programming Language, Swift Package Manager, and Swift.org.",
+      "photoUrl": "https://2018.nsspain.com/images/speakers/mattt.jpeg",
+      "twitter": "https://twitter.com/mattt"
+    },
+    {
+      "speaker": "kristina-fox",
+      "role": "Intuit",
+      "bio": "Kristina Fox is an iOS Software Engineer at Intuit, where she works on the QuickBooks Self-Employed app. She regularly writes tutorials and technical commentary on iOS and watchOS development on her website kristina.io. As an international speaker, she has presented on topics ranging from Apple Watch development to using technical writing to advance engineering skills. Kristina's main goal in life is to consume as much guacamole as she can. In her spare time she also enjoys watching cat videos and Twittering.",
+      "photoUrl": "https://2018.nsspain.com/images/speakers/kristina.jpeg",
+      "twitter": "https://twitter.com/krstnfx"
+    },
+    {
+      "speaker": "guilherme-rambo",
+      "role": "Groupon Latin America | 9to5mac | Stacktrace Podcast",
+      "bio": "Gui is a developer, podcaster and reverse engineer. He works for Groupon Latin America, writes for 9To5Mac, co-hosts the Stacktrace podcast and loves to uncover Apple mysteries by “spellunking” SDKs, frameworks and firmware. He’s also the creator of the WWDC app for Mac and many other open source projects.",
+      "photoUrl": "https://2018.nsspain.com/images/speakers/gui.jpeg",
+      "twitter": "https://twitter.com/_inside"
+    },
+    {
+      "speaker": "john-sundell",
+      "role": "Swift by Sundell | Stacktrace Podcast",
+      "bio": "John builds apps, games & developer tools. He also makes Swift by Sundell - a weekly blog & podcast about Swift development, and co-hosts the Stacktrace podcast. He has worked for companies like Volvo & Spotify, and is now an iOS freelancer. He’s the creator of several open source projects and loves to share his work with other developers.",
+      "photoUrl": "https://2018.nsspain.com/images/speakers/john.jpeg",
+      "twitter": "https://twitter.com/johnsundell"
+    },
+    {
+      "speaker": "daniel-steinberg",
+      "role": "Dim Sum Thinking",
+      "bio": "Daniel is the author of more than a dozen books including the best selling books A Swift Kickstart and Developing iOS 7 Apps for iPad and iPhone (the official companion book to the popular iTunes U series from Stanford University).\n\nHe has written apps for the iPhone and the iPad since the SDKs first appeared and has written programs for the Mac all the way back to System 7.\n\nDaniel presents iPhone, Cocoa, and Swift training and consults through his company Dim Sum Thinking. When he's not coding or talking about coding for the Mac, the iPhone, and the iPad he's probably cooking or hanging out with friends.\n\nInformation on his books is available on the Editors Cut website. Details on his training, and speaking is on the Dim Sum Thinking website.",
+      "photoUrl": "https://2018.nsspain.com/images/speakers/daniel.jpeg",
+      "twitter": "https://twitter.com/dimsumthinking",
+      "website": "https://www.dimsumthinking.com/"
+    },
+    {
+      "speaker": "dave-delong",
+      "role": "Snap, Inc",
+      "bio": "A seven-year veteran of Apple, Dave DeLong is an accomplished iOS engineer with a passion for teaching, and hacking the Objective-C runtime. During his time at Apple, he worked on the UIKit framework, Developer Evangelism, and Apple Maps. He currently works on the Product Experience team at Snap, Inc.\n\nDave, his family, and his large collection of bowties live near Salt Lake City, where he’s an active member of the local developer community. He can often be found on Twitter teaching developers about all the ways that calendrical calculations can go wrong and pontificating on the virtues of eating chocolate with peanut butter.",
+      "photoUrl": "https://2018.nsspain.com/images/speakers/dave.jpeg",
+      "twitter": "https://twitter.com/davedelong"
+    },
+    {
+      "speaker": "ellen-shapiro",
+      "role": "Bakken & Bæck's",
+      "bio": "Ellen is an iOS and Android developer for Bakken & Bæck's Amsterdam office. She's written and edited tutorials for RayWenderlich.com for the last 5 years, and this year co-authored her first book for their team, Kotlin Apprentice. She is working in her spare time to help bring songwriting app Hum to life. When she's not writing code, writing about code, or speaking about code, Ellen is usually biking around the Netherlands, traveling as much as she can get away with, playing sous-chef to her fiancée Lilia, or relentlessly Instagramming their cats.",
+      "photoUrl": "https://2018.nsspain.com/images/speakers/ellen.jpeg",
+      "twitter": "https://twitter.com/designatednerd"
+    },
+    {
+      "speaker": "hector-matos",
+      "role": "Twitter",
+      "bio": "Hector is a Sr. Design Technologist at Twitter where he works on reusable components, design systems, and prototypes upcoming features for both iOS and Android. He loves teaching others how to code on his Twitch stream and is the creator of the KrakenDev blog.\n\nHis favorite video game of all time is The Legend of Zelda: Ocarina of Time. So naturally, if you don't find him spending time with his two kids, you can probably catch him pursuing his love of video games during his Twitch streams.",
+      "photoUrl": "https://2018.nsspain.com/images/speakers/hector.jpeg",
+      "twitter": "https://twitter.com/allonsykraken",
+      "website": "https://krakendev.io"
+    },
+    {
+      "speaker": "paul-hudson",
+      "role": "Hacking with Swift",
+      "bio": "Paul is the author of Hacking with Swift, Pro Swift, Swift Design Patterns, Server-Side Swift, Hacking with macOS, Hacking with watchOS, Hacking with tvOS, Swift Coding Challenges, and more. Suffice it to say, he quite likes Swift. And coffee. (But mostly Swift.) (And coffee.)",
+      "photoUrl": "https://2018.nsspain.com/images/speakers/paul.jpeg",
+      "twitter": "https://twitter.com/twostraws",
+      "website": "https://www.hackingwithswift.com"
+    },
+    {
+      "speaker": "nelida-velazquez",
+      "role": "Detroit Labs",
+      "bio": "Nelida is an iOS developer at Detroit Labs who has a passion for tacos and reading code. She’s been a mobile developer for 9 years, working with major brands both in the United States and in her home country of Mexico. When not coding, she likes to travel and attend conferences around the world.",
+      "photoUrl": "https://2018.nsspain.com/images/speakers/nelida.jpeg",
+      "twitter": "https://twitter.com/tolkiana"
+    },
+    {
+      "speaker": "benedikt-terhechte",
+      "role": "XING",
+      "bio": "Benedikt works as a Senior iOS Developer at the professional network XING. In previous jobs he developed solutions for customers such as Disney or Daimler-Chrysler. As an Indie Mac developer, he launched successful apps such as PhotoDesk and Hirundo. Benedikt started investigating Swift right after the 2014 release and writes about it on his popular blog. He also initiated the Core Value and SourceKittenDaemon open source projects.",
+      "photoUrl": "https://2018.nsspain.com/images/speakers/benedikt.jpeg",
+      "twitter": "https://twitter.com/terhechte"
+    },
+    {
+      "speaker": "warren-burton",
+      "role": "Indie Developer",
+      "bio": "Warren is an indie developer working in Peniche, Portugal. He writes mind mapping and development design tools for macOS and iOS. He spent 8 years contracting in London doing agency and corporate work and has seen the some of the best and some of the worst codebases, often in the same repository.",
+      "photoUrl": "https://2018.nsspain.com/images/speakers/warren.jpeg",
+      "twitter": "https://twitter.com/TroutDev"
+    },
+    {
+      "speaker": "marcus-wermuth",
+      "role": "Buffer",
+      "bio": "Marcus is the Mobile Lead at Buffer and based in Munich, Germany. He is passionate about building effective teams and great products in the Mobile Area. Constantly learning and reading you can find him in traveling around trying to find the best coffee 😃.",
+      "photoUrl": "https://2018.nsspain.com/images/speakers/marcus.jpeg",
+      "twitter": "https://twitter.com/mwermuth"
+    },
+    {
+      "speaker": "bart-den-hollander",
+      "role": "Xebia",
+      "bio": "Bart den Hollander is a senior consultant at Xebia with the focus in mobile development and specialized in iOS. With his pragmatic approach and broad experience, he helps organizations to create applications with the user in mind and a intuitive experience. While focussing on quality he also understands the need to get things done.",
+      "photoUrl": "https://2018.nsspain.com/images/speakers/bart.jpeg",
+      "twitter": "https://twitter.com/hollanderbart"
+    },
+    {
+      "speaker": "isabel-barrera",
+      "role": "Kickstarter",
+      "bio": "Isabel is an iOS engineer passionate about product design, architecture and building creative interfaces. She’s been part of mobile teams at startups including Rent the Runway, ClassPass, and recently joined the team at Kickstarter. She lives in Brooklyn, New York where she spends her free time riding her bike around in search of the best pizza the city has to offer.",
+      "photoUrl": "https://2018.nsspain.com/images/speakers/isabel.jpeg",
+      "twitter": "https://twitter.com/ifbarrera"
+    },
+    {
+      "speaker": "adam-bell",
+      "role": "Facebook",
+      "bio": "Adam is a software engineer specializing in audio, animations, interactions, and gestures, currently working on Origami Studio at Facebook. When he's not racing cars or messing with synthesizers, you'll usually find him dabbling in the internals of Apple products or getting Doom to run on platforms it really wasn't designed for (https://www.youtube.com/watch?v=GD0L46y3IqI) 🙃.",
+      "photoUrl": "https://2018.nsspain.com/images/speakers/adam.jpeg",
+      "twitter": "https://twitter.com/b3ll"
+    },
+    {
+      "speaker": "pavel-mazurin",
+      "role": "Uber",
+      "bio": "Pavel is an iOS engineer at Uber. He is working in the Payments team in Amsterdam. Throughout two years he participated in re-writing Uber's rider and driver apps, which was a combined effort of 200+ mobile engineers. Pavel started to write apps for iPhone back in 2008, when the first SDK was released. Before that he was writing for Mac OS X for 3 years. In his spare time he likes to follow his passion in uncovering different flavors coffee.",
+      "photoUrl": "https://2018.nsspain.com/images/speakers/pavel.jpeg",
+      "twitter": "https://twitter.com/pmazurin"
+    },
+    {
+      "speaker": "victor-pena",
+      "role": "Uber",
+      "bio": "Originally from Spain, Victor is an iOS engineer working at Uber, helping payments go smoothly in an app with more than 75 million monthly active users. He has been working on iOS since 2010, and before Uber, he used to work at TomTom. There, he was an engineering manager in the team that built the new generation of the navigation app, with more than 10 million installs.",
+      "photoUrl": "https://2018.nsspain.com/images/speakers/victor.jpeg",
+      "twitter": "https://twitter.com/vicpenap"
+    },
+    {
+      "speaker": "daniel-munoz",
+      "role": "LOVOO",
+      "bio": "Daniel is an iOS Software Engineer at LOVOO GmbH in Dresden, Germany.\n\nWorking with iOS apps for almost 10 years, he did freelance and consulting job for companies based in the US, Latin America and Europe. Besides coding, he enjoys traveling, playing video games and rock climbing.",
+      "photoUrl": "https://2018.nsspain.com/images/speakers/dan.jpeg",
+      "twitter": "https://twitter.com/Makias"
+    },
+    {
+      "speaker": "vladislav-alexeev",
+      "role": "Avito",
+      "bio": "Vlad is infra software engineer. He started his carrier at Yandex where he developed some popular Russian iOS apps like Maps, Browser, followed by Facebook UK where he worked mostly on the Facebook app performance, and later on with the Buck build system infrastructure project. Today he´s back to Russia where is focusing on native UI testing infrastructure in Avito. Vlad likes complex system development, is passionate about performance and smooth UI experiences.",
+      "photoUrl": "https://2018.nsspain.com/images/speakers/vlad.jpeg",
+      "twitter": "https://twitter.com/beefon"
+    },
+    {
+      "speaker": "stephen-celis",
+      "role": "Point-Free",
+      "bio": "Stephen Celis lives in Brooklyn and co-hosts Point-Free, a Swift video series exploring functional programming and more. He helped build and open-source the Kickstarter iOS app and most recently helped bring the functional lifestyle to FiftyThree's Paper and HQ Trivia.",
+      "photoUrl": "https://2018.nsspain.com/images/speakers/stephen.jpeg",
+      "twitter": "https://twitter.com/stephencelis"
+    }
+  ],
+  "talks": [
+    {
+      "slug": "a-better-mvc",
+      "title": "A Better MVC",
+      "speakers": [
+        "dave-delong"
+      ]
+    },
+    {
+      "slug": "avoiding-culture-shock-designing-apps-for-different-cultures",
+      "title": "Avoiding culture shock. Designing apps for different cultures.",
+      "speakers": [
+        "daniel-munoz"
+      ]
+    },
+    {
+      "slug": "better-developer-tooling-by-writing-your-own-mac-apps-with-cocoa-bindings-2",
+      "title": "Better Developer Tooling by writing your own Mac Apps with Cocoa Bindings",
+      "speakers": [
+        "benedikt-terhechte"
+      ]
+    },
+    {
+      "slug": "building-apps-at-scale",
+      "title": "Building apps at scale",
+      "speakers": [
+        "pavel-mazurin"
+      ]
+    },
+    {
+      "slug": "combinators",
+      "title": "Combinators",
+      "speakers": [
+        "daniel-steinberg"
+      ]
+    },
+    {
+      "slug": "don-t-rewrite-your-project-refactor",
+      "title": "Don’t rewrite your project. Refactor.",
+      "speakers": [
+        "warren-burton"
+      ]
+    },
+    {
+      "slug": "embrace-your-legacy-code",
+      "title": "Embrace your Legacy… Code",
+      "speakers": [
+        "nelida-velazquez"
+      ]
+    },
+    {
+      "slug": "embracing-change",
+      "title": "Embracing Change",
+      "speakers": [
+        "kristina-fox"
+      ]
+    },
+    {
+      "slug": "from-engineer-to-manager-a-personal-journey",
+      "title": "From Engineer to Manager - A personal journey",
+      "speakers": [
+        "marcus-wermuth"
+      ]
+    },
+    {
+      "slug": "going-deep-with-animations-in-ios",
+      "title": "Going Deep With Animations in iOS",
+      "speakers": [
+        "hector-matos"
+      ]
+    },
+    {
+      "slug": "how-to-control-the-world",
+      "title": "How To Control The World",
+      "speakers": [
+        "stephen-celis"
+      ]
+    },
+    {
+      "slug": "introduction-to-siri-shortcuts",
+      "title": "Introduction to Siri Shortcuts",
+      "speakers": [
+        "daniel-steinberg"
+      ]
+    },
+    {
+      "slug": "live-podcast",
+      "title": "Live Podcast 🎉",
+      "speakers": [
+        "guilherme-rambo"
+      ]
+    },
+    {
+      "slug": "react-native-unfiltered-insights-from-introducing-react-native-to-a-production-a",
+      "title": "React Native Unfiltered – Insights from Introducing React Native to a Production Application",
+      "speakers": [
+        "isabel-barrera"
+      ]
+    },
+    {
+      "slug": "scaling-up-mobile-at-ing",
+      "title": "Scaling up mobile at ING",
+      "speakers": [
+        "bart-den-hollander"
+      ]
+    },
+    {
+      "slug": "siri-shortcuts",
+      "title": "Siri Shortcuts",
+      "speakers": [
+        "ellen-shapiro"
+      ]
+    },
+    {
+      "slug": "strings-seven-ways-2",
+      "title": "Strings Seven Ways",
+      "speakers": [
+        "mattt"
+      ]
+    },
+    {
+      "slug": "synthesizing-synths-in-swift",
+      "title": "Synthesizing Synths in Swift",
+      "speakers": [
+        "adam-bell"
+      ]
+    },
+    {
+      "slug": "teaching-swift-at-scale",
+      "title": "Teaching Swift at Scale",
+      "speakers": [
+        "paul-hudson"
+      ]
+    },
+    {
+      "slug": "the-art-of-spelunking",
+      "title": "The Art of Spelunking",
+      "speakers": [
+        "guilherme-rambo"
+      ]
+    },
+    {
+      "slug": "ui-testing-infrastructure-in-avito",
+      "title": "UI Testing Infrastructure in Avito",
+      "speakers": [
+        "vladislav-alexeev"
+      ]
+    }
+  ]
+}

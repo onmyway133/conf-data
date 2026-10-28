@@ -1,0 +1,429 @@
+{
+  "name": "mDevCamp 2026",
+  "year": 2026,
+  "url": "https://mdevcamp.eu/",
+  "startDate": "2026-06-03",
+  "endDate": "2026-06-04",
+  "city": "Prague",
+  "country": "CZ",
+  "lat": 50.08804,
+  "lng": 14.42076,
+  "topics": [
+    "iOS",
+    "Mobile"
+  ],
+  "cfp": {
+    "url": "https://forms.gle/MWKkKDAk98fFLpLz8",
+    "deadline": "2025-11-30",
+    "open": false
+  },
+  "source": "cocoaconferences",
+  "speakers": [
+    {
+      "speaker": "marton-braun",
+      "role": "JetBrains",
+      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/695cc58aedff1ee361b846c0_Ma%CC%81rton%20Braun.png"
+    },
+    {
+      "speaker": "sebastian-aigner",
+      "role": "JetBrains",
+      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/695cc4e0daf14feb3d836d8a_Sebastian%20Aigner.png"
+    },
+    {
+      "speaker": "arkadii-ivanov",
+      "role": "xAI",
+      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/697877eca2a84df0582ab4a9_Arkadii_Ivanov.jpg"
+    },
+    {
+      "speaker": "enrique-lopez-manas",
+      "role": "Snapp Technology",
+      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/69787ea306497598b5ea13dd_Enrique%20Lopez_Manas.jpg"
+    },
+    {
+      "speaker": "daco-harkes",
+      "role": "Google",
+      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/69ccee9b4fe2acd762a363e3_fotoshoot%20square%20(1).jpg"
+    },
+    {
+      "speaker": "cyril-cermak",
+      "role": "Porsche AG",
+      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/695cc7ca3316497e8f35a01d_me%20-%20Cyril%20Cermak%20(1).jpeg"
+    },
+    {
+      "speaker": "ben-freiband",
+      "role": "Duo Security (Cisco Systems)",
+      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/697878d638c5cbe4c9d659c2_Ben_Freiband.JPG"
+    },
+    {
+      "speaker": "filip-dolnik",
+      "role": "Touchlab",
+      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/69787f3c0615b899f4b1ab18_Filip_Dolnik.jpeg"
+    },
+    {
+      "speaker": "sergio-castell",
+      "role": "Guardsquare",
+      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/6981cc750f8bcf10462ea7e5_pfp%20-%20Sergio%20Castell%20(1).jpg"
+    },
+    {
+      "speaker": "martin-duris",
+      "role": "Macaly",
+      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/6a105cc6e6959470c210766f_Martin_Duris_smile_photo%20(1).jpg"
+    },
+    {
+      "speaker": "sinasamaki",
+      "role": "Individual developer",
+      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/695cc990c8f6cd2ad41c3d32_my_%26heart_1440_1440%20-%20Leshan%20(1).png"
+    },
+    {
+      "speaker": "michal-klement",
+      "role": "Livesport",
+      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/69b8024c2549eb271a10453b_miso_workshop.png"
+    },
+    {
+      "speaker": "anna-bohonek",
+      "role": "Fameplay",
+      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/69fae33b2f5f1de5b19a3dd3_Anna%20Bohonek%20Business%20Lead%20at%20Fameplay.jpg"
+    },
+    {
+      "speaker": "vadym-pinchuk",
+      "role": "VP DEV LTD",
+      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/697887987555eae156e3a6c9_Vadym_Pinchuk.jpg"
+    },
+    {
+      "speaker": "agnieszka-forajter",
+      "role": "LeanCode",
+      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/697e184c9c772cffed0eb896_67aeead824cee1b0673e2250_Zrzut_ekranu_2022_09_20_o_11_21_18_ffa19f9c5f.png"
+    },
+    {
+      "speaker": "julien-salvi",
+      "role": "Aircall",
+      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/6982ffed474b08287d004b9e_Julien_Salvi.jpeg"
+    },
+    {
+      "speaker": "patrik-mucha",
+      "role": "Livesport",
+      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/69b802e48d1d381177d005b1_patrik_workhop.jpg"
+    },
+    {
+      "speaker": "ondrej-platek",
+      "role": "BottleCapAI",
+      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/69fae2e7414e3410cb9e85c1_Ondrej-Platek-BottleCapAI_1.png"
+    },
+    {
+      "speaker": "klaudia-kozaroczy",
+      "role": "BlueSpot Kft.",
+      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/6978835019fac3dc920ee9e8_Klaudia_Demjen.jpg"
+    },
+    {
+      "speaker": "roman-liukevich",
+      "role": "Ringier Axel Springer",
+      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/6978865566550c6a44a4acc3_Roman_Liukevich.jpg"
+    },
+    {
+      "speaker": "jitka-pfeiferova",
+      "role": "Netglade",
+      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/69b7f7150e66e1a8f303eeb0_Jitka%20Pfeiferova%CC%81.jpeg"
+    },
+    {
+      "speaker": "michal-freriks",
+      "role": "NetGlade",
+      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/69cbbf0995efc728a9914fe6_054C4A33-1DA0-403D-9237-511FC751361D_1_105_c.webp"
+    },
+    {
+      "speaker": "eeva-jonna-panula",
+      "role": "Eevis Codes",
+      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/69787dd5117bec96e91545f7_Eeva-Jonna_Panula.jpg"
+    },
+    {
+      "speaker": "kamil-sztandur",
+      "role": "LeanCode",
+      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/69788204aa7f10cf1142d2a4_Kamil_Sztandur.jpg"
+    },
+    {
+      "speaker": "jaroslav-novotny",
+      "role": "Talsec",
+      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/69b7f9e4488a7b0f8bc74bcf_Jaroslav%20Novotny%CC%81.jpg"
+    },
+    {
+      "speaker": "branislav-bily",
+      "role": "Livesport",
+      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/69b7ff9a6d9cd966dce6ffe2_Branislav%20Bily%CC%81.jpg"
+    },
+    {
+      "speaker": "soheyla-mirshahi",
+      "role": "Neurogenou",
+      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/69fae1c2278c153966035d0a_Soheyla-Mirshahi_1.jpg"
+    },
+    {
+      "speaker": "leopold-podmolik",
+      "role": "Sky",
+      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/699832286560f69d69ba0a1c_Podmolik-Leopold-foto%202.jpg"
+    },
+    {
+      "speaker": "michal-jenicek",
+      "role": "STRV",
+      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/697884b065831ad70f626302_Michal_Jenicek.jpg"
+    },
+    {
+      "speaker": "yauheni-slizh",
+      "role": "Umain",
+      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/6978884f2bf96c79bfeebfc1_Yauhen_Slizh.jpg"
+    },
+    {
+      "speaker": "oskar-korzonek",
+      "role": "Dyson",
+      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/6981c08319c97ffe8af43101_Oskar_K_1x1_plSwift_03%20-%20Oskar%20Korzonek.jpg"
+    },
+    {
+      "speaker": "jackson-ferreira-de-andrade-mafra",
+      "role": "Umain",
+      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/697880b9602129d01369aab3_Jackson_Mafra.jpg"
+    },
+    {
+      "speaker": "andrii-zinoviev",
+      "role": "Lightway Technologies",
+      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/697876c139041ffdff0433eb_Andrii_Zinoviev.jpg"
+    },
+    {
+      "speaker": "david-petrina",
+      "role": "MeguMethod",
+      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/69787a1c29335a4e5f2d5dad_david_petrina.jpeg"
+    },
+    {
+      "speaker": "david-vavra",
+      "role": "Settle Up",
+      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/69787abd366010a2716c9f9b_David_Vavra.jpg"
+    },
+    {
+      "speaker": "ipek-erten",
+      "role": "Indie developer",
+      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/6a16f7af9f26e0be24608dbe_1779889083042%20(1).png"
+    }
+  ],
+  "talks": [
+    {
+      "slug": "behind-the-walls-penetrating-a-secure-system-2",
+      "title": "Behind The Walls: Penetrating A Secure System",
+      "speakers": [
+        "cyril-cermak"
+      ]
+    },
+    {
+      "slug": "beyond-breakpoints-leveraging-time-travel-debugging-with-mvikotlin",
+      "title": "Beyond Breakpoints: Leveraging Time-Travel Debugging with MVIKotlin",
+      "speakers": [
+        "arkadii-ivanov"
+      ]
+    },
+    {
+      "slug": "beyond-crashes-mastering-monitoring-observability-for-android-apps",
+      "title": "Beyond Crashes: Mastering Monitoring & Observability for Android Apps 🚀",
+      "speakers": [
+        "julien-salvi"
+      ]
+    },
+    {
+      "slug": "beyond-gestures-accessible-svg-maps-for-compose-multiplatform",
+      "title": "Beyond Gestures: Accessible (SVG) Maps for Compose Multiplatform",
+      "speakers": [
+        "eeva-jonna-panula"
+      ]
+    },
+    {
+      "slug": "beyond-the-prompt-building-ai-that-actually-works",
+      "title": "Beyond the Prompt: Building AI that actually works",
+      "speakers": [
+        "martin-duris"
+      ]
+    },
+    {
+      "slug": "breaking-your-design-with-this-one-simple-trick-text-scaling",
+      "title": "Breaking your design with this one simple trick: Text scaling",
+      "speakers": [
+        "klaudia-kozaroczy"
+      ]
+    },
+    {
+      "slug": "bridge-the-gap-how-to-write-kmp-devs-actually-like",
+      "title": "Bridge the Gap: How to Write KMP Devs Actually Like",
+      "speakers": [
+        "michal-klement"
+      ]
+    },
+    {
+      "slug": "building-cross-platform-apps-in-kotlin-with-compose-multiplatform",
+      "title": "Building cross-platform apps in Kotlin with Compose Multiplatform",
+      "speakers": [
+        "marton-braun"
+      ]
+    },
+    {
+      "slug": "coding-as-a-creative-tool",
+      "title": "Coding as a Creative Tool",
+      "speakers": [
+        "ipek-erten"
+      ]
+    },
+    {
+      "slug": "composifying-your-not-compose-code",
+      "title": "Composifying Your Not-Compose Code",
+      "speakers": [
+        "enrique-lopez-manas"
+      ]
+    },
+    {
+      "slug": "crafting-delightful-android-ui-from-basic-to-beautiful",
+      "title": "Crafting Delightful Android UI: From Basic to Beautiful",
+      "speakers": [
+        "sinasamaki"
+      ]
+    },
+    {
+      "slug": "dart-and-flutter-through-an-evolutionary-biology-lens",
+      "title": "Dart and Flutter through an evolutionary biology lens",
+      "speakers": [
+        "daco-harkes"
+      ]
+    },
+    {
+      "slug": "develop-smarter-not-harder-api-magic-with-proxyman-and-postman",
+      "title": "Develop Smarter, Not Harder: API Magic with Proxyman and Postman",
+      "speakers": [
+        "leopold-podmolik"
+      ]
+    },
+    {
+      "slug": "elevating-the-ordinary-crafting-delightful-android-ui",
+      "title": "Elevating the Ordinary: Crafting Delightful Android UI",
+      "speakers": [
+        "sinasamaki"
+      ]
+    },
+    {
+      "slug": "flutter-development-in-the-ai-era-tools-experiments-and-surprises",
+      "title": "Flutter Development in the AI Era: Tools, Experiments, and Surprises",
+      "speakers": [
+        "jitka-pfeiferova"
+      ]
+    },
+    {
+      "slug": "flutter-on-foldables-how-hard-it-could-be",
+      "title": "Flutter on Foldables: how hard it could be?",
+      "speakers": [
+        "vadym-pinchuk"
+      ]
+    },
+    {
+      "slug": "flutter-refactors-at-scale-change-everything-break-nothing",
+      "title": "Flutter Refactors at Scale: Change Everything, Break Nothing",
+      "speakers": [
+        "agnieszka-forajter"
+      ]
+    },
+    {
+      "slug": "from-mobile-to-car-developing-android-auto-media-app",
+      "title": "From Mobile to Car: Developing Android Auto Media App",
+      "speakers": [
+        "branislav-bily"
+      ]
+    },
+    {
+      "slug": "from-native-ui-to-compose-multiplatform-a-one-way-journey",
+      "title": "From Native UI to Compose Multiplatform: A One-Way Journey.",
+      "speakers": [
+        "yauheni-slizh"
+      ]
+    },
+    {
+      "slug": "going-multiplatform-with-your-android-app",
+      "title": "Going Multiplatform with Your Android App",
+      "speakers": [
+        "marton-braun"
+      ]
+    },
+    {
+      "slug": "gradle-without-the-guesswork-a-guide-for-kotlin-developers",
+      "title": "Gradle Without The Guesswork: A Guide for Kotlin Developers",
+      "speakers": [
+        "filip-dolnik"
+      ]
+    },
+    {
+      "slug": "ios-security-and-introduction-into-reverse-engineering",
+      "title": "iOS Security and Introduction into Reverse Engineering",
+      "speakers": [
+        "cyril-cermak"
+      ]
+    },
+    {
+      "slug": "learning-how-to-use-and-what-can-go-wrong-in-android-hardware-attestation",
+      "title": "Learning how to use and what can go wrong in Android hardware attestation",
+      "speakers": [
+        "sergio-castell"
+      ]
+    },
+    {
+      "slug": "living-documentation-that-can-t-die",
+      "title": "Living Documentation That Can't Die",
+      "speakers": [
+        "roman-liukevich"
+      ]
+    },
+    {
+      "slug": "one-test-to-rule-them-all",
+      "title": "One TEST to Rule Them ALL!",
+      "speakers": [
+        "david-petrina"
+      ]
+    },
+    {
+      "slug": "reinventing-swiftui-layout-system-from-scratch",
+      "title": "Reinventing SwiftUI layout system from scratch.",
+      "speakers": [
+        "andrii-zinoviev"
+      ]
+    },
+    {
+      "slug": "rewrite-your-android-app-gradually-not-all-at-once",
+      "title": "Rewrite your Android app gradually, not all at once",
+      "speakers": [
+        "david-vavra"
+      ]
+    },
+    {
+      "slug": "stop-fixing-ai-code-and-make-it-respect-your-guidelines",
+      "title": "Stop fixing AI Code and make It respect your guidelines",
+      "speakers": [
+        "oskar-korzonek"
+      ]
+    },
+    {
+      "slug": "taming-the-web-with-kotlin-multiplatform",
+      "title": "Taming the Web with Kotlin Multiplatform",
+      "speakers": [
+        "jackson-ferreira-de-andrade-mafra"
+      ]
+    },
+    {
+      "slug": "the-developer-s-guide-to-flutter-security",
+      "title": "The Developer's Guide to Flutter Security",
+      "speakers": [
+        "jaroslav-novotny"
+      ]
+    },
+    {
+      "slug": "unlocking-the-keychain-understanding-it-before-you-inevitably-need-it",
+      "title": "Unlocking the Keychain: Understanding it before you inevitably need it",
+      "speakers": [
+        "ben-freiband"
+      ]
+    },
+    {
+      "slug": "your-api-key-is-not-a-secret-the-genuine-app-pattern",
+      "title": "Your API Key is Not a Secret: The \"Genuine App\" Pattern",
+      "speakers": [
+        "michal-jenicek"
+      ]
+    }
+  ]
+}

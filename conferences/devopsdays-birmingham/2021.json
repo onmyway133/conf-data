@@ -1,0 +1,16 @@
+{
+  "name": "Devopsdays Birmingham 2021",
+  "year": 2021,
+  "url": "https://devopsdays.org/events/2021-birmingham/welcome",
+  "startDate": "2021-03-04",
+  "endDate": "2021-03-05",
+  "city": "Birmingham",
+  "country": "GB",
+  "lat": 52.48142,
+  "lng": -1.89983,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devopsdaysbrum",
+  "source": "confs.tech"
+}

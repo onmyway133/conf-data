@@ -1,0 +1,16 @@
+{
+  "name": "DevOps-Fusion 2022",
+  "year": 2022,
+  "url": "http://devops-fusion.com",
+  "startDate": "2022-06-21",
+  "endDate": "2022-06-21",
+  "city": "Zurich",
+  "country": "CH",
+  "lat": 47.36667,
+  "lng": 8.55,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/DevOpsFusion",
+  "source": "confs.tech"
+}

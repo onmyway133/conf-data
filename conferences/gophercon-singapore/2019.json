@@ -1,0 +1,21 @@
+{
+  "name": "GopherCon Singapore 2019",
+  "year": 2019,
+  "url": "https://2019.gophercon.sg",
+  "startDate": "2019-04-29",
+  "endDate": "2019-05-03",
+  "city": "Singapore",
+  "country": "SG",
+  "lat": 1.28967,
+  "lng": 103.85007,
+  "topics": [
+    "Go"
+  ],
+  "cfp": {
+    "url": "https://www.papercall.io/gopherconsg2019",
+    "deadline": "2019-02-07",
+    "open": false
+  },
+  "twitter": "https://x.com/gopherconsg",
+  "source": "confs.tech"
+}

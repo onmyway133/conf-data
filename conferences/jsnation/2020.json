@@ -1,0 +1,16 @@
+{
+  "name": "JSNation 2020",
+  "year": 2020,
+  "url": "http://jsnation.com",
+  "startDate": "2020-09-08",
+  "endDate": "2020-09-10",
+  "city": "Amsterdam",
+  "country": "NL",
+  "lat": 52.37403,
+  "lng": 4.88969,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/amsterdamjs",
+  "source": "confs.tech"
+}

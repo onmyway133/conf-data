@@ -1,0 +1,21 @@
+{
+  "name": "Devopsdays Warsaw 2022",
+  "year": 2022,
+  "url": "https://devopsdays.org/events/2022-warsaw/welcome",
+  "startDate": "2022-10-24",
+  "endDate": "2022-10-25",
+  "city": "Warsaw",
+  "country": "PL",
+  "lat": 52.22977,
+  "lng": 21.01178,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://devopsdays.pl/call-for-papers",
+    "deadline": "2022-09-05",
+    "open": false
+  },
+  "twitter": "https://x.com/devopsdayswaw",
+  "source": "confs.tech"
+}

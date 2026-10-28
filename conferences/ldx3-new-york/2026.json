@@ -1,0 +1,16 @@
+{
+  "name": "LDX3 New York 2026",
+  "year": 2026,
+  "url": "https://leaddev.com/leaddev-new-york",
+  "startDate": "2026-09-15",
+  "endDate": "2026-09-16",
+  "city": "New York, NY",
+  "country": "US",
+  "lat": 40.71427,
+  "lng": -74.00597,
+  "topics": [
+    "Networking",
+    "Performance"
+  ],
+  "source": "confs.tech"
+}

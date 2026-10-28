@@ -1,0 +1,21 @@
+{
+  "name": "New England Drupal Camp 2019",
+  "year": 2019,
+  "url": "https://nedcamp.org",
+  "startDate": "2019-11-22",
+  "endDate": "2019-11-23",
+  "city": "Providence, RI",
+  "country": "US",
+  "lat": 41.82399,
+  "lng": -71.41283,
+  "topics": [
+    "PHP"
+  ],
+  "cfp": {
+    "url": "https://nedcamp.org/submit-session",
+    "deadline": "2019-09-23",
+    "open": false
+  },
+  "twitter": "https://x.com/NEDCamp",
+  "source": "confs.tech"
+}

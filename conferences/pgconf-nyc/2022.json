@@ -1,0 +1,19 @@
+{
+  "name": "PGConf NYC 2022",
+  "year": 2022,
+  "url": "https://2022.pgconf.nyc",
+  "startDate": "2022-09-22",
+  "endDate": "2022-09-23",
+  "city": "New York, NY",
+  "country": "US",
+  "lat": 40.71427,
+  "lng": -74.00597,
+  "topics": [],
+  "cfp": {
+    "url": "https://2022.pgconf.nyc/callforpapers",
+    "deadline": "2022-05-31",
+    "open": false
+  },
+  "twitter": "https://x.com/pgconfnyc",
+  "source": "confs.tech"
+}

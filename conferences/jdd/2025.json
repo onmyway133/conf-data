@@ -1,0 +1,23 @@
+{
+  "name": "JDD 2025",
+  "year": 2025,
+  "url": "https://jdd.org.pl",
+  "startDate": "2025-10-21",
+  "endDate": "2025-10-22",
+  "city": "Kraków",
+  "country": "PL",
+  "lat": 50.06143,
+  "lng": 19.93658,
+  "topics": [
+    "Java",
+    "Kotlin",
+    "Scala"
+  ],
+  "cfp": {
+    "url": "https://jdd.org.pl/cfp-2025",
+    "deadline": "2025-05-16",
+    "open": false
+  },
+  "twitter": "https://x.com/JDD_Krakow",
+  "source": "confs.tech"
+}

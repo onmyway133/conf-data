@@ -1,0 +1,16 @@
+{
+  "name": "Hatch Conference 2024",
+  "year": 2024,
+  "url": "https://www.hatchconference.com",
+  "startDate": "2024-09-04",
+  "endDate": "2024-09-06",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/hatchconference",
+  "source": "confs.tech"
+}

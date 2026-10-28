@@ -1,0 +1,17 @@
+{
+  "name": "Agile Testing Days USA 2023",
+  "year": 2023,
+  "url": "https://agiletestingdays.us",
+  "startDate": "2023-05-22",
+  "endDate": "2023-05-24",
+  "city": "Chicago, IL",
+  "country": "US",
+  "lat": 41.85003,
+  "lng": -87.65005,
+  "topics": [
+    "Networking",
+    "Testing"
+  ],
+  "twitter": "https://x.com/AgileTDZone",
+  "source": "confs.tech"
+}

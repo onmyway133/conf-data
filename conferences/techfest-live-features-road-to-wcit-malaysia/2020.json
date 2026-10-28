@@ -1,0 +1,16 @@
+{
+  "name": "Techfest LIVE features Road-to-WCIT Malaysia 2020",
+  "year": 2020,
+  "url": "https://techfest.my",
+  "startDate": "2020-11-18",
+  "endDate": "2020-11-20",
+  "city": "Penang",
+  "country": "MY",
+  "lat": 5.41123,
+  "lng": 100.33543,
+  "topics": [
+    "Networking"
+  ],
+  "twitter": "https://x.com/TechFestMY",
+  "source": "confs.tech"
+}

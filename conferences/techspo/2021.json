@@ -1,0 +1,15 @@
+{
+  "name": "TECHSPO 2021",
+  "year": 2021,
+  "url": "https://techsponyc.com",
+  "startDate": "2021-04-15",
+  "endDate": "2021-04-16",
+  "city": "New York, NY",
+  "country": "US",
+  "lat": 40.71427,
+  "lng": -74.00597,
+  "topics": [
+    "Networking"
+  ],
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "NinjaOne Summer Roadshow Munich 2025",
+  "year": 2025,
+  "url": "https://www.ninjaone.com/de/roadshow-europa2025",
+  "startDate": "2025-09-18",
+  "endDate": "2025-09-18",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [
+    "Data/AI",
+    "Security"
+  ],
+  "source": "confs.tech"
+}

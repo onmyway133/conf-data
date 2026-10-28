@@ -1,0 +1,19 @@
+{
+  "name": "ScaleConf 2019",
+  "year": 2019,
+  "url": "https://scaleconf.org",
+  "startDate": "2019-03-07",
+  "endDate": "2019-03-08",
+  "city": "Cape Town",
+  "country": "ZA",
+  "lat": -33.92584,
+  "lng": 18.42322,
+  "topics": [],
+  "cfp": {
+    "url": "https://scaleconf.org/submit-talk",
+    "deadline": "2018-11-30",
+    "open": false
+  },
+  "twitter": "https://x.com/scaleconf",
+  "source": "confs.tech"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "ReactNext 2019",
+  "year": 2019,
+  "url": "https://react-next.com",
+  "startDate": "2019-06-11",
+  "endDate": "2019-06-11",
+  "city": "Tel Aviv",
+  "country": "IL",
+  "lat": 32.08088,
+  "lng": 34.78057,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSd5XH8lFRAIR4Yb5GmcmfBSDe-RQWB6XVOK46NFwYL-7I4BlQ/viewform",
+    "deadline": "2019-03-15",
+    "open": false
+  },
+  "twitter": "https://x.com/ReactNext",
+  "source": "confs.tech"
+}

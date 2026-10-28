@@ -1,0 +1,19 @@
+{
+  "name": "API Conference London 2027",
+  "year": 2027,
+  "url": "https://apiconference.net/london",
+  "startDate": "2027-06-07",
+  "endDate": "2027-06-11",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "APIs",
+    "Data/AI",
+    "DevOps"
+  ],
+  "twitter": "https://x.com/api_conference",
+  "bluesky": "https://bsky.app/profile/apiconference.bsky.social",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Devoxx Poland 2020",
+  "year": 2020,
+  "url": "http://devoxx.pl",
+  "startDate": "2020-06-17",
+  "endDate": "2020-06-19",
+  "city": "Kraków",
+  "country": "PL",
+  "lat": 50.06143,
+  "lng": 19.93658,
+  "topics": [
+    "Java"
+  ],
+  "twitter": "https://x.com/DevoxxPL",
+  "source": "confs.tech"
+}

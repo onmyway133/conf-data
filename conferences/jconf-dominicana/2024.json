@@ -1,0 +1,15 @@
+{
+  "name": "JConf Dominicana 2024",
+  "year": 2024,
+  "url": "https://jconfdominicana.org",
+  "startDate": "2024-07-19",
+  "endDate": "2024-07-20",
+  "city": "Santiago de los Caballeros",
+  "country": "DO",
+  "lat": 19.45036,
+  "lng": -70.69085,
+  "topics": [
+    "Java"
+  ],
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "DEVintersection 2022",
+  "year": 2022,
+  "url": "https://devintersection.com",
+  "startDate": "2022-04-05",
+  "endDate": "2022-04-08",
+  "city": "Las Vegas, NV",
+  "country": "US",
+  "lat": 36.17497,
+  "lng": -115.13722,
+  "topics": [
+    ".NET"
+  ],
+  "twitter": "https://x.com/DEVintersection",
+  "source": "confs.tech"
+}

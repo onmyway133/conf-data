@@ -1,0 +1,22 @@
+{
+  "name": "KCD Toronto 2026",
+  "year": 2026,
+  "url": "https://kcdtoronto.ca",
+  "startDate": "2026-05-13",
+  "endDate": "2026-05-13",
+  "city": "Toronto",
+  "country": "CA",
+  "lat": 43.70643,
+  "lng": -79.39864,
+  "topics": [
+    "Data/AI",
+    "DevOps",
+    "Open Source"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/kcd-toronto-2026",
+    "deadline": "2026-02-16",
+    "open": false
+  },
+  "source": "confs.tech"
+}

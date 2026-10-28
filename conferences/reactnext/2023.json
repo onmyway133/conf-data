@@ -1,0 +1,21 @@
+{
+  "name": "ReactNext 2023",
+  "year": 2023,
+  "url": "https://www.react-next.com",
+  "startDate": "2023-06-27",
+  "endDate": "2023-06-27",
+  "city": "Tel Aviv",
+  "country": "IL",
+  "lat": 32.08088,
+  "lng": 34.78057,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/Reactnext23",
+    "deadline": "2023-01-31",
+    "open": false
+  },
+  "twitter": "https://x.com/ReactNext",
+  "source": "confs.tech"
+}

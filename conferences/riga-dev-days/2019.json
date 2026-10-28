@@ -1,0 +1,16 @@
+{
+  "name": "Riga Dev Days 2019",
+  "year": 2019,
+  "url": "https://2019.rigadevdays.lv",
+  "startDate": "2019-05-29",
+  "endDate": "2019-05-31",
+  "city": "Riga",
+  "country": "LV",
+  "lat": 56.946,
+  "lng": 24.10589,
+  "topics": [
+    "Java"
+  ],
+  "twitter": "https://x.com/RigaDevDays",
+  "source": "confs.tech"
+}

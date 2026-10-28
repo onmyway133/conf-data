@@ -1,0 +1,17 @@
+{
+  "name": "Platform Summit 2023",
+  "year": 2023,
+  "url": "https://nordicapis.com/events/platform-summit-2023",
+  "startDate": "2023-10-16",
+  "endDate": "2023-10-18",
+  "city": "Stockholm",
+  "country": "SE",
+  "lat": 59.32938,
+  "lng": 18.06871,
+  "topics": [
+    "APIs",
+    "Security"
+  ],
+  "twitter": "https://x.com/nordicapis",
+  "source": "confs.tech"
+}

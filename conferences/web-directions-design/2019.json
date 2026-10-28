@@ -1,0 +1,21 @@
+{
+  "name": "Web Directions Design 2019",
+  "year": 2019,
+  "url": "https://www.webdirections.org/design",
+  "startDate": "2019-04-11",
+  "endDate": "2019-04-12",
+  "city": "Melbourne",
+  "country": "AU",
+  "lat": -37.814,
+  "lng": 144.96332,
+  "topics": [
+    "Design/UX"
+  ],
+  "cfp": {
+    "url": "https://www.webdirections.org/speaking",
+    "deadline": "2019-02-01",
+    "open": false
+  },
+  "twitter": "https://x.com/webdirections",
+  "source": "confs.tech"
+}

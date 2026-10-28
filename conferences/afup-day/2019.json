@@ -1,0 +1,16 @@
+{
+  "name": "AFUP Day 2019",
+  "year": 2019,
+  "url": "https://event.afup.org/afup-day-2019/afup-day-2019-lille",
+  "startDate": "2019-05-17",
+  "endDate": "2019-05-17",
+  "city": "Lille",
+  "country": "FR",
+  "lat": 50.63391,
+  "lng": 3.05512,
+  "topics": [
+    "PHP"
+  ],
+  "twitter": "https://x.com/afup",
+  "source": "confs.tech"
+}

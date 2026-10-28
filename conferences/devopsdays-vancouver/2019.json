@@ -1,0 +1,16 @@
+{
+  "name": "DevOpsDays Vancouver 2019",
+  "year": 2019,
+  "url": "https://www.devopsdays.org/events/2019-vancouver",
+  "startDate": "2019-03-29",
+  "endDate": "2019-03-30",
+  "city": "Vancouver",
+  "country": "CA",
+  "lat": 49.24966,
+  "lng": -123.11934,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devopsdaysyvr",
+  "source": "confs.tech"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "ng-conf 2019",
+  "year": 2019,
+  "url": "https://www.ng-conf.org",
+  "startDate": "2019-05-01",
+  "endDate": "2019-05-03",
+  "city": "Salt Lake City, UT",
+  "country": "US",
+  "lat": 40.76078,
+  "lng": -111.89105,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSfYLqvSIckyuhWyIl2NAYWQnSEOz2pXt6VRF1hF9MlBmP7aXw/viewform",
+    "deadline": "2019-01-03",
+    "open": false
+  },
+  "twitter": "https://x.com/ngconf",
+  "source": "confs.tech"
+}

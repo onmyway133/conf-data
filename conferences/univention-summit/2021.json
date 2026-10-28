@@ -1,0 +1,14 @@
+{
+  "name": "Univention Summit 2021",
+  "year": 2021,
+  "url": "https://www.univention-summit.com",
+  "startDate": "2021-01-28",
+  "endDate": "2021-01-28",
+  "city": "Bremen",
+  "country": "DE",
+  "lat": 53.07582,
+  "lng": 8.80717,
+  "topics": [],
+  "twitter": "https://x.com/univention",
+  "source": "confs.tech"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Conversations Roadshow: Berlin by CTO Craft 2026",
+  "year": 2026,
+  "url": "https://conversations.ctocraft.com/berlin",
+  "startDate": "2026-06-23",
+  "endDate": "2026-06-23",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "Networking"
+  ],
+  "source": "confs.tech"
+}

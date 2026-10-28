@@ -1,0 +1,21 @@
+{
+  "name": "Unlocked Seattle 2026",
+  "year": 2026,
+  "url": "https://unlockedconf.io",
+  "startDate": "2026-05-07",
+  "endDate": "2026-05-07",
+  "city": "Seattle, WA",
+  "country": "US",
+  "lat": 47.60621,
+  "lng": -122.33207,
+  "topics": [
+    "Open Source",
+    "Performance"
+  ],
+  "cfp": {
+    "url": "https://www.unlockedconf.io/call-for-speakers",
+    "deadline": "2026-04-17",
+    "open": false
+  },
+  "source": "confs.tech"
+}

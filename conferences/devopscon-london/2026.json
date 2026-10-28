@@ -1,0 +1,16 @@
+{
+  "name": "DevOpsCon London 2026",
+  "year": 2026,
+  "url": "https://devopscon.io/london",
+  "startDate": "2026-05-11",
+  "endDate": "2026-05-15",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devops_con",
+  "source": "confs.tech"
+}

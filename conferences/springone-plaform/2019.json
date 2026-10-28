@@ -1,0 +1,16 @@
+{
+  "name": "SpringOne Plaform 2019",
+  "year": 2019,
+  "url": "https://springoneplatform.io",
+  "startDate": "2019-10-07",
+  "endDate": "2019-10-10",
+  "city": "Austin, TX",
+  "country": "US",
+  "lat": 30.26715,
+  "lng": -97.74306,
+  "topics": [
+    "Java"
+  ],
+  "twitter": "https://x.com/S1P",
+  "source": "confs.tech"
+}

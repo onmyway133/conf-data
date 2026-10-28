@@ -1,0 +1,15 @@
+{
+  "name": "PiterPy 2019",
+  "year": 2019,
+  "url": "https://piterpy.com/en",
+  "startDate": "2019-11-01",
+  "endDate": "2019-11-01",
+  "city": "Saint Petersburg",
+  "country": "RU",
+  "lat": 59.93863,
+  "lng": 30.31413,
+  "topics": [
+    "Python"
+  ],
+  "source": "confs.tech"
+}

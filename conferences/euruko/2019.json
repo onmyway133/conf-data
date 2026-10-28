@@ -1,0 +1,21 @@
+{
+  "name": "Euruko 2019",
+  "year": 2019,
+  "url": "https://euruko2019.org",
+  "startDate": "2019-06-21",
+  "endDate": "2019-06-22",
+  "city": "Rotterdam",
+  "country": "NL",
+  "lat": 51.9225,
+  "lng": 4.47917,
+  "topics": [
+    "Ruby"
+  ],
+  "cfp": {
+    "url": "https://www.papercall.io/euruko2019",
+    "deadline": "2019-02-28",
+    "open": false
+  },
+  "twitter": "https://x.com/euruko",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "DICE Digital Identity unConference Europe 2024",
+  "year": 2024,
+  "url": "https://diceurope.org",
+  "startDate": "2024-06-18",
+  "endDate": "2024-06-20",
+  "city": "Zurich",
+  "country": "CH",
+  "lat": 47.36667,
+  "lng": 8.55,
+  "topics": [
+    "Identity"
+  ],
+  "twitter": "https://x.com/IdentityWoman",
+  "source": "confs.tech"
+}

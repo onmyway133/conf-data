@@ -1,0 +1,16 @@
+{
+  "name": "Big Data Conference Europe 2019",
+  "year": 2019,
+  "url": "https://www.bigdataconference.lt",
+  "startDate": "2019-11-26",
+  "endDate": "2019-11-28",
+  "city": "Vilnius",
+  "country": "LT",
+  "lat": 54.68916,
+  "lng": 25.2798,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/BigDataConfEU",
+  "source": "confs.tech"
+}

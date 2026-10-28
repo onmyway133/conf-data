@@ -1,0 +1,16 @@
+{
+  "name": "Immerse Global Summit 2022",
+  "year": 2022,
+  "url": "https://www.immerseglobalsummit.com",
+  "startDate": "2022-12-05",
+  "endDate": "2022-12-07",
+  "city": "Miami, FL",
+  "country": "US",
+  "lat": 25.77427,
+  "lng": -80.19366,
+  "topics": [
+    "Networking"
+  ],
+  "twitter": "https://x.com/ImmerseSummit",
+  "source": "confs.tech"
+}

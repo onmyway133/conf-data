@@ -1,0 +1,20 @@
+{
+  "name": "Kubecon Europe 2019",
+  "year": 2019,
+  "url": "https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2019",
+  "startDate": "2019-05-20",
+  "endDate": "2019-05-23",
+  "city": "Barcelona",
+  "country": "ES",
+  "lat": 41.38879,
+  "lng": 2.15899,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2019/cfp",
+    "deadline": "2019-01-14",
+    "open": false
+  },
+  "source": "confs.tech"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Lambda World 2024",
+  "year": 2024,
+  "url": "https://www.lambda.world",
+  "startDate": "2024-10-02",
+  "endDate": "2024-10-04",
+  "city": "Cádiz",
+  "country": "ES",
+  "lat": 36.52672,
+  "lng": -6.2891,
+  "topics": [
+    "Haskell",
+    "Kotlin",
+    "Scala"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSdRN86al9ueV7ZTviSWCrjn-ZsTstQ-sb4C1OXlKtHBCMTNcg/viewform",
+    "deadline": "2024-07-01",
+    "open": false
+  },
+  "twitter": "https://x.com/Lambda_World",
+  "source": "confs.tech"
+}

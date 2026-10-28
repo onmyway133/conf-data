@@ -1,0 +1,16 @@
+{
+  "name": "Ruby Kaigi 2019",
+  "year": 2019,
+  "url": "https://rubykaigi.org/2019",
+  "startDate": "2019-04-18",
+  "endDate": "2019-04-20",
+  "city": "Fukuoka",
+  "country": "JP",
+  "lat": 33.6,
+  "lng": 130.41667,
+  "topics": [
+    "Ruby"
+  ],
+  "twitter": "https://x.com/RubyKaigi",
+  "source": "confs.tech"
+}

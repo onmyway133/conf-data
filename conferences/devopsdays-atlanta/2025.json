@@ -1,0 +1,16 @@
+{
+  "name": "DevOpsDays Atlanta 2025",
+  "year": 2025,
+  "url": "https://devopsdays.org/events/2025-atlanta/welcome/",
+  "startDate": "2025-04-29",
+  "endDate": "2025-04-30",
+  "city": "Atlanta, GA",
+  "country": "US",
+  "lat": 33.749,
+  "lng": -84.38798,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devopsdaysATL",
+  "source": "confs.tech"
+}

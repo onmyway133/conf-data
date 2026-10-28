@@ -1,0 +1,21 @@
+{
+  "name": "Rethink! IT Security Herbst 2022",
+  "year": 2022,
+  "url": "https://www.rethink-it-security-herbst.de",
+  "startDate": "2022-09-18",
+  "endDate": "2022-09-20",
+  "city": "Hamburg",
+  "country": "DE",
+  "lat": 53.55073,
+  "lng": 9.99302,
+  "topics": [
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://www.rethink-it-security-herbst.de/sprecher#",
+    "deadline": "2022-09-15",
+    "open": false
+  },
+  "twitter": "https://x.com/weCONECT",
+  "source": "confs.tech"
+}

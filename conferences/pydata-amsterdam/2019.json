@@ -1,0 +1,16 @@
+{
+  "name": "PyData Amsterdam 2019",
+  "year": 2019,
+  "url": "https://pydata.org/amsterdam2019",
+  "startDate": "2019-05-10",
+  "endDate": "2019-05-12",
+  "city": "Amsterdam",
+  "country": "NL",
+  "lat": 52.37403,
+  "lng": 4.88969,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/pydataamsterdam",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "PHP UK Conference 2019",
+  "year": 2019,
+  "url": "https://www.phpconference.co.uk",
+  "startDate": "2019-02-20",
+  "endDate": "2019-02-22",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "PHP"
+  ],
+  "twitter": "https://x.com/phpukconference",
+  "source": "confs.tech"
+}

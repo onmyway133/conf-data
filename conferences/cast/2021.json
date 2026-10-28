@@ -1,0 +1,15 @@
+{
+  "name": "CAST 2021",
+  "year": 2021,
+  "url": "https://associationforsoftwaretesting.org/conference/cast-2021",
+  "startDate": "2021-11-08",
+  "endDate": "2021-11-09",
+  "city": "Atlanta, GA",
+  "country": "US",
+  "lat": 33.749,
+  "lng": -84.38798,
+  "topics": [
+    "Testing"
+  ],
+  "source": "confs.tech"
+}

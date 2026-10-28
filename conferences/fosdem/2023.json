@@ -1,0 +1,14 @@
+{
+  "name": "Fosdem 2023",
+  "year": 2023,
+  "url": "https://fosdem.org",
+  "startDate": "2023-02-04",
+  "endDate": "2023-02-05",
+  "city": "Brussels",
+  "country": "BE",
+  "lat": 50.85045,
+  "lng": 4.34878,
+  "topics": [],
+  "twitter": "https://x.com/fosdem",
+  "source": "confs.tech"
+}

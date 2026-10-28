@@ -1,0 +1,14 @@
+{
+  "name": "CodeMash 2023",
+  "year": 2023,
+  "url": "https://www.codemash.org",
+  "startDate": "2023-01-10",
+  "endDate": "2023-01-13",
+  "city": "Sandusky, OH",
+  "country": "US",
+  "lat": 41.44894,
+  "lng": -82.70796,
+  "topics": [],
+  "twitter": "https://x.com/codemash",
+  "source": "confs.tech"
+}

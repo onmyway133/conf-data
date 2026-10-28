@@ -1,0 +1,16 @@
+{
+  "name": "JAMstack Conf 2020",
+  "year": 2020,
+  "url": "https://jamstackconf.com",
+  "startDate": "2020-10-06",
+  "endDate": "2020-10-07",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/jamstackconf",
+  "source": "confs.tech"
+}

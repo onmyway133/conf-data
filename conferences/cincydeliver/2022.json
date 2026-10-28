@@ -1,0 +1,19 @@
+{
+  "name": "CincyDeliver() 2022",
+  "year": 2022,
+  "url": "http://www.cincydeliver.org",
+  "startDate": "2022-07-29",
+  "endDate": "2022-07-29",
+  "city": "Cincinnati, OH",
+  "country": "US",
+  "lat": 39.12711,
+  "lng": -84.51439,
+  "topics": [],
+  "cfp": {
+    "url": "https://www.cincydeliver.org/Sessions/Create",
+    "deadline": "2022-04-30",
+    "open": false
+  },
+  "twitter": "https://x.com/DayOfAgile",
+  "source": "confs.tech"
+}

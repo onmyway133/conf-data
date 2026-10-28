@@ -1,0 +1,17 @@
+{
+  "name": "International JavaScript Conference London 2025",
+  "year": 2025,
+  "url": "https://javascript-conference.com/london",
+  "startDate": "2025-05-12",
+  "endDate": "2025-05-15",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "JavaScript",
+    "TypeScript"
+  ],
+  "twitter": "https://x.com/JavaScriptCon",
+  "source": "confs.tech"
+}

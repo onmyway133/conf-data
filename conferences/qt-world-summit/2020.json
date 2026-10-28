@@ -1,0 +1,16 @@
+{
+  "name": "Qt World Summit 2020",
+  "year": 2020,
+  "url": "https://www.qt.io/qtws20",
+  "startDate": "2020-10-20",
+  "endDate": "2020-10-22",
+  "city": "Palm Springs, CA",
+  "country": "US",
+  "lat": 33.8303,
+  "lng": -116.54529,
+  "topics": [
+    "C++"
+  ],
+  "twitter": "https://x.com/qtproject",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Devopsdays Istanbul 2024",
+  "year": 2024,
+  "url": "https://devopsdays.org/events/2024-istanbul/welcome",
+  "startDate": "2024-04-20",
+  "endDate": "2024-04-20",
+  "city": "Istanbul",
+  "country": "TR",
+  "lat": 41.01384,
+  "lng": 28.94966,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devopsdaysist",
+  "source": "confs.tech"
+}

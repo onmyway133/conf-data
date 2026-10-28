@@ -1,0 +1,16 @@
+{
+  "name": "Snow*Mobile 2014",
+  "year": 2014,
+  "url": "http://2014.snow-mobile.org/",
+  "startDate": "2014-02-21",
+  "endDate": "2014-02-22",
+  "city": "Madison",
+  "country": "US",
+  "lat": 43.07305,
+  "lng": -89.40123,
+  "topics": [
+    "iOS",
+    "Mobile"
+  ],
+  "source": "cocoaconferences"
+}

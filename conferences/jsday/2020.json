@@ -1,0 +1,16 @@
+{
+  "name": "JSDay 2020",
+  "year": 2020,
+  "url": "https://2020.jsday.it/index.html",
+  "startDate": "2020-09-10",
+  "endDate": "2020-09-11",
+  "city": "Verona",
+  "country": "IT",
+  "lat": 45.43854,
+  "lng": 10.9938,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/jsconfit",
+  "source": "confs.tech"
+}

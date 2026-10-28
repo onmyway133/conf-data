@@ -1,0 +1,19 @@
+{
+  "name": "Civo Navigate North America 2024",
+  "year": 2024,
+  "url": "https://www.civo.com/navigate/north-america",
+  "startDate": "2024-02-20",
+  "endDate": "2024-02-21",
+  "city": "Austin, TX",
+  "country": "US",
+  "lat": 30.26715,
+  "lng": -97.74306,
+  "topics": [],
+  "cfp": {
+    "url": "https://sessionize.com/civo-navigate-austin",
+    "deadline": "2023-09-29",
+    "open": false
+  },
+  "twitter": "https://x.com/civocloud",
+  "source": "confs.tech"
+}

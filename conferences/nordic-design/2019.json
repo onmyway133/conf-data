@@ -1,0 +1,20 @@
+{
+  "name": "Nordic.design 2019",
+  "year": 2019,
+  "url": "https://nordic.design",
+  "startDate": "2019-10-09",
+  "endDate": "2019-10-09",
+  "city": "Stockholm",
+  "country": "SE",
+  "lat": 59.32938,
+  "lng": 18.06871,
+  "topics": [
+    "Design/UX"
+  ],
+  "cfp": {
+    "url": "https://nordic.design/call-for-speakers",
+    "open": false
+  },
+  "twitter": "https://x.com/nordicdesign",
+  "source": "confs.tech"
+}

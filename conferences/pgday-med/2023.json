@@ -1,0 +1,15 @@
+{
+  "name": "PGDay/MED 2023",
+  "year": 2023,
+  "url": "https://2023.pgdaymed.org",
+  "startDate": "2023-04-13",
+  "endDate": "2023-04-13",
+  "city": "St Julian's",
+  "country": "MT",
+  "lat": 35.91839,
+  "lng": 14.48977,
+  "topics": [
+    "Data/AI"
+  ],
+  "source": "confs.tech"
+}

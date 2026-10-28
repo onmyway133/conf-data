@@ -1,0 +1,17 @@
+{
+  "name": "11th Data Management ThinkLab 2025",
+  "year": 2025,
+  "url": "https://thinklinkers.com/events/workshops/data_management_conference_event_europe_2025",
+  "startDate": "2025-04-09",
+  "endDate": "2025-04-11",
+  "city": "Prague",
+  "country": "CZ",
+  "lat": 50.08804,
+  "lng": 14.42076,
+  "topics": [
+    "Data/AI",
+    "Networking"
+  ],
+  "twitter": "https://x.com/ThinkLinkers",
+  "source": "confs.tech"
+}

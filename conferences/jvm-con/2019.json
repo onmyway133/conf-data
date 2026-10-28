@@ -1,0 +1,20 @@
+{
+  "name": "JVM Con 2019",
+  "year": 2019,
+  "url": "https://www.jvm-con.de",
+  "startDate": "2019-11-25",
+  "endDate": "2019-11-27",
+  "city": "Cologne",
+  "country": "DE",
+  "lat": 50.93333,
+  "lng": 6.95,
+  "topics": [
+    "Java"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSen0DZnN8pbJdfmBi7Q6T-tR5J3L_fKdN4QkAg09SMWi_bvDw/viewform",
+    "deadline": "2019-05-24",
+    "open": false
+  },
+  "source": "confs.tech"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Awwwards Conference Tokyo 2020",
+  "year": 2020,
+  "url": "https://conference.awwwards.com/tokyo",
+  "startDate": "2020-01-23",
+  "endDate": "2020-01-24",
+  "city": "Tokyo",
+  "country": "JP",
+  "lat": 35.6895,
+  "lng": 139.69171,
+  "topics": [
+    "Design/UX"
+  ],
+  "cfp": {
+    "url": "https://www.universe.com/events/awwwards-digital-thinkers-conference-tokyo-2020-tickets-chiyoda-city-14JHSQ",
+    "deadline": "2020-01-12",
+    "open": false
+  },
+  "twitter": "https://x.com/awwwardsconf",
+  "source": "confs.tech"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "WEBCONGRESS MIAMI 2022",
+  "year": 2022,
+  "url": "https://www.webcongress.com/miami",
+  "startDate": "2022-12-07",
+  "endDate": "2022-12-07",
+  "city": "Miami, FL",
+  "country": "US",
+  "lat": 25.77427,
+  "lng": -80.19366,
+  "topics": [],
+  "twitter": "https://x.com/webcongress",
+  "source": "confs.tech"
+}

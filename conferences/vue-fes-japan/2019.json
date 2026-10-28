@@ -1,0 +1,16 @@
+{
+  "name": "Vue Fes Japan 2019",
+  "year": 2019,
+  "url": "https://vuefes.jp/2019",
+  "startDate": "2019-10-12",
+  "endDate": "2019-10-12",
+  "city": "Tokyo",
+  "country": "JP",
+  "lat": 35.6895,
+  "lng": 139.69171,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/vuefes",
+  "source": "confs.tech"
+}

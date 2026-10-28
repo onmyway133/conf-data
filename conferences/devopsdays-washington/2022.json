@@ -1,0 +1,16 @@
+{
+  "name": "Devopsdays Washington 2022",
+  "year": 2022,
+  "url": "https://devopsdays.org/events/2022-washington-dc/welcome",
+  "startDate": "2022-09-15",
+  "endDate": "2022-09-16",
+  "city": "Washington, DC",
+  "country": "US",
+  "lat": 38.89511,
+  "lng": -77.03637,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devopsdaysdc",
+  "source": "confs.tech"
+}

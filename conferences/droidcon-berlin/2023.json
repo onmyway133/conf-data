@@ -1,0 +1,16 @@
+{
+  "name": "droidcon Berlin 2023",
+  "year": 2023,
+  "url": "https://berlin.droidcon.com",
+  "startDate": "2023-07-05",
+  "endDate": "2023-07-07",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "Android"
+  ],
+  "twitter": "https://x.com/droidconBerlin",
+  "source": "confs.tech"
+}

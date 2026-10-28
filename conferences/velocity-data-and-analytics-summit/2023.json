@@ -1,0 +1,15 @@
+{
+  "name": "Velocity Data and Analytics Summit 2023",
+  "year": 2023,
+  "url": "https://za.velocityda.com",
+  "startDate": "2023-03-07",
+  "endDate": "2023-03-08",
+  "city": "Johannesburg",
+  "country": "ZA",
+  "lat": -26.20227,
+  "lng": 28.04363,
+  "topics": [
+    "Data/AI"
+  ],
+  "source": "confs.tech"
+}

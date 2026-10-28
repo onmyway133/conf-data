@@ -1,0 +1,16 @@
+{
+  "name": "vuecamp 2019",
+  "year": 2019,
+  "url": "https://vuecamp.de",
+  "startDate": "2019-11-26",
+  "endDate": "2019-11-27",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/VueCamp_de",
+  "source": "confs.tech"
+}

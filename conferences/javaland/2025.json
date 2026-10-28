@@ -1,0 +1,17 @@
+{
+  "name": "JavaLand 2025",
+  "year": 2025,
+  "url": "https://www.javaland.eu",
+  "startDate": "2025-04-01",
+  "endDate": "2025-04-03",
+  "city": "Nürburgring",
+  "country": "DE",
+  "topics": [
+    "DevOps",
+    "Java",
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/DOAGeV",
+  "mastodon": "https://ijug.social/@JavaLandConf",
+  "source": "confs.tech"
+}

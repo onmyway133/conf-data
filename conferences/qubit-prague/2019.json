@@ -1,0 +1,21 @@
+{
+  "name": "QuBit Prague 2019",
+  "year": 2019,
+  "url": "https://prague.qubitconference.com",
+  "startDate": "2019-04-09",
+  "endDate": "2019-04-11",
+  "city": "Prague",
+  "country": "CZ",
+  "lat": 50.08804,
+  "lng": 14.42076,
+  "topics": [
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://prague.qubitconference.com/call-speakers-form-prague",
+    "deadline": "2019-02-28",
+    "open": false
+  },
+  "twitter": "https://x.com/QuBitCon",
+  "source": "confs.tech"
+}

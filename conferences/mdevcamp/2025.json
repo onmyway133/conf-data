@@ -1,0 +1,16 @@
+{
+  "name": "mDevCamp 2025",
+  "year": 2025,
+  "url": "https://mdevcamp.eu/",
+  "startDate": "2025-06-02",
+  "endDate": "2025-06-03",
+  "city": "Prague",
+  "country": "CZ",
+  "lat": 50.08804,
+  "lng": 14.42076,
+  "topics": [
+    "iOS",
+    "Mobile"
+  ],
+  "source": "cocoaconferences"
+}

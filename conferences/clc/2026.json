@@ -1,0 +1,20 @@
+{
+  "name": "CLC 2026",
+  "year": 2026,
+  "url": "https://clc-conference.eu/index_en.php",
+  "startDate": "2026-11-11",
+  "endDate": "2026-11-12",
+  "city": "Mannheim",
+  "country": "DE",
+  "lat": 49.4891,
+  "lng": 8.46694,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://clc-conference.eu/cfp_en.php",
+    "deadline": "2026-04-21",
+    "open": true
+  },
+  "source": "confs.tech"
+}

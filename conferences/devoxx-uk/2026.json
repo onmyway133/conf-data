@@ -1,0 +1,16 @@
+{
+  "name": "Devoxx UK 2026",
+  "year": 2026,
+  "url": "https://www.devoxx.co.uk",
+  "startDate": "2026-05-06",
+  "endDate": "2026-05-07",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "Java"
+  ],
+  "bluesky": "https://bsky.app/profile/devoxx.uk",
+  "source": "confs.tech"
+}

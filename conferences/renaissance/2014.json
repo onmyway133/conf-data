@@ -1,0 +1,15 @@
+{
+  "name": "Renaissance 2014",
+  "year": 2014,
+  "url": "http://renaissance.io/2014",
+  "startDate": "2014-01-29",
+  "endDate": "2014-01-31",
+  "city": "San Francisco",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "TechSummit Amsterdam 2025",
+  "year": 2025,
+  "url": "https://techsummit.io",
+  "startDate": "2025-09-16",
+  "endDate": "2025-09-16",
+  "city": "Amsterdam",
+  "country": "NL",
+  "lat": 52.37403,
+  "lng": 4.88969,
+  "topics": [
+    "DevOps",
+    "Performance",
+    "SRE"
+  ],
+  "cfp": {
+    "url": "https://techsummit.io/call-for-papers",
+    "deadline": "2025-05-23",
+    "open": false
+  },
+  "source": "confs.tech"
+}

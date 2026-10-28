@@ -1,0 +1,16 @@
+{
+  "name": "ACE Conf 2019",
+  "year": 2019,
+  "url": "https://aceconf.com",
+  "startDate": "2019-05-23",
+  "endDate": "2019-05-24",
+  "city": "Kraków",
+  "country": "PL",
+  "lat": 50.06143,
+  "lng": 19.93658,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/aceconf",
+  "source": "confs.tech"
+}

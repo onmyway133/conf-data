@@ -1,0 +1,17 @@
+{
+  "name": "IT Security Summit Munich 2026",
+  "year": 2026,
+  "url": "https://it-security-summit.com/munich",
+  "startDate": "2026-11-30",
+  "endDate": "2026-12-04",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [
+    "DevOps",
+    "Security"
+  ],
+  "twitter": "https://x.com/ITSecSummit",
+  "source": "confs.tech"
+}

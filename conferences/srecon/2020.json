@@ -1,0 +1,14 @@
+{
+  "name": "SREcon 2020",
+  "year": 2020,
+  "url": "https://www.usenix.org/conference/srecon20apac",
+  "startDate": "2020-09-07",
+  "endDate": "2020-09-09",
+  "city": "Sydney",
+  "country": "AU",
+  "lat": -33.86785,
+  "lng": 151.20732,
+  "topics": [],
+  "twitter": "https://x.com/SREcon",
+  "source": "confs.tech"
+}

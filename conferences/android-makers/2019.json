@@ -1,0 +1,16 @@
+{
+  "name": "Android Makers 2019",
+  "year": 2019,
+  "url": "https://androidmakers.fr",
+  "startDate": "2019-04-23",
+  "endDate": "2019-04-24",
+  "city": "Paris",
+  "country": "FR",
+  "lat": 48.85341,
+  "lng": 2.3488,
+  "topics": [
+    "Android"
+  ],
+  "twitter": "https://x.com/AndroidMakersFR",
+  "source": "confs.tech"
+}

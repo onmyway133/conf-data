@@ -1,0 +1,18 @@
+{
+  "name": "Visual Studio Live! 2019",
+  "year": 2019,
+  "url": "https://vslive.com/events/new-orleans-2019/home.aspx",
+  "startDate": "2019-04-22",
+  "endDate": "2019-04-26",
+  "city": "New Orleans, LA",
+  "country": "US",
+  "lat": 29.95465,
+  "lng": -90.07507,
+  "topics": [],
+  "cfp": {
+    "url": "https://vslive.com/pages/call-for-papers.aspx",
+    "open": false
+  },
+  "twitter": "https://x.com/VSLive",
+  "source": "confs.tech"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Apidays Helsinki & North 2024",
+  "year": 2024,
+  "url": "https://www.apidays.global/helsinki_and_north",
+  "startDate": "2024-05-28",
+  "endDate": "2024-05-29",
+  "city": "Helsinki",
+  "country": "FI",
+  "lat": 60.16952,
+  "lng": 24.93545,
+  "topics": [
+    "APIs",
+    "GraphQL"
+  ],
+  "cfp": {
+    "url": "https://apidays.typeform.com/to/ILJeAaV8#event_name=xxxxx",
+    "deadline": "2024-05-27",
+    "open": false
+  },
+  "twitter": "https://x.com/APIdaysGlobal",
+  "mastodon": "https://mastodon.social/@apidaysglobal",
+  "source": "confs.tech"
+}

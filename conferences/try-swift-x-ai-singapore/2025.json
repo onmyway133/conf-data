@@ -1,0 +1,15 @@
+{
+  "name": "try! Swift x AI Singapore 2025",
+  "year": 2025,
+  "url": "https://www.tryswift.co/ai",
+  "startDate": "2025-01-18",
+  "endDate": "2025-01-19",
+  "city": "Singapore",
+  "country": "SG",
+  "lat": 1.28967,
+  "lng": 103.85007,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences"
+}

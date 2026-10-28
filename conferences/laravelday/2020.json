@@ -1,0 +1,21 @@
+{
+  "name": "laravelday 2020",
+  "year": 2020,
+  "url": "https://2020.laravelday.it",
+  "startDate": "2020-11-26",
+  "endDate": "2020-11-26",
+  "city": "Verona",
+  "country": "IT",
+  "lat": 45.43854,
+  "lng": 10.9938,
+  "topics": [
+    "PHP"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSfML2XghcpXBFrWC9ptBMMFX7SDIr9LTHRhDetrDw9VJwUO2w/viewform",
+    "deadline": "2020-06-27",
+    "open": false
+  },
+  "twitter": "https://x.com/LaravelDayIt",
+  "source": "confs.tech"
+}

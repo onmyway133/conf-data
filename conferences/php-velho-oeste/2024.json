@@ -1,0 +1,16 @@
+{
+  "name": "PHP Velho Oeste 2024",
+  "year": 2024,
+  "url": "https://www.phpvelhoeste.com.br/2024",
+  "startDate": "2024-05-17",
+  "endDate": "2024-05-18",
+  "city": "Chapecó",
+  "country": "BR",
+  "lat": -27.09639,
+  "lng": -52.61833,
+  "topics": [
+    "PHP"
+  ],
+  "twitter": "https://x.com/leocavalcante",
+  "source": "confs.tech"
+}

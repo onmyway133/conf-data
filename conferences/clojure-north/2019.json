@@ -1,0 +1,21 @@
+{
+  "name": "Clojure/north 2019",
+  "year": 2019,
+  "url": "https://clojurenorth.com",
+  "startDate": "2019-04-19",
+  "endDate": "2019-04-20",
+  "city": "Toronto",
+  "country": "CA",
+  "lat": 43.70643,
+  "lng": -79.39864,
+  "topics": [
+    "Clojure"
+  ],
+  "cfp": {
+    "url": "https://clojurenorth.typeform.com/to/YuveUZ",
+    "deadline": "2019-02-01",
+    "open": false
+  },
+  "twitter": "https://x.com/clojurenorth",
+  "source": "confs.tech"
+}

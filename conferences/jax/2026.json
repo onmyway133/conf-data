@@ -1,0 +1,17 @@
+{
+  "name": "JAX 2026",
+  "year": 2026,
+  "url": "https://jax.de/mainz",
+  "startDate": "2026-05-04",
+  "endDate": "2026-05-08",
+  "city": "Mainz",
+  "country": "DE",
+  "lat": 49.98185,
+  "lng": 8.28008,
+  "topics": [
+    "Java"
+  ],
+  "twitter": "https://x.com/jaxcon",
+  "bluesky": "https://bsky.app/profile/jaxkonferenz.bsky.social",
+  "source": "confs.tech"
+}

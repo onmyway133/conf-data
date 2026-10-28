@@ -1,0 +1,16 @@
+{
+  "name": "elm Europe 2019",
+  "year": 2019,
+  "url": "http://2019.elmeurope.org",
+  "startDate": "2019-06-27",
+  "endDate": "2019-06-28",
+  "city": "Paris",
+  "country": "FR",
+  "lat": 48.85341,
+  "lng": 2.3488,
+  "topics": [
+    "Elm"
+  ],
+  "twitter": "https://x.com/elm_europe",
+  "source": "confs.tech"
+}

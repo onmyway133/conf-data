@@ -1,0 +1,16 @@
+{
+  "name": "ReactiveConf 2019",
+  "year": 2019,
+  "url": "https://reactiveconf.com",
+  "startDate": "2019-10-30",
+  "endDate": "2019-11-01",
+  "city": "Prague",
+  "country": "CZ",
+  "lat": 50.08804,
+  "lng": 14.42076,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/ReactiveConf",
+  "source": "confs.tech"
+}

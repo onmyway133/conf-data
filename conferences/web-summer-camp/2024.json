@@ -1,0 +1,23 @@
+{
+  "name": "Web Summer Camp 2024",
+  "year": 2024,
+  "url": "https://websummercamp.com",
+  "startDate": "2024-07-04",
+  "endDate": "2024-07-06",
+  "city": "Opatija",
+  "country": "HR",
+  "lat": 45.33658,
+  "lng": 14.30782,
+  "topics": [
+    "JavaScript",
+    "PHP",
+    "Design/UX"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/web-summer-camp-2024",
+    "deadline": "2024-03-31",
+    "open": false
+  },
+  "twitter": "https://x.com/websummercamp",
+  "source": "confs.tech"
+}

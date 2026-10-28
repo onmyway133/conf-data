@@ -1,0 +1,15 @@
+{
+  "name": "PyCon UK 2022",
+  "year": 2022,
+  "url": "https://2022.pyconuk.org",
+  "startDate": "2022-09-16",
+  "endDate": "2022-09-18",
+  "city": "Cardiff",
+  "country": "GB",
+  "lat": 51.48,
+  "lng": -3.18,
+  "topics": [
+    "Python"
+  ],
+  "source": "confs.tech"
+}

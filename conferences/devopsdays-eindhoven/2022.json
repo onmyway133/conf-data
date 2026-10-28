@@ -1,0 +1,21 @@
+{
+  "name": "Devopsdays Eindhoven 2022",
+  "year": 2022,
+  "url": "https://devopsdays.org/events/2022-eindhoven/welcome",
+  "startDate": "2022-10-20",
+  "endDate": "2022-10-21",
+  "city": "Eindhoven",
+  "country": "NL",
+  "lat": 51.44083,
+  "lng": 5.47778,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/devopsdays-eindhoven-2022",
+    "deadline": "2022-08-24",
+    "open": false
+  },
+  "twitter": "https://x.com/devopsdaysehv",
+  "source": "confs.tech"
+}

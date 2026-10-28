@@ -1,0 +1,22 @@
+{
+  "name": "TestJS Summit 2023",
+  "year": 2023,
+  "url": "https://testjssummit.com",
+  "startDate": "2023-12-07",
+  "endDate": "2023-12-11",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "JavaScript",
+    "Testing"
+  ],
+  "cfp": {
+    "url": "https://forms.gle/NkJp1nAAEvxztTnBA",
+    "deadline": "2023-09-01",
+    "open": false
+  },
+  "twitter": "https://x.com/TestJSSummit",
+  "source": "confs.tech"
+}

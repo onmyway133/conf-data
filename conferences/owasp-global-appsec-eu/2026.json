@@ -1,0 +1,21 @@
+{
+  "name": "OWASP Global AppSec EU 2026",
+  "year": 2026,
+  "url": "https://owasp.glueup.com/event/owasp-global-appsec-eu-2026-vienna-austria-162243",
+  "startDate": "2026-06-25",
+  "endDate": "2026-06-26",
+  "city": "Vienna",
+  "country": "AT",
+  "lat": 48.20849,
+  "lng": 16.37208,
+  "topics": [
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/owasp-global-appsec-eu-2026-cfp-wash",
+    "deadline": "2026-02-03",
+    "open": false
+  },
+  "twitter": "https://x.com/AppSecEU",
+  "source": "confs.tech"
+}

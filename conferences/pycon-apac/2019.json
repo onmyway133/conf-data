@@ -1,0 +1,16 @@
+{
+  "name": "PyCon APAC 2019",
+  "year": 2019,
+  "url": "https://pycon.python.ph",
+  "startDate": "2019-02-23",
+  "endDate": "2019-02-24",
+  "city": "Makati",
+  "country": "PH",
+  "lat": 14.55027,
+  "lng": 121.03269,
+  "topics": [
+    "Python"
+  ],
+  "twitter": "https://x.com/pyconph",
+  "source": "confs.tech"
+}

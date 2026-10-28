@@ -1,0 +1,21 @@
+{
+  "name": "Devopsdays Seattle 2023",
+  "year": 2023,
+  "url": "https://devopsdays.org/events/2023-seattle/welcome",
+  "startDate": "2023-08-01",
+  "endDate": "2023-08-02",
+  "city": "Seattle, WA",
+  "country": "US",
+  "lat": 47.60621,
+  "lng": -122.33207,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/devopsdays-seattle-2023",
+    "deadline": "2023-03-19",
+    "open": false
+  },
+  "twitter": "https://x.com/DevOpsDaysSEA",
+  "source": "confs.tech"
+}

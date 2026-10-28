@@ -1,0 +1,16 @@
+{
+  "name": "NG Bolivia 2019",
+  "year": 2019,
+  "url": "https://ng-bolivia.org",
+  "startDate": "2019-08-23",
+  "endDate": "2019-08-24",
+  "city": "Cochabamba",
+  "country": "BO",
+  "lat": -17.38195,
+  "lng": -66.15995,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/angularBolivia",
+  "source": "confs.tech"
+}

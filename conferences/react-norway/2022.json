@@ -1,0 +1,21 @@
+{
+  "name": "React Norway 2022",
+  "year": 2022,
+  "url": "https://reactnorway.com",
+  "startDate": "2022-06-24",
+  "endDate": "2022-06-24",
+  "city": "Larvik",
+  "country": "NO",
+  "lat": 59.05328,
+  "lng": 10.03517,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://forms.gle/ZKhA3LNk7rRjRFuw5",
+    "deadline": "2022-05-06",
+    "open": false
+  },
+  "twitter": "https://x.com/ReactNorway",
+  "source": "confs.tech"
+}

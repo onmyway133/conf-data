@@ -1,0 +1,16 @@
+{
+  "name": "UX Salon 2019",
+  "year": 2019,
+  "url": "https://2019.uxsalon.com",
+  "startDate": "2019-03-10",
+  "endDate": "2019-03-11",
+  "city": "Tel Aviv",
+  "country": "IL",
+  "lat": 32.08088,
+  "lng": 34.78057,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/uxsalon",
+  "source": "confs.tech"
+}

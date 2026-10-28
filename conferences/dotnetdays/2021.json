@@ -1,0 +1,16 @@
+{
+  "name": "dotnetdays 2021",
+  "year": 2021,
+  "url": "https://dotnetdays.ro",
+  "startDate": "2021-02-18",
+  "endDate": "2021-02-20",
+  "city": "Iasi",
+  "country": "RO",
+  "lat": 47.16667,
+  "lng": 27.6,
+  "topics": [
+    ".NET"
+  ],
+  "twitter": "https://x.com/dotnetdaysro",
+  "source": "confs.tech"
+}

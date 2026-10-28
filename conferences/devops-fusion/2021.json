@@ -1,0 +1,16 @@
+{
+  "name": "DevOps Fusion 2021",
+  "year": 2021,
+  "url": "https://devops-fusion.com",
+  "startDate": "2021-06-30",
+  "endDate": "2021-06-30",
+  "city": "Zurich",
+  "country": "CH",
+  "lat": 47.36667,
+  "lng": 8.55,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/DevOpsFusion",
+  "source": "confs.tech"
+}

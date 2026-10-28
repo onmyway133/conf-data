@@ -1,0 +1,21 @@
+{
+  "name": "Angular UP 2019",
+  "year": 2019,
+  "url": "http://angular-up.com",
+  "startDate": "2019-06-12",
+  "endDate": "2019-06-12",
+  "city": "Tel Aviv",
+  "country": "IL",
+  "lat": 32.08088,
+  "lng": 34.78057,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://angular-up.com",
+    "deadline": "2019-03-15",
+    "open": false
+  },
+  "twitter": "https://x.com/AngularUP",
+  "source": "confs.tech"
+}

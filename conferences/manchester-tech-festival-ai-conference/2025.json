@@ -1,0 +1,15 @@
+{
+  "name": "Manchester Tech Festival - AI Conference 2025",
+  "year": 2025,
+  "url": "https://www.manchestertechfestival.co.uk/aiconference",
+  "startDate": "2025-10-01",
+  "endDate": "2025-10-01",
+  "city": "Manchester",
+  "country": "GB",
+  "lat": 53.48095,
+  "lng": -2.23743,
+  "topics": [
+    "Data/AI"
+  ],
+  "source": "confs.tech"
+}

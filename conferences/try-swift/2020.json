@@ -1,0 +1,87 @@
+{
+  "name": "try! Swift 2020",
+  "year": 2020,
+  "url": "https://www.tryswift.co/events/2020/nyc",
+  "startDate": "2020-08-30",
+  "endDate": "2020-09-01",
+  "city": "New York, NY",
+  "country": "US",
+  "lat": 40.71427,
+  "lng": -74.00597,
+  "topics": [
+    "iOS"
+  ],
+  "source": "confs.tech",
+  "speakers": [
+    {
+      "speaker": "daniel-steinberg",
+      "role": "Author, Trainer, Consultant",
+      "bio": "Daniel is the author of more than a dozen books including the best selling books A Swift Kickstart and Dear Elena.\n\nHe has written apps for the iPhone and the iPad since the SDKs first appeared and has written programs for the Mac all the way back to System 7.\n\nDaniel presents iPhone, Cocoa, and Swift training and consults through his company Dim Sum Thinking. When he's not coding or talking about coding for the Mac, the iPhone, and the iPad he's probably cooking, baking bread, or hanging out with friends.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2020/daniel.png",
+      "twitter": "https://twitter.com/dimsumthinking"
+    },
+    {
+      "speaker": "ellie-shin",
+      "role": "Sr. iOS Engineer @Uber",
+      "bio": "Ellie is a senior iOS Engineer at Uber on the mobile platform team. She has worked on building Uber’s rider app and tools including a code generator and a duplicate code detector. She cares deeply about optimizing iOS apps and frameworks at scale. She has previously worked at Spotify and Microsoft among other companies, primarily on iOS. She has given talks at UIKonf, NSSpain, and other conferences, on iOS app binary size optimization, efficient code generation, and Swift String performance.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2020/ellie.png",
+      "twitter": "https://twitter.com/ellsk1"
+    },
+    {
+      "speaker": "khanh-leviet",
+      "role": "TensorFlow Developer Advocate",
+      "bio": "Khanh is a TensorFlow Developer Advocate at Google, helping developers in APAC build smarter products with AI. He speaks at technology conferences, writes and publishes sample code on GitHub. Before his journey with AI, Khanh was a mobile developer working on both Android and iOS.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2020/khanhlvg.png",
+      "twitter": "https://twitter.com/khanhlvg"
+    },
+    {
+      "speaker": "adin-cebic",
+      "role": "Lead iOS developer @ Klika",
+      "bio": "Adin is an iOS developer who built a number of iOS and macOS apps since the introduction of Swift. Most notably, he built a video player for the mac that reads subtitles for those who are visually impaired or suffer from dysleksia. Also, Adin is lead iOS developer at Klika, an amazing company based in Sarajevo.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2020/adin.jpg",
+      "twitter": "https://twitter.com/adincebic"
+    },
+    {
+      "speaker": "vincent-pradeilles",
+      "role": "iOS @ Worldline",
+      "bio": "Vincent started working on iOS apps back in 2011. For the last years, he’s been working at Worldline, where he contributes to building great apps for major French banks. He loves Swift and enjoys sharing about it on the Internet. Most notably, he built the framework KeyPathKit that implements a SQL-like syntax for data manipulation. He is also the person behind the Twitter account @ios_memes.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2020/vin.jpeg",
+      "twitter": "https://twitter.com/v_pradeilles"
+    },
+    {
+      "speaker": "soaurabh-kakkar",
+      "role": "Principal iOS Engineer at Tokopedia",
+      "bio": "Soaurabh Kakkar is a Principal iOS engineer at Tokopedia, Indonesia’s technology unicorn. Apart from contributing to large scale consumer apps, he likes to experiment and co-invented a security algorithm that can be read on Google Patents. He has previously spoken on topics like HLS In-Depth, Myths about Application Architecture, Functional Paradigm at Swift India Conference and in company-wide talks. When he’s not programming, he spends time watching Cricket and playing Mortal Kombat on Xbox.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2020/soaurabh.jpg",
+      "twitter": "https://twitter.com/soaurabh"
+    },
+    {
+      "speaker": "curtis-colly",
+      "role": "Indie Web and iOS Developer",
+      "bio": "Curtis Colly is self-employed as a full-stack web application and iOS developer. Having built a variety of consumer oriented web apps in a myriad of web languages, he appreciates the safety and efficiency that the statically typed Swift offers. He strives to make his code functional, durable and scalable. Curtis enjoys seeking hidden truths. As a result, he appreciates good conversations, experiencing difference cultures and testing innovative ideas in the real-world. He is currently working on a video app for people to share meaningful thoughts on various topics.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2020/curtis.jpg",
+      "twitter": "https://twitter.com/curtiscolly"
+    },
+    {
+      "speaker": "vui-nguyen",
+      "role": "iOS & IoT Engineer",
+      "bio": "Vui has been building iOS applications for almost 10 years, first as a cross-platform mobile developer before transitioning to Objective-C and Swift several years ago. She also builds full-stack IoT applications as a hobby, & has won international IoT competitions with her automated faucet dripper 'Save the Water Pipes'!\n\nWhen she's not building cool iOS or IoT apps, Vui enjoys fishing, eating, sleeping, and repeating. And glamping, and traveling to different places to go fishing :)\n\nVui is a Lead for the Colorado chapter of Women Who Code and a Lead for the Women Who Code Mobile Track.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2020/vui.jpg",
+      "twitter": "https://twitter.com/sunfishgurl"
+    },
+    {
+      "speaker": "roxana-jula",
+      "role": "Mobile Developer at Nodes",
+      "bio": "Roxana is a Romanian mobile developer based in Dubai with a passion for augmented reality. She started coding when she was 13 years old and so far has been part of the development team of over 20 apps including one of the biggest digital public services app in Scandinavia. She is involved in the tech community, both online (instagram.com/coderox/) and offline at local events. As an advocate for women in tech, Roxana is encouraging other girls to join the tech world.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2020/roxana.jpg",
+      "twitter": "https://twitter.com/RoxanaJula"
+    },
+    {
+      "speaker": "jason-zurita",
+      "role": "Core Mobile Team @ Squarespace",
+      "bio": "Jason Zurita is a self-taught software engineer working on shared libraries and infrastructure as a member of the Core Mobile Team at Squarespace. Having begun his career as an Electrical Engineer, he understands the challenge in changing careers, which is what drives him to try and give back to the tech community (contributing to open source, teaching, blogging, giving talks, etc.).\n\nHe enjoys learning different tech stacks and how they can be put together to create new and interesting projects, the Swift language, tinkering with electronic projects, and going for a walk with his wife, kids, and dog.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2020/jason.jpg",
+      "twitter": "https://twitter.com/jasonalexzurita"
+    }
+  ]
+}

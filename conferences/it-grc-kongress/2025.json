@@ -1,0 +1,21 @@
+{
+  "name": "IT-GRC-Kongress 2025",
+  "year": 2025,
+  "url": "https://www.grc-kongress.de",
+  "startDate": "2025-05-26",
+  "endDate": "2025-05-27",
+  "city": "Cologne",
+  "country": "DE",
+  "lat": 50.93333,
+  "lng": 6.95,
+  "topics": [
+    "Data/AI",
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://www.grc-kongress.de/cfp.php",
+    "deadline": "2025-01-15",
+    "open": false
+  },
+  "source": "confs.tech"
+}

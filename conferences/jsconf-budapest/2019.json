@@ -1,0 +1,21 @@
+{
+  "name": "JSConf Budapest 2019",
+  "year": 2019,
+  "url": "https://jsconfbp.com",
+  "startDate": "2019-09-26",
+  "endDate": "2019-09-27",
+  "city": "Budapest",
+  "country": "HU",
+  "lat": 47.49835,
+  "lng": 19.04045,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSeox5OTuhXmrLXhWtLAcj4AFfpKj9kiv0B17A1rhEU0Qy3xrQ/viewform",
+    "deadline": "2019-02-28",
+    "open": false
+  },
+  "twitter": "https://x.com/jsconfbp",
+  "source": "confs.tech"
+}

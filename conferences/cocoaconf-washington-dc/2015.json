@@ -1,0 +1,15 @@
+{
+  "name": "CocoaConf Washington DC 2015",
+  "year": 2015,
+  "url": "http://cocoaconf.com/dc-2015/home",
+  "startDate": "2015-04-10",
+  "endDate": "2015-04-11",
+  "city": "Washington DC",
+  "country": "US",
+  "lat": 38.89511,
+  "lng": -77.03637,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences"
+}

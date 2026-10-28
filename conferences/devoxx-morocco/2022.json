@@ -1,0 +1,17 @@
+{
+  "name": "Devoxx Morocco 2022",
+  "year": 2022,
+  "url": "https://devoxx.ma",
+  "startDate": "2022-10-04",
+  "endDate": "2022-10-06",
+  "city": "Taghazout, Agadir",
+  "country": "MA",
+  "lat": 30.544,
+  "lng": -9.707,
+  "topics": [
+    "IoT",
+    "Java"
+  ],
+  "twitter": "https://x.com/DevoxxMA",
+  "source": "confs.tech"
+}

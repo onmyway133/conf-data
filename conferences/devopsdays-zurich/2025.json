@@ -1,0 +1,16 @@
+{
+  "name": "Devopsdays Zurich 2025",
+  "year": 2025,
+  "url": "https://devopsdays.org/events/2025-zurich/welcome/",
+  "startDate": "2025-03-12",
+  "endDate": "2025-03-13",
+  "city": "Zurich",
+  "country": "CH",
+  "lat": 47.36667,
+  "lng": 8.55,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/DevOpsZH",
+  "source": "confs.tech"
+}

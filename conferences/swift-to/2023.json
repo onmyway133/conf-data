@@ -1,0 +1,20 @@
+{
+  "name": "Swift TO 2023",
+  "year": 2023,
+  "url": "https://swiftconf.to",
+  "startDate": "2023-08-10",
+  "endDate": "2023-08-11",
+  "city": "Toronto",
+  "country": "CA",
+  "lat": 43.70643,
+  "lng": -79.39864,
+  "topics": [
+    "iOS"
+  ],
+  "cfp": {
+    "url": "https://forms.gle/hYCoi6x7ZmwLT3WH6",
+    "deadline": "2023-06-01",
+    "open": false
+  },
+  "source": "confs.tech"
+}

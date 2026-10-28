@@ -1,0 +1,14 @@
+{
+  "name": "DevOpsCon Berlin 2025",
+  "year": 2025,
+  "url": "https://devopscon.io/berlin",
+  "startDate": "2025-06-16",
+  "endDate": "2025-06-19",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [],
+  "twitter": "https://x.com/devops_con",
+  "source": "confs.tech"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "KCD Lima 2024",
+  "year": 2024,
+  "url": "https://community.cncf.io/events/details/cncf-kcd-lima-peru-presents-kcd-lima-peru-2024",
+  "startDate": "2024-07-20",
+  "endDate": "2024-07-21",
+  "city": "Lima",
+  "country": "PE",
+  "lat": -12.04318,
+  "lng": -77.02824,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/KCDLimaPeru-2024",
+    "deadline": "2024-05-19",
+    "open": false
+  },
+  "twitter": "https://x.com/KCDLimaPeru",
+  "source": "confs.tech"
+}

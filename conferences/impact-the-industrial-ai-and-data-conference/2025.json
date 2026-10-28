@@ -1,0 +1,15 @@
+{
+  "name": "IMPACT - The Industrial AI and Data Conference 2025",
+  "year": 2025,
+  "url": "http://cognite.com/en/impact-conference",
+  "startDate": "2025-10-13",
+  "endDate": "2025-10-16",
+  "city": "Houston, TX",
+  "country": "US",
+  "lat": 29.76328,
+  "lng": -95.36327,
+  "topics": [
+    "Data/AI"
+  ],
+  "source": "confs.tech"
+}

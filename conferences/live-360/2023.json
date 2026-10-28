@@ -1,0 +1,17 @@
+{
+  "name": "Live! 360 2023",
+  "year": 2023,
+  "url": "https://live360events.com/events/orlando-2023/Home.aspx",
+  "startDate": "2023-11-12",
+  "endDate": "2023-11-17",
+  "city": "Orlando, FL",
+  "country": "US",
+  "lat": 28.53834,
+  "lng": -81.37924,
+  "topics": [
+    "DevOps",
+    ".NET"
+  ],
+  "twitter": "https://x.com/Live360events",
+  "source": "confs.tech"
+}

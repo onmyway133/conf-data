@@ -1,0 +1,24 @@
+{
+  "name": "Wey Wey Web 2025",
+  "year": 2025,
+  "url": "https://www.weyweyweb.com",
+  "startDate": "2025-11-17",
+  "endDate": "2025-11-18",
+  "city": "Malaga",
+  "country": "ES",
+  "lat": 36.72016,
+  "lng": -4.42034,
+  "topics": [
+    "Accessibility",
+    "JavaScript",
+    "Design/UX"
+  ],
+  "cfp": {
+    "url": "https://confeti.app",
+    "deadline": "2025-08-01",
+    "open": false
+  },
+  "twitter": "https://x.com/WeyWeyWeb",
+  "bluesky": "https://bsky.app/profile/weyweyweb.bsky.social",
+  "source": "confs.tech"
+}

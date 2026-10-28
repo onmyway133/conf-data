@@ -1,0 +1,16 @@
+{
+  "name": "Big Data LDN 2019",
+  "year": 2019,
+  "url": "https://bigdataldn.com",
+  "startDate": "2019-11-13",
+  "endDate": "2019-11-14",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/bigdata_ldn",
+  "source": "confs.tech"
+}

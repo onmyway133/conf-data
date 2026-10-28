@@ -1,0 +1,16 @@
+{
+  "name": "ServerlessDays Zurich 2019",
+  "year": 2019,
+  "url": "https://zurich.serverlessdays.io",
+  "startDate": "2019-04-11",
+  "endDate": "2019-04-11",
+  "city": "Zurich",
+  "country": "CH",
+  "lat": 47.36667,
+  "lng": 8.55,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/ServerlessZRH",
+  "source": "confs.tech"
+}

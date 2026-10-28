@@ -1,0 +1,16 @@
+{
+  "name": "DevOpsDays Tokyo 2025",
+  "year": 2025,
+  "url": "https://devopsdays.org/events/2025-tokyo/welcome/",
+  "startDate": "2025-04-15",
+  "endDate": "2025-04-16",
+  "city": "Tokyo",
+  "country": "JP",
+  "lat": 35.6895,
+  "lng": 139.69171,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devopsdaystokyo",
+  "source": "confs.tech"
+}

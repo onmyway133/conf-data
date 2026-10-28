@@ -1,0 +1,16 @@
+{
+  "name": "WiCys 2024",
+  "year": 2024,
+  "url": "https://www.wicys.org/events/wicys-2024",
+  "startDate": "2024-04-11",
+  "endDate": "2024-04-13",
+  "city": "Nashville, TN",
+  "country": "US",
+  "lat": 36.16589,
+  "lng": -86.78444,
+  "topics": [
+    "Security"
+  ],
+  "twitter": "https://x.com/WiCySorg",
+  "source": "confs.tech"
+}

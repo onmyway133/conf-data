@@ -1,0 +1,16 @@
+{
+  "name": "UIArchConf 2020",
+  "year": 2020,
+  "url": "http://uiarchconf.com",
+  "startDate": "2020-10-19",
+  "endDate": "2020-10-20",
+  "city": "New Orleans, LA",
+  "country": "US",
+  "lat": 29.95465,
+  "lng": -90.07507,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/uiarchconf",
+  "source": "confs.tech"
+}

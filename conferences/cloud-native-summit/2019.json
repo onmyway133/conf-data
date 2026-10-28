@@ -1,0 +1,16 @@
+{
+  "name": "Cloud Native Summit 2019",
+  "year": 2019,
+  "url": "https://www.cloudnativesummit.co",
+  "startDate": "2019-08-05",
+  "endDate": "2019-08-06",
+  "city": "Wellington",
+  "country": "NZ",
+  "lat": -41.28664,
+  "lng": 174.77557,
+  "topics": [
+    "Networking"
+  ],
+  "twitter": "https://x.com/cloudnativego",
+  "source": "confs.tech"
+}

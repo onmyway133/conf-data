@@ -1,0 +1,16 @@
+{
+  "name": "Generative AI Middle East Show 2024",
+  "year": 2024,
+  "url": "https://gen-aishow.com",
+  "startDate": "2024-06-05",
+  "endDate": "2024-06-06",
+  "city": "Dubai",
+  "country": "AE",
+  "lat": 25.07725,
+  "lng": 55.30927,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/mseventsmea",
+  "source": "confs.tech"
+}

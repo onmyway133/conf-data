@@ -1,0 +1,14 @@
+{
+  "name": "GOTO Aarhus 2023",
+  "year": 2023,
+  "url": "https://gotoaarhus.com/2023",
+  "startDate": "2023-05-22",
+  "endDate": "2023-05-24",
+  "city": "Aarhus",
+  "country": "DK",
+  "lat": 56.15674,
+  "lng": 10.21076,
+  "topics": [],
+  "twitter": "https://x.com/gotocon",
+  "source": "confs.tech"
+}

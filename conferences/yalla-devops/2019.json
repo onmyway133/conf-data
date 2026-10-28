@@ -1,0 +1,15 @@
+{
+  "name": "Yalla DevOps 2019",
+  "year": 2019,
+  "url": "http://yalla-devops.com",
+  "startDate": "2019-09-24",
+  "endDate": "2019-09-24",
+  "city": "Herzliya",
+  "country": "IL",
+  "lat": 32.16627,
+  "lng": 34.82536,
+  "topics": [
+    "DevOps"
+  ],
+  "source": "confs.tech"
+}

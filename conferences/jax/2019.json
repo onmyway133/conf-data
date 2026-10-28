@@ -1,0 +1,20 @@
+{
+  "name": "JAX 2019",
+  "year": 2019,
+  "url": "https://jax.de",
+  "startDate": "2019-05-06",
+  "endDate": "2019-05-10",
+  "city": "Mainz",
+  "country": "DE",
+  "lat": 49.98185,
+  "lng": 8.28008,
+  "topics": [
+    "Java"
+  ],
+  "cfp": {
+    "deadline": "2018-11-19",
+    "open": false
+  },
+  "twitter": "https://x.com/jaxcon",
+  "source": "confs.tech"
+}

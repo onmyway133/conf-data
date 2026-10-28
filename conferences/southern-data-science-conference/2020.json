@@ -1,0 +1,16 @@
+{
+  "name": "Southern Data Science Conference 2020",
+  "year": 2020,
+  "url": "https://www.southerndatascience.com",
+  "startDate": "2020-08-12",
+  "endDate": "2020-08-14",
+  "city": "Atlanta, GA",
+  "country": "US",
+  "lat": 33.749,
+  "lng": -84.38798,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/southerndsc",
+  "source": "confs.tech"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "PyCon Namibia 2023",
+  "year": 2023,
+  "url": "https://na.pycon.org",
+  "startDate": "2023-02-21",
+  "endDate": "2023-02-23",
+  "city": "Windhoek",
+  "country": "NA",
+  "lat": -22.55941,
+  "lng": 17.08323,
+  "topics": [
+    "Python"
+  ],
+  "cfp": {
+    "url": "https://na.pycon.org/call-proposals",
+    "deadline": "2023-01-22",
+    "open": false
+  },
+  "source": "confs.tech"
+}

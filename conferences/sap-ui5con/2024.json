@@ -1,0 +1,18 @@
+{
+  "name": "SAP UI5con 2024",
+  "year": 2024,
+  "url": "https://openui5.org/ui5con/germany2024",
+  "startDate": "2024-06-05",
+  "endDate": "2024-06-05",
+  "city": "St. Leon-Rot",
+  "country": "DE",
+  "lat": 49.26593,
+  "lng": 8.61803,
+  "topics": [
+    "CSS",
+    "JavaScript",
+    "Performance"
+  ],
+  "twitter": "https://x.com/OpenUI5",
+  "source": "confs.tech"
+}

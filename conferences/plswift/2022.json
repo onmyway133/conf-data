@@ -1,0 +1,21 @@
+{
+  "name": "plSwift 2022",
+  "year": 2022,
+  "url": "http://plswift.com",
+  "startDate": "2022-05-25",
+  "endDate": "2022-05-26",
+  "city": "Wrocław",
+  "country": "PL",
+  "lat": 51.10286,
+  "lng": 17.03006,
+  "topics": [
+    "iOS"
+  ],
+  "cfp": {
+    "url": "https://plswift.com",
+    "deadline": "2022-03-31",
+    "open": false
+  },
+  "twitter": "https://x.com/swift_pl",
+  "source": "confs.tech"
+}

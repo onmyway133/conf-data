@@ -1,0 +1,21 @@
+{
+  "name": "SREcon Americas 2022",
+  "year": 2022,
+  "url": "https://usenix.org/conference/srecon22americas",
+  "startDate": "2022-03-14",
+  "endDate": "2022-03-16",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://www.usenix.org/conference/srecon22americas/call-for-participation",
+    "deadline": "2021-11-17",
+    "open": false
+  },
+  "twitter": "https://x.com/SREcon",
+  "source": "confs.tech"
+}

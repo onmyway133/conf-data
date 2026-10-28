@@ -1,0 +1,18 @@
+{
+  "name": "AWS Community Day CEE 2026",
+  "year": 2026,
+  "url": "https://awscommunity.eu",
+  "startDate": "2026-09-17",
+  "endDate": "2026-09-17",
+  "city": "Budapest",
+  "country": "HU",
+  "lat": 47.49835,
+  "lng": 19.04045,
+  "topics": [],
+  "cfp": {
+    "url": "https://forms.gle/q9w6QvYC1jTHDUQU8",
+    "deadline": "2026-06-08",
+    "open": false
+  },
+  "source": "confs.tech"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "UC Berkeley AI Summit 2023",
+  "year": 2023,
+  "url": "https://www.berkeleyhaasaisummit.com",
+  "startDate": "2023-10-08",
+  "endDate": "2023-10-08",
+  "city": "Berkeley, CA",
+  "country": "US",
+  "lat": 37.87159,
+  "lng": -122.27275,
+  "topics": [
+    "Data/AI"
+  ],
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "ConveyUX 2026",
+  "year": 2026,
+  "url": "https://conveyux.com",
+  "startDate": "2026-04-13",
+  "endDate": "2026-04-13",
+  "city": "Seattle, WA",
+  "country": "US",
+  "lat": 47.60621,
+  "lng": -122.33207,
+  "topics": [
+    "Design/UX"
+  ],
+  "bluesky": "https://bsky.app/profile/conveyux.bsky.social",
+  "source": "confs.tech"
+}

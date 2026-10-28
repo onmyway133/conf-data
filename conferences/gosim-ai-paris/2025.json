@@ -1,0 +1,16 @@
+{
+  "name": "GOSIM AI Paris 2025",
+  "year": 2025,
+  "url": "https://paris2025.gosim.org",
+  "startDate": "2025-05-06",
+  "endDate": "2025-05-07",
+  "city": "Paris",
+  "country": "FR",
+  "lat": 48.85341,
+  "lng": 2.3488,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/gosimfoundation",
+  "source": "confs.tech"
+}

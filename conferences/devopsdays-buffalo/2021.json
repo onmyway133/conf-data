@@ -1,0 +1,21 @@
+{
+  "name": "Devopsdays Buffalo 2021",
+  "year": 2021,
+  "url": "https://devopsdays.org/events/2021-buffalo/welcome",
+  "startDate": "2021-10-13",
+  "endDate": "2021-10-14",
+  "city": "Buffalo, NY",
+  "country": "US",
+  "lat": 42.88645,
+  "lng": -78.87837,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://www.papercall.io/dodbuf2021",
+    "deadline": "2021-07-31",
+    "open": false
+  },
+  "twitter": "https://x.com/DevOpsDaysBUF",
+  "source": "confs.tech"
+}

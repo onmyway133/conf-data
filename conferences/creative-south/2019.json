@@ -1,0 +1,16 @@
+{
+  "name": "Creative South 2019",
+  "year": 2019,
+  "url": "https://creativesouth.com",
+  "startDate": "2019-04-11",
+  "endDate": "2019-04-13",
+  "city": "Columbus, GA",
+  "country": "US",
+  "lat": 39.96118,
+  "lng": -82.99879,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/creativesouthga",
+  "source": "confs.tech"
+}

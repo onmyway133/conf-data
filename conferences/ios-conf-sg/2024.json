@@ -1,0 +1,71 @@
+{
+  "name": "iOS Conf SG 2024",
+  "year": 2024,
+  "url": "https://iosconf.sg",
+  "startDate": "2024-01-18",
+  "endDate": "2024-01-19",
+  "city": "Singapore",
+  "country": "SG",
+  "lat": 1.28967,
+  "lng": 103.85007,
+  "topics": [
+    "iOS"
+  ],
+  "twitter": "https://x.com/iosconfsg",
+  "source": "confs.tech",
+  "speakers": [
+    {
+      "speaker": "peter-steinberger",
+      "role": "Developer, Founded PSPDFKit",
+      "bio": "Peter Steinberger founded and bootstrapped PSPDFKit, an SDK for working with PDF files on any platform. He served as CEO from 2011 to 2019 and currently concentrates on researching new products and technologies.",
+      "photoUrl": "https://2024.iosconf.sg/_next/image?url=%2Fimages%2Fspeakers%2FPeterSteinberger.jpg&w=3840&q=75",
+      "twitter": "https://x.com/steipete",
+      "linkedin": "https://www.linkedin.com/in/steipete",
+      "website": "https://steipete.me"
+    },
+    {
+      "speaker": "april-wensel",
+      "role": "Founder of Compassionate Coding",
+      "bio": "April Wensel is an international keynote speaker and the founder of Compassionate Coding, a conscious business that trains technologists in emotional intelligence and communication skills.",
+      "photoUrl": "https://2024.iosconf.sg/_next/image?url=%2Fimages%2Fspeakers%2FAprilWensel.jpg&w=3840&q=75",
+      "twitter": "https://x.com/aprilwensel",
+      "linkedin": "https://www.linkedin.com/in/aprilwensel",
+      "website": "https://compassionatecoding.com"
+    },
+    {
+      "speaker": "paul-hudson",
+      "role": "Author, Hacking with Swift",
+      "bio": "Paul is the author of Hacking with Swift. He quite likes Swift. And coffee. (But mostly Swift.) (And coffee.)",
+      "photoUrl": "https://2024.iosconf.sg/_next/image?url=%2Fimages%2Fspeakers%2FPaulHudson.jpg&w=3840&q=75",
+      "twitter": "https://x.com/twostraws",
+      "website": "https://www.hackingwithswift.com"
+    },
+    {
+      "speaker": "ellen-shapiro",
+      "role": "iOS Developer, Pixite",
+      "bio": "Ellen has crafted many iOS and Android apps and globe-trotted, sharing her lessons learned. Ellen's been a Kodeco contributor for a decade, co-authored books, and is currently at Pixite. She lives in Rochester, New York, with her wife and two cats.",
+      "photoUrl": "https://2024.iosconf.sg/_next/image?url=%2Fimages%2Fspeakers%2FEllenShapiro.jpg&w=3840&q=75",
+      "twitter": "https://x.com/designatednerd",
+      "linkedin": "https://www.linkedin.com/in/ellen-shapiro-9b42a86",
+      "website": "https://www.pixiteapps.com"
+    },
+    {
+      "speaker": "lee-kah-seng",
+      "role": "iOS Developer, Freelancer",
+      "bio": "Lee is an iOS developer with a decade's experience. He shares insights on iOS development at swiftsenpai.com and empowers SMBs to boost app performance and user experiences.",
+      "photoUrl": "https://2024.iosconf.sg/_next/image?url=%2Fimages%2Fspeakers%2FLeeKahSeng.jpg&w=3840&q=75",
+      "twitter": "https://x.com/Lee_Kah_Seng",
+      "linkedin": "https://www.linkedin.com/in/leekahseng",
+      "website": "https://swiftsenpai.com"
+    },
+    {
+      "speaker": "maxim-cramer",
+      "role": "Founder @ MENNENIA",
+      "bio": "Maxim is the founder of MENNENIA and has worked on award-winning apps since 2009. She effortlessly bridges the worlds of technology and human connection, helping entrepreneurs win with TechLiteracy.",
+      "photoUrl": "https://2024.iosconf.sg/_next/image?url=%2Fimages%2Fspeakers%2FMaximCramer.jpg&w=3840&q=75",
+      "twitter": "https://x.com/mennenia",
+      "linkedin": "https://www.linkedin.com/in/maxim-cramer-founder",
+      "website": "https://mennenia.com"
+    }
+  ]
+}

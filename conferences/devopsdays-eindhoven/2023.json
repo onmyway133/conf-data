@@ -1,0 +1,21 @@
+{
+  "name": "Devopsdays Eindhoven 2023",
+  "year": 2023,
+  "url": "https://devopsdays.org/events/2023-eindhoven/welcome",
+  "startDate": "2023-10-11",
+  "endDate": "2023-10-12",
+  "city": "Eindhoven",
+  "country": "NL",
+  "lat": 51.44083,
+  "lng": 5.47778,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://talx.devops.foundation/devopsdays-eindhoven-2023/cfp",
+    "deadline": "2023-07-31",
+    "open": false
+  },
+  "twitter": "https://x.com/devopsdaysehv",
+  "source": "confs.tech"
+}

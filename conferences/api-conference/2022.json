@@ -1,0 +1,14 @@
+{
+  "name": "API Conference 2022",
+  "year": 2022,
+  "url": "https://apiconference.net/thehague",
+  "startDate": "2022-04-04",
+  "endDate": "2022-04-06",
+  "city": "The Hague",
+  "country": "NL",
+  "lat": 52.07667,
+  "lng": 4.29861,
+  "topics": [],
+  "twitter": "https://x.com/api_conference",
+  "source": "confs.tech"
+}

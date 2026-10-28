@@ -1,0 +1,14 @@
+{
+  "name": "Microsoft Build 2023",
+  "year": 2023,
+  "url": "https://build.microsoft.com",
+  "startDate": "2023-05-23",
+  "endDate": "2023-05-25",
+  "city": "Seattle, WA",
+  "country": "US",
+  "lat": 47.60621,
+  "lng": -122.33207,
+  "topics": [],
+  "twitter": "https://x.com/msdev",
+  "source": "confs.tech"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "DevOps congress 2019",
+  "year": 2019,
+  "url": "https://evenea.pl/event/devopscongress",
+  "startDate": "2019-10-19",
+  "endDate": "2019-10-19",
+  "city": "Wrocław",
+  "country": "PL",
+  "lat": 51.10286,
+  "lng": 17.03006,
+  "topics": [
+    "DevOps"
+  ],
+  "source": "confs.tech"
+}

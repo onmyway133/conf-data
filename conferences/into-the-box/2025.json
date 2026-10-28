@@ -1,0 +1,23 @@
+{
+  "name": "Into The Box 2025",
+  "year": 2025,
+  "url": "https://www.intothebox.org",
+  "startDate": "2025-04-30",
+  "endDate": "2025-05-02",
+  "city": "Washington, DC",
+  "country": "US",
+  "lat": 38.89511,
+  "lng": -77.03637,
+  "topics": [
+    "CFML",
+    "Java",
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSey2AsWchrQpiGVEZjod15EH8NbO4ZRJgJcJv-_POqZyzxpiA/viewform",
+    "deadline": "2024-11-01",
+    "open": false
+  },
+  "twitter": "https://x.com/GoIntoTheBox",
+  "source": "confs.tech"
+}

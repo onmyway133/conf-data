@@ -1,0 +1,16 @@
+{
+  "name": "UXConf BR 2019",
+  "year": 2019,
+  "url": "https://www.uxconf.com.br",
+  "startDate": "2019-05-17",
+  "endDate": "2019-05-18",
+  "city": "Porto Alegre",
+  "country": "BR",
+  "lat": -30.03283,
+  "lng": -51.23019,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/uxconfbr",
+  "source": "confs.tech"
+}

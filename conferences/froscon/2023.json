@@ -1,0 +1,15 @@
+{
+  "name": "FrOSCon 2023",
+  "year": 2023,
+  "url": "https://froscon.org",
+  "startDate": "2023-08-05",
+  "endDate": "2023-08-06",
+  "city": "Sankt Augustin",
+  "country": "DE",
+  "lat": 50.77538,
+  "lng": 7.197,
+  "topics": [],
+  "twitter": "https://x.com/froscon",
+  "mastodon": "https://bonn.social/@FrOSCon",
+  "source": "confs.tech"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Big Sky Dev Con 2025",
+  "year": 2025,
+  "url": "https://bigskydevcon.com",
+  "startDate": "2025-08-02",
+  "endDate": "2025-08-02",
+  "city": "Bozeman, MT",
+  "country": "US",
+  "lat": 45.67965,
+  "lng": -111.03856,
+  "topics": [
+    "JavaScript",
+    "Networking",
+    "Open Source"
+  ],
+  "cfp": {
+    "url": "https://forms.gle/muPjY3koTb9WjMkb6",
+    "deadline": "2025-05-01",
+    "open": false
+  },
+  "twitter": "https://x.com/bigskydevcon",
+  "source": "confs.tech"
+}

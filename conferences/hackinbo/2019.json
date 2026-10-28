@@ -1,0 +1,20 @@
+{
+  "name": "HackInBo 2019",
+  "year": 2019,
+  "url": "https://www.hackinbo.it",
+  "startDate": "2019-11-09",
+  "endDate": "2019-11-09",
+  "city": "Bologna",
+  "country": "IT",
+  "lat": 44.49381,
+  "lng": 11.33875,
+  "topics": [
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://www.hackinbo.it/call-for-papers.php",
+    "deadline": "2019-08-31",
+    "open": false
+  },
+  "source": "confs.tech"
+}

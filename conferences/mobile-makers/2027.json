@@ -1,0 +1,23 @@
+{
+  "name": "Mobile Makers 2027",
+  "year": 2027,
+  "url": "https://mobilemakers.fr/en/#cfp",
+  "startDate": "2027-04-30",
+  "endDate": "2027-04-30",
+  "city": "Paris",
+  "country": "FR",
+  "lat": 48.85341,
+  "lng": 2.3488,
+  "topics": [
+    "Android",
+    "Kotlin",
+    "Design/UX"
+  ],
+  "cfp": {
+    "url": "https://mobilemakers.fr/cfp",
+    "deadline": "2027-01-18",
+    "open": true
+  },
+  "twitter": "https://x.com/AndroidMakersFR",
+  "source": "confs.tech"
+}

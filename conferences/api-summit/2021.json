@@ -1,0 +1,14 @@
+{
+  "name": "API Summit 2021",
+  "year": 2021,
+  "url": "https://api-summit.de",
+  "startDate": "2021-06-07",
+  "endDate": "2021-06-09",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [],
+  "twitter": "https://x.com/apisummit_de",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "DevOpsDays Aarhus 2025",
+  "year": 2025,
+  "url": "https://devopsdays.org/events/2025-aarhus/welcome/",
+  "startDate": "2025-04-29",
+  "endDate": "2025-04-30",
+  "city": "Aarhus",
+  "country": "DK",
+  "lat": 56.15674,
+  "lng": 10.21076,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devopsdayscph",
+  "source": "confs.tech"
+}

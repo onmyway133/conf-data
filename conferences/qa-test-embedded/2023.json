@@ -1,0 +1,16 @@
+{
+  "name": "QA&TEST Embedded 2023",
+  "year": 2023,
+  "url": "https://embedded.qatest.org",
+  "startDate": "2023-10-18",
+  "endDate": "2023-10-20",
+  "city": "Bilbao",
+  "country": "ES",
+  "lat": 43.26271,
+  "lng": -2.92528,
+  "topics": [
+    "Testing"
+  ],
+  "twitter": "https://x.com/QATestBilbao",
+  "source": "confs.tech"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "TypeVille 2022",
+  "year": 2022,
+  "url": "https://www.typeville.io",
+  "startDate": "2022-04-20",
+  "endDate": "2022-04-22",
+  "city": "Krynica Zdrój",
+  "country": "PL",
+  "lat": 49.42225,
+  "lng": 20.95942,
+  "topics": [],
+  "cfp": {
+    "url": "https://sml.io/typeville",
+    "deadline": "2022-01-09",
+    "open": false
+  },
+  "twitter": "https://x.com/typevilleconf",
+  "source": "confs.tech"
+}

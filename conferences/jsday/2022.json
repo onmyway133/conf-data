@@ -1,0 +1,21 @@
+{
+  "name": "jsday 2022",
+  "year": 2022,
+  "url": "https://2022.jsday.it",
+  "startDate": "2022-04-21",
+  "endDate": "2022-04-22",
+  "city": "Verona",
+  "country": "IT",
+  "lat": 45.43854,
+  "lng": 10.9938,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://2022.jsday.it/welcome/cfp.html",
+    "deadline": "2022-02-01",
+    "open": false
+  },
+  "twitter": "https://x.com/jsconfit",
+  "source": "confs.tech"
+}

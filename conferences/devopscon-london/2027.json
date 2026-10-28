@@ -1,0 +1,19 @@
+{
+  "name": "DevOpsCon London 2027",
+  "year": 2027,
+  "url": "https://devopscon.io/london",
+  "startDate": "2027-06-07",
+  "endDate": "2027-06-11",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "Data/AI",
+    "DevOps",
+    "SRE"
+  ],
+  "twitter": "https://x.com/devops_con",
+  "bluesky": "https://bsky.app/profile/devopscon.bsky.social",
+  "source": "confs.tech"
+}

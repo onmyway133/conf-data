@@ -1,0 +1,21 @@
+{
+  "name": "FOSS Backstage 2025",
+  "year": 2025,
+  "url": "https://25.foss-backstage.de",
+  "startDate": "2025-03-10",
+  "endDate": "2025-03-11",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "Open Source"
+  ],
+  "cfp": {
+    "url": "https://25.foss-backstage.de/call-for-participation",
+    "deadline": "2024-11-13",
+    "open": false
+  },
+  "mastodon": "https://floss.social/@FOSSBackstage",
+  "source": "confs.tech"
+}

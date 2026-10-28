@@ -1,0 +1,17 @@
+{
+  "name": "Kubernetes Community Days Barcelona 2024",
+  "year": 2024,
+  "url": "https://www.devbcn.com/kcd",
+  "startDate": "2024-06-13",
+  "endDate": "2024-06-14",
+  "city": "Barcelona",
+  "country": "ES",
+  "lat": 41.38879,
+  "lng": 2.15899,
+  "topics": [
+    "DevOps",
+    "SRE"
+  ],
+  "twitter": "https://x.com/devbcn",
+  "source": "confs.tech"
+}

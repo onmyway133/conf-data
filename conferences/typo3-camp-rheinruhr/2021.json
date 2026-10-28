@@ -1,0 +1,16 @@
+{
+  "name": "TYPO3 Camp RheinRuhr 2021",
+  "year": 2021,
+  "url": "https://www.typo3camp-rheinruhr.de",
+  "startDate": "2021-11-05",
+  "endDate": "2021-11-07",
+  "city": "Essen",
+  "country": "DE",
+  "lat": 51.45657,
+  "lng": 7.01228,
+  "topics": [
+    "PHP"
+  ],
+  "twitter": "https://x.com/T3CRR",
+  "source": "confs.tech"
+}

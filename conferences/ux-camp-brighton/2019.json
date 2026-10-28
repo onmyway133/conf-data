@@ -1,0 +1,15 @@
+{
+  "name": "UX Camp Brighton 2019",
+  "year": 2019,
+  "url": "https://www.uxcampbrighton.org",
+  "startDate": "2019-03-09",
+  "endDate": "2019-03-09",
+  "city": "Brighton",
+  "country": "GB",
+  "lat": 50.82838,
+  "lng": -0.13947,
+  "topics": [
+    "Design/UX"
+  ],
+  "source": "confs.tech"
+}

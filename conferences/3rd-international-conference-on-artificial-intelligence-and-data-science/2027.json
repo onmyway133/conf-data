@@ -1,0 +1,20 @@
+{
+  "name": "3rd International Conference on Artificial Intelligence and Data Science 2027",
+  "year": 2027,
+  "url": "https://datascience.averconferences.com",
+  "startDate": "2027-02-01",
+  "endDate": "2027-02-03",
+  "city": "Dubai",
+  "country": "AE",
+  "lat": 25.07725,
+  "lng": 55.30927,
+  "topics": [
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://datascience.averconferences.com/abstract.php",
+    "deadline": "2027-01-18",
+    "open": true
+  },
+  "source": "confs.tech"
+}

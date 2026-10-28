@@ -1,0 +1,16 @@
+{
+  "name": "Innovate Virginia 2024",
+  "year": 2024,
+  "url": "https://innovatevirginia.com",
+  "startDate": "2024-10-25",
+  "endDate": "2024-10-25",
+  "city": "Richmond, VA",
+  "country": "US",
+  "lat": 37.55376,
+  "lng": -77.46026,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/InnovateVA",
+  "source": "confs.tech"
+}

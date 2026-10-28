@@ -1,0 +1,16 @@
+{
+  "name": "PHPCon Poland 2023",
+  "year": 2023,
+  "url": "https://2023.phpcon.pl/en",
+  "startDate": "2023-11-17",
+  "endDate": "2023-11-18",
+  "city": "Zawiercie",
+  "country": "PL",
+  "lat": 50.48766,
+  "lng": 19.41679,
+  "topics": [
+    "PHP"
+  ],
+  "twitter": "https://x.com/PHPConPoland",
+  "source": "confs.tech"
+}

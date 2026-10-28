@@ -1,0 +1,16 @@
+{
+  "name": "Continuous Lifecycle 2022",
+  "year": 2022,
+  "url": "https://www.continuouslifecycle.de",
+  "startDate": "2022-11-15",
+  "endDate": "2022-11-19",
+  "city": "Mannheim",
+  "country": "DE",
+  "lat": 49.4891,
+  "lng": 8.46694,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/ConLifecycle",
+  "source": "confs.tech"
+}

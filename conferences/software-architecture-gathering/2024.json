@@ -1,0 +1,22 @@
+{
+  "name": "Software Architecture Gathering 2024",
+  "year": 2024,
+  "url": "https://conferences.isaqb.org/software-architecture-gathering",
+  "startDate": "2024-11-11",
+  "endDate": "2024-11-14",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "APIs",
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/isaqb-software-architecture-gathering",
+    "deadline": "2024-06-04",
+    "open": false
+  },
+  "twitter": "https://x.com/sag_conference",
+  "source": "confs.tech"
+}

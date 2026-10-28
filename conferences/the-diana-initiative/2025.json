@@ -1,0 +1,22 @@
+{
+  "name": "The Diana Initiative 2025",
+  "year": 2025,
+  "url": "https://www.dianainitiative.org",
+  "startDate": "2025-08-04",
+  "endDate": "2025-08-04",
+  "city": "Las Vegas, NV",
+  "country": "US",
+  "lat": 36.17497,
+  "lng": -115.13722,
+  "topics": [
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/tdi2025",
+    "deadline": "2025-05-19",
+    "open": false
+  },
+  "bluesky": "https://bsky.app/profile/dianainitiative.bsky.social",
+  "mastodon": "https://defcon.social/@DianaInitiative",
+  "source": "confs.tech"
+}

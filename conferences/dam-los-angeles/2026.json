@@ -1,0 +1,16 @@
+{
+  "name": "DAM Los Angeles 2026",
+  "year": 2026,
+  "url": "https://www.henrystewartconferences.com/events/dam-la-2026",
+  "startDate": "2026-03-18",
+  "endDate": "2026-03-19",
+  "city": "Los Angeles, CA",
+  "country": "US",
+  "lat": 34.05223,
+  "lng": -118.24368,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/henrystewartdam",
+  "source": "confs.tech"
+}

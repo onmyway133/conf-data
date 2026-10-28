@@ -1,0 +1,15 @@
+{
+  "name": "The International Conference on 4th Industrial Revolution and Beyond 2021",
+  "year": 2021,
+  "url": "https://www.ic4irb.org",
+  "startDate": "2021-12-10",
+  "endDate": "2021-12-11",
+  "city": "Dhaka",
+  "country": "BD",
+  "lat": 23.7104,
+  "lng": 90.40744,
+  "topics": [
+    "Networking"
+  ],
+  "source": "confs.tech"
+}

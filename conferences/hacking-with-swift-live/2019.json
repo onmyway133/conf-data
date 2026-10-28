@@ -1,0 +1,16 @@
+{
+  "name": "Hacking with Swift: Live! 2019",
+  "year": 2019,
+  "url": "https://www.hackingwithswift.com/live",
+  "startDate": "2019-07-08",
+  "endDate": "2019-07-09",
+  "city": "Bath",
+  "country": "GB",
+  "lat": 51.3751,
+  "lng": -2.36172,
+  "topics": [
+    "iOS"
+  ],
+  "twitter": "https://x.com/twostraws",
+  "source": "confs.tech"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "try! Swift AI x Dub Dub 2025",
+  "year": 2025,
+  "url": "https://www.tryswift.co/dub-dub-ai",
+  "startDate": "2025-06-12",
+  "endDate": "2025-06-13",
+  "city": "San Jose",
+  "country": "US",
+  "lat": 37.33939,
+  "lng": -121.89496,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences",
+  "speakers": [
+    {
+      "speaker": "natasha-murashev",
+      "bio": "Natasha is an iOS developer by day and a robot by night. She organizes the try! Swift Conference around the world (including this one!). She's currently living in India developing AI-based apps for reading Sanskrit texts.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/swiftai/sanjose3.jpg",
+      "twitter": "https://twitter.com/natashatherobot"
+    }
+  ],
+  "talks": [
+    {
+      "slug": "beyond-keywords-implementing-ai-powered-search-in-swift",
+      "title": "Beyond Keywords: Implementing AI-Powered Search in Swift",
+      "speakers": [
+        "natasha-murashev"
+      ]
+    },
+    {
+      "slug": "llms-in-action-supercharging-your-apps",
+      "title": "LLMs in Action: Supercharging Your Apps",
+      "speakers": [
+        "natasha-murashev"
+      ]
+    },
+    {
+      "slug": "sonic-intelligence-mastering-ai-powered-audio-processing-in-swift",
+      "title": "Sonic Intelligence: Mastering AI-Powered Audio Processing in Swift",
+      "speakers": [
+        "natasha-murashev"
+      ]
+    },
+    {
+      "slug": "visionary-ai-mastering-image-generation-and-analysis-in-swift",
+      "title": "Visionary AI: Mastering Image Generation and Analysis in Swift",
+      "speakers": [
+        "natasha-murashev"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "DevOpsDays Taipei 2019",
+  "year": 2019,
+  "url": "https://devopsdays.org/events/2019-taipei/welcome",
+  "startDate": "2019-10-16",
+  "endDate": "2019-10-18",
+  "city": "Taipei",
+  "country": "TW",
+  "lat": 25.05306,
+  "lng": 121.52639,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSfWpGX1Bu17gyfaxtqllFKPmwgzzenC6vQ_BwQTXuNGVYeclQ/viewform",
+    "open": false
+  },
+  "twitter": "https://x.com/DevOpsDaysTPE",
+  "source": "confs.tech"
+}

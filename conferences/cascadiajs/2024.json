@@ -1,0 +1,23 @@
+{
+  "name": "CascadiaJS 2024",
+  "year": 2024,
+  "url": "https://cascadiajs.com/2024",
+  "startDate": "2024-06-19",
+  "endDate": "2024-06-22",
+  "city": "Seattle, WA",
+  "country": "US",
+  "lat": 47.60621,
+  "lng": -122.33207,
+  "topics": [
+    "CSS",
+    "Data/AI",
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://cascadiajs.com/2024/cfp",
+    "deadline": "2024-02-04",
+    "open": false
+  },
+  "twitter": "https://x.com/cascadiajs",
+  "source": "confs.tech"
+}

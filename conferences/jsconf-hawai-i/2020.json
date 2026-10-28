@@ -1,0 +1,16 @@
+{
+  "name": "JSConf Hawai'i 2020",
+  "year": 2020,
+  "url": "https://www.jsconfhi.com",
+  "startDate": "2020-02-05",
+  "endDate": "2020-02-07",
+  "city": "Honolulu, HI",
+  "country": "US",
+  "lat": 21.30694,
+  "lng": -157.85833,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/JSConfHi",
+  "source": "confs.tech"
+}

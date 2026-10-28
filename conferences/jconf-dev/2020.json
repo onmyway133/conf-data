@@ -1,0 +1,16 @@
+{
+  "name": "jconf.dev 2020",
+  "year": 2020,
+  "url": "https://jconf.dev",
+  "startDate": "2020-09-29",
+  "endDate": "2020-10-01",
+  "city": "Chicago, IL",
+  "country": "US",
+  "lat": 41.85003,
+  "lng": -87.65005,
+  "topics": [
+    "Java"
+  ],
+  "twitter": "https://x.com/jconfdev",
+  "source": "confs.tech"
+}

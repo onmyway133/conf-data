@@ -1,0 +1,19 @@
+{
+  "name": "DevFest WI 2019",
+  "year": 2019,
+  "url": "https://devfestwi.com",
+  "startDate": "2019-09-28",
+  "endDate": "2019-09-28",
+  "city": "Madison, WI",
+  "country": "US",
+  "lat": 43.07305,
+  "lng": -89.40123,
+  "topics": [],
+  "cfp": {
+    "url": "https://forms.gle/sapi9R2o1yWQcXeA6",
+    "deadline": "2019-06-30",
+    "open": false
+  },
+  "twitter": "https://x.com/devfestwi",
+  "source": "confs.tech"
+}

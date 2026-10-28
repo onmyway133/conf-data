@@ -1,0 +1,19 @@
+{
+  "name": "UbuCon Asia 2022",
+  "year": 2022,
+  "url": "https://2022.ubucon.asia",
+  "startDate": "2022-11-26",
+  "endDate": "2022-11-27",
+  "city": "Seoul",
+  "country": "KR",
+  "lat": 37.566,
+  "lng": 126.9784,
+  "topics": [],
+  "cfp": {
+    "url": "https://2022.ubucon.asia/call-for-proposals",
+    "deadline": "2022-09-14",
+    "open": false
+  },
+  "twitter": "https://x.com/UbuConAsia",
+  "source": "confs.tech"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "React Norway 2024",
+  "year": 2024,
+  "url": "https://reactnorway.com",
+  "startDate": "2024-06-14",
+  "endDate": "2024-06-14",
+  "city": "Skien",
+  "country": "NO",
+  "lat": 59.20962,
+  "lng": 9.60897,
+  "topics": [],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSc_xjLBFkK0N1i_r7MgOpw4JMKT7SyapJBRG1jQaiBRfxHTgg/viewform",
+    "deadline": "2024-04-01",
+    "open": false
+  },
+  "twitter": "https://x.com/ReactNorway",
+  "source": "confs.tech"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Devopsdays Eindhoven 2025",
+  "year": 2025,
+  "url": "https://devopsdays.org/events/2025-eindhoven/welcome/",
+  "startDate": "2025-10-02",
+  "endDate": "2025-10-03",
+  "city": "Eindhoven",
+  "country": "NL",
+  "lat": 51.44083,
+  "lng": 5.47778,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://talks.devopsdays.org/devopsdays-eindhoven-2025/cfp",
+    "deadline": "2025-05-10",
+    "open": false
+  },
+  "twitter": "https://x.com/devopsdaysehv",
+  "source": "confs.tech"
+}

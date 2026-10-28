@@ -1,0 +1,15 @@
+{
+  "name": "JSDC 2025",
+  "year": 2025,
+  "url": "https://2025.jsdc.tw",
+  "startDate": "2025-11-29",
+  "endDate": "2025-11-29",
+  "city": "Taipei",
+  "country": "TW",
+  "lat": 25.05306,
+  "lng": 121.52639,
+  "topics": [
+    "JavaScript"
+  ],
+  "source": "confs.tech"
+}

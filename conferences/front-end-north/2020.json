@@ -1,0 +1,17 @@
+{
+  "name": "Front End North 2020",
+  "year": 2020,
+  "url": "https://frontendnorth.com",
+  "startDate": "2020-02-07",
+  "endDate": "2020-02-07",
+  "city": "Sheffield",
+  "country": "GB",
+  "lat": 53.38297,
+  "lng": -1.4659,
+  "topics": [
+    "JavaScript",
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/frontendnorth",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "WeRockIT 2019",
+  "year": 2019,
+  "url": "http://werockitconf.com",
+  "startDate": "2019-05-03",
+  "endDate": "2019-05-04",
+  "city": "Huntsville, AL",
+  "country": "US",
+  "lat": 34.7304,
+  "lng": -86.58594,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/werockitconf",
+  "source": "confs.tech"
+}

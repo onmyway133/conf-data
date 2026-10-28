@@ -1,0 +1,17 @@
+{
+  "name": "App Builders 2019",
+  "year": 2019,
+  "url": "https://www.appbuilders.ch",
+  "startDate": "2019-04-29",
+  "endDate": "2019-04-30",
+  "city": "Lugano",
+  "country": "CH",
+  "lat": 46.01008,
+  "lng": 8.96004,
+  "topics": [
+    "Android",
+    "iOS"
+  ],
+  "twitter": "https://x.com/appbuilders_ch",
+  "source": "confs.tech"
+}

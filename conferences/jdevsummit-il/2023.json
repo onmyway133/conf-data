@@ -1,0 +1,21 @@
+{
+  "name": "JDevSummit IL 2023",
+  "year": 2023,
+  "url": "https://jdevsummitil.com",
+  "startDate": "2023-11-20",
+  "endDate": "2023-11-20",
+  "city": "Tel Aviv",
+  "country": "IL",
+  "lat": 32.08088,
+  "lng": 34.78057,
+  "topics": [
+    "Java"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/jdev-summit-il-23",
+    "deadline": "2023-06-08",
+    "open": false
+  },
+  "twitter": "https://x.com/JDevSummitIL",
+  "source": "confs.tech"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "International PHP Conference 2019",
+  "year": 2019,
+  "url": "https://phpconference.com",
+  "startDate": "2019-06-03",
+  "endDate": "2019-06-07",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "PHP"
+  ],
+  "cfp": {
+    "url": "https://phpconference.com/call-for-papers",
+    "deadline": "2018-10-31",
+    "open": false
+  },
+  "twitter": "https://x.com/phpconference",
+  "source": "confs.tech"
+}

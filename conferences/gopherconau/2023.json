@@ -1,0 +1,16 @@
+{
+  "name": "GopherConAU 2023",
+  "year": 2023,
+  "url": "https://gophercon.com.au",
+  "startDate": "2023-11-08",
+  "endDate": "2023-11-10",
+  "city": "Sydney",
+  "country": "AU",
+  "lat": -33.86785,
+  "lng": 151.20732,
+  "topics": [
+    "Go"
+  ],
+  "twitter": "https://x.com/gopherconaunz",
+  "source": "confs.tech"
+}

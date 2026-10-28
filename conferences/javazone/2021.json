@@ -1,0 +1,20 @@
+{
+  "name": "JavaZone 2021",
+  "year": 2021,
+  "url": "https://javazone.no",
+  "startDate": "2021-12-08",
+  "endDate": "2021-12-09",
+  "city": "Oslo",
+  "country": "NO",
+  "lat": 59.91273,
+  "lng": 10.74609,
+  "topics": [
+    "Java"
+  ],
+  "cfp": {
+    "url": "https://2021.javazone.no/#/speakers",
+    "deadline": "2021-08-05",
+    "open": false
+  },
+  "source": "confs.tech"
+}

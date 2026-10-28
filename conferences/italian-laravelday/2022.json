@@ -1,0 +1,20 @@
+{
+  "name": "Italian LaravelDay 2022",
+  "year": 2022,
+  "url": "https://2022.laravelday.it",
+  "startDate": "2022-11-17",
+  "endDate": "2022-11-17",
+  "city": "Verona",
+  "country": "IT",
+  "lat": 45.43854,
+  "lng": 10.9938,
+  "topics": [
+    "PHP"
+  ],
+  "cfp": {
+    "url": "https://2022.laravelday.it/welcome/cfp.html",
+    "open": false
+  },
+  "twitter": "https://x.com/LaravelDayIt",
+  "source": "confs.tech"
+}

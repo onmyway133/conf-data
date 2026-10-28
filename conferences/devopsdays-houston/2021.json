@@ -1,0 +1,16 @@
+{
+  "name": "Devopsdays Houston 2021",
+  "year": 2021,
+  "url": "https://devopsdays.org/events/2021-houston/welcome",
+  "startDate": "2021-09-21",
+  "endDate": "2021-09-22",
+  "city": "Houston, TX",
+  "country": "US",
+  "lat": 29.76328,
+  "lng": -95.36327,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devopsdayshtown",
+  "source": "confs.tech"
+}

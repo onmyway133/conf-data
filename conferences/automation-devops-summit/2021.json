@@ -1,0 +1,15 @@
+{
+  "name": "Automation + DevOps Summit 2021",
+  "year": 2021,
+  "url": "https://www.automationsummit.org",
+  "startDate": "2021-11-02",
+  "endDate": "2021-11-04",
+  "city": "Nashville, TN",
+  "country": "US",
+  "lat": 36.16589,
+  "lng": -86.78444,
+  "topics": [
+    "DevOps"
+  ],
+  "source": "confs.tech"
+}

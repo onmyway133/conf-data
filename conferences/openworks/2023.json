@@ -1,0 +1,16 @@
+{
+  "name": "OpenWorks 2023",
+  "year": 2023,
+  "url": "https://openworks.mariadb.com/KEALqr",
+  "startDate": "2023-05-09",
+  "endDate": "2023-05-10",
+  "city": "New York, NY",
+  "country": "US",
+  "lat": 40.71427,
+  "lng": -74.00597,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/mariadb",
+  "source": "confs.tech"
+}

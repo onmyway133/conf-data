@@ -1,0 +1,16 @@
+{
+  "name": "plDroid 2023",
+  "year": 2023,
+  "url": "https://pldroid.com",
+  "startDate": "2023-05-30",
+  "endDate": "2023-05-31",
+  "city": "Warsaw",
+  "country": "PL",
+  "lat": 52.22977,
+  "lng": 21.01178,
+  "topics": [
+    "Android"
+  ],
+  "twitter": "https://x.com/PlDroid",
+  "source": "confs.tech"
+}

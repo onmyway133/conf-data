@@ -1,0 +1,16 @@
+{
+  "name": "pgDay Chicago 2023",
+  "year": 2023,
+  "url": "https://2023.pgdaychicago.org",
+  "startDate": "2023-04-20",
+  "endDate": "2023-04-20",
+  "city": "Chicago, IL",
+  "country": "US",
+  "lat": 41.85003,
+  "lng": -87.65005,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/pgdaychicago",
+  "source": "confs.tech"
+}

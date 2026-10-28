@@ -1,0 +1,19 @@
+{
+  "name": "CodeMash 2025",
+  "year": 2025,
+  "url": "https://codemash.org",
+  "startDate": "2025-01-14",
+  "endDate": "2025-01-17",
+  "city": "Sandusky, OH",
+  "country": "US",
+  "lat": 41.44894,
+  "lng": -82.70796,
+  "topics": [],
+  "cfp": {
+    "url": "https://codemash.org/call-speakers",
+    "deadline": "2024-08-31",
+    "open": false
+  },
+  "twitter": "https://x.com/codemash",
+  "source": "confs.tech"
+}

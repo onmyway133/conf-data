@@ -1,0 +1,16 @@
+{
+  "name": "Devops Barcelona Conference 2022",
+  "year": 2022,
+  "url": "https://devops.barcelona",
+  "startDate": "2022-11-03",
+  "endDate": "2022-11-04",
+  "city": "Barcelona",
+  "country": "ES",
+  "lat": 41.38879,
+  "lng": 2.15899,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devopsbarcelona",
+  "source": "confs.tech"
+}

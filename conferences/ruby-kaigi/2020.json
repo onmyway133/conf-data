@@ -1,0 +1,16 @@
+{
+  "name": "Ruby Kaigi 2020",
+  "year": 2020,
+  "url": "https://rubykaigi.org/2020",
+  "startDate": "2020-09-03",
+  "endDate": "2020-09-05",
+  "city": "Nagano",
+  "country": "JP",
+  "lat": 36.65,
+  "lng": 138.18333,
+  "topics": [
+    "Ruby"
+  ],
+  "twitter": "https://x.com/RubyKaigi",
+  "source": "confs.tech"
+}

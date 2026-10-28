@@ -1,0 +1,16 @@
+{
+  "name": "I Code Java Cape Town 2023",
+  "year": 2023,
+  "url": "https://j-sa.co",
+  "startDate": "2023-05-10",
+  "endDate": "2023-05-11",
+  "city": "Cape Town",
+  "country": "ZA",
+  "lat": -33.92584,
+  "lng": 18.42322,
+  "topics": [
+    "Java"
+  ],
+  "twitter": "https://x.com/JavaAfrica",
+  "source": "confs.tech"
+}

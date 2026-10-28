@@ -1,0 +1,21 @@
+{
+  "name": "Rubyconf India 2025",
+  "year": 2025,
+  "url": "https://rubyconf.in",
+  "startDate": "2025-09-12",
+  "endDate": "2025-09-13",
+  "city": "Jaipur",
+  "country": "IN",
+  "lat": 26.91962,
+  "lng": 75.78781,
+  "topics": [
+    "Ruby"
+  ],
+  "cfp": {
+    "url": "https://www.papercall.io/rubyconf-india-2025",
+    "deadline": "2025-07-15",
+    "open": false
+  },
+  "twitter": "https://x.com/rubyconfindia",
+  "source": "confs.tech"
+}

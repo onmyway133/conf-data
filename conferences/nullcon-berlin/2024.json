@@ -1,0 +1,193 @@
+{
+  "name": "Nullcon Berlin 2024",
+  "year": 2024,
+  "url": "https://nullcon.net/berlin-2024",
+  "startDate": "2024-03-14",
+  "endDate": "2024-03-15",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "Android",
+    "IoT",
+    "Networking"
+  ],
+  "cfp": {
+    "url": "https://nullcon.net/berlin-2024/cfp",
+    "deadline": "2023-12-31",
+    "open": false
+  },
+  "twitter": "https://x.com/nullcon",
+  "source": "confs.tech",
+  "speakers": [
+    {
+      "speaker": "fred-raynal"
+    },
+    {
+      "speaker": "nolen-johnson"
+    },
+    {
+      "speaker": "jan-altensen"
+    },
+    {
+      "speaker": "hanno-bock"
+    },
+    {
+      "speaker": "dillon-franke"
+    },
+    {
+      "speaker": "jaden-furtado"
+    },
+    {
+      "speaker": "alex-devassy"
+    },
+    {
+      "speaker": "dennis-giese"
+    },
+    {
+      "speaker": "arpan-jati"
+    },
+    {
+      "speaker": "nicolas-gregoire"
+    },
+    {
+      "speaker": "axelle-apvrille"
+    },
+    {
+      "speaker": "marc-newlin"
+    },
+    {
+      "speaker": "nguyen-anh-quynh"
+    },
+    {
+      "speaker": "van-hoa"
+    },
+    {
+      "speaker": "stephan-gerling"
+    },
+    {
+      "speaker": "peter-geissler"
+    },
+    {
+      "speaker": "georgy-kucherin"
+    },
+    {
+      "speaker": "vivek-ramachandran"
+    }
+  ],
+  "talks": [
+    {
+      "slug": "achilles-heel-in-secure-boot-breaking-rsa-authentication-and-bitstream-recovery",
+      "title": "Achilles Heel in Secure Boot: Breaking RSA Authentication and Bitstream recovery from Zynq-7000 SoC",
+      "speakers": [
+        "arpan-jati"
+      ]
+    },
+    {
+      "slug": "bypassing-http-strict-transport-security-hsts",
+      "title": "Bypassing HTTP Strict Transport Security (HSTS)",
+      "speakers": [
+        "hanno-bock"
+      ]
+    },
+    {
+      "slug": "ev-charging-stations-security-free-of-charge",
+      "title": "EV charging stations security - free of charge",
+      "speakers": [
+        "stephan-gerling"
+      ]
+    },
+    {
+      "slug": "fault-injection-and-the-supply-chain",
+      "title": "Fault Injection and the Supply Chain",
+      "speakers": [
+        "nolen-johnson"
+      ]
+    },
+    {
+      "slug": "fuzzing-at-mach-speed-uncovering-ipc-vulnerabilities-on-macos",
+      "title": "Fuzzing at Mach Speed: Uncovering IPC Vulnerabilities on MacOS",
+      "speakers": [
+        "dillon-franke"
+      ]
+    },
+    {
+      "slug": "hacking-trains",
+      "title": "Hacking Trains",
+      "speakers": [
+        "jaden-furtado"
+      ]
+    },
+    {
+      "slug": "hi-my-name-is-keyboard",
+      "title": "Hi, My Name is Keyboard",
+      "speakers": [
+        "marc-newlin"
+      ]
+    },
+    {
+      "slug": "how-things-are-going-for-apt41-in-2024",
+      "title": "How Things Are Going For APT41 in 2024",
+      "speakers": [
+        "georgy-kucherin"
+      ]
+    },
+    {
+      "slug": "into-the-abyss-adversarial-tactics-in-ai-security",
+      "title": "Into the Abyss: Adversarial Tactics in AI Security",
+      "speakers": [
+        "alex-devassy"
+      ]
+    },
+    {
+      "slug": "looking-in-the-rear-view-mirror-after-25-years-in-the-industry",
+      "title": "Looking in the rear view mirror after 25 years in the industry",
+      "speakers": [
+        "nicolas-gregoire"
+      ]
+    },
+    {
+      "slug": "open-sesame-or-how-secure-is-your-stuff-in-electronic-lockers",
+      "title": "Open sesame - or how secure is your stuff in electronic lockers",
+      "speakers": [
+        "dennis-giese"
+      ]
+    },
+    {
+      "slug": "printer-hacking-adventures",
+      "title": "Printer Hacking Adventures",
+      "speakers": [
+        "peter-geissler"
+      ]
+    },
+    {
+      "slug": "revela-unlock-the-secrets-of-move-smart-contracts",
+      "title": "Revela: Unlock the Secrets of Move Smart Contracts",
+      "speakers": [
+        "nguyen-anh-quynh"
+      ]
+    },
+    {
+      "slug": "secure-web-gateways-are-dead-what-s-next",
+      "title": "Secure Web Gateways are dead. What’s next?",
+      "speakers": [
+        "vivek-ramachandran"
+      ]
+    },
+    {
+      "slug": "the-complexity-of-reversing-flutter-applications",
+      "title": "The complexity of reversing Flutter applications",
+      "speakers": [
+        "axelle-apvrille"
+      ]
+    },
+    {
+      "slug": "the-world-of-spyware-for-rent",
+      "title": "The World Of Spyware For Rent",
+      "speakers": [
+        "fred-raynal"
+      ]
+    }
+  ]
+}

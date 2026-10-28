@@ -1,0 +1,21 @@
+{
+  "name": "JSNation US 2026",
+  "year": 2026,
+  "url": "https://jsnation.us",
+  "startDate": "2026-11-16",
+  "endDate": "2026-11-19",
+  "city": "New York, NY",
+  "country": "US",
+  "lat": 40.71427,
+  "lng": -74.00597,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://gitnation.com/events/jsnation-us-2026/cfp",
+    "deadline": "2026-07-13",
+    "open": true
+  },
+  "twitter": "https://x.com/JSNation",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Devopsdays Recife 2022",
+  "year": 2022,
+  "url": "https://devopsdays.org/events/2022-recife/welcome",
+  "startDate": "2022-12-10",
+  "endDate": "2022-12-10",
+  "city": "Recife",
+  "country": "BR",
+  "lat": -8.05389,
+  "lng": -34.88111,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devopsdaysrec",
+  "source": "confs.tech"
+}

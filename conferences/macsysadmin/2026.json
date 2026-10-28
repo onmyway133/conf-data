@@ -1,0 +1,349 @@
+{
+  "name": "MacSysAdmin 2026",
+  "year": 2026,
+  "url": "https://macsysadmin.se",
+  "startDate": "2026-09-29",
+  "endDate": "2026-10-02",
+  "city": "Gothenburg",
+  "country": "SE",
+  "lat": 57.70716,
+  "lng": 11.96679,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences",
+  "speakers": [
+    {
+      "speaker": "armin-briegel",
+      "role": "Consultant - Jamf / scriptingosx.com",
+      "bio": "Armin Briegel has been managing Macs and their users since the time when Apple was beleaguered. He has had a vast collection of technical job titles. He worked for at Apple in Germany and the US as a WebObjects and Server Consulting Engineer. Then, he put theory into practice as a System Administrator at University of Southern California. He currently works for Jamf in Europe. He also writes on his weblog, scriptingosx.com and has published books for Apple Administrators.",
+      "photoUrl": "https://macsysadmin.se/speakers/files/image-2515.png"
+    },
+    {
+      "speaker": "weldon-dodd",
+      "role": "Distinguished Engineer - Iru",
+      "bio": "Weldon Dodd began his career running a campus Mac lab and NeXT lab at the University of California. He then went to wireless telecom just as digital networks and the Internet came to mobile. The next stage was automating large Apple deployments and running the Apple Authorized Training Center in Colorado. Weldon joined Iru (formerly Kandji) in early 2020 where he has built and led several teams, and now serves as a Distinguished Engineer.",
+      "photoUrl": "https://macsysadmin.se/speakers/files/image-2180.png"
+    },
+    {
+      "speaker": "maggie-zirnhelt",
+      "role": "macOS Threat Researcher - Jamf",
+      "bio": "Maggie Zirnhelt is a threat researcher with a background in mobile device management at Jamf and 10 years of software engineering experience. Every step of her professional life has revolved around macOS security, with relevant tasks including researching and developing a symbolic execution engine, programming for an enterprise security extension, and pushing the limits of her reverse engineering skills.\n\nThe perspective of the macOS administrator has been a central one for her for the past 5 years. She currently lives in the US in Boulder, Colorado, and enjoys exploring the Rocky Mountains.",
+      "photoUrl": "https://macsysadmin.se/speakers/files/image-2190.png"
+    },
+    {
+      "speaker": "ulrik-aabye-hansen",
+      "role": "Consultant & Entertainer - Talktech",
+      "bio": "Ulriks road to the Mac came through music, took a very brief detour in webdesign, then as a Mac consultant for a number of years, and since 2011 as a Apple Certified Trainer. As such, he has been delivering Sales, Technical, Master and Mentor training for Apple going on fifteen year, and in 2021 also added Jamf Training to the repetoire.\n\nHe is co-owner of the company Talktech ApS and when not consulting or delivering training, he is an avid foodie and enjoys cooking and is a proud guitar-owner.",
+      "photoUrl": "https://macsysadmin.se/speakers/files/image-2358.png"
+    },
+    {
+      "speaker": "arek-dreyer",
+      "role": "Senior Product Engineer - Iru",
+      "bio": "Arek Dreyer is a Principal Solutions Engineer at Iru, where he helps organizations securely deploy and manage Apple devices at scale. With over 25 years of experience in Apple device management, Arek has been a trusted advisor, trainer, and author to IT professionals worldwide.\n\nBefore joining Iru, f.k.a Kandji, Dreyer co-authored Managing Apple Devices and several books in the Apple Pro Training Series, including Mac OS X Directory Services, macOS Support Essentials, and macOS Server Essentials. His first appearance at the MacSysAdmin conference was when it was still held at Nya Varvet!",
+      "photoUrl": "https://macsysadmin.se/speakers/files/image-2050.png"
+    },
+    {
+      "speaker": "kenneth-villadsen",
+      "role": "Consultant & Partner - Talktech",
+      "bio": "Starting out in 1999 with IT Support, Kenneth has been deep in the Apple ecosystem since 2007. With roots in Windows and Cisco support, he brings a cross-platform perspective to everything he teaches.\n\nAn Apple Certified Trainer since 2009 and Apple Tech Series presenter since 2013, he co-founded Talktech with Ulrik in 2021. Away from the keyboard, you'll find him in Copenhagen with his family, or pretending to be a GT3 driver in the sim.",
+      "photoUrl": "https://macsysadmin.se/speakers/files/image-2156.png"
+    },
+    {
+      "speaker": "jason-dettbarn",
+      "role": "Founder and CTO - Addigy",
+      "bio": "Jason Dettbarn is the Founder and CEO of Addigy, a world-leading, cloud-based IT management platform for Apple devices. Following a decade of pioneering embedded software engineering at Motorola and Raymarine, Jason shifted to the IT management software industry at CA (Computer Associates) and later on, Kaseya. With this, he inevitably founded Addigy in 2014 & built it privately to become what it is today: a global leader in Apple device management.\n\nJason holds a Masters and Bachelors in Computer Science from FIU with graduate research in Pervasive Computing & Computer Networks at MIT (Laboratory for Computer Science).",
+      "photoUrl": "https://macsysadmin.se/speakers/files/image-2573.png"
+    },
+    {
+      "speaker": "brock-walters",
+      "role": "Platform Architect - Treeline",
+      "bio": "His past roles include working for Jamf on their education services team as a trainer and course content creator, as a demo engineer at Apple and as a client platform engineer for companies in finance and entertainment.\n\nThis is a much more serious description than last year's, which only admitted to liking romantic candle-lit dinners & long walks on the beach at sunset.",
+      "photoUrl": "https://macsysadmin.se/speakers/files/image-1873.png"
+    },
+    {
+      "speaker": "duncan-mccracken",
+      "role": "Strategist / Architect / Developer",
+      "bio": "With almost 30 years experience working with Apple and associated products, Duncan has consulted with some of the leading integration companies in Australia and around the world. He is known for his willingness to adapt to new playing fields through embracing different technologies, and his knack for creating modular, re-usable solutions.\n\nDuncan has spoken at various Apple-centric conferences around the world, and is looking forward to returning to MacSysAdmin this year.",
+      "photoUrl": "https://macsysadmin.se/speakers/files/image-2227.png"
+    },
+    {
+      "speaker": "marc-nahum",
+      "role": "Senior Program Manager - Microsoft",
+      "bio": "After studies in Paris, and few years to work there I moved to Switzerland for a large enterprise to manage Active Directory and Citrix Severs.\nIn 2009 with the increase of importance of mobile devices, the need to manage them bring me to this new business for the same company.\n\nAfter selection, implementation, upgrade, modernisation of MDM and remote access solution my road crossed Intune.\nDuring all these years I worked daily, promoted, and made the management of macOS possible. When I joined Microsoft as a PM in the Intune Engineering org it’s naturally that is become my platform of choice",
+      "photoUrl": "https://macsysadmin.se/speakers/files/image-2430.png"
+    },
+    {
+      "speaker": "henry-stamerjohann",
+      "role": "Solutions Consultant - Fleet",
+      "bio": "Henry is a solutions consultant at Fleet and serves on the Mac Admins Open Source board. He’s an active contributor to open-source projects focused on Apple endpoint management with years of hands-on experience. He builds strategies for secure, resilient Apple-first workplaces by making endpoint practices transparent and auditable.",
+      "photoUrl": "https://macsysadmin.se/speakers/files/image-2542.png"
+    },
+    {
+      "speaker": "wojciech-regula",
+      "role": "Principal Security Consultant - SecuRing",
+      "bio": "Wojciech Regula is a Principal IT Security Specialist working at SecuRing. He specializes in application security on Apple devices. He has created the iOS Security Suite - an open-source anti-tampering framework. Bugcrowd MVP, has found vulnerabilities in Apple, Facebook, Malwarebytes, Slack, Atlassian, and others.\n\nIn his free time, he runs an infosec blog - https://wojciechregula.blog. He has shared his research at, among others, Typhoon, Black Hat US & EU, DEF CON, Objective by the Sea, NULLCON, and CONFidence.",
+      "photoUrl": "https://macsysadmin.se/speakers/files/image-2207.png",
+      "website": "https://wojciechregula.blog"
+    },
+    {
+      "speaker": "catherine-davis",
+      "bio": "Catherine Davis is working remotely from her home in Wisconsin. With over a decade of experience in the Apple management space, Catherine has held a variety of roles from Admin to an MDM-focused Product Manager, since 2012, giving her a deep perspective on how organizations deploy, secure, and manage Apple devices at scale.\n\nToday, she leads product strategy and helping customers navigate the evolving landscape of device management, endpoint security, and end-user experience.",
+      "photoUrl": "https://macsysadmin.se/speakers/files/image-2240.png"
+    },
+    {
+      "speaker": "troy-lynch",
+      "role": "Sr. Director of IT/IS - Other World Computing",
+      "bio": "Troy Lynch is the Sr. Director of IT/IS at Other World Computing (OWC), where he leads enterprise technology strategy and security initiatives. With more than 35 years of experience in IT, Troy’s career began right out of high school, sparked by a fascination with communications and the UNIX operating system. His expertise deepened as Apple transitioned macOS to a UNIX-based foundation, cementing his focus on enterprise Apple environments.\n\nOver the years, Troy has overseen thousands of projects — from re-engineering the technology systems aboard a 270-foot yacht to successfully guiding OWC’s enterprise resource planning (ERP) rollout. At OWC, he combines deep technical knowledge with a pragmatic approach to building secure, resilient infrastructures. Based in Illinois, Troy is also a longtime DJ, often relying on OWC gear both on the job and behind the turntables.",
+      "photoUrl": "https://macsysadmin.se/speakers/files/image-2444.png"
+    },
+    {
+      "speaker": "jacob-fuehne",
+      "role": "Generative AI Engineer - Other World Computing",
+      "bio": "Jacob Fuehne is the Generative AI Engineer at Other World Computing (OWC), serving as an AI generalist implementing AI internally as well as developing OWC AI products. Jacob's journey with AI began right around when the transformer model was created in 2017. Jacob studied Computer Science and Linguistics at the University of Illinois Urbana-Champaign, specialising in Natural Language Processing and where he also completed a Master of Computer Science.\n\nJacob has experience deploying computer vision document processing at AbbVie, chatbots at Albemarle, and working on research publications with EleutherAI. At OWC, he uses his knowledge of traditional and cutting-edge concepts to navigate the best approach in the rapidly changing industry. Based in Illinois, Jacob enjoys gaming and taking pictures of native wildlife, often encountering them just outside the OWC Woodstock office.",
+      "photoUrl": "https://macsysadmin.se/speakers/files/image-2563.png"
+    },
+    {
+      "speaker": "david-starr",
+      "role": "Consultant - Workbrew",
+      "bio": "David Starr has spent almost 25 years focused entirely on architecting Apple solutions for business, enterprise, and education organizations. David was a Consulting Engineer manager at Apple in the US, and he later co-founded Black Glove, a managed services provider dedicated to delivering scalable Apple-centric IT services. Today, David leads Partners @ Workbrew helping bring Workbrew’s secure software delivery platform to organizations around the world.\n\nDavid is based in The Hague, Netherlands. When not working, he enjoys traveling the world with his family and playing guitar, bass, and piano.",
+      "photoUrl": "https://macsysadmin.se/speakers/files/image-2285.png"
+    },
+    {
+      "speaker": "grace-goodrich",
+      "role": "Communications Manager - Magic Hat",
+      "bio": "Grace Goodrich is the Communications Manager at Magic Hat Inc., where she oversees partner relations with international software makers, as well as domestic events and customer outreach activities. In her role, she works closely with global technology partners to strengthen collaborations, while also shaping how Magic Hat connects with customers in Japan through events, marketing, and community engagement. She’s passionate about building relationships that help technology companies succeed in new markets and creating experiences that bring communities together.\n\nOutside of work, Grace tries to travel and be in the outdoors as much as possible but is more than happy to garden and read a good book in her downtime. This will be her first time speaking at a conference, and she’s excited to share her experiences and connect with the MacAdmin community.",
+      "photoUrl": "https://macsysadmin.se/speakers/files/image-2401.png"
+    },
+    {
+      "speaker": "melinda-magyar",
+      "role": "Technical Engineer - Magic Hat",
+      "bio": "Melinda began her career in software development before joining Magic Hat in Tokyo, where she transitioned into the world of Apple device management. Today, she works closely with customers to support their Apple environments while also developing solutions focused on automation, integration, and security.\n\nShe enjoys solving complex technical problems, improving workflows, and creating practical tools that make everyday work smoother and more efficient. Outside of work, she enjoys reading, exploring cafés and bookstores, spending time with cats, and staying active.",
+      "photoUrl": "https://macsysadmin.se/speakers/files/image-2521.png"
+    },
+    {
+      "speaker": "nam-sangsasitorn",
+      "role": "Technical Engineer - Magic Hat",
+      "bio": "Nam (Natnicha) started her career in IT support and has been supporting corporate customers with Mobile Device Management solutions for four years. Since 2021, she has been working at Magic Hat Inc. in Tokyo, Japan, focusing on managing Apple devices. She is also actively involved in developing IT security solutions for Apple platforms.\n\nCurrently, her primary focus is supporting customers—especially with security-related issues—and improving the company’s support systems and security integrations. Outside of work, she enjoys watching TV series and playing tennis.",
+      "photoUrl": "https://macsysadmin.se/speakers/files/image-2531.png"
+    },
+    {
+      "speaker": "greg-neagle",
+      "role": "Staff Systems Engineer - Walt Disney Animation Studios",
+      "bio": "Greg has been deploying and managing macOS machines for over two decades at Walt Disney Animation Studios, a studio with a long history of family entertainment reaching back to \"Snow White and the Seven Dwarfs\" and forward to our latest film, “Hexed\".\n\nTo make his job easier, Greg has written many macOS management and deployment tools. Some have been released as open source by Disney Animation. Among those are Munki, a software deployment system, and Reposado, a platform-agnostic replacement for Apple's Software Update service. He is also a maintainer of the popular AutoPkg tool. Greg has presented on various aspects of macOS management at conferences in Europe and North America. He is very happy to return to Gothenburg for another exciting conference!",
+      "photoUrl": "https://macsysadmin.se/speakers/files/image-2175.png"
+    },
+    {
+      "speaker": "michael-thomson",
+      "role": "Systems Engineer - Jamf",
+      "bio": "Michael is a Systems Engineer at Jamf, based in Scotland. For the past four years he's supported sales opportunities and Jamf's partner network across the Middle East and Africa and Central Eastern Europe regions, helping organisations get the most out of Apple device management and security.\n\nThe week of MacSysAdmin will see Michael shift focus to the Nordic region, supporting Pontus Nord. Outside of work, he enjoys the traditional Scottish stereotypes of whisky, haggis, and golf, along with playing in a ceilidh band.",
+      "photoUrl": "https://macsysadmin.se/speakers/files/image-2552.png"
+    },
+    {
+      "speaker": "w-andrew-robinson",
+      "role": "Senior IT Support Manager - Krene K. K. / Omise",
+      "bio": "In the thirty-six years Andrew has been in Japan, he’s worked for large corporations, trading banks, academic organisations, non-profits, and startup ‘unicorns’ — always in multicultural and multilingual environments.\n\nAs an Apple and Google platforms specialist, and as Senior IT Support Manager for a fintech company in both Tokyo and Bangkok, he loves providing the tools people need to be their best at their job. He’s also a trained business coach and facilitator-trainer, specializing in both technology and cross-cultural business topics.\n\nAndrew’s been a MacSysAdmin attendee for years and is thrilled to be back presenting this year.",
+      "photoUrl": "https://macsysadmin.se/speakers/files/image-2416.png"
+    },
+    {
+      "speaker": "csaba-fitzl",
+      "role": "Principal macOS Security Researcher - Iru",
+      "bio": "Csaba is a Principal macOS Security Researcher working at Iru, focusing on vulnerability research and EDR detection development. He currently has over 100 CVEs issued by Apple for vulnerabilities ranging from simple info leaks to full macOS exploit chains bypassing all security controls.\n\nHe frequently presents his findings on conferences, like BlackHat, Objective By The Sea, POC, and many others. Csaba is also the co-author of the \"macOS Vulnerability Researcher\" training, which he teaches a couple of times a year.",
+      "photoUrl": "https://macsysadmin.se/speakers/files/image-2212.png"
+    },
+    {
+      "speaker": "patrick-wardle",
+      "role": "Founder - Objective-See Foundation",
+      "bio": "Patrick Wardle is the Cofounder of the Objective-See Foundation, the CEO/Cofounder of DoubleYou, and the author of The Art of Mac Malware book series. Having worked at NASA and the NSA, as well as presenting at countless security conferences, he is intimately familiar with aliens, spies, and talking nerdy.\n\nPassionate about macOS security, Patrick spends his days discovering Apple 0-days, studying macOS malware, and releasing free open-source security tools to protect Mac users.",
+      "photoUrl": "https://macsysadmin.se/speakers/files/image-2150.png"
+    },
+    {
+      "speaker": "bryce-carlson",
+      "role": "Senior Product Manager - Addigy",
+      "bio": "After Bryce's family owned iMac G4 in 2002 changed the course of his life to focus on Apple Device Management he then worked for US K-12 and Higher Education organizations on macOS and iOS deployments, and evolved that into directly working in the MDM vendor sector. First, at Jamf in 2016 till 2021, and now Addigy since 2022.\n\nBryce started with Workgroup Manager and Mac OS X Server 10.4 back in the day and is now working on implementing and Declarative Device Management at a Device Management Vendor, and is excited about the possibilities for Apple Device Management going forward.",
+      "photoUrl": "https://macsysadmin.se/speakers/files/image-2331.png"
+    },
+    {
+      "speaker": "tim-standing",
+      "role": "let self = Programmer(company: nil, position: nil)",
+      "bio": "Tim standing has been writing software and drivers for macOS for many decades. After 25 years of working on SoftRAID for Mac, and 10 years with Other World Computing, he is starting work on a new product which will ship early in 2026.\n\nWhen he’s not writing code, or helping others write code, he is perfecting sourdough pizzas or figuring out how many truffles can be made from a 5 kg bar of Belgian chocolate.",
+      "photoUrl": "https://macsysadmin.se/speakers/files/image-2145.png"
+    },
+    {
+      "speaker": "joel-rennich",
+      "role": "Head of Device Identity - Jumpcloud",
+      "bio": "Joel Rennich is the Head of Device Identity at JumpCloud residing in the greater Minneapolis, MN area. He focuses primarily on the intersection of identity, users and the devices that they use. While Joel has spent most of his professional career focused on Apple products, at JumpCloud he leads a team focused on bolding going where no devs have gone before across all platforms. Prior to JumpCloud Joel was a director at Jamf helping to make Jamf Connect and other authentication products.\n\nIn 2018 Jamf acquired Joel's startup, Orchard & Grove, which is where Joel developed the widely-used open source software NoMAD. Installed on over one million Macs across the globe, NoMAD allows macOS users to get all the benefits of Active Directory without having to be bound to them. Joel also developed other open source software at Orchard & Grove such as DEPNotify and NoMAD Login.\n\nOver the years Joel has been a frequent speaker at a number of conferences including WWDC, MacSysAdmin, MacADUK, Penn State MacAdmins Conference, Objective by the Sea, FIDO Authenticate and others in addition to user groups everywhere.\n\nJoel spent over a decade working at Apple in Enterprise Sales and started the website afp548.com which was the mainstay of Apple system administrator education during the early years of macOS X.\n\nJoel is a classically trained journalist and plied his trade as a paparazzi chasing Monica Lewinsky before rising to become the Director of Photography for United Press International in Washington DC. If you're lucky he'll even tell you some of his Monica stories, as the stories are better than the photos…",
+      "photoUrl": "https://macsysadmin.se/speakers/files/image-2217.png"
+    }
+  ],
+  "talks": [
+    {
+      "slug": "agentic-ai-in-the-enterprise-unlocking-productivity-without-losing-control",
+      "title": "Agentic AI in the Enterprise: Unlocking Productivity Without Losing Control",
+      "speakers": [
+        "troy-lynch"
+      ]
+    },
+    {
+      "slug": "anatomy-of-4-things-i-made",
+      "title": "Anatomy Of 4 Things I Made",
+      "speakers": [
+        "brock-walters"
+      ]
+    },
+    {
+      "slug": "apple-says-jump-you-ask-who-s-landing",
+      "title": "Apple Says Jump, You Ask “Who’s Landing?”",
+      "speakers": [
+        "catherine-davis"
+      ]
+    },
+    {
+      "slug": "control",
+      "title": "Control",
+      "speakers": [
+        "w-andrew-robinson"
+      ]
+    },
+    {
+      "slug": "cultivating-your-ecosystem-with-apple",
+      "title": "Cultivating Your Ecosystem with Apple",
+      "speakers": [
+        "grace-goodrich"
+      ]
+    },
+    {
+      "slug": "dr-strangeprofile-or-how-i-learned-to-stop-worrying-and-love-the-legacy-profile",
+      "title": "Dr. Strangeprofile or: How I Learned to Stop Worrying and Love the Legacy Profile and Declarative",
+      "speakers": [
+        "bryce-carlson"
+      ]
+    },
+    {
+      "slug": "from-dhaka-to-gothenburg",
+      "title": "From Dhaka to Gothenburg",
+      "speakers": [
+        "ulrik-aabye-hansen"
+      ]
+    },
+    {
+      "slug": "from-zero-touch-to-zero-trust",
+      "title": "From Zero-Touch to Zero-Trust",
+      "speakers": [
+        "marc-nahum"
+      ]
+    },
+    {
+      "slug": "have-you-tried-installing-the-beta",
+      "title": "Have You Tried Installing the Beta?",
+      "speakers": [
+        "michael-thomson"
+      ]
+    },
+    {
+      "slug": "infrastructure-as-claude",
+      "title": "Infrastructure as Claude",
+      "speakers": [
+        "david-starr"
+      ]
+    },
+    {
+      "slug": "is-there-anybody-out-there",
+      "title": "Is there anybody out there?",
+      "speakers": [
+        "kenneth-villadsen"
+      ]
+    },
+    {
+      "slug": "macos-mounting-madness",
+      "title": "macOS Mounting Madness",
+      "speakers": [
+        "csaba-fitzl"
+      ]
+    },
+    {
+      "slug": "macos-red-teaming-in-2026",
+      "title": "macOS Red Teaming in 2026",
+      "speakers": [
+        "wojciech-regula"
+      ]
+    },
+    {
+      "slug": "moneyball-it",
+      "title": "Moneyball IT",
+      "speakers": [
+        "weldon-dodd"
+      ]
+    },
+    {
+      "slug": "munki-and-the-machine-code-assist-s-impact-on-open-source",
+      "title": "Munki and the Machine: Code Assist's Impact on Open Source",
+      "speakers": [
+        "greg-neagle"
+      ]
+    },
+    {
+      "slug": "orchestrate-your-deployment",
+      "title": "Orchestrate Your Deployment",
+      "speakers": [
+        "armin-briegel"
+      ]
+    },
+    {
+      "slug": "packaging-parte-tres",
+      "title": "Packaging Parte Tres",
+      "speakers": [
+        "duncan-mccracken"
+      ]
+    },
+    {
+      "slug": "practical-ransomware-detection-on-macos",
+      "title": "Practical Ransomware Detection on macOS",
+      "speakers": [
+        "patrick-wardle"
+      ]
+    },
+    {
+      "slug": "privacy-consent-mdm-ddm-what-s-new-in-27",
+      "title": "Privacy, Consent, MDM, DDM: What’s New in 27",
+      "speakers": [
+        "arek-dreyer"
+      ]
+    },
+    {
+      "slug": "problem-solving-in-a-declarative-world",
+      "title": "Problem Solving in a Declarative World",
+      "speakers": [
+        "jason-dettbarn"
+      ]
+    },
+    {
+      "slug": "psso-all-grown-up",
+      "title": "PSSO - All Grown Up!",
+      "speakers": [
+        "joel-rennich"
+      ]
+    },
+    {
+      "slug": "unix-pipes",
+      "title": "Unix Pipes",
+      "speakers": [
+        "maggie-zirnhelt"
+      ]
+    },
+    {
+      "slug": "why-did-my-development-project-crash-and-burn",
+      "title": "Why did my development project crash and burn?",
+      "speakers": [
+        "tim-standing"
+      ]
+    },
+    {
+      "slug": "you-re-not-home-alone-apple-platform-zero-trust",
+      "title": "You're Not Home Alone: Apple Platform Zero Trust",
+      "speakers": [
+        "ulrik-aabye-hansen"
+      ]
+    }
+  ]
+}

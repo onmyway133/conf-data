@@ -1,0 +1,16 @@
+{
+  "name": "ODSC West 2021",
+  "year": 2021,
+  "url": "https://odsc.com/california",
+  "startDate": "2021-11-16",
+  "endDate": "2021-11-18",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/ODSC",
+  "source": "confs.tech"
+}

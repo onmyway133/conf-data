@@ -1,0 +1,16 @@
+{
+  "name": "Bogotá Design Festival 2019",
+  "year": 2019,
+  "url": "https://www.bogotadesignfestival.co",
+  "startDate": "2019-03-05",
+  "endDate": "2019-03-09",
+  "city": "Bogotá",
+  "country": "CO",
+  "lat": 4.60971,
+  "lng": -74.08175,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/BogDesignFest",
+  "source": "confs.tech"
+}

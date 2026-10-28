@@ -1,0 +1,16 @@
+{
+  "name": "Global Software Architecture Summit 2019",
+  "year": 2019,
+  "url": "https://gsas.io",
+  "startDate": "2019-10-10",
+  "endDate": "2019-10-10",
+  "city": "Barcelona",
+  "country": "ES",
+  "lat": 41.38879,
+  "lng": 2.15899,
+  "topics": [
+    "Java"
+  ],
+  "twitter": "https://x.com/gsas_io",
+  "source": "confs.tech"
+}

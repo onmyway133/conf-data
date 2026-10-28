@@ -1,0 +1,14 @@
+{
+  "name": "Evcon 2020",
+  "year": 2020,
+  "url": "http://www.evcon.io",
+  "startDate": "2020-10-21",
+  "endDate": "2020-10-23",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [],
+  "twitter": "https://x.com/evcon20",
+  "source": "confs.tech"
+}

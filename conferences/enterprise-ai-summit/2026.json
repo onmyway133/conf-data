@@ -1,0 +1,15 @@
+{
+  "name": "Enterprise AI Summit 2026",
+  "year": 2026,
+  "url": "https://events.itrevolution.com/2026-charlotte/",
+  "startDate": "2026-10-07",
+  "endDate": "2026-10-08",
+  "city": "Charlotte, NC",
+  "country": "US",
+  "lat": 35.22709,
+  "lng": -80.84313,
+  "topics": [
+    "Data/AI"
+  ],
+  "source": "confs.tech"
+}

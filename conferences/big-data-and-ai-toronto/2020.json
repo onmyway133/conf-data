@@ -1,0 +1,16 @@
+{
+  "name": "Big Data and AI Toronto 2020",
+  "year": 2020,
+  "url": "https://www.bigdata-toronto.com/2020",
+  "startDate": "2020-09-29",
+  "endDate": "2020-09-30",
+  "city": "Toronto",
+  "country": "CA",
+  "lat": 43.70643,
+  "lng": -79.39864,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/bigdataaito",
+  "source": "confs.tech"
+}

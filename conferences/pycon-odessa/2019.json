@@ -1,0 +1,16 @@
+{
+  "name": "PyCon Odessa 2019",
+  "year": 2019,
+  "url": "https://pyconodessa.com",
+  "startDate": "2019-03-16",
+  "endDate": "2019-03-16",
+  "city": "Odessa",
+  "country": "UA",
+  "lat": 46.48572,
+  "lng": 30.74383,
+  "topics": [
+    "Python"
+  ],
+  "twitter": "https://x.com/pyconodessa",
+  "source": "confs.tech"
+}

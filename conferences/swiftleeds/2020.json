@@ -1,0 +1,16 @@
+{
+  "name": "SwiftLeeds 2020",
+  "year": 2020,
+  "url": "https://www.swiftleeds.co.uk",
+  "startDate": "2020-10-08",
+  "endDate": "2020-10-08",
+  "city": "Leeds",
+  "country": "GB",
+  "lat": 53.79648,
+  "lng": -1.54785,
+  "topics": [
+    "iOS"
+  ],
+  "twitter": "https://x.com/swift_leeds",
+  "source": "confs.tech"
+}

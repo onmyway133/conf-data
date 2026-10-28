@@ -1,0 +1,21 @@
+{
+  "name": "Open Community Experience 2024",
+  "year": 2024,
+  "url": "https://www.ocxconf.org",
+  "startDate": "2024-10-22",
+  "endDate": "2024-10-24",
+  "city": "Mainz",
+  "country": "DE",
+  "lat": 49.98185,
+  "lng": 8.28008,
+  "topics": [
+    "Open Source"
+  ],
+  "cfp": {
+    "url": "https://www.ocxconf.org/event/778b82cc-6834-48a4-a58e-f883c5a7b8c9/websitePage:77320887-9b93-4211-8865-637a602eb991",
+    "deadline": "2024-06-10",
+    "open": false
+  },
+  "twitter": "https://x.com/ocxconference",
+  "source": "confs.tech"
+}

@@ -1,0 +1,20 @@
+{
+  "name": ".NET DeveloperDays 2020",
+  "year": 2020,
+  "url": "https://net.developerdays.pl",
+  "startDate": "2020-10-20",
+  "endDate": "2020-10-21",
+  "city": "Warsaw",
+  "country": "PL",
+  "lat": 52.22977,
+  "lng": 21.01178,
+  "topics": [
+    ".NET"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/net-developerdays-2020",
+    "open": false
+  },
+  "twitter": "https://x.com/DeveloperDaysPL",
+  "source": "confs.tech"
+}

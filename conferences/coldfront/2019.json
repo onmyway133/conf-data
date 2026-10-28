@@ -1,0 +1,16 @@
+{
+  "name": "ColdFront 2019",
+  "year": 2019,
+  "url": "https://2019.coldfront.co",
+  "startDate": "2019-11-26",
+  "endDate": "2019-11-28",
+  "city": "Copenhagen",
+  "country": "DK",
+  "lat": 55.67594,
+  "lng": 12.56553,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/coldfrontconf",
+  "source": "confs.tech"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "AFUP Day Paris 2026",
+  "year": 2026,
+  "url": "https://event.afup.org/afup-day-2026/afup-day-2026-paris",
+  "startDate": "2026-05-22",
+  "endDate": "2026-05-22",
+  "city": "Paris",
+  "country": "FR",
+  "lat": 48.85341,
+  "lng": 2.3488,
+  "topics": [
+    "PHP"
+  ],
+  "bluesky": "https://bsky.app/profile/afup.org",
+  "mastodon": "https://mastodon.online/@afup",
+  "source": "confs.tech"
+}

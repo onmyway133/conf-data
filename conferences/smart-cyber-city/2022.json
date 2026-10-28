@@ -1,0 +1,15 @@
+{
+  "name": "Smart Cyber City 2022",
+  "year": 2022,
+  "url": "https://smart-cyber.city",
+  "startDate": "2022-06-20",
+  "endDate": "2022-06-20",
+  "city": "Helsingborg",
+  "country": "SE",
+  "lat": 56.04673,
+  "lng": 12.69437,
+  "topics": [
+    "Security"
+  ],
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "dsgnday 2020",
+  "year": 2020,
+  "url": "https://dsgnday.nl",
+  "startDate": "2020-06-11",
+  "endDate": "2020-06-11",
+  "city": "Amsterdam",
+  "country": "NL",
+  "lat": 52.37403,
+  "lng": 4.88969,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/dsgndayconf",
+  "source": "confs.tech"
+}

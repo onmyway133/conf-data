@@ -1,0 +1,16 @@
+{
+  "name": "CityJS New Delhi 2024",
+  "year": 2024,
+  "url": "https://india.cityjsconf.org",
+  "startDate": "2024-11-16",
+  "endDate": "2024-11-17",
+  "city": "Delhi",
+  "country": "IN",
+  "lat": 28.65195,
+  "lng": 77.23149,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/cityjsconf",
+  "source": "confs.tech"
+}

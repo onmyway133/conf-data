@@ -1,0 +1,16 @@
+{
+  "name": "Xconf Sydney 2019",
+  "year": 2019,
+  "url": "https://www.thoughtworks.com/xconf-au-2019",
+  "startDate": "2019-07-23",
+  "endDate": "2019-07-23",
+  "city": "Sydney",
+  "country": "AU",
+  "lat": -33.86785,
+  "lng": 151.20732,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/thoughtworks",
+  "source": "confs.tech"
+}

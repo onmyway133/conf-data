@@ -1,0 +1,18 @@
+{
+  "name": "Visual Studio Live 2025",
+  "year": 2025,
+  "url": "https://vslive.com/events/san-diego-2025/home.aspx",
+  "startDate": "2025-09-08",
+  "endDate": "2025-09-12",
+  "city": "San Diego, CA",
+  "country": "US",
+  "lat": 32.71571,
+  "lng": -117.16472,
+  "topics": [
+    "DevOps",
+    ".NET",
+    "Python"
+  ],
+  "twitter": "https://x.com/vslive",
+  "source": "confs.tech"
+}

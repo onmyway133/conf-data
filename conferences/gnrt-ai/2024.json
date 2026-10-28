@@ -1,0 +1,15 @@
+{
+  "name": "GNRT.AI 2024",
+  "year": 2024,
+  "url": "https://gnrt.ai",
+  "startDate": "2024-10-28",
+  "endDate": "2024-10-30",
+  "city": "Arlington, VA",
+  "country": "US",
+  "lat": 32.73569,
+  "lng": -97.10807,
+  "topics": [
+    "Data/AI"
+  ],
+  "source": "confs.tech"
+}

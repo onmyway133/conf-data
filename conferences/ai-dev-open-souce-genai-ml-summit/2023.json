@@ -1,0 +1,21 @@
+{
+  "name": "AI.dev: Open Souce GenAI & ML Summit 2023",
+  "year": 2023,
+  "url": "https://events.linuxfoundation.org/ai-dev-north-america",
+  "startDate": "2023-12-12",
+  "endDate": "2023-12-13",
+  "city": "San Jose, CA",
+  "country": "US",
+  "lat": 37.33939,
+  "lng": -121.89496,
+  "topics": [
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://events.linuxfoundation.org/ai-dev-north-america/program/cfp",
+    "deadline": "2023-10-23",
+    "open": false
+  },
+  "twitter": "https://x.com/LinuxFoundation",
+  "source": "confs.tech"
+}

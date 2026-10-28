@@ -1,0 +1,20 @@
+{
+  "name": "CppConf Japan 2025",
+  "year": 2025,
+  "url": "https://www.cppconf.com/conf",
+  "startDate": "2025-04-25",
+  "endDate": "2025-04-26",
+  "city": "Tokyo",
+  "country": "JP",
+  "lat": 35.6895,
+  "lng": 139.69171,
+  "topics": [
+    "C++"
+  ],
+  "cfp": {
+    "url": "https://www.cppconf.com/conf/submit-talk",
+    "deadline": "2025-03-15",
+    "open": false
+  },
+  "source": "confs.tech"
+}

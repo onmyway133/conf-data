@@ -1,0 +1,16 @@
+{
+  "name": "UA Mobile 2017",
+  "year": 2017,
+  "url": "http://www.uamobile.org/",
+  "startDate": "2017-11-25",
+  "endDate": "2017-11-25",
+  "city": "Kyiv",
+  "country": "UA",
+  "lat": 50.45466,
+  "lng": 30.5238,
+  "topics": [
+    "iOS",
+    "Mobile"
+  ],
+  "source": "cocoaconferences"
+}

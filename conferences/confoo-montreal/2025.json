@@ -1,0 +1,20 @@
+{
+  "name": "ConFoo Montreal 2025",
+  "year": 2025,
+  "url": "https://confoo.ca",
+  "startDate": "2025-02-26",
+  "endDate": "2025-02-27",
+  "city": "Montreal",
+  "country": "CA",
+  "lat": 45.50884,
+  "lng": -73.58781,
+  "topics": [],
+  "cfp": {
+    "url": "https://confoo.ca/en/2025/call-for-papers",
+    "deadline": "2024-09-22",
+    "open": false
+  },
+  "twitter": "https://x.com/confooca",
+  "mastodon": "https://techhub.social/@confooca",
+  "source": "confs.tech"
+}

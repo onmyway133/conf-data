@@ -1,0 +1,16 @@
+{
+  "name": "Ember{{Fest}} 2019",
+  "year": 2019,
+  "url": "http://emberfest.eu",
+  "startDate": "2019-10-17",
+  "endDate": "2019-10-18",
+  "city": "Copenhagen",
+  "country": "DK",
+  "lat": 55.67594,
+  "lng": 12.56553,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/emberfest",
+  "source": "confs.tech"
+}

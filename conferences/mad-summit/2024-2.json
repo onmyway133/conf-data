@@ -1,0 +1,17 @@
+{
+  "name": "MAD Summit 2024",
+  "year": 2024,
+  "url": "https://mad-summit.de/berlin",
+  "startDate": "2024-11-25",
+  "endDate": "2024-11-27",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "APIs",
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/mad_summit",
+  "source": "confs.tech"
+}

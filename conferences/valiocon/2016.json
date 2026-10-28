@@ -1,0 +1,16 @@
+{
+  "name": "ValioCon 2016",
+  "year": 2016,
+  "url": "http://valiocon.com/",
+  "startDate": "2016-05-19",
+  "endDate": "2016-05-22",
+  "city": "San Diego",
+  "country": "US",
+  "lat": 32.71571,
+  "lng": -117.16472,
+  "topics": [
+    "iOS",
+    "Mobile"
+  ],
+  "source": "cocoaconferences"
+}

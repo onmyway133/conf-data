@@ -1,0 +1,17 @@
+{
+  "name": "ÜberConf 2019",
+  "year": 2019,
+  "url": "https://uberconf.com/conference/denver/2019/07/home",
+  "startDate": "2019-07-16",
+  "endDate": "2019-07-19",
+  "city": "Denver, CO",
+  "country": "US",
+  "lat": 39.73915,
+  "lng": -104.9847,
+  "topics": [],
+  "cfp": {
+    "url": "https://uberconf.com/home/speaker_request",
+    "open": false
+  },
+  "source": "confs.tech"
+}

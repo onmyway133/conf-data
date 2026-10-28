@@ -1,0 +1,22 @@
+{
+  "name": "RuhrSec 2025",
+  "year": 2025,
+  "url": "https://www.ruhrsec.de/2025",
+  "startDate": "2025-02-20",
+  "endDate": "2025-02-21",
+  "city": "Bochum",
+  "country": "DE",
+  "lat": 51.48165,
+  "lng": 7.21648,
+  "topics": [
+    "Networking",
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://www.ruhrsec.de/2025/cfp.html",
+    "deadline": "2024-11-10",
+    "open": false
+  },
+  "twitter": "https://x.com/ruhrsec",
+  "source": "confs.tech"
+}

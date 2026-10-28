@@ -1,0 +1,16 @@
+{
+  "name": "Devopsdays Indianapolis 2023",
+  "year": 2023,
+  "url": "https://devopsdays.org/events/2023-indianapolis/welcome",
+  "startDate": "2023-10-05",
+  "endDate": "2023-10-06",
+  "city": "Indianapolis, IN",
+  "country": "US",
+  "lat": 39.76838,
+  "lng": -86.15804,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devopsdaysindy",
+  "source": "confs.tech"
+}

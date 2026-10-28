@@ -1,0 +1,16 @@
+{
+  "name": "IIW Internet Identity Workshop 2025",
+  "year": 2025,
+  "url": "https://internetidentityworkshop.com",
+  "startDate": "2025-04-08",
+  "endDate": "2025-04-10",
+  "city": "Mountain View, CA",
+  "country": "US",
+  "lat": 37.38605,
+  "lng": -122.08385,
+  "topics": [
+    "Identity"
+  ],
+  "twitter": "https://x.com/idworkshop",
+  "source": "confs.tech"
+}

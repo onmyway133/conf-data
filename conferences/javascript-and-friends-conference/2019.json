@@ -1,0 +1,21 @@
+{
+  "name": "JavaScript and Friends Conference 2019",
+  "year": 2019,
+  "url": "https://www.javascriptandfriends.com",
+  "startDate": "2019-08-02",
+  "endDate": "2019-08-02",
+  "city": "Columbus, OH",
+  "country": "US",
+  "lat": 39.96118,
+  "lng": -82.99879,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/javascript-and-friends-conference",
+    "deadline": "2019-04-11",
+    "open": false
+  },
+  "twitter": "https://x.com/JSFriendsConf",
+  "source": "confs.tech"
+}

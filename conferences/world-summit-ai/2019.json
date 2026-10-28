@@ -1,0 +1,16 @@
+{
+  "name": "World Summit Ai 2019",
+  "year": 2019,
+  "url": "https://worldsummit.ai",
+  "startDate": "2019-10-09",
+  "endDate": "2019-10-09",
+  "city": "Zaandam",
+  "country": "NL",
+  "lat": 52.43854,
+  "lng": 4.82643,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/WorldSummitAI",
+  "source": "confs.tech"
+}

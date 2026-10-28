@@ -1,0 +1,16 @@
+{
+  "name": "Webinale 2019",
+  "year": 2019,
+  "url": "https://webinale.de/en",
+  "startDate": "2019-06-03",
+  "endDate": "2019-06-07",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/webinale",
+  "source": "confs.tech"
+}

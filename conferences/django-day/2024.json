@@ -1,0 +1,17 @@
+{
+  "name": "Django Day 2024",
+  "year": 2024,
+  "url": "https://2024.djangoday.dk",
+  "startDate": "2024-10-04",
+  "endDate": "2024-10-04",
+  "city": "Copenhagen",
+  "country": "DK",
+  "lat": 55.67594,
+  "lng": 12.56553,
+  "topics": [
+    "Python"
+  ],
+  "twitter": "https://x.com/djangodenmark",
+  "mastodon": "https://fosstodon.org/@djangodenmark",
+  "source": "confs.tech"
+}

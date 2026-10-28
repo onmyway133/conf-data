@@ -1,0 +1,16 @@
+{
+  "name": "GopherCon 2019",
+  "year": 2019,
+  "url": "http://2019.gopherconbr.org",
+  "startDate": "2019-09-27",
+  "endDate": "2019-09-28",
+  "city": "Florianópolis",
+  "country": "BR",
+  "lat": -27.59667,
+  "lng": -48.54917,
+  "topics": [
+    "Go"
+  ],
+  "twitter": "https://x.com/gopherconbrasil",
+  "source": "confs.tech"
+}

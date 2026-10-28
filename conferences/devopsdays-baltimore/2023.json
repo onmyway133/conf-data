@@ -1,0 +1,16 @@
+{
+  "name": "Devopsdays Baltimore 2023",
+  "year": 2023,
+  "url": "https://devopsdays.org/events/2023-baltimore",
+  "startDate": "2023-05-23",
+  "endDate": "2023-05-24",
+  "city": "Baltimore, MD",
+  "country": "US",
+  "lat": 39.29038,
+  "lng": -76.61219,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/DevOpsDaysBmore",
+  "source": "confs.tech"
+}

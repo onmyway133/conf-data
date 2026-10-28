@@ -1,0 +1,16 @@
+{
+  "name": "QA or the Highway 2022",
+  "year": 2022,
+  "url": "https://www.qaorthehighway.com",
+  "startDate": "2022-02-22",
+  "endDate": "2022-02-22",
+  "city": "Columbus, OH",
+  "country": "US",
+  "lat": 39.96118,
+  "lng": -82.99879,
+  "topics": [
+    "Testing"
+  ],
+  "twitter": "https://x.com/QAortheHighway",
+  "source": "confs.tech"
+}

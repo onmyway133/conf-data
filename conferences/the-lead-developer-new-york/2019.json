@@ -1,0 +1,19 @@
+{
+  "name": "The Lead Developer New York 2019",
+  "year": 2019,
+  "url": "https://newyork2019.theleaddeveloper.com",
+  "startDate": "2019-04-30",
+  "endDate": "2019-04-30",
+  "city": "New York, NY",
+  "country": "US",
+  "lat": 40.71427,
+  "lng": -74.00597,
+  "topics": [],
+  "cfp": {
+    "url": "https://newyork2019.theleaddeveloper.com/cfp",
+    "deadline": "2018-11-05",
+    "open": false
+  },
+  "twitter": "https://x.com/theleaddev",
+  "source": "confs.tech"
+}

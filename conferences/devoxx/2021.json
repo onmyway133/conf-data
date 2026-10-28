@@ -1,0 +1,14 @@
+{
+  "name": "Devoxx 2021",
+  "year": 2021,
+  "url": "https://www.devoxx.fr",
+  "startDate": "2021-09-29",
+  "endDate": "2021-10-01",
+  "city": "Paris",
+  "country": "FR",
+  "lat": 48.85341,
+  "lng": 2.3488,
+  "topics": [],
+  "twitter": "https://x.com/DevoxxFR",
+  "source": "confs.tech"
+}

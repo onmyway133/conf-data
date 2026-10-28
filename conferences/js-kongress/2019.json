@@ -1,0 +1,21 @@
+{
+  "name": "JS Kongress 2019",
+  "year": 2019,
+  "url": "https://js-kongress.com",
+  "startDate": "2019-03-11",
+  "endDate": "2019-03-12",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://medium.com/@jskongress/we-want-you-for-the-r-evolution-of-architectures-b7a7d40cddd5",
+    "deadline": "2018-10-14",
+    "open": false
+  },
+  "twitter": "https://x.com/JSKongress",
+  "source": "confs.tech"
+}

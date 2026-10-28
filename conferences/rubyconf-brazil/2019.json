@@ -1,0 +1,16 @@
+{
+  "name": "RubyConf Brazil 2019",
+  "year": 2019,
+  "url": "http://rubyconf.com.br",
+  "startDate": "2019-11-28",
+  "endDate": "2019-11-29",
+  "city": "São Paulo",
+  "country": "BR",
+  "lat": -23.5475,
+  "lng": -46.63611,
+  "topics": [
+    "Ruby"
+  ],
+  "twitter": "https://x.com/rubyconfbr",
+  "source": "confs.tech"
+}

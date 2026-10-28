@@ -1,0 +1,16 @@
+{
+  "name": "Data Saturday 2020",
+  "year": 2020,
+  "url": "https://datasaturday.nl",
+  "startDate": "2020-10-10",
+  "endDate": "2020-10-10",
+  "city": "Ede",
+  "country": "NL",
+  "lat": 52.03333,
+  "lng": 5.65833,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/datasaturdaynl",
+  "source": "confs.tech"
+}

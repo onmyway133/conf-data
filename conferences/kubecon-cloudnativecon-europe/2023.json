@@ -1,0 +1,20 @@
+{
+  "name": "KubeCon + CloudNativeCon Europe 2023",
+  "year": 2023,
+  "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe",
+  "startDate": "2023-04-17",
+  "endDate": "2023-04-21",
+  "city": "Amsterdam",
+  "country": "NL",
+  "lat": 52.37403,
+  "lng": 4.88969,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/cfp",
+    "deadline": "2022-11-18",
+    "open": false
+  },
+  "source": "confs.tech"
+}

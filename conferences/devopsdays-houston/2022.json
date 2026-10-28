@@ -1,0 +1,16 @@
+{
+  "name": "DevopsDays Houston 2022",
+  "year": 2022,
+  "url": "https://devopsdays.org/events/2022-houston/welcome",
+  "startDate": "2022-10-04",
+  "endDate": "2022-10-05",
+  "city": "Houston, TX",
+  "country": "US",
+  "lat": 29.76328,
+  "lng": -95.36327,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/DevOpsDaysHTown",
+  "source": "confs.tech"
+}

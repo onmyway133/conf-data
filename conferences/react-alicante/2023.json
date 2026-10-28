@@ -1,0 +1,23 @@
+{
+  "name": "React Alicante 2023",
+  "year": 2023,
+  "url": "https://reactalicante.es",
+  "startDate": "2023-09-28",
+  "endDate": "2023-09-30",
+  "city": "Alicante",
+  "country": "ES",
+  "lat": 38.34517,
+  "lng": -0.48149,
+  "topics": [
+    "GraphQL",
+    "JavaScript",
+    "TypeScript"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSfvebbV1xEHBHLY2b1Ks21aj1q5mx-TWc_I7a2plPbjoI_-AQ/viewform",
+    "deadline": "2023-04-01",
+    "open": false
+  },
+  "twitter": "https://x.com/ReactAlicante",
+  "source": "confs.tech"
+}

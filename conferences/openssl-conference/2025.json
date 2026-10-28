@@ -1,0 +1,22 @@
+{
+  "name": "OpenSSL Conference 2025",
+  "year": 2025,
+  "url": "https://openssl-conference.org",
+  "startDate": "2025-10-07",
+  "endDate": "2025-10-09",
+  "city": "Prague",
+  "country": "CZ",
+  "lat": 50.08804,
+  "lng": 14.42076,
+  "topics": [
+    "Open Source",
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://cfp.openssl-conference.org/openssl-conference-2025/submit/vNSffS/info",
+    "deadline": "2025-06-22",
+    "open": false
+  },
+  "twitter": "https://x.com/openssl_",
+  "source": "confs.tech"
+}

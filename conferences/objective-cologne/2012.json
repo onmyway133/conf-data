@@ -1,0 +1,15 @@
+{
+  "name": "Objective-Cologne 2012",
+  "year": 2012,
+  "url": "http://lanyrd.com/2012/objcgn/",
+  "startDate": "2012-09-11",
+  "endDate": "2012-09-12",
+  "city": "Cologne",
+  "country": "DE",
+  "lat": 50.93333,
+  "lng": 6.95,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "CocoaConf DC 2016",
+  "year": 2016,
+  "url": "http://cocoaconf.com/dc-2016/home",
+  "startDate": "2016-09-09",
+  "endDate": "2016-09-10",
+  "city": "Herndon",
+  "country": "US",
+  "lat": 38.96955,
+  "lng": -77.3861,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences"
+}

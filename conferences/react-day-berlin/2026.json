@@ -1,0 +1,21 @@
+{
+  "name": "React Day Berlin 2026",
+  "year": 2026,
+  "url": "https://reactday.berlin",
+  "startDate": "2026-12-04",
+  "endDate": "2026-12-07",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://gitnation.com/events/react-day-berlin-2026/cfp",
+    "deadline": "2026-08-12",
+    "open": true
+  },
+  "twitter": "https://x.com/reactdayberlin",
+  "source": "confs.tech"
+}

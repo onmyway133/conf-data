@@ -1,0 +1,23 @@
+{
+  "name": "VIC AI Boom 2026",
+  "year": 2026,
+  "url": "https://vicaiboom.com",
+  "startDate": "2026-11-13",
+  "endDate": "2026-11-13",
+  "city": "Melbourne",
+  "country": "AU",
+  "lat": -37.814,
+  "lng": 144.96332,
+  "topics": [
+    "Data/AI",
+    "Python",
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://forms.gle/gRGNcMAqbwxPaYpC6",
+    "deadline": "2026-10-16",
+    "open": true
+  },
+  "twitter": "https://x.com/vicaiboom",
+  "source": "confs.tech"
+}

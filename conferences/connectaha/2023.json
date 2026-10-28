@@ -1,0 +1,16 @@
+{
+  "name": "Connectaha 2023",
+  "year": 2023,
+  "url": "https://www.connectaha.com",
+  "startDate": "2023-04-24",
+  "endDate": "2023-04-24",
+  "city": "Omaha, NE",
+  "country": "US",
+  "lat": 41.25626,
+  "lng": -95.94043,
+  "topics": [
+    "Networking"
+  ],
+  "twitter": "https://x.com/connectaha",
+  "source": "confs.tech"
+}

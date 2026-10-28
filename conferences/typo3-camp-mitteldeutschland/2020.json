@@ -1,0 +1,16 @@
+{
+  "name": "TYPO3 Camp Mitteldeutschland 2020",
+  "year": 2020,
+  "url": "https://www.typo3camp-mitteldeutschland.de",
+  "startDate": "2020-01-16",
+  "endDate": "2020-01-18",
+  "city": "Dresden",
+  "country": "DE",
+  "lat": 51.05089,
+  "lng": 13.73832,
+  "topics": [
+    "PHP"
+  ],
+  "twitter": "https://x.com/T3Cmd",
+  "source": "confs.tech"
+}

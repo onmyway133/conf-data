@@ -1,0 +1,17 @@
+{
+  "name": "QCon London 2024",
+  "year": 2024,
+  "url": "https://qconlondon.com",
+  "startDate": "2024-04-08",
+  "endDate": "2024-04-10",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/qconlondon",
+  "mastodon": "https://techhub.social/@qcon",
+  "source": "confs.tech"
+}

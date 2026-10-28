@@ -1,0 +1,16 @@
+{
+  "name": "Outcome 2020",
+  "year": 2020,
+  "url": "http://www.outcomeconf.com",
+  "startDate": "2020-02-08",
+  "endDate": "2020-02-08",
+  "city": "Chandigarh",
+  "country": "IN",
+  "lat": 30.73629,
+  "lng": 76.7884,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/vingar",
+  "source": "confs.tech"
+}

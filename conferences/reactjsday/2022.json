@@ -1,0 +1,21 @@
+{
+  "name": "reactjsday 2022",
+  "year": 2022,
+  "url": "https://2022.reactjsday.it",
+  "startDate": "2022-10-21",
+  "endDate": "2022-10-21",
+  "city": "Verona",
+  "country": "IT",
+  "lat": 45.43854,
+  "lng": 10.9938,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://2022.reactjsday.it/welcome/cfp.html",
+    "deadline": "2022-07-24",
+    "open": false
+  },
+  "twitter": "https://x.com/reactjsday",
+  "source": "confs.tech"
+}

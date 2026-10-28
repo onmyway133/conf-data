@@ -1,0 +1,16 @@
+{
+  "name": "CONNECT.TECH 2019",
+  "year": 2019,
+  "url": "http://connect.tech",
+  "startDate": "2019-10-16",
+  "endDate": "2019-10-18",
+  "city": "Atlanta, GA",
+  "country": "US",
+  "lat": 33.749,
+  "lng": -84.38798,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/connect_js",
+  "source": "confs.tech"
+}

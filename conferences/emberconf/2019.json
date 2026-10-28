@@ -1,0 +1,16 @@
+{
+  "name": "EmberConf 2019",
+  "year": 2019,
+  "url": "http://emberconf.com",
+  "startDate": "2019-03-18",
+  "endDate": "2019-03-20",
+  "city": "Portland, OR",
+  "country": "US",
+  "lat": 45.52345,
+  "lng": -122.67621,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/EmberConf",
+  "source": "confs.tech"
+}

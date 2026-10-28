@@ -1,0 +1,20 @@
+{
+  "name": "Security BSides Cayman Islands 2024",
+  "year": 2024,
+  "url": "https://bsides.ky",
+  "startDate": "2024-10-29",
+  "endDate": "2024-10-31",
+  "city": "George Town",
+  "country": "KY",
+  "lat": 19.2866,
+  "lng": -81.37436,
+  "topics": [
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/security-bsides-cayman-islands-2024",
+    "deadline": "2024-05-30",
+    "open": false
+  },
+  "source": "confs.tech"
+}

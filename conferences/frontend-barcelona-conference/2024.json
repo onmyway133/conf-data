@@ -1,0 +1,23 @@
+{
+  "name": "Frontend Barcelona Conference 2024",
+  "year": 2024,
+  "url": "https://frontend.barcelona",
+  "startDate": "2024-12-03",
+  "endDate": "2024-12-04",
+  "city": "Barcelona",
+  "country": "ES",
+  "lat": 41.38879,
+  "lng": 2.15899,
+  "topics": [
+    "CSS",
+    "JavaScript",
+    "TypeScript"
+  ],
+  "cfp": {
+    "url": "https://frontend.barcelona/call-for-papers",
+    "deadline": "2024-09-30",
+    "open": false
+  },
+  "twitter": "https://x.com/frontendbcn",
+  "source": "confs.tech"
+}

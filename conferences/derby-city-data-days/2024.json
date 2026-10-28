@@ -1,0 +1,16 @@
+{
+  "name": "Derby City Data Days 2024",
+  "year": 2024,
+  "url": "https://www.meetup.com/louisville-data-technology-group/events/299453678",
+  "startDate": "2024-04-13",
+  "endDate": "2024-04-13",
+  "city": "Louisville, KY",
+  "country": "US",
+  "lat": 38.25424,
+  "lng": -85.75941,
+  "topics": [
+    "Data/AI",
+    "Networking"
+  ],
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "GraphQL Asia 2019",
+  "year": 2019,
+  "url": "https://www.graphql-asia.org",
+  "startDate": "2019-04-12",
+  "endDate": "2019-04-13",
+  "city": "Bangalore",
+  "country": "IN",
+  "lat": 12.97194,
+  "lng": 77.59369,
+  "topics": [
+    "GraphQL"
+  ],
+  "twitter": "https://x.com/graphqlasia",
+  "source": "confs.tech"
+}

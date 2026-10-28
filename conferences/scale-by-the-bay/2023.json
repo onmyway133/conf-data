@@ -1,0 +1,19 @@
+{
+  "name": "Scale By The Bay 2023",
+  "year": 2023,
+  "url": "https://www.scale.bythebay.io",
+  "startDate": "2023-11-13",
+  "endDate": "2023-11-15",
+  "city": "Oakland, CA",
+  "country": "US",
+  "lat": 37.80437,
+  "lng": -122.2708,
+  "topics": [],
+  "cfp": {
+    "url": "https://www.scale.bythebay.io/cfp",
+    "deadline": "2023-05-14",
+    "open": false
+  },
+  "twitter": "https://x.com/ScaleByTheBay",
+  "source": "confs.tech"
+}

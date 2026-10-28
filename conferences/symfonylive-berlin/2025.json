@@ -1,0 +1,21 @@
+{
+  "name": "SymfonyLive Berlin 2025",
+  "year": 2025,
+  "url": "https://live.symfony.com/2025-berlin",
+  "startDate": "2025-04-03",
+  "endDate": "2025-04-04",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "PHP"
+  ],
+  "cfp": {
+    "url": "https://live.symfony.com/2025-berlin/cfp",
+    "deadline": "2024-11-06",
+    "open": false
+  },
+  "twitter": "https://x.com/symfony_live",
+  "source": "confs.tech"
+}

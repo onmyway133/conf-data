@@ -1,0 +1,16 @@
+{
+  "name": "Das große Trainingsevent für Softwarearchitektur 2021",
+  "year": 2021,
+  "url": "https://software-architecture-summit.de/berlin",
+  "startDate": "2021-09-13",
+  "endDate": "2021-09-15",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/SoftwArchSummit",
+  "source": "confs.tech"
+}

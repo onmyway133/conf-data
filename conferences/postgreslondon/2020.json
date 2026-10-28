@@ -1,0 +1,16 @@
+{
+  "name": "PostgresLondon 2020",
+  "year": 2020,
+  "url": "https://postgreslondon.org",
+  "startDate": "2020-07-07",
+  "endDate": "2020-07-08",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/Postgres_London",
+  "source": "confs.tech"
+}

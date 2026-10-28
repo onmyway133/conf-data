@@ -1,0 +1,15 @@
+{
+  "name": "Cyber Security & Cloud Congress 2026",
+  "year": 2026,
+  "url": "https://www.cybersecuritycloudexpo.com/northamerica",
+  "startDate": "2026-05-18",
+  "endDate": "2026-05-19",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [
+    "DevOps"
+  ],
+  "source": "confs.tech"
+}

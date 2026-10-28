@@ -1,0 +1,21 @@
+{
+  "name": "Devopsdays Vitoria 2022",
+  "year": 2022,
+  "url": "https://devopsdays.org/events/2022-vitoria/welcome",
+  "startDate": "2022-02-11",
+  "endDate": "2022-02-12",
+  "city": "Vitoria",
+  "country": "BR",
+  "lat": -20.31944,
+  "lng": -40.33778,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://www.papercall.io/devopsdaysvitoria2022",
+    "deadline": "2021-10-27",
+    "open": false
+  },
+  "twitter": "https://x.com/Devopsdaysvix",
+  "source": "confs.tech"
+}

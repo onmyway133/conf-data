@@ -1,0 +1,16 @@
+{
+  "name": "Devopsdays Dallas 2022",
+  "year": 2022,
+  "url": "https://devopsdays.org/events/2022-dallas/welcome",
+  "startDate": "2022-08-24",
+  "endDate": "2022-08-25",
+  "city": "Dallas, TX",
+  "country": "US",
+  "lat": 32.78306,
+  "lng": -96.80667,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/DevOpsDaysDFW",
+  "source": "confs.tech"
+}

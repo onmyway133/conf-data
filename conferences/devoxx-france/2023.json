@@ -1,0 +1,19 @@
+{
+  "name": "Devoxx France 2023",
+  "year": 2023,
+  "url": "https://devoxx.fr",
+  "startDate": "2023-04-12",
+  "endDate": "2023-04-14",
+  "city": "Paris",
+  "country": "FR",
+  "lat": 48.85341,
+  "lng": 2.3488,
+  "topics": [],
+  "cfp": {
+    "url": "https://cfp.devoxx.fr",
+    "deadline": "2023-01-08",
+    "open": false
+  },
+  "twitter": "https://x.com/DevoxxFR",
+  "source": "confs.tech"
+}

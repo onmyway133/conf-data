@@ -1,0 +1,16 @@
+{
+  "name": "DevOps Barcelona 2025",
+  "year": 2025,
+  "url": "https://devops.barcelona",
+  "startDate": "2025-11-04",
+  "endDate": "2025-11-05",
+  "city": "Barcelona",
+  "country": "ES",
+  "lat": 41.38879,
+  "lng": 2.15899,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devopsbarcelona",
+  "source": "confs.tech"
+}

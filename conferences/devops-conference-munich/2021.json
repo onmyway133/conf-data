@@ -1,0 +1,16 @@
+{
+  "name": "DevOps Conference Munich 2021",
+  "year": 2021,
+  "url": "https://devopscon.io/munich",
+  "startDate": "2021-11-29",
+  "endDate": "2021-12-02",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devops_con",
+  "source": "confs.tech"
+}

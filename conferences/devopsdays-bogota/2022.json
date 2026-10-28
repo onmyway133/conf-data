@@ -1,0 +1,16 @@
+{
+  "name": "Devopsdays Bogotá 2022",
+  "year": 2022,
+  "url": "https://devopsdays.org/events/2022-bogota/welcome",
+  "startDate": "2022-11-25",
+  "endDate": "2022-11-25",
+  "city": "Bogotá",
+  "country": "CO",
+  "lat": 4.60971,
+  "lng": -74.08175,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/DevopsdaysB",
+  "source": "confs.tech"
+}

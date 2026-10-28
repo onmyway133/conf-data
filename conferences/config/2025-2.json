@@ -1,0 +1,16 @@
+{
+  "name": "Config 2025",
+  "year": 2025,
+  "url": "https://config.figma.com/london",
+  "startDate": "2025-05-14",
+  "endDate": "2025-05-14",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/figma",
+  "source": "confs.tech"
+}

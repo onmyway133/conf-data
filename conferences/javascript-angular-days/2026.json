@@ -1,0 +1,17 @@
+{
+  "name": "JavaScript & Angular Days 2026",
+  "year": 2026,
+  "url": "https://javascript-days.de/muenchen",
+  "startDate": "2026-03-16",
+  "endDate": "2026-03-20",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [
+    "JavaScript",
+    "TypeScript"
+  ],
+  "twitter": "https://x.com/JS_Days",
+  "source": "confs.tech"
+}

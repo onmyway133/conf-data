@@ -1,0 +1,16 @@
+{
+  "name": "ReactEurope 2019",
+  "year": 2019,
+  "url": "https://www.react-europe.org",
+  "startDate": "2019-05-23",
+  "endDate": "2019-05-24",
+  "city": "Paris",
+  "country": "FR",
+  "lat": 48.85341,
+  "lng": 2.3488,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/ReactEurope",
+  "source": "confs.tech"
+}

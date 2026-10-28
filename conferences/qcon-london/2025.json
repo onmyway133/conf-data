@@ -1,0 +1,16 @@
+{
+  "name": "QCon London 2025",
+  "year": 2025,
+  "url": "https://qconlondon.com/medialisting2025",
+  "startDate": "2025-04-07",
+  "endDate": "2025-04-09",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/qconlondon",
+  "source": "confs.tech"
+}

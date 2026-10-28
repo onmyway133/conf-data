@@ -1,0 +1,16 @@
+{
+  "name": "Vuejs Amsterdam 2025",
+  "year": 2025,
+  "url": "https://vuejs.amsterdam",
+  "startDate": "2025-03-12",
+  "endDate": "2025-03-13",
+  "city": "Amsterdam",
+  "country": "NL",
+  "lat": 52.37403,
+  "lng": 4.88969,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/vuejsamsterdam",
+  "source": "confs.tech"
+}

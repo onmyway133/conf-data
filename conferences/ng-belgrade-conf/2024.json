@@ -1,0 +1,21 @@
+{
+  "name": "NG Belgrade Conf 2024",
+  "year": 2024,
+  "url": "https://angularbelgrade.org",
+  "startDate": "2024-05-23",
+  "endDate": "2024-05-24",
+  "city": "Belgrade",
+  "country": "RS",
+  "lat": 44.80401,
+  "lng": 20.46513,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://forms.gle/CtiYUbP3JfjyTFzt8",
+    "deadline": "2024-03-01",
+    "open": false
+  },
+  "twitter": "https://x.com/AngularBelgrade",
+  "source": "confs.tech"
+}

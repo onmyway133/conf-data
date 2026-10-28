@@ -1,0 +1,21 @@
+{
+  "name": "BSides Edmonton 2024",
+  "year": 2024,
+  "url": "https://www.bsidesedmonton.ca",
+  "startDate": "2024-09-23",
+  "endDate": "2024-09-24",
+  "city": "Edmonton",
+  "country": "CA",
+  "lat": 53.55014,
+  "lng": -113.46871,
+  "topics": [
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLScHqogVMcsW8iun85Uu-IwWy0CgmTfmRBGJRA8Jlm5egrFRRg/viewform",
+    "deadline": "2024-05-31",
+    "open": false
+  },
+  "twitter": "https://x.com/bsidesedmonton",
+  "source": "confs.tech"
+}

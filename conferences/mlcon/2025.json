@@ -1,0 +1,17 @@
+{
+  "name": "MLCon 2025",
+  "year": 2025,
+  "url": "https://mlconference.ai/munich",
+  "startDate": "2025-05-23",
+  "endDate": "2025-05-26",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [
+    "Data/AI",
+    ".NET"
+  ],
+  "twitter": "https://x.com/mlconference",
+  "source": "confs.tech"
+}

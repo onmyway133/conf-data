@@ -1,0 +1,20 @@
+{
+  "name": "Frappeverse India 2025",
+  "year": 2025,
+  "url": "https://frappe.io/frappeverse/india-2025",
+  "startDate": "2025-09-11",
+  "endDate": "2025-09-12",
+  "city": "Mumbai",
+  "country": "IN",
+  "lat": 19.07283,
+  "lng": 72.88261,
+  "topics": [
+    "Open Source"
+  ],
+  "cfp": {
+    "url": "https://frappe.io/frappeverse/propose-a-talk",
+    "deadline": "2025-07-31",
+    "open": false
+  },
+  "source": "confs.tech"
+}

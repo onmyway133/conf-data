@@ -1,0 +1,21 @@
+{
+  "name": "MobOS 2020",
+  "year": 2020,
+  "url": "http://romobos.com/",
+  "startDate": "2020-02-20",
+  "endDate": "2020-02-21",
+  "city": "Cluj-Napoca",
+  "country": "RO",
+  "lat": 46.76667,
+  "lng": 23.6,
+  "topics": [
+    "iOS",
+    "Mobile"
+  ],
+  "cfp": {
+    "url": "https://romobos.com/2020-edition/call-4-papers",
+    "deadline": "2019-11-15",
+    "open": false
+  },
+  "source": "cocoaconferences"
+}

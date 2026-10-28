@@ -1,0 +1,21 @@
+{
+  "name": "KubeCon + CloudNativeCon Japan 2024",
+  "year": 2024,
+  "url": "https://events.linuxfoundation.org/kubeday-japan",
+  "startDate": "2024-08-27",
+  "endDate": "2024-08-27",
+  "city": "Tokyo",
+  "country": "JP",
+  "lat": 35.6895,
+  "lng": 139.69171,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://events.linuxfoundation.org/kubeday-japan/program/cfp",
+    "deadline": "2024-05-19",
+    "open": false
+  },
+  "twitter": "https://x.com/KubeCon_",
+  "source": "confs.tech"
+}

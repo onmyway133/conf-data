@@ -1,0 +1,19 @@
+{
+  "name": "SITCON 2019",
+  "year": 2019,
+  "url": "https://sitcon.org/2019",
+  "startDate": "2019-03-24",
+  "endDate": "2019-03-24",
+  "city": "Taipei",
+  "country": "TW",
+  "lat": 25.05306,
+  "lng": 121.52639,
+  "topics": [],
+  "cfp": {
+    "url": "https://sitcon.org/2019/cfp",
+    "deadline": "2019-01-24",
+    "open": false
+  },
+  "twitter": "https://x.com/sitcontw",
+  "source": "confs.tech"
+}

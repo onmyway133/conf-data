@@ -1,0 +1,16 @@
+{
+  "name": "Running Remote 2024",
+  "year": 2024,
+  "url": "https://runningremote.com",
+  "startDate": "2024-04-22",
+  "endDate": "2024-04-24",
+  "city": "Lisbon",
+  "country": "PT",
+  "lat": 38.72509,
+  "lng": -9.1498,
+  "topics": [
+    "Networking"
+  ],
+  "twitter": "https://x.com/RunningRemote",
+  "source": "confs.tech"
+}

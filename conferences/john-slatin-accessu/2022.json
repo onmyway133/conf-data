@@ -1,0 +1,16 @@
+{
+  "name": "John Slatin AccessU 2022",
+  "year": 2022,
+  "url": "https://knowbility.org/programs/accessu-2022",
+  "startDate": "2022-05-09",
+  "endDate": "2022-05-13",
+  "city": "Austin, TX",
+  "country": "US",
+  "lat": 30.26715,
+  "lng": -97.74306,
+  "topics": [
+    "Accessibility"
+  ],
+  "twitter": "https://x.com/knowbility",
+  "source": "confs.tech"
+}

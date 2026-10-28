@@ -1,0 +1,16 @@
+{
+  "name": "Devopsdays Des Moines 2023",
+  "year": 2023,
+  "url": "https://devopsdays.org/events/2023-des-moines/welcome",
+  "startDate": "2023-09-07",
+  "endDate": "2023-09-08",
+  "city": "Des Moines, IA",
+  "country": "US",
+  "lat": 41.60054,
+  "lng": -93.60911,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/DevOpsDaysDSM",
+  "source": "confs.tech"
+}

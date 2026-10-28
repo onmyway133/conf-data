@@ -1,0 +1,21 @@
+{
+  "name": "Devopsdays Los Angeles 2022",
+  "year": 2022,
+  "url": "https://devopsdays.org/events/2022-los-angeles/welcome",
+  "startDate": "2022-07-29",
+  "endDate": "2022-07-29",
+  "city": "Los Angeles, CA",
+  "country": "US",
+  "lat": 34.05223,
+  "lng": -118.24368,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSewxucXuZ5nmZYX-nBitrmnr1ZA-O7oc33kheNvoRw1ufEbgg/viewform",
+    "deadline": "2021-11-30",
+    "open": false
+  },
+  "twitter": "https://x.com/Devopsdayla2022",
+  "source": "confs.tech"
+}

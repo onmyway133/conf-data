@@ -1,0 +1,15 @@
+{
+  "name": "Future Product Days 2026",
+  "year": 2026,
+  "url": "https://www.futureproductdays.com",
+  "startDate": "2026-09-22",
+  "endDate": "2026-09-24",
+  "city": "Copenhagen",
+  "country": "DK",
+  "lat": 55.67594,
+  "lng": 12.56553,
+  "topics": [
+    "Design/UX"
+  ],
+  "source": "confs.tech"
+}

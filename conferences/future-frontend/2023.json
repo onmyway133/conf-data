@@ -1,0 +1,16 @@
+{
+  "name": "Future Frontend 2023",
+  "year": 2023,
+  "url": "https://futurefrontend.com",
+  "startDate": "2023-06-05",
+  "endDate": "2023-06-09",
+  "city": "Helsinki",
+  "country": "FI",
+  "lat": 60.16952,
+  "lng": 24.93545,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/future_frontend",
+  "source": "confs.tech"
+}

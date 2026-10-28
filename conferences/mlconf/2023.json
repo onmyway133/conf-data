@@ -1,0 +1,16 @@
+{
+  "name": "MLconf 2023",
+  "year": 2023,
+  "url": "https://mlconf.com",
+  "startDate": "2023-03-30",
+  "endDate": "2023-03-30",
+  "city": "New York, NY",
+  "country": "US",
+  "lat": 40.71427,
+  "lng": -74.00597,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/MLconf",
+  "source": "confs.tech"
+}

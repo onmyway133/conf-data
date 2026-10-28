@@ -1,0 +1,18 @@
+{
+  "name": "Visual Studio Live! Microsoft HQ 2023",
+  "year": 2023,
+  "url": "https://vslive.com/events/microsofthq-2023/home.aspx",
+  "startDate": "2023-07-17",
+  "endDate": "2023-07-21",
+  "city": "Redmond, WA",
+  "country": "US",
+  "lat": 47.67399,
+  "lng": -122.12151,
+  "topics": [
+    "DevOps",
+    ".NET",
+    "Security"
+  ],
+  "twitter": "https://x.com/VSLive",
+  "source": "confs.tech"
+}

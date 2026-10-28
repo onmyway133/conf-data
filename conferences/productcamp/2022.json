@@ -1,0 +1,16 @@
+{
+  "name": "ProductCamp 2022",
+  "year": 2022,
+  "url": "https://www.productcamp.pl",
+  "startDate": "2022-06-02",
+  "endDate": "2022-06-03",
+  "city": "Gdynia",
+  "country": "PL",
+  "lat": 54.51889,
+  "lng": 18.53188,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/productcamppl",
+  "source": "confs.tech"
+}

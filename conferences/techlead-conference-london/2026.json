@@ -1,0 +1,21 @@
+{
+  "name": "TechLead Conference London 2026",
+  "year": 2026,
+  "url": "https://techleadconf.com",
+  "startDate": "2026-10-23",
+  "endDate": "2026-10-23",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://gitnation.com/events/techlead-conf-london-2026-adopting-ai-in-orgs-edition/cfp",
+    "deadline": "2026-08-22",
+    "open": false
+  },
+  "twitter": "https://x.com/TheTechLeadConf",
+  "source": "confs.tech"
+}

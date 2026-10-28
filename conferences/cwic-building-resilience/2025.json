@@ -1,0 +1,20 @@
+{
+  "name": "CWIC Building Resilience 2025",
+  "year": 2025,
+  "url": "https://www.cambridgewireless.co.uk/event-calendar/conferences/cwic.html",
+  "startDate": "2025-03-27",
+  "endDate": "2025-03-27",
+  "city": "Cambridge",
+  "country": "GB",
+  "lat": 52.2,
+  "lng": 0.11667,
+  "topics": [
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://www.cambridgewireless.co.uk/event-calendar/conferences/cwic/call-for-speakers.html",
+    "deadline": "2024-11-19",
+    "open": false
+  },
+  "source": "confs.tech"
+}

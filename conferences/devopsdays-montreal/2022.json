@@ -1,0 +1,16 @@
+{
+  "name": "Devopsdays Montréal 2022",
+  "year": 2022,
+  "url": "https://devopsdays.org/events/2022-montreal/welcome",
+  "startDate": "2022-10-26",
+  "endDate": "2022-10-27",
+  "city": "Montreal",
+  "country": "CA",
+  "lat": 45.50884,
+  "lng": -73.58781,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devopsmontreal",
+  "source": "confs.tech"
+}

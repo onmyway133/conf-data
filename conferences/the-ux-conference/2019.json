@@ -1,0 +1,16 @@
+{
+  "name": "The UX Conference 2019",
+  "year": 2019,
+  "url": "https://theuxconf.com",
+  "startDate": "2019-02-21",
+  "endDate": "2019-02-21",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/TheUXConf",
+  "source": "confs.tech"
+}

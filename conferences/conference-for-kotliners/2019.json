@@ -1,0 +1,19 @@
+{
+  "name": "Conference for Kotliners 2019",
+  "year": 2019,
+  "url": "https://conferenceforkotliners.com",
+  "startDate": "2019-06-07",
+  "endDate": "2019-06-07",
+  "city": "Budapest",
+  "country": "HU",
+  "lat": 47.49835,
+  "lng": 19.04045,
+  "topics": [],
+  "cfp": {
+    "url": "https://www.papercall.io/kotliners-2019",
+    "deadline": "2019-05-05",
+    "open": false
+  },
+  "twitter": "https://x.com/kotliners",
+  "source": "confs.tech"
+}

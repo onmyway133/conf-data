@@ -1,0 +1,21 @@
+{
+  "name": "React Summit US 2026",
+  "year": 2026,
+  "url": "https://reactsummit.us",
+  "startDate": "2026-11-17",
+  "endDate": "2026-11-20",
+  "city": "New York, NY",
+  "country": "US",
+  "lat": 40.71427,
+  "lng": -74.00597,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://gitnation.com/events/react-summit-us-2026/cfp",
+    "deadline": "2026-07-09",
+    "open": true
+  },
+  "twitter": "https://x.com/ReactSummit",
+  "source": "confs.tech"
+}

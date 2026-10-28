@@ -1,0 +1,16 @@
+{
+  "name": "Voxxed Days Minsk 2020",
+  "year": 2020,
+  "url": "https://voxxeddays.com/minsk",
+  "startDate": "2020-10-29",
+  "endDate": "2020-11-01",
+  "city": "Minsk",
+  "country": "BY",
+  "lat": 53.90019,
+  "lng": 27.56653,
+  "topics": [
+    "Java"
+  ],
+  "twitter": "https://x.com/VoxxedMinsk",
+  "source": "confs.tech"
+}

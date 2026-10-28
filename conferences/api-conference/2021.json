@@ -1,0 +1,16 @@
+{
+  "name": "API Conference 2021",
+  "year": 2021,
+  "url": "https://apiconference.net/thehague",
+  "startDate": "2021-04-12",
+  "endDate": "2021-04-14",
+  "city": "The Hague",
+  "country": "NL",
+  "lat": 52.07667,
+  "lng": 4.29861,
+  "topics": [
+    "GraphQL"
+  ],
+  "twitter": "https://x.com/api_conference",
+  "source": "confs.tech"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Apidays India 2025",
+  "year": 2025,
+  "url": "https://www.apidays.global/india",
+  "startDate": "2025-10-08",
+  "endDate": "2025-10-09",
+  "city": "Bangalore",
+  "country": "IN",
+  "lat": 12.97194,
+  "lng": 77.59369,
+  "topics": [
+    "APIs"
+  ],
+  "cfp": {
+    "url": "https://confengine.com/conferences/apidays-india-2025",
+    "deadline": "2025-06-29",
+    "open": false
+  },
+  "twitter": "https://x.com/APIdaysGlobal",
+  "source": "confs.tech"
+}

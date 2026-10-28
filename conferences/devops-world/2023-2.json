@@ -1,0 +1,16 @@
+{
+  "name": "DevOps World 2023",
+  "year": 2023,
+  "url": "https://www.devopsworld.com",
+  "startDate": "2023-09-27",
+  "endDate": "2023-09-27",
+  "city": "Chicago, IL",
+  "country": "US",
+  "lat": 41.85003,
+  "lng": -87.65005,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devopsworldconf",
+  "source": "confs.tech"
+}

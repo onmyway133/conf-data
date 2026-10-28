@@ -1,0 +1,17 @@
+{
+  "name": "UXDX EMEA 2026",
+  "year": 2026,
+  "url": "https://uxdx.com/berlin/2026",
+  "startDate": "2026-05-27",
+  "endDate": "2026-05-29",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "DevOps",
+    "Design/UX"
+  ],
+  "bluesky": "https://bsky.app/profile/uxdx.com",
+  "source": "confs.tech"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "DevOpsDays Buffalo 2019",
+  "year": 2019,
+  "url": "https://www.devopsdays.org/events/2019-buffalo/welcome",
+  "startDate": "2019-09-26",
+  "endDate": "2019-09-27",
+  "city": "Buffalo, NY",
+  "country": "US",
+  "lat": 42.88645,
+  "lng": -78.87837,
+  "topics": [
+    "DevOps"
+  ],
+  "source": "confs.tech"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Akademy 2023",
+  "year": 2023,
+  "url": "https://akademy.kde.org/2023",
+  "startDate": "2023-07-15",
+  "endDate": "2023-07-21",
+  "city": "Thessaloniki",
+  "country": "GR",
+  "lat": 40.64072,
+  "lng": 22.93493,
+  "topics": [
+    "C++"
+  ],
+  "cfp": {
+    "url": "https://akademy.kde.org/2023/cfp",
+    "deadline": "2023-03-30",
+    "open": false
+  },
+  "twitter": "https://x.com/akademy",
+  "source": "confs.tech"
+}

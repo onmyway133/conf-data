@@ -1,0 +1,16 @@
+{
+  "name": "Konference UXZ praxe 2019",
+  "year": 2019,
+  "url": "https://www.uxz.cz",
+  "startDate": "2019-02-19",
+  "endDate": "2019-02-19",
+  "city": "Prague",
+  "country": "CZ",
+  "lat": 50.08804,
+  "lng": 14.42076,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/UXZ_CZ",
+  "source": "confs.tech"
+}

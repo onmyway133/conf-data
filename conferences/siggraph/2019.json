@@ -1,0 +1,14 @@
+{
+  "name": "SIGGRAPH 2019",
+  "year": 2019,
+  "url": "https://s2019.siggraph.org",
+  "startDate": "2019-07-28",
+  "endDate": "2019-08-01",
+  "city": "Los Angeles, CA",
+  "country": "US",
+  "lat": 34.05223,
+  "lng": -118.24368,
+  "topics": [],
+  "twitter": "https://x.com/siggraph",
+  "source": "confs.tech"
+}

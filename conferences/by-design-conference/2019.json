@@ -1,0 +1,15 @@
+{
+  "name": "By Design Conference 2019",
+  "year": 2019,
+  "url": "https://bydesignconf.com",
+  "startDate": "2019-06-08",
+  "endDate": "2019-06-08",
+  "city": "Bratislava",
+  "country": "SK",
+  "lat": 48.14816,
+  "lng": 17.10674,
+  "topics": [
+    "Design/UX"
+  ],
+  "source": "confs.tech"
+}

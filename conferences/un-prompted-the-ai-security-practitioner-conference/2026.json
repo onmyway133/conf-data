@@ -1,0 +1,20 @@
+{
+  "name": "[un]prompted | The AI Security Practitioner Conference 2026",
+  "year": 2026,
+  "url": "https://unpromptedcon.org",
+  "startDate": "2026-03-03",
+  "endDate": "2026-03-04",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/unprompted-the-ai-security-practitio",
+    "deadline": "2026-01-28",
+    "open": false
+  },
+  "source": "confs.tech"
+}

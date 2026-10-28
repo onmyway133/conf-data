@@ -1,0 +1,16 @@
+{
+  "name": "DevOpsCon New York 2022",
+  "year": 2022,
+  "url": "https://devopscon.io/new-york",
+  "startDate": "2022-09-26",
+  "endDate": "2022-09-29",
+  "city": "New York, NY",
+  "country": "US",
+  "lat": 40.71427,
+  "lng": -74.00597,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devops_con",
+  "source": "confs.tech"
+}

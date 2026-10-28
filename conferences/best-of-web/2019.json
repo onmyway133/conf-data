@@ -1,0 +1,21 @@
+{
+  "name": "Best of Web 2019",
+  "year": 2019,
+  "url": "http://bestofweb.paris",
+  "startDate": "2019-06-06",
+  "endDate": "2019-06-07",
+  "city": "Paris",
+  "country": "FR",
+  "lat": 48.85341,
+  "lng": 2.3488,
+  "topics": [
+    "Networking"
+  ],
+  "cfp": {
+    "url": "https://checkout.eventlama.com/#/events/best-of-web-2019/cfp",
+    "deadline": "2019-03-17",
+    "open": false
+  },
+  "twitter": "https://x.com/bestofwebconf",
+  "source": "confs.tech"
+}

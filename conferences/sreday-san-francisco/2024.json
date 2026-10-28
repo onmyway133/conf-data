@@ -1,0 +1,21 @@
+{
+  "name": "SREday San Francisco 2024",
+  "year": 2024,
+  "url": "https://sreday.com/2024-san-francisco",
+  "startDate": "2024-06-22",
+  "endDate": "2024-06-22",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [
+    "SRE"
+  ],
+  "cfp": {
+    "url": "https://www.papercall.io/sreday-san-francisco",
+    "deadline": "2024-05-19",
+    "open": false
+  },
+  "twitter": "https://x.com/sreday",
+  "source": "confs.tech"
+}

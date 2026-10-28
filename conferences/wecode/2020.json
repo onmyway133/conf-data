@@ -1,0 +1,14 @@
+{
+  "name": "WECode 2020",
+  "year": 2020,
+  "url": "https://www.wecodeharvard.org",
+  "startDate": "2020-03-06",
+  "endDate": "2020-03-08",
+  "city": "Cambridge, MA",
+  "country": "US",
+  "lat": 42.3751,
+  "lng": -71.10561,
+  "topics": [],
+  "twitter": "https://x.com/WECodeHarvard",
+  "source": "confs.tech"
+}

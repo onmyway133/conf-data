@@ -1,0 +1,15 @@
+{
+  "name": "UIKonf 2017",
+  "year": 2017,
+  "url": "http://www.uikonf.com/",
+  "startDate": "2017-05-14",
+  "endDate": "2017-05-17",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences"
+}

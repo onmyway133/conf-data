@@ -1,0 +1,18 @@
+{
+  "name": "PGconf.EU 2026",
+  "year": 2026,
+  "url": "https://2026.pgconf.eu",
+  "startDate": "2026-10-20",
+  "endDate": "2026-10-23",
+  "city": "Valencia",
+  "country": "ES",
+  "lat": 39.47391,
+  "lng": -0.37966,
+  "topics": [
+    "Data/AI",
+    "Open Source"
+  ],
+  "bluesky": "https://bsky.app/profile/pgconf.eu",
+  "mastodon": "https://mastodon.social/@pgconfeu",
+  "source": "confs.tech"
+}

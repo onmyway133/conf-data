@@ -1,0 +1,17 @@
+{
+  "name": "EuroSTAR 2025",
+  "year": 2025,
+  "url": "https://conference.eurostarsoftwaretesting.com",
+  "startDate": "2025-06-03",
+  "endDate": "2025-06-06",
+  "city": "Edinburgh",
+  "country": "GB",
+  "lat": 55.95206,
+  "lng": -3.19648,
+  "topics": [
+    "Data/AI",
+    "Testing"
+  ],
+  "twitter": "https://x.com/esconfs",
+  "source": "confs.tech"
+}

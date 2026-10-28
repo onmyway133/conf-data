@@ -1,0 +1,16 @@
+{
+  "name": "C++ Russia  Moscow 2020",
+  "year": 2020,
+  "url": "https://cppconf-moscow.ru/en",
+  "startDate": "2020-07-14",
+  "endDate": "2020-07-15",
+  "city": "Moscow",
+  "country": "RU",
+  "lat": 55.75204,
+  "lng": 37.61781,
+  "topics": [
+    "C++"
+  ],
+  "twitter": "https://x.com/cpp_russia",
+  "source": "confs.tech"
+}

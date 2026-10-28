@@ -1,0 +1,21 @@
+{
+  "name": "Hardwear.io Security Trainings and Conference Netherlands 2021",
+  "year": 2021,
+  "url": "https://hardwear.io/netherlands-2021",
+  "startDate": "2021-10-25",
+  "endDate": "2021-10-29",
+  "city": "The Hague",
+  "country": "NL",
+  "lat": 52.07667,
+  "lng": 4.29861,
+  "topics": [
+    "IoT"
+  ],
+  "cfp": {
+    "url": "https://hardwear.io/netherlands-2021/cfp.php",
+    "deadline": "2021-08-20",
+    "open": false
+  },
+  "twitter": "https://x.com/hardwear_io",
+  "source": "confs.tech"
+}

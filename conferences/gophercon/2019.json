@@ -1,0 +1,21 @@
+{
+  "name": "GopherCon 2019",
+  "year": 2019,
+  "url": "https://gophercon.com",
+  "startDate": "2019-07-24",
+  "endDate": "2019-07-27",
+  "city": "San Diego, CA",
+  "country": "US",
+  "lat": 32.71571,
+  "lng": -117.16472,
+  "topics": [
+    "Go"
+  ],
+  "cfp": {
+    "url": "https://www.papercall.io/gophercon-2019",
+    "deadline": "2019-01-31",
+    "open": false
+  },
+  "twitter": "https://x.com/gophercon",
+  "source": "confs.tech"
+}

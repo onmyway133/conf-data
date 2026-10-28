@@ -1,0 +1,16 @@
+{
+  "name": "RuhrSec 2021",
+  "year": 2021,
+  "url": "https://www.ruhrsec.de",
+  "startDate": "2021-05-18",
+  "endDate": "2021-05-21",
+  "city": "Bochum",
+  "country": "DE",
+  "lat": 51.48165,
+  "lng": 7.21648,
+  "topics": [
+    "Security"
+  ],
+  "twitter": "https://x.com/ruhrsec",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Open Source Camp - Ansible 2019",
+  "year": 2019,
+  "url": "https://opensourcecamp.de",
+  "startDate": "2019-05-16",
+  "endDate": "2019-05-16",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/netways",
+  "source": "confs.tech"
+}

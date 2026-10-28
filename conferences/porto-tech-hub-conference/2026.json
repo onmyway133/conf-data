@@ -1,0 +1,19 @@
+{
+  "name": "Porto Tech Hub Conference 2026",
+  "year": 2026,
+  "url": "https://portotechhub.com/conference-2026",
+  "startDate": "2026-11-10",
+  "endDate": "2026-11-10",
+  "city": "Porto",
+  "country": "PT",
+  "lat": 41.1485,
+  "lng": -8.61097,
+  "topics": [],
+  "cfp": {
+    "url": "https://sessionize.com/pth-2026",
+    "deadline": "2026-06-14",
+    "open": true
+  },
+  "twitter": "https://x.com/PortoTechHub",
+  "source": "confs.tech"
+}

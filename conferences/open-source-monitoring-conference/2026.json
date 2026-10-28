@@ -1,0 +1,21 @@
+{
+  "name": "Open Source Monitoring conference 2026",
+  "year": 2026,
+  "url": "https://osmc.de",
+  "startDate": "2026-11-17",
+  "endDate": "2026-11-19",
+  "city": "Nürnberg",
+  "country": "DE",
+  "lat": 49.45421,
+  "lng": 11.07752,
+  "topics": [
+    "Open Source"
+  ],
+  "cfp": {
+    "url": "https://osmc.de/call-for-papers",
+    "deadline": "2026-06-30",
+    "open": true
+  },
+  "bluesky": "https://bsky.app/profile/osmc.de",
+  "source": "confs.tech"
+}

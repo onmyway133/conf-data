@@ -1,0 +1,20 @@
+{
+  "name": "Frontend NE 2019",
+  "year": 2019,
+  "url": "https://2019.frontendne.co.uk",
+  "startDate": "2019-04-03",
+  "endDate": "2019-04-03",
+  "city": "Newcastle",
+  "country": "GB",
+  "lat": 54.97328,
+  "lng": -1.61396,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://2019.frontendne.co.uk/call-for-speakers.html",
+    "open": false
+  },
+  "twitter": "https://x.com/frontendne",
+  "source": "confs.tech"
+}

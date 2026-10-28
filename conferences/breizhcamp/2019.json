@@ -1,0 +1,19 @@
+{
+  "name": "Breizhcamp 2019",
+  "year": 2019,
+  "url": "https://www.breizhcamp.org",
+  "startDate": "2019-03-20",
+  "endDate": "2019-03-22",
+  "city": "Rennes",
+  "country": "FR",
+  "lat": 48.11109,
+  "lng": -1.67431,
+  "topics": [],
+  "cfp": {
+    "url": "https://breizhcamp.cfp.io",
+    "deadline": "2019-01-07",
+    "open": false
+  },
+  "twitter": "https://x.com/breizhcamp",
+  "source": "confs.tech"
+}

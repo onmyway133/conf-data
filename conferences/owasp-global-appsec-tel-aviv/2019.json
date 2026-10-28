@@ -1,0 +1,21 @@
+{
+  "name": "OWASP Global AppSec Tel Aviv 2019",
+  "year": 2019,
+  "url": "https://telaviv.appsecglobal.org",
+  "startDate": "2019-05-26",
+  "endDate": "2019-05-30",
+  "city": "Tel Aviv",
+  "country": "IL",
+  "lat": 32.08088,
+  "lng": 34.78057,
+  "topics": [
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://telaviv.appsecglobal.org/program/call-for-papers",
+    "deadline": "2019-02-24",
+    "open": false
+  },
+  "twitter": "https://x.com/OWASP_IL",
+  "source": "confs.tech"
+}

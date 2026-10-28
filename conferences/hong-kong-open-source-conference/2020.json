@@ -1,0 +1,16 @@
+{
+  "name": "Hong Kong Open Source Conference 2020",
+  "year": 2020,
+  "url": "https://hkoscon.org/2020",
+  "startDate": "2020-06-12",
+  "endDate": "2020-06-13",
+  "city": "Hong Kong",
+  "country": "HK",
+  "lat": 22.27832,
+  "lng": 114.17469,
+  "topics": [
+    "Networking"
+  ],
+  "twitter": "https://x.com/hkoscon",
+  "source": "confs.tech"
+}

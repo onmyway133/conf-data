@@ -1,0 +1,22 @@
+{
+  "name": "Global Summit on Data Science and Cloud Computing 2026",
+  "year": 2026,
+  "url": "https://datascience.novelticsconferences.com",
+  "startDate": "2026-10-19",
+  "endDate": "2026-10-20",
+  "city": "Rome",
+  "country": "IT",
+  "lat": 41.89193,
+  "lng": 12.51133,
+  "topics": [
+    "Data/AI",
+    "Python"
+  ],
+  "cfp": {
+    "url": "https://datascience.novelticsconferences.com/register",
+    "deadline": "2026-10-15",
+    "open": false
+  },
+  "twitter": "https://x.com/Novelticsgroup",
+  "source": "confs.tech"
+}

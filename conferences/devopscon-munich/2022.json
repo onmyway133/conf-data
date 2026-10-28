@@ -1,0 +1,16 @@
+{
+  "name": "DevOpsCon Munich 2022",
+  "year": 2022,
+  "url": "https://devopscon.io/munich",
+  "startDate": "2022-12-05",
+  "endDate": "2022-12-08",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [
+    "Security"
+  ],
+  "twitter": "https://x.com/devops_con",
+  "source": "confs.tech"
+}

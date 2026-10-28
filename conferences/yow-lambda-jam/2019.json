@@ -1,0 +1,16 @@
+{
+  "name": "YOW! Lambda Jam 2019",
+  "year": 2019,
+  "url": "https://lambdajam.yowconference.com.au",
+  "startDate": "2019-05-13",
+  "endDate": "2019-05-15",
+  "city": "Melbourne",
+  "country": "AU",
+  "lat": -37.814,
+  "lng": 144.96332,
+  "topics": [
+    "Clojure"
+  ],
+  "twitter": "https://x.com/YOWLambdaJam",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Laravel Live UK 2019",
+  "year": 2019,
+  "url": "https://laravellive.uk",
+  "startDate": "2019-06-10",
+  "endDate": "2019-06-11",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/LaravelLiveUK",
+  "source": "confs.tech"
+}

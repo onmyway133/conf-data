@@ -1,0 +1,22 @@
+{
+  "name": "BSidesSF 2024",
+  "year": 2024,
+  "url": "https://bsidessf.org",
+  "startDate": "2024-05-04",
+  "endDate": "2024-05-05",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://bsidessf.org/cfp",
+    "deadline": "2024-01-08",
+    "open": false
+  },
+  "twitter": "https://x.com/BSidesSF",
+  "mastodon": "https://infosec.exchange/@BSidesSF",
+  "source": "confs.tech"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "React Africa 2024",
+  "year": 2024,
+  "url": "https://react-africa.com",
+  "startDate": "2024-11-29",
+  "endDate": "2024-11-29",
+  "city": "Casablanca",
+  "country": "MA",
+  "lat": 33.58831,
+  "lng": -7.61138,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://forms.gle/cW8WRHp9DHGhc4kB6",
+    "deadline": "2024-08-25",
+    "open": false
+  },
+  "twitter": "https://x.com/BeJS_",
+  "source": "confs.tech"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Swift Cloud Workshop 2 2017",
+  "year": 2017,
+  "url": "https://www.swiftcloudwork.shop",
+  "startDate": "2017-09-30",
+  "endDate": "2017-09-30",
+  "city": "Austin",
+  "country": "US",
+  "lat": 30.26715,
+  "lng": -97.74306,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences"
+}

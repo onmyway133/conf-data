@@ -1,0 +1,16 @@
+{
+  "name": "Machine Learning Conference 2020",
+  "year": 2020,
+  "url": "https://mlconference.ai/singapore",
+  "startDate": "2020-09-08",
+  "endDate": "2020-09-10",
+  "city": "Singapore",
+  "country": "SG",
+  "lat": 1.28967,
+  "lng": 103.85007,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/mlconference",
+  "source": "confs.tech"
+}

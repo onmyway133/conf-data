@@ -1,0 +1,16 @@
+{
+  "name": "iOSDevUK 2020",
+  "year": 2020,
+  "url": "https://www.iosdevuk.com",
+  "startDate": "2020-09-06",
+  "endDate": "2020-09-09",
+  "city": "Aberystwyth",
+  "country": "GB",
+  "lat": 52.41548,
+  "lng": -4.08292,
+  "topics": [
+    "iOS"
+  ],
+  "twitter": "https://x.com/IOSDEVUK",
+  "source": "confs.tech"
+}

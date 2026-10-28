@@ -1,0 +1,16 @@
+{
+  "name": "GOSIM 2024",
+  "year": 2024,
+  "url": "https://europe2024.gosim.org",
+  "startDate": "2024-05-06",
+  "endDate": "2024-05-06",
+  "city": "Delft",
+  "country": "NL",
+  "lat": 52.00667,
+  "lng": 4.35556,
+  "topics": [
+    "Data/AI",
+    "Rust"
+  ],
+  "source": "confs.tech"
+}

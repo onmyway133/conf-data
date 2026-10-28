@@ -1,0 +1,20 @@
+{
+  "name": "Open Source Summit Europe 2024",
+  "year": 2024,
+  "url": "https://events.linuxfoundation.org/open-source-summit-europe",
+  "startDate": "2024-09-16",
+  "endDate": "2024-09-18",
+  "city": "Vienna",
+  "country": "AT",
+  "lat": 48.20849,
+  "lng": 16.37208,
+  "topics": [
+    "Open Source"
+  ],
+  "cfp": {
+    "url": "https://events.linuxfoundation.org/open-source-summit-europe/program/cfp",
+    "deadline": "2024-04-30",
+    "open": false
+  },
+  "source": "confs.tech"
+}

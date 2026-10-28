@@ -1,0 +1,14 @@
+{
+  "name": "QA Fest 2021",
+  "year": 2021,
+  "url": "http://qafest.com/en",
+  "startDate": "2021-10-01",
+  "endDate": "2021-10-02",
+  "city": "Kyiv",
+  "country": "UA",
+  "lat": 50.45466,
+  "lng": 30.5238,
+  "topics": [],
+  "twitter": "https://x.com/qafestua",
+  "source": "confs.tech"
+}

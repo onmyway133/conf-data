@@ -1,0 +1,16 @@
+{
+  "name": "React Native EU 2024",
+  "year": 2024,
+  "url": "https://www.react-native.eu",
+  "startDate": "2024-09-05",
+  "endDate": "2024-09-06",
+  "city": "Wrocław",
+  "country": "PL",
+  "lat": 51.10286,
+  "lng": 17.03006,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/react_native_eu",
+  "source": "confs.tech"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "International Conference on Data Mining and Software Engineering 2020",
+  "year": 2020,
+  "url": "https://dmse2020.org",
+  "startDate": "2020-09-26",
+  "endDate": "2020-09-27",
+  "city": "Copenhagen",
+  "country": "DK",
+  "lat": 55.67594,
+  "lng": 12.56553,
+  "topics": [
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://dmse2020.org/submission.html",
+    "deadline": "2020-08-28",
+    "open": false
+  },
+  "source": "confs.tech"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Web à Quebec 2023",
+  "year": 2023,
+  "url": "https://webaquebec.org",
+  "startDate": "2023-05-23",
+  "endDate": "2023-05-25",
+  "city": "Quebec",
+  "country": "CA",
+  "lat": 46.81228,
+  "lng": -71.21454,
+  "topics": [],
+  "cfp": {
+    "url": "https://yr21i4wwzuv.typeform.com/to/vgbK9zTW",
+    "deadline": "2022-12-31",
+    "open": false
+  },
+  "twitter": "https://x.com/webaquebec",
+  "source": "confs.tech"
+}

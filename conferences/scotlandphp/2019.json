@@ -1,0 +1,21 @@
+{
+  "name": "ScotlandPHP 2019",
+  "year": 2019,
+  "url": "https://conference.scotlandphp.co.uk",
+  "startDate": "2019-11-08",
+  "endDate": "2019-11-09",
+  "city": "Edinburgh",
+  "country": "GB",
+  "lat": 55.95206,
+  "lng": -3.19648,
+  "topics": [
+    "PHP"
+  ],
+  "cfp": {
+    "url": "https://cfs.scotlandphp.co.uk",
+    "deadline": "2019-04-22",
+    "open": false
+  },
+  "twitter": "https://x.com/scotlandphp",
+  "source": "confs.tech"
+}

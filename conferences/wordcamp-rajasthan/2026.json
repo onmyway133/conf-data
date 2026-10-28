@@ -1,0 +1,18 @@
+{
+  "name": "WordCamp Rajasthan 2026",
+  "year": 2026,
+  "url": "https://rajasthan.wordcamp.org/2026",
+  "startDate": "2026-10-03",
+  "endDate": "2026-10-04",
+  "city": "Jaipur",
+  "country": "IN",
+  "lat": 26.91962,
+  "lng": 75.78781,
+  "topics": [
+    "Data/AI",
+    "Java",
+    "PHP"
+  ],
+  "twitter": "https://x.com/WPRajasthan",
+  "source": "confs.tech"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "CocoaConf San Jose 2016",
+  "year": 2016,
+  "url": "http://cocoaconf.com/sanjose-2016/home",
+  "startDate": "2016-11-04",
+  "endDate": "2016-11-05",
+  "city": "San Jose",
+  "country": "US",
+  "lat": 37.33939,
+  "lng": -121.89496,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences"
+}

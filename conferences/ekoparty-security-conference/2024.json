@@ -1,0 +1,16 @@
+{
+  "name": "Ekoparty Security Conference 2024",
+  "year": 2024,
+  "url": "https://ekoparty.org",
+  "startDate": "2024-11-13",
+  "endDate": "2024-11-15",
+  "city": "Buenos Aires",
+  "country": "AR",
+  "lat": -34.61315,
+  "lng": -58.37723,
+  "topics": [
+    "Security"
+  ],
+  "twitter": "https://x.com/ekoparty",
+  "source": "confs.tech"
+}

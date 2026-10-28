@@ -1,0 +1,16 @@
+{
+  "name": "Devopsdays Minneapolis 2021",
+  "year": 2021,
+  "url": "https://devopsdays.org/events/2021-minneapolis/welcome",
+  "startDate": "2021-07-20",
+  "endDate": "2021-07-21",
+  "city": "Minneapolis, MN",
+  "country": "US",
+  "lat": 44.97997,
+  "lng": -93.26384,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devopsdaysmsp",
+  "source": "confs.tech"
+}

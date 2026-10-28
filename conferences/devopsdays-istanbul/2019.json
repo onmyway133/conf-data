@@ -1,0 +1,20 @@
+{
+  "name": "DevOpsDays Istanbul 2019",
+  "year": 2019,
+  "url": "https://www.devopsdays.org/events/2019-istanbul/welcome",
+  "startDate": "2019-09-19",
+  "endDate": "2019-09-20",
+  "city": "Istanbul",
+  "country": "TR",
+  "lat": 41.01384,
+  "lng": 28.94966,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://www.papercall.io/devopsdaysist2019",
+    "deadline": "2019-05-14",
+    "open": false
+  },
+  "source": "confs.tech"
+}

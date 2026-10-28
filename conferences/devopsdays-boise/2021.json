@@ -1,0 +1,16 @@
+{
+  "name": "Devopsdays Boise 2021",
+  "year": 2021,
+  "url": "https://devopsdays.org/events/2021-boise/welcome",
+  "startDate": "2021-04-06",
+  "endDate": "2021-04-07",
+  "city": "Boise, ID",
+  "country": "US",
+  "lat": 43.6135,
+  "lng": -116.20345,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devopsdaysboise",
+  "source": "confs.tech"
+}

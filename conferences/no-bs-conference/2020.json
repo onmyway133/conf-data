@@ -1,0 +1,16 @@
+{
+  "name": "NO/BS Conference 2020",
+  "year": 2020,
+  "url": "https://nobs.events",
+  "startDate": "2020-03-11",
+  "endDate": "2020-03-13",
+  "city": "Melbourne",
+  "country": "AU",
+  "lat": -37.814,
+  "lng": 144.96332,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/nobs_events",
+  "source": "confs.tech"
+}

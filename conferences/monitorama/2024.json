@@ -1,0 +1,18 @@
+{
+  "name": "Monitorama 2024",
+  "year": 2024,
+  "url": "https://monitorama.com/2024/pdx.html",
+  "startDate": "2024-06-10",
+  "endDate": "2024-06-12",
+  "city": "Portland, OR",
+  "country": "US",
+  "lat": 45.52345,
+  "lng": -122.67621,
+  "topics": [
+    "DevOps",
+    "SRE"
+  ],
+  "twitter": "https://x.com/Monitorama",
+  "mastodon": "https://mastodon.social/@monitorama",
+  "source": "confs.tech"
+}

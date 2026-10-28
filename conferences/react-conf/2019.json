@@ -1,0 +1,16 @@
+{
+  "name": "React Conf 2019",
+  "year": 2019,
+  "url": "http://conf.reactjs.org",
+  "startDate": "2019-10-24",
+  "endDate": "2019-10-25",
+  "city": "Henderson, NV",
+  "country": "US",
+  "lat": 36.0397,
+  "lng": -114.98194,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/reactjs",
+  "source": "confs.tech"
+}

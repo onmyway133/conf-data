@@ -1,0 +1,16 @@
+{
+  "name": "Vuejs.de Conf 2024",
+  "year": 2024,
+  "url": "https://conf.vuejs.de",
+  "startDate": "2024-10-08",
+  "endDate": "2024-10-09",
+  "city": "Bonn",
+  "country": "DE",
+  "lat": 50.73438,
+  "lng": 7.09549,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/vue_js_de",
+  "source": "confs.tech"
+}

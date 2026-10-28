@@ -1,0 +1,17 @@
+{
+  "name": "OOP 2024",
+  "year": 2024,
+  "url": "https://www.oop-konferenz.de",
+  "startDate": "2024-01-29",
+  "endDate": "2024-02-02",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [
+    "Testing",
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/oop_conference",
+  "source": "confs.tech"
+}

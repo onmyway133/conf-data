@@ -1,0 +1,16 @@
+{
+  "name": "PyCon UK 2019",
+  "year": 2019,
+  "url": "https://2019.pyconuk.org",
+  "startDate": "2019-09-13",
+  "endDate": "2019-09-17",
+  "city": "Cardiff",
+  "country": "GB",
+  "lat": 51.48,
+  "lng": -3.18,
+  "topics": [
+    "Python"
+  ],
+  "twitter": "https://x.com/pyconuk",
+  "source": "confs.tech"
+}

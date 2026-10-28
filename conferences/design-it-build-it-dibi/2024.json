@@ -1,0 +1,16 @@
+{
+  "name": "Design It. Build it. (DIBI) 2024",
+  "year": 2024,
+  "url": "https://dibiconference.com",
+  "startDate": "2024-10-09",
+  "endDate": "2024-10-10",
+  "city": "Edinburgh",
+  "country": "GB",
+  "lat": 55.95206,
+  "lng": -3.19648,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/dibiconf",
+  "source": "confs.tech"
+}

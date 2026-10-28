@@ -1,0 +1,16 @@
+{
+  "name": "SwiftConf 2019",
+  "year": 2019,
+  "url": "https://swiftconf.com",
+  "startDate": "2019-08-28",
+  "endDate": "2019-08-29",
+  "city": "Cologne",
+  "country": "DE",
+  "lat": 50.93333,
+  "lng": 6.95,
+  "topics": [
+    "iOS"
+  ],
+  "twitter": "https://x.com/swiftconf",
+  "source": "confs.tech"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Pixels Camp 2019",
+  "year": 2019,
+  "url": "https://pixels.camp",
+  "startDate": "2019-03-21",
+  "endDate": "2019-03-23",
+  "city": "Lisbon",
+  "country": "PT",
+  "lat": 38.72509,
+  "lng": -9.1498,
+  "topics": [],
+  "cfp": {
+    "url": "https://github.com/PixelsCamp/talks",
+    "deadline": "2019-01-20",
+    "open": false
+  },
+  "twitter": "https://x.com/pixelscamp",
+  "source": "confs.tech"
+}

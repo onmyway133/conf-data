@@ -1,0 +1,16 @@
+{
+  "name": "OdessaJS' 2020",
+  "year": 2020,
+  "url": "http://odessajs.org",
+  "startDate": "2020-07-04",
+  "endDate": "2020-07-05",
+  "city": "Odessa",
+  "country": "UA",
+  "lat": 46.48572,
+  "lng": 30.74383,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/OdessaJS",
+  "source": "confs.tech"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Voxxed Days Microservices 2019",
+  "year": 2019,
+  "url": "https://voxxeddays.com/microservices",
+  "startDate": "2019-10-21",
+  "endDate": "2019-10-23",
+  "city": "Paris",
+  "country": "FR",
+  "lat": 48.85341,
+  "lng": 2.3488,
+  "topics": [],
+  "twitter": "https://x.com/vxdmicroservice",
+  "source": "confs.tech"
+}

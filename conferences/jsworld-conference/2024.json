@@ -1,0 +1,16 @@
+{
+  "name": "JSworld Conference 2024",
+  "year": 2024,
+  "url": "https://jsworldconference.com",
+  "startDate": "2024-02-28",
+  "endDate": "2024-03-01",
+  "city": "Amsterdam",
+  "country": "NL",
+  "lat": 52.37403,
+  "lng": 4.88969,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/jsworldconf",
+  "source": "confs.tech"
+}

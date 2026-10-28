@@ -1,0 +1,15 @@
+{
+  "name": "Reversim Summit 2019",
+  "year": 2019,
+  "url": "https://summit2019.reversim.com",
+  "startDate": "2019-06-16",
+  "endDate": "2019-06-17",
+  "city": "Tel Aviv",
+  "country": "IL",
+  "lat": 32.08088,
+  "lng": 34.78057,
+  "topics": [
+    "Networking"
+  ],
+  "source": "confs.tech"
+}

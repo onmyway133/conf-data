@@ -1,0 +1,313 @@
+{
+  "name": "Pragma Conference 2025",
+  "year": 2025,
+  "url": "https://pragmaconference.com/",
+  "startDate": "2025-10-30",
+  "endDate": "2025-10-31",
+  "city": "Bologna",
+  "country": "IT",
+  "lat": 44.49381,
+  "lng": 11.33875,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences",
+  "speakers": [
+    {
+      "speaker": "daniel-steinberg",
+      "role": "Storyteller, writer, trainer, coder@dimsumthinking.com",
+      "photoUrl": "https://pragmaconference.com/images/2/pragma-speakers-456.jpg",
+      "linkedin": "https://www.linkedin.com/in/dimsumthinking/",
+      "website": "https://www.dimsumthinking.com"
+    },
+    {
+      "speaker": "antoine-van-der-lee",
+      "role": "Indie Developer & Founder of SwiftLee & RocketSim",
+      "photoUrl": "https://pragmaconference.com/images/l/antoine_van_der_lee-456.jpeg",
+      "twitter": "https://twitter.com/twannl",
+      "linkedin": "https://www.linkedin.com/in/ajvanderlee/",
+      "website": "https://www.avanderlee.com/"
+    },
+    {
+      "speaker": "matteo-rattotti",
+      "role": "Founders @ Shiny Frog, Makers of Bear app",
+      "photoUrl": "https://pragmaconference.com/images/0/bear-456.jpg",
+      "twitter": "https://x.com/matteorattotti",
+      "website": "https://shinyfrog.net/"
+    },
+    {
+      "speaker": "konstantin-erokhin",
+      "role": "Founders @ Shiny Frog, Makers of Bear app",
+      "photoUrl": "https://pragmaconference.com/images/0/bear-456.jpg",
+      "website": "https://shinyfrog.net/"
+    },
+    {
+      "speaker": "peter-steinberger",
+      "role": "Deep in vibe-coding mode – tinkering with shiny web tech, chasing fresh ideas.",
+      "photoUrl": "https://pragmaconference.com/images/a/peter-steinberger-456.jpg",
+      "twitter": "https://x.com/steipete",
+      "website": "https://steipete.me"
+    },
+    {
+      "speaker": "caitlin-steele",
+      "role": "Head of Design @ Thoughtful Apes",
+      "photoUrl": "https://pragmaconference.com/images/2/library-1-of-1-456.jpeg",
+      "linkedin": "https://www.linkedin.com/in/caitlinrsteele/",
+      "website": "https://www.portfolio.caitlinsteele.com/"
+    },
+    {
+      "speaker": "frank-lefebvre",
+      "role": "Freelance software developer, speaker and trainer",
+      "photoUrl": "https://pragmaconference.com/images/6/frank-456.jpg",
+      "linkedin": "https://www.linkedin.com/in/franklefebvre/"
+    },
+    {
+      "speaker": "chris-eidhof",
+      "role": "Founder @ objc.io and host of Swift Talk",
+      "photoUrl": "https://pragmaconference.com/images/p/chris-eidhof-456.jpg",
+      "website": "https://chris.eidhof.nl/"
+    },
+    {
+      "speaker": "jeff-watkins",
+      "role": "Engineering Leader @ Thoughtful Apes",
+      "photoUrl": "https://pragmaconference.com/images/v/jeff-456.jpg",
+      "linkedin": "https://www.linkedin.com/in/metrocat/",
+      "website": "https://jeffwatkins.dev"
+    },
+    {
+      "speaker": "zamzam-farzamipooya",
+      "role": "Engineering Manager @ Veo Technologies",
+      "photoUrl": "https://pragmaconference.com/images/8/zamzam-farzamipooya-456.jpeg",
+      "twitter": "https://x.com/zamzampooya",
+      "linkedin": "https://www.linkedin.com/in/zamzam-farzamipooya-40545158/"
+    },
+    {
+      "speaker": "tiago-gomes-pereira",
+      "role": "Senior Mentor Code & Special Projects Manager @ imaginary institute",
+      "photoUrl": "https://pragmaconference.com/images/e/tiago-456.jpg",
+      "twitter": "https://x.com/tiagogogo",
+      "linkedin": "https://www.linkedin.com/in/tiagogomespereira/"
+    },
+    {
+      "speaker": "serhii-popov",
+      "role": "Senior Software Engineer @ MacPaw",
+      "photoUrl": "https://pragmaconference.com/images/8/serhii-popov-456.jpeg",
+      "twitter": "https://x.com/zaris__",
+      "linkedin": "https://linkedin.com/in/serg-i"
+    },
+    {
+      "speaker": "ekaterina-volkova",
+      "role": "Software Engineer @ Zalando",
+      "photoUrl": "https://pragmaconference.com/images/j/ekaterina-volkova-456.jpeg",
+      "linkedin": "https://www.linkedin.com/in/ekaterina-v-b3b578139/"
+    },
+    {
+      "speaker": "robin-kanatzar",
+      "role": "Indie Developer, Tech Entrepreneur | iOS Engineer",
+      "photoUrl": "https://pragmaconference.com/images/n/robin-kanatzar-454.jpg",
+      "twitter": "https://x.com/RobinKanatzar",
+      "linkedin": "https://www.linkedin.com/in/robin-kanatzar-63851a58/"
+    },
+    {
+      "speaker": "claire-sivadier",
+      "role": "iOS & tvOS Developer | Swift & Apple Ecosystem Enthusiast",
+      "photoUrl": "https://pragmaconference.com/images/c/claire-sivadier-456.jpg",
+      "twitter": "https://x.com/Claire_Rimel",
+      "linkedin": "https://www.linkedin.com/in/claire-sivadier/"
+    },
+    {
+      "speaker": "johannes-fahrenkrug",
+      "role": "Full-Stack Senior Software Developer with 22+ Years of Experience | AI Tech Specialist",
+      "photoUrl": "https://pragmaconference.com/images/h/johannes-fahrenkrug-456.jpg",
+      "linkedin": "https://www.linkedin.com/in/jfahrenkrug/",
+      "website": "https://springenwerk.com/"
+    },
+    {
+      "speaker": "pol-piella-abadia",
+      "role": "Senior Software Engineer @ RevenueCat",
+      "photoUrl": "https://pragmaconference.com/images/e/pol-piella-abadia-456.png",
+      "linkedin": "https://www.linkedin.com/in/pol-piella-81b846115/",
+      "website": "https://polpiella.dev"
+    },
+    {
+      "speaker": "aline-borges",
+      "role": "Lead iOS Engineer @ Harbor",
+      "photoUrl": "https://pragmaconference.com/images/6/aline-borges-456.jpeg",
+      "linkedin": "https://www.linkedin.com/in/alinekborges/",
+      "website": "https://medium.com/@alinekborges"
+    },
+    {
+      "speaker": "kosala-jayasekara",
+      "role": "CTO @ Fixel Digital",
+      "photoUrl": "https://pragmaconference.com/images/v/untitled-2-456.jpg",
+      "twitter": "https://twitter.com/kjayasekara",
+      "linkedin": "https://linkedin.com/in/kosalajayasekara",
+      "website": "https://kosalajayasekara.com"
+    },
+    {
+      "speaker": "francesco-pretelli",
+      "role": "Engineering Manager @ Mercari",
+      "photoUrl": "https://pragmaconference.com/images/t/francesco-pretelli-456.jpeg",
+      "twitter": "https://twitter.com/timefrancesco",
+      "linkedin": "https://www.linkedin.com/in/francescopretelli/"
+    },
+    {
+      "speaker": "max-seelemann",
+      "role": "Co-founder and Executive Lead @ Ulysses",
+      "photoUrl": "https://pragmaconference.com/images/6/max-seelemann-456.jpeg",
+      "linkedin": "https://www.linkedin.com/in/max-seelemann-7284b9b9/"
+    },
+    {
+      "speaker": "oleksii-kirizii",
+      "role": "Head of iOS @ bikemap",
+      "photoUrl": "https://pragmaconference.com/images/r/oleksii-kirizii-456.jpg",
+      "twitter": "https://x.com/OKirizii",
+      "linkedin": "https://www.linkedin.com/in/oleksii-kirizii-8ba45154/"
+    },
+    {
+      "speaker": "arkadiusz-swietnicki"
+    }
+  ],
+  "talks": [
+    {
+      "slug": "a-no-code-guide-to-the-textkit-2-architecture",
+      "title": "A no-code guide to the TextKit 2 architecture",
+      "speakers": [
+        "max-seelemann"
+      ]
+    },
+    {
+      "slug": "ai-from-scratch-let-s-build-and-train-a-perceptron-in-pure-swift",
+      "title": "AI from Scratch: Let's Build and Train a Perceptron in Pure Swift",
+      "speakers": [
+        "johannes-fahrenkrug"
+      ]
+    },
+    {
+      "slug": "alternative-marketplaces-on-ios-integration-innovation-insight",
+      "title": "Alternative Marketplaces on iOS: Integration, Innovation, & Insight",
+      "speakers": [
+        "serhii-popov"
+      ]
+    },
+    {
+      "slug": "building-on-foundation-model",
+      "title": "Building on Foundation Model",
+      "speakers": [
+        "daniel-steinberg"
+      ]
+    },
+    {
+      "slug": "building-trust-using-mtls-for-secure-baby-monitor-connections",
+      "title": "Building Trust: Using mTLS for Secure Baby Monitor Connections",
+      "speakers": [
+        "aline-borges"
+      ]
+    },
+    {
+      "slug": "creative-coding-the-pursuit-of-unexpected-beauty",
+      "title": "Creative Coding - The pursuit of unexpected beauty",
+      "speakers": [
+        "tiago-gomes-pereira"
+      ]
+    },
+    {
+      "slug": "defence-against-the-analytics-regressions",
+      "title": "Defence Against the Analytics Regressions",
+      "speakers": [
+        "oleksii-kirizii"
+      ]
+    },
+    {
+      "slug": "from-camera-to-validation-building-real-time-face-detection",
+      "title": "From Camera to Validation: Building Real-Time Face Detection",
+      "speakers": [
+        "ekaterina-volkova"
+      ]
+    },
+    {
+      "slug": "from-poc-to-product",
+      "title": "From POC to Product",
+      "speakers": [
+        "zamzam-farzamipooya"
+      ]
+    },
+    {
+      "slug": "joys-and-challenges-of-a-sightless-coder",
+      "title": "Joys and challenges of a sightless coder",
+      "speakers": [
+        "arkadiusz-swietnicki"
+      ]
+    },
+    {
+      "slug": "one-codebase-to-rule-them-all",
+      "title": "One Codebase to Rule Them All",
+      "speakers": [
+        "francesco-pretelli"
+      ]
+    },
+    {
+      "slug": "prepare-your-ios-app-for-liquid-glass-design",
+      "title": "Prepare your iOS app for Liquid Glass Design",
+      "speakers": [
+        "kosala-jayasekara"
+      ]
+    },
+    {
+      "slug": "swift-6-2-is-here-it-s-time-to-migrate-to-strict-concurrency",
+      "title": "Swift 6.2 is here — It’s time to migrate to Strict Concurrency",
+      "speakers": [
+        "antoine-van-der-lee"
+      ]
+    },
+    {
+      "slug": "the-attribute-graph-swiftui-s-invisible-hand",
+      "title": "The Attribute Graph: SwiftUI’s Invisible Hand",
+      "speakers": [
+        "chris-eidhof"
+      ]
+    },
+    {
+      "slug": "the-sacred-secret-behind-our-app-s-speed",
+      "title": "The sacred secret behind our App's speed",
+      "speakers": [
+        "matteo-rattotti"
+      ]
+    },
+    {
+      "slug": "transit-metaphors-unlock-how-multi-platform-teams-think-about-prioritization",
+      "title": "Transit metaphors unlock how multi-platform teams think about prioritization",
+      "speakers": [
+        "caitlin-steele"
+      ]
+    },
+    {
+      "slug": "tuning-your-app-using-xcode-s-instruments",
+      "title": "Tuning your app using Xcode's Instruments",
+      "speakers": [
+        "pol-piella-abadia"
+      ]
+    },
+    {
+      "slug": "who-let-the-app-intents-out",
+      "title": "Who Let the App Intents Out?",
+      "speakers": [
+        "claire-sivadier"
+      ]
+    },
+    {
+      "slug": "you-can-just-do-things-how-ai-is-transforming-software-development",
+      "title": "You Can Just Do Things: How AI Is Transforming Software Development",
+      "speakers": [
+        "peter-steinberger"
+      ]
+    },
+    {
+      "slug": "you-deserve-a-good-manager-how-to-interview-your-next-employer",
+      "title": "You Deserve a Good Manager: How to Interview Your Next Employer",
+      "speakers": [
+        "jeff-watkins"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "EuroSTAR 2019",
+  "year": 2019,
+  "url": "https://conference.eurostarsoftwaretesting.com",
+  "startDate": "2019-11-11",
+  "endDate": "2019-11-14",
+  "city": "Prague",
+  "country": "CZ",
+  "lat": 50.08804,
+  "lng": 14.42076,
+  "topics": [],
+  "cfp": {
+    "url": "https://conference.eurostarsoftwaretesting.com/speakers/call-for-submissions",
+    "deadline": "2019-02-04",
+    "open": false
+  },
+  "twitter": "https://x.com/esconfs",
+  "source": "confs.tech"
+}

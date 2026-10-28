@@ -1,0 +1,21 @@
+{
+  "name": "Python + DS fwdays 2024",
+  "year": 2024,
+  "url": "https://fwdays.com/en/event/python-ds-fwdays-2024",
+  "startDate": "2024-04-20",
+  "endDate": "2024-04-20",
+  "city": "Kyiv",
+  "country": "UA",
+  "lat": 50.45466,
+  "lng": 30.5238,
+  "topics": [
+    "Python"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLScnUVAZxseEr8a3p7jUj7D6q-U3LoiFA3Z1I4mAqR0ovUW1-g/viewform",
+    "deadline": "2024-03-20",
+    "open": false
+  },
+  "twitter": "https://x.com/fwdays",
+  "source": "confs.tech"
+}

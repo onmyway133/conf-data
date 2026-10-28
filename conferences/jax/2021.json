@@ -1,0 +1,16 @@
+{
+  "name": "JAX 2021",
+  "year": 2021,
+  "url": "https://jax.de/mainz-en",
+  "startDate": "2021-05-03",
+  "endDate": "2021-05-07",
+  "city": "Mainz",
+  "country": "DE",
+  "lat": 49.98185,
+  "lng": 8.28008,
+  "topics": [
+    "Networking"
+  ],
+  "twitter": "https://x.com/jaxcon",
+  "source": "confs.tech"
+}

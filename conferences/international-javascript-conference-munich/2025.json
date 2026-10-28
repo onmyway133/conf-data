@@ -1,0 +1,16 @@
+{
+  "name": "International JavaScript Conference Munich 2025",
+  "year": 2025,
+  "url": "https://javascript-conference.com/munich",
+  "startDate": "2025-10-27",
+  "endDate": "2025-10-31",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/JavaScriptCon",
+  "source": "confs.tech"
+}

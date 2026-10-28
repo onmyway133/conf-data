@@ -1,0 +1,20 @@
+{
+  "name": "DevOpsCon New York 2020",
+  "year": 2020,
+  "url": "https://devopscon.io/new-york",
+  "startDate": "2020-09-28",
+  "endDate": "2020-10-01",
+  "city": "New York, NY",
+  "country": "US",
+  "lat": 40.71427,
+  "lng": -74.00597,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://callforpapers.sandsmedia.com",
+    "open": false
+  },
+  "twitter": "https://x.com/devops_con",
+  "source": "confs.tech"
+}

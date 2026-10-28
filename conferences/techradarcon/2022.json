@@ -1,0 +1,19 @@
+{
+  "name": "TechRadarCon 2022",
+  "year": 2022,
+  "url": "https://techradarcon.com",
+  "startDate": "2022-11-14",
+  "endDate": "2022-11-14",
+  "city": "Tel Aviv",
+  "country": "IL",
+  "lat": 32.08088,
+  "lng": 34.78057,
+  "topics": [],
+  "cfp": {
+    "url": "https://forms.gle/SJPUsPNnT6xotyaC8",
+    "deadline": "2022-07-31",
+    "open": false
+  },
+  "twitter": "https://x.com/tikalk",
+  "source": "confs.tech"
+}

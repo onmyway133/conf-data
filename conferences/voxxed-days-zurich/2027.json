@@ -1,0 +1,21 @@
+{
+  "name": "Voxxed Days Zürich 2027",
+  "year": 2027,
+  "url": "https://vdz27.voxxeddays.ch",
+  "startDate": "2027-03-09",
+  "endDate": "2027-03-09",
+  "city": "Zurich",
+  "country": "CH",
+  "lat": 47.36667,
+  "lng": 8.55,
+  "topics": [],
+  "cfp": {
+    "url": "https://vdz27.cfp.dev/#/login",
+    "deadline": "2026-10-23",
+    "open": true
+  },
+  "twitter": "https://x.com/VoxxedZurich",
+  "bluesky": "https://bsky.app/profile/voxxedzurich.bsky.social",
+  "mastodon": "https://mastodon.social/@voxxedzurich",
+  "source": "confs.tech"
+}

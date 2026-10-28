@@ -1,0 +1,16 @@
+{
+  "name": "SOSS Community Day Europe 2024",
+  "year": 2024,
+  "url": "https://events.linuxfoundation.org/soss-community-day-europe",
+  "startDate": "2024-09-19",
+  "endDate": "2024-09-19",
+  "city": "Vienna",
+  "country": "AT",
+  "lat": 48.20849,
+  "lng": 16.37208,
+  "topics": [
+    "Security"
+  ],
+  "twitter": "https://x.com/openssf",
+  "source": "confs.tech"
+}

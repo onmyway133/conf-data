@@ -1,0 +1,16 @@
+{
+  "name": "ElixirConf 2021",
+  "year": 2021,
+  "url": "https://2021.elixirconf.com",
+  "startDate": "2021-10-12",
+  "endDate": "2021-10-13",
+  "city": "Austin, TX",
+  "country": "US",
+  "lat": 30.26715,
+  "lng": -97.74306,
+  "topics": [
+    "Elixir"
+  ],
+  "twitter": "https://x.com/elixirconf",
+  "source": "confs.tech"
+}

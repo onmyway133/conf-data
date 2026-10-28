@@ -1,0 +1,16 @@
+{
+  "name": "JSConf Chile 2024",
+  "year": 2024,
+  "url": "https://jsconf.cl",
+  "startDate": "2024-12-05",
+  "endDate": "2024-12-07",
+  "city": "Santiago",
+  "country": "CL",
+  "lat": -33.45694,
+  "lng": -70.64827,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/jsconfcl",
+  "source": "confs.tech"
+}

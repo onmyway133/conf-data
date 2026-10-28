@@ -1,0 +1,16 @@
+{
+  "name": "Refresh Conference 2019",
+  "year": 2019,
+  "url": "https://www.refreshconference.nl",
+  "startDate": "2019-11-08",
+  "endDate": "2019-11-08",
+  "city": "Groningen",
+  "country": "NL",
+  "lat": 53.21917,
+  "lng": 6.56667,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/refreshcon",
+  "source": "confs.tech"
+}

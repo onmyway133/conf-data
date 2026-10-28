@@ -1,0 +1,16 @@
+{
+  "name": "eic European Identity and Cloud Conference 2024",
+  "year": 2024,
+  "url": "https://www.kuppingercole.com/events/eic2024",
+  "startDate": "2024-06-04",
+  "endDate": "2024-06-07",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "Identity"
+  ],
+  "twitter": "https://x.com/eic_conference",
+  "source": "confs.tech"
+}

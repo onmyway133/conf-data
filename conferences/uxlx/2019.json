@@ -1,0 +1,16 @@
+{
+  "name": "UXLx 2019",
+  "year": 2019,
+  "url": "https://www.ux-lx.com/index.html",
+  "startDate": "2019-05-21",
+  "endDate": "2019-05-24",
+  "city": "Lisbon",
+  "country": "PT",
+  "lat": 38.72509,
+  "lng": -9.1498,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/uxlx",
+  "source": "confs.tech"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Swift by NorthWest 2017",
+  "year": 2017,
+  "url": "https://swiftbynorthwest.com/",
+  "startDate": "2017-10-27",
+  "endDate": "2017-10-28",
+  "city": "Seattle",
+  "country": "US",
+  "lat": 47.60621,
+  "lng": -122.33207,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences"
+}

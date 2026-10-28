@@ -1,0 +1,14 @@
+{
+  "name": "DeveloperWeek 2020",
+  "year": 2020,
+  "url": "https://www.developerweek.com/NYC",
+  "startDate": "2020-12-09",
+  "endDate": "2020-12-10",
+  "city": "New York, NY",
+  "country": "US",
+  "lat": 40.71427,
+  "lng": -74.00597,
+  "topics": [],
+  "twitter": "https://x.com/devweeknyc",
+  "source": "confs.tech"
+}

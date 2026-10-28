@@ -1,0 +1,21 @@
+{
+  "name": "Agile meets Architecture 2023",
+  "year": 2023,
+  "url": "https://www.agile-meets-architecture.com",
+  "startDate": "2023-10-05",
+  "endDate": "2023-10-06",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "Networking"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/agile-meets-architecture-2023",
+    "deadline": "2023-04-02",
+    "open": false
+  },
+  "twitter": "https://x.com/AmA_Conf",
+  "source": "confs.tech"
+}

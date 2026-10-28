@@ -1,0 +1,19 @@
+{
+  "name": "Developer Productivity Summit 2022",
+  "year": 2022,
+  "url": "https://dpesummit.com",
+  "startDate": "2022-11-02",
+  "endDate": "2022-11-03",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [],
+  "cfp": {
+    "url": "https://dpesummit.com/#speakers",
+    "deadline": "2022-11-01",
+    "open": false
+  },
+  "twitter": "https://x.com/dpesummit",
+  "source": "confs.tech"
+}

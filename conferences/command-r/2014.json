@@ -1,0 +1,15 @@
+{
+  "name": "Command R 2014",
+  "year": 2014,
+  "url": "http://cmdrconf.com",
+  "startDate": "2014-10-22",
+  "endDate": "2014-10-24",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences"
+}

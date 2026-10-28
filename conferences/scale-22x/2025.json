@@ -1,0 +1,20 @@
+{
+  "name": "SCaLE 22x 2025",
+  "year": 2025,
+  "url": "https://www.socallinuxexpo.org",
+  "startDate": "2025-03-06",
+  "endDate": "2025-03-09",
+  "city": "Pasadena, CA",
+  "country": "US",
+  "lat": 29.69106,
+  "lng": -95.2091,
+  "topics": [],
+  "cfp": {
+    "url": "https://www.socallinuxexpo.org/scale/22x/cfp",
+    "deadline": "2024-11-01",
+    "open": false
+  },
+  "twitter": "https://x.com/SoCalLinuxExpo",
+  "mastodon": "https://social.linux.pizza/@socallinuxexpo",
+  "source": "confs.tech"
+}

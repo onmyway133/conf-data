@@ -1,0 +1,17 @@
+{
+  "name": "Web Summer Camp 2026",
+  "year": 2026,
+  "url": "https://websummercamp.com/2026",
+  "startDate": "2026-07-02",
+  "endDate": "2026-07-04",
+  "city": "Opatija",
+  "country": "HR",
+  "lat": 45.33658,
+  "lng": 14.30782,
+  "topics": [
+    "CSS",
+    "PHP",
+    "Python"
+  ],
+  "source": "confs.tech"
+}

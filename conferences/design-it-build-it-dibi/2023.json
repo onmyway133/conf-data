@@ -1,0 +1,21 @@
+{
+  "name": "Design It. Build It. (DIBI) 2023",
+  "year": 2023,
+  "url": "https://dibiconference.com",
+  "startDate": "2023-05-11",
+  "endDate": "2023-05-12",
+  "city": "Edinburgh",
+  "country": "GB",
+  "lat": 55.95206,
+  "lng": -3.19648,
+  "topics": [
+    "Design/UX"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSc5kVunTh68VQrYCVNIXn2UmPWIsNHhxoiGwU1Q600sRYaNZQ/viewform",
+    "deadline": "2023-02-10",
+    "open": false
+  },
+  "twitter": "https://x.com/dibiconf",
+  "source": "confs.tech"
+}

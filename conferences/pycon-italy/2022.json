@@ -1,0 +1,16 @@
+{
+  "name": "PyCon Italy 2022",
+  "year": 2022,
+  "url": "https://pycon.it",
+  "startDate": "2022-06-02",
+  "endDate": "2022-06-05",
+  "city": "Florence",
+  "country": "IT",
+  "lat": 43.77925,
+  "lng": 11.24626,
+  "topics": [
+    "Python"
+  ],
+  "twitter": "https://x.com/pyconit",
+  "source": "confs.tech"
+}

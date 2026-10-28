@@ -1,0 +1,19 @@
+{
+  "name": "Civo Navigate 2025",
+  "year": 2025,
+  "url": "https://www.civo.com/navigate/north-america",
+  "startDate": "2025-02-10",
+  "endDate": "2025-02-11",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [],
+  "cfp": {
+    "url": "https://sessionize.com/civo-navigate-north-america-2025-SanFran",
+    "deadline": "2024-10-07",
+    "open": false
+  },
+  "twitter": "https://x.com/CivoCloud",
+  "source": "confs.tech"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "krk.rb 2019",
+  "year": 2019,
+  "url": "https://krk-rb.pl",
+  "startDate": "2019-05-14",
+  "endDate": "2019-05-15",
+  "city": "Kraków",
+  "country": "PL",
+  "lat": 50.06143,
+  "lng": 19.93658,
+  "topics": [
+    "Ruby"
+  ],
+  "source": "confs.tech"
+}

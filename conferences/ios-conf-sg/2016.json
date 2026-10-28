@@ -1,0 +1,274 @@
+{
+  "name": "iOS Conf SG 2016",
+  "year": 2016,
+  "url": "http://iosconf.sg",
+  "startDate": "2016-10-20",
+  "endDate": "2016-10-21",
+  "city": "Singapore",
+  "country": "SG",
+  "lat": 1.28967,
+  "lng": 103.85007,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences",
+  "speakers": [
+    {
+      "speaker": "natasha-murashev",
+      "role": "Swift robot. Blogs at natashatherobot.com. Organizer of try! Swift conf",
+      "photoUrl": "http://2016.iosconf.sg/images/speakers/natasha.png",
+      "twitter": "https://twitter.com/natashatherobot?lang=en"
+    },
+    {
+      "speaker": "sam-davies",
+      "role": "Developer, author and trainer at raywenderlich.com",
+      "photoUrl": "http://2016.iosconf.sg/images/speakers/sam.png",
+      "twitter": "https://twitter.com/iwantmyrealname"
+    },
+    {
+      "speaker": "krzysztof-zablocki",
+      "role": "iOS dev @ The New York Times",
+      "bio": "iOS dev @ The New York Times. Author of: Objective-C Playgrounds, foldify, 3D engines, App Store Essential apps",
+      "photoUrl": "http://2016.iosconf.sg/images/speakers/merowing.png",
+      "twitter": "https://twitter.com/merowing_"
+    },
+    {
+      "speaker": "conrad-kramer",
+      "role": "iOS dev and co-founder @WorkflowHQ",
+      "bio": "iOS dev and co-founder @WorkflowHQ (2015 - Apple Design Award Winner)",
+      "photoUrl": "http://2016.iosconf.sg/images/speakers/conrad.png",
+      "twitter": "https://twitter.com/conradev/"
+    },
+    {
+      "speaker": "mugunth-kumar",
+      "role": "iOS developer",
+      "bio": "iOS developer. Author of iOS Pushing the Limits, Creator of MKNetworkKit, MKStoreKit",
+      "photoUrl": "http://2016.iosconf.sg/images/speakers/mugunth.png",
+      "twitter": "https://twitter.com/mugunthkumar"
+    },
+    {
+      "speaker": "ryan-nystrom",
+      "role": "iOS developer at Facebook",
+      "bio": "iOS developer at Facebook. Writer at raywenderlich.com",
+      "photoUrl": "http://2016.iosconf.sg/images/speakers/ryan.png",
+      "twitter": "https://twitter.com/_ryannystrom"
+    },
+    {
+      "speaker": "yasuhiro-inami",
+      "role": "iOS developer at LINE Corporation",
+      "bio": "iOS developer at LINE Corporation. try! Swift 2016 Tokyo speaker",
+      "photoUrl": "http://2016.iosconf.sg/images/speakers/yasuhiro.png",
+      "twitter": "https://twitter.com/inamiy"
+    },
+    {
+      "speaker": "tim-oliver",
+      "role": "iOS developer @Realm.io",
+      "bio": "iOS developer @Realm.io. Creator of iComics app",
+      "photoUrl": "http://2016.iosconf.sg/images/speakers/tim.png",
+      "twitter": "https://twitter.com/TimOliverAU"
+    },
+    {
+      "speaker": "hugh-vidos",
+      "role": "iOS Engineer at Grab",
+      "bio": "iOS Engineer at Grab. Previously at HBO, Disney, Google.",
+      "photoUrl": "http://2016.iosconf.sg/images/speakers/hugh.png",
+      "linkedin": "https://www.linkedin.com/in/hughv"
+    },
+    {
+      "speaker": "ben-asher",
+      "role": "iOS engineer at Yelp",
+      "bio": "iOS engineer at Yelp. Contributor to CocoaPods.",
+      "photoUrl": "http://2016.iosconf.sg/images/speakers/ben.png",
+      "twitter": "https://twitter.com/benasher44"
+    },
+    {
+      "speaker": "omer-iqbal",
+      "role": "iOS developer at Garena.",
+      "photoUrl": "http://2016.iosconf.sg/images/speakers/omer.png",
+      "twitter": "https://twitter.com/olenhad"
+    },
+    {
+      "speaker": "michael-petrov",
+      "role": "iOS developer at Dropbox",
+      "bio": "iOS developer at Dropbox. Creator of Couple of",
+      "photoUrl": "http://2016.iosconf.sg/images/speakers/michael.png",
+      "twitter": "https://twitter.com/mpetrov"
+    },
+    {
+      "speaker": "keith-smiley",
+      "role": "iOS Developer at Lyft",
+      "bio": "iOS Developer at Lyft. Previously at thoughtbot.",
+      "photoUrl": "http://2016.iosconf.sg/images/speakers/keith.png",
+      "twitter": "https://twitter.com/SmileyKeith"
+    },
+    {
+      "speaker": "subhransu-behera",
+      "role": "iOS developer at Singapore Power",
+      "bio": "iOS developer at Singapore Power. Previously at PayPal and SAP.",
+      "photoUrl": "http://2016.iosconf.sg/images/speakers/subhransu.png",
+      "twitter": "https://twitter.com/subhransu"
+    },
+    {
+      "speaker": "benjamin-encz",
+      "role": "iOS Lead @ PlanGrid",
+      "bio": "iOS Lead @ PlanGrid. Co-Creator of ReSwift.",
+      "photoUrl": "http://2016.iosconf.sg/images/speakers/benjamin.png",
+      "twitter": "https://twitter.com/benjaminencz"
+    },
+    {
+      "speaker": "gwendolyn-weston",
+      "role": "indie iOS developer",
+      "bio": "indie iOS developer. Speaker at try! Swift.",
+      "photoUrl": "http://2016.iosconf.sg/images/speakers/gwen.png",
+      "twitter": "https://twitter.com/purpleyay"
+    },
+    {
+      "speaker": "hwee-boon-yar",
+      "role": "iOS and OS X app developer",
+      "bio": "iOS and OS X app developer. Creator of SimplyTweet",
+      "photoUrl": "http://2016.iosconf.sg/images/speakers/hboon.png",
+      "twitter": "https://twitter.com/hboon"
+    },
+    {
+      "speaker": "subho-halder",
+      "role": "Co-founder at Appknox",
+      "bio": "Mobile security expert. Co-founder at Appknox.",
+      "photoUrl": "http://2016.iosconf.sg/images/speakers/subho.png",
+      "twitter": "https://twitter.com/sunnyrockzzs"
+    },
+    {
+      "speaker": "kheng-meng-yeo",
+      "role": "IoT engineer at Singapore Power.",
+      "photoUrl": "http://2016.iosconf.sg/images/speakers/ykm.png",
+      "linkedin": "https://sg.linkedin.com/in/yeokhengmeng"
+    }
+  ],
+  "talks": [
+    {
+      "slug": "a-protocol-for-compositions",
+      "title": "A Protocol for Compositions",
+      "speakers": [
+        "keith-smiley"
+      ]
+    },
+    {
+      "slug": "a-toy-web-framework-in-swift",
+      "title": "A toy web framework in Swift",
+      "speakers": [
+        "hwee-boon-yar"
+      ]
+    },
+    {
+      "slug": "build-features-not-apps",
+      "title": "Build Features, Not Apps",
+      "speakers": [
+        "natasha-murashev"
+      ]
+    },
+    {
+      "slug": "enter-the-dragon-taming-llvm",
+      "title": "Enter the Dragon: Taming LLVM",
+      "speakers": [
+        "omer-iqbal"
+      ]
+    },
+    {
+      "slug": "leveraging-swift-s-type-system",
+      "title": "Leveraging Swift's Type System",
+      "speakers": [
+        "benjamin-encz"
+      ]
+    },
+    {
+      "slug": "memory-graph-debugger",
+      "title": "Memory Graph Debugger",
+      "speakers": [
+        "mugunth-kumar"
+      ]
+    },
+    {
+      "slug": "notify-me-notify-you-aha",
+      "title": "Notify Me, Notify You. Aha!",
+      "speakers": [
+        "sam-davies"
+      ]
+    },
+    {
+      "slug": "optimization-making-your-app-faster",
+      "title": "Optimization - Making your app faster",
+      "speakers": [
+        "hugh-vidos"
+      ]
+    },
+    {
+      "slug": "outsmarting-hackers-before-your-app-gets-pwn-ed",
+      "title": "Outsmarting Hackers before your App gets pwn'ed",
+      "speakers": [
+        "subho-halder"
+      ]
+    },
+    {
+      "slug": "programming-without-recompiling",
+      "title": "Programming without recompiling",
+      "speakers": [
+        "krzysztof-zablocki"
+      ]
+    },
+    {
+      "slug": "reactive-state-machine",
+      "title": "Reactive State Machine",
+      "speakers": [
+        "yasuhiro-inami"
+      ]
+    },
+    {
+      "slug": "realm-how-i-learned-to-love-database-again",
+      "title": "Realm: How I learned to love database again",
+      "speakers": [
+        "tim-oliver"
+      ]
+    },
+    {
+      "slug": "scaling-at-large-lessons-learned-rewriting-instagram-s-feed",
+      "title": "Scaling at Large - Lessons learned rewriting Instagram’s feed",
+      "speakers": [
+        "ryan-nystrom"
+      ]
+    },
+    {
+      "slug": "swift-for-iot",
+      "title": "Swift for IoT",
+      "speakers": [
+        "subhransu-behera"
+      ]
+    },
+    {
+      "slug": "the-user-s-manual-for-pipe-maintenance",
+      "title": "The User's Manual For Pipe Maintenance",
+      "speakers": [
+        "gwendolyn-weston"
+      ]
+    },
+    {
+      "slug": "thinking-of-your-tests-as-a-software-product",
+      "title": "Thinking of your tests as a software product",
+      "speakers": [
+        "michael-petrov"
+      ]
+    },
+    {
+      "slug": "visualizing-graphs-in-swift",
+      "title": "Visualizing Graphs in Swift",
+      "speakers": [
+        "conrad-kramer"
+      ]
+    },
+    {
+      "slug": "writing-swift-while-living-on-objective-c",
+      "title": "Writing Swift, while living on Objective-C",
+      "speakers": [
+        "ben-asher"
+      ]
+    }
+  ]
+}

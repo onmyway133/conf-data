@@ -1,0 +1,15 @@
+{
+  "name": "iOSDevCampDC 2014",
+  "year": 2014,
+  "url": "http://iosdevcampdc.com/",
+  "startDate": "2014-08-01",
+  "endDate": "2014-08-01",
+  "city": "Tysons Corner",
+  "country": "US",
+  "lat": 38.91872,
+  "lng": -77.23109,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences"
+}

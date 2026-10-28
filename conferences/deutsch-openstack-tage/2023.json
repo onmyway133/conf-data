@@ -1,0 +1,16 @@
+{
+  "name": "Deutsch OpenStack Tage 2023",
+  "year": 2023,
+  "url": "https://openstack-tage.de",
+  "startDate": "2023-11-27",
+  "endDate": "2023-11-29",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "Networking"
+  ],
+  "twitter": "https://x.com/OpenStackTage",
+  "source": "confs.tech"
+}

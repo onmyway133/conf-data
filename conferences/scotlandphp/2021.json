@@ -1,0 +1,16 @@
+{
+  "name": "ScotlandPHP 2021",
+  "year": 2021,
+  "url": "https://conference.scotlandphp.co.uk/2021",
+  "startDate": "2021-10-22",
+  "endDate": "2021-10-23",
+  "city": "Edinburgh",
+  "country": "GB",
+  "lat": 55.95206,
+  "lng": -3.19648,
+  "topics": [
+    "PHP"
+  ],
+  "twitter": "https://x.com/scotlandphp",
+  "source": "confs.tech"
+}

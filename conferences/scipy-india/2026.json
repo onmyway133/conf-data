@@ -1,0 +1,19 @@
+{
+  "name": "SciPy India 2026",
+  "year": 2026,
+  "url": "https://scipy.in/2026/",
+  "startDate": "2026-12-19",
+  "endDate": "2026-12-20",
+  "city": "Chennai",
+  "country": "IN",
+  "lat": 13.08784,
+  "lng": 80.27847,
+  "topics": [
+    "Data/AI",
+    "Open Source",
+    "Python"
+  ],
+  "twitter": "https://x.com/scipy_india",
+  "bluesky": "https://bsky.app/profile/scipy.in",
+  "source": "confs.tech"
+}

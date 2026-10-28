@@ -1,0 +1,16 @@
+{
+  "name": "Digital Labin 2020",
+  "year": 2020,
+  "url": "https://digitalab.in",
+  "startDate": "2020-09-25",
+  "endDate": "2020-09-26",
+  "city": "Labin",
+  "country": "HR",
+  "lat": 45.095,
+  "lng": 14.11972,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/digitallabin",
+  "source": "confs.tech"
+}

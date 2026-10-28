@@ -1,0 +1,16 @@
+{
+  "name": "Festival of UX & Design 2020",
+  "year": 2020,
+  "url": "https://mobileuxlondon.com",
+  "startDate": "2020-09-09",
+  "endDate": "2020-09-11",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/mobileuxlondon",
+  "source": "confs.tech"
+}

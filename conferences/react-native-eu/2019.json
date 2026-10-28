@@ -1,0 +1,20 @@
+{
+  "name": "React Native EU 2019",
+  "year": 2019,
+  "url": "https://react-native.eu",
+  "startDate": "2019-09-05",
+  "endDate": "2019-09-06",
+  "city": "Wrocław",
+  "country": "PL",
+  "lat": 51.10286,
+  "lng": 17.03006,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "deadline": "2019-04-30",
+    "open": false
+  },
+  "twitter": "https://x.com/react_native_eu",
+  "source": "confs.tech"
+}

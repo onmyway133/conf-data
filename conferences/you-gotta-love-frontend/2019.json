@@ -1,0 +1,21 @@
+{
+  "name": "You Gotta Love Frontend 2019",
+  "year": 2019,
+  "url": "https://www.yougottalovefrontend.com",
+  "startDate": "2019-05-16",
+  "endDate": "2019-05-17",
+  "city": "Vilnius",
+  "country": "LT",
+  "lat": 54.68916,
+  "lng": 25.2798,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLScop_EaKnLyrgpGN4KiYXAoHmv4_f9vopE1_XIPQalxxdGA9Q/viewform",
+    "deadline": "2019-02-01",
+    "open": false
+  },
+  "twitter": "https://x.com/YGLFConf",
+  "source": "confs.tech"
+}

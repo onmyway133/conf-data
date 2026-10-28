@@ -1,0 +1,16 @@
+{
+  "name": "SmashingConf Freiburg 2023",
+  "year": 2023,
+  "url": "https://smashingconf.com/freiburg-2023",
+  "startDate": "2023-09-04",
+  "endDate": "2023-09-06",
+  "city": "Freiburg",
+  "country": "DE",
+  "lat": 47.9959,
+  "lng": 7.85222,
+  "topics": [
+    "JavaScript",
+    "Design/UX"
+  ],
+  "source": "confs.tech"
+}

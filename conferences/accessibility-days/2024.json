@@ -1,0 +1,16 @@
+{
+  "name": "Accessibility Days 2024",
+  "year": 2024,
+  "url": "https://accessibilitydays.it",
+  "startDate": "2024-05-16",
+  "endDate": "2024-05-17",
+  "city": "Rome",
+  "country": "IT",
+  "lat": 41.89193,
+  "lng": 12.51133,
+  "topics": [
+    "Accessibility"
+  ],
+  "twitter": "https://x.com/a11y_days",
+  "source": "confs.tech"
+}

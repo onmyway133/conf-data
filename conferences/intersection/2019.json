@@ -1,0 +1,21 @@
+{
+  "name": "Intersection 2019",
+  "year": 2019,
+  "url": "https://intersection-conference.eu",
+  "startDate": "2019-10-01",
+  "endDate": "2019-10-02",
+  "city": "Milano",
+  "country": "IT",
+  "lat": 45.46427,
+  "lng": 9.18951,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://intersection-conference.eu/call-for-speakers",
+    "deadline": "2019-04-05",
+    "open": false
+  },
+  "twitter": "https://x.com/Intersection_eu",
+  "source": "confs.tech"
+}

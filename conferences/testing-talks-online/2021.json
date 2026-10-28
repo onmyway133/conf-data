@@ -1,0 +1,14 @@
+{
+  "name": "Testing Talks Online 2021",
+  "year": 2021,
+  "url": "https://www.testingtalks.com.au/upcoming-events/testing-talks-conference-2021",
+  "startDate": "2021-10-28",
+  "endDate": "2021-10-28",
+  "city": "South Wharf",
+  "country": "AU",
+  "topics": [
+    "Testing"
+  ],
+  "twitter": "https://x.com/testingtalks",
+  "source": "confs.tech"
+}

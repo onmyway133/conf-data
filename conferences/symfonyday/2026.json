@@ -1,0 +1,16 @@
+{
+  "name": "SymfonyDay 2026",
+  "year": 2026,
+  "url": "https://live.symfony.com/2026-montreal",
+  "startDate": "2026-06-04",
+  "endDate": "2026-06-04",
+  "city": "Montreal",
+  "country": "CA",
+  "lat": 45.50884,
+  "lng": -73.58781,
+  "topics": [
+    "PHP"
+  ],
+  "twitter": "https://x.com/symfony_live",
+  "source": "confs.tech"
+}

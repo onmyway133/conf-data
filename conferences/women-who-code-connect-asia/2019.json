@@ -1,0 +1,15 @@
+{
+  "name": "Women Who Code Connect Asia 2019",
+  "year": 2019,
+  "url": "https://wwcodeconnectasia.github.io",
+  "startDate": "2019-08-31",
+  "endDate": "2019-08-31",
+  "city": "Singapore",
+  "country": "SG",
+  "lat": 1.28967,
+  "lng": 103.85007,
+  "topics": [
+    "Networking"
+  ],
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "PostgresConf 2019",
+  "year": 2019,
+  "url": "https://postgresconf.org/conferences/2019",
+  "startDate": "2019-03-18",
+  "endDate": "2019-03-22",
+  "city": "New York, NY",
+  "country": "US",
+  "lat": 40.71427,
+  "lng": -74.00597,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/postgresconf",
+  "source": "confs.tech"
+}

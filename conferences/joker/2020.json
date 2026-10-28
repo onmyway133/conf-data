@@ -1,0 +1,16 @@
+{
+  "name": "Joker 2020",
+  "year": 2020,
+  "url": "https://jokerconf.com",
+  "startDate": "2020-11-25",
+  "endDate": "2020-11-28",
+  "city": "Saint Petersburg",
+  "country": "RU",
+  "lat": 59.93863,
+  "lng": 30.31413,
+  "topics": [
+    "Java"
+  ],
+  "twitter": "https://x.com/jugru",
+  "source": "confs.tech"
+}

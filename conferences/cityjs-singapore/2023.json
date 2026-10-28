@@ -1,0 +1,21 @@
+{
+  "name": "CityJS Singapore 2023",
+  "year": 2023,
+  "url": "https://singapore.cityjsconf.org",
+  "startDate": "2023-07-26",
+  "endDate": "2023-07-28",
+  "city": "Singapore",
+  "country": "SG",
+  "lat": 1.28967,
+  "lng": 103.85007,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSeDSgVjIpOPoYdJo8KLpnNRqivoJT7EB0KI3eseRG7Ces7uIQ/viewform",
+    "deadline": "2023-05-31",
+    "open": false
+  },
+  "twitter": "https://x.com/cityjsconf",
+  "source": "confs.tech"
+}

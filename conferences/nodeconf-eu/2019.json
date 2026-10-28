@@ -1,0 +1,16 @@
+{
+  "name": "NodeConf.EU 2019",
+  "year": 2019,
+  "url": "https://www.nodeconf.eu",
+  "startDate": "2019-11-10",
+  "endDate": "2019-11-13",
+  "city": "Kilkenny",
+  "country": "IE",
+  "lat": 52.65417,
+  "lng": -7.25222,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/NodeConfEU",
+  "source": "confs.tech"
+}

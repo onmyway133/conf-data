@@ -1,0 +1,21 @@
+{
+  "name": "Unscripted 2022",
+  "year": 2022,
+  "url": "https://www.unscriptedconf.io",
+  "startDate": "2022-09-14",
+  "endDate": "2022-09-14",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/unscripted-2022/#",
+    "deadline": "2022-07-15",
+    "open": false
+  },
+  "twitter": "https://x.com/UnscriptedConf",
+  "source": "confs.tech"
+}

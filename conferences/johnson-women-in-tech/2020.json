@@ -1,0 +1,16 @@
+{
+  "name": "Johnson Women in Tech 2020",
+  "year": 2020,
+  "url": "https://www.johnsonwomenintech.com",
+  "startDate": "2020-03-06",
+  "endDate": "2020-03-06",
+  "city": "New York, NY",
+  "country": "US",
+  "lat": 40.71427,
+  "lng": -74.00597,
+  "topics": [
+    "Networking"
+  ],
+  "twitter": "https://x.com/CornellMBA",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Devopsdays Prague 2023",
+  "year": 2023,
+  "url": "https://devopsdays.org/events/2023-prague/welcome",
+  "startDate": "2023-05-22",
+  "endDate": "2023-05-23",
+  "city": "Prague",
+  "country": "CZ",
+  "lat": 50.08804,
+  "lng": 14.42076,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/DevOpsDaysPrg",
+  "source": "confs.tech"
+}

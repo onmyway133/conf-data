@@ -1,0 +1,14 @@
+{
+  "name": "Fronteers Conference 2023",
+  "year": 2023,
+  "url": "https://fronteersconf.org",
+  "startDate": "2023-09-21",
+  "endDate": "2023-09-22",
+  "city": "Utrecht",
+  "country": "NL",
+  "lat": 52.09083,
+  "lng": 5.12222,
+  "topics": [],
+  "twitter": "https://x.com/fronteersconf",
+  "source": "confs.tech"
+}

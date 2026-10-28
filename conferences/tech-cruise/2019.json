@@ -1,0 +1,15 @@
+{
+  "name": "Tech Cruise 2019",
+  "year": 2019,
+  "url": "https://techcruise.co",
+  "startDate": "2019-07-07",
+  "endDate": "2019-07-14",
+  "city": "Cape Canaveral, FL",
+  "country": "US",
+  "lat": 28.40584,
+  "lng": -80.60477,
+  "topics": [
+    "Networking"
+  ],
+  "source": "confs.tech"
+}

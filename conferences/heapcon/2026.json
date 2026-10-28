@@ -1,0 +1,19 @@
+{
+  "name": "Heapcon 2026",
+  "year": 2026,
+  "url": "https://heapcon.io/2026",
+  "startDate": "2026-11-05",
+  "endDate": "2026-11-06",
+  "city": "Belgrade",
+  "country": "RS",
+  "lat": 44.80401,
+  "lng": 20.46513,
+  "topics": [],
+  "cfp": {
+    "url": "https://forms.gle/QBM1aqkL8yS4c6YM8",
+    "deadline": "2026-06-01",
+    "open": true
+  },
+  "twitter": "https://x.com/Heapconf",
+  "source": "confs.tech"
+}

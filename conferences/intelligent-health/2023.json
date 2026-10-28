@@ -1,0 +1,16 @@
+{
+  "name": "Intelligent Health 2023",
+  "year": 2023,
+  "url": "https://intelligenthealth.ai",
+  "startDate": "2023-05-24",
+  "endDate": "2023-05-25",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/IntHealthAI",
+  "source": "confs.tech"
+}

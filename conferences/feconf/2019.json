@@ -1,0 +1,20 @@
+{
+  "name": "FEConf 2019",
+  "year": 2019,
+  "url": "https://2019.feconf.kr",
+  "startDate": "2019-11-26",
+  "endDate": "2019-11-26",
+  "city": "Seoul",
+  "country": "KR",
+  "lat": 37.566,
+  "lng": 126.9784,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSfrp8ZbPTqiKDHSFs8e3STLvn1ZHLKGJliY1NPc8pnPhZdT7Q/viewform",
+    "deadline": "2019-07-31",
+    "open": false
+  },
+  "source": "confs.tech"
+}

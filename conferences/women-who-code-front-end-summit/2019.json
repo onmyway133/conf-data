@@ -1,0 +1,19 @@
+{
+  "name": "Women Who Code Front End Summit 2019",
+  "year": 2019,
+  "url": "http://frontend.womenwhocode.dev",
+  "startDate": "2019-10-12",
+  "endDate": "2019-10-12",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSfgSH98xsAB3c1wt3NiSIldxWKylryllGBzGv6AZox3mXHE-w/viewform",
+    "deadline": "2019-09-01",
+    "open": false
+  },
+  "twitter": "https://x.com/WWCodeFrontEnd1",
+  "source": "confs.tech"
+}

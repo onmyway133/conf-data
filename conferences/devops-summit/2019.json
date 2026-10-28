@@ -1,0 +1,20 @@
+{
+  "name": "DevOps Summit 2019",
+  "year": 2019,
+  "url": "https://www.devopssummitamsterdam.com",
+  "startDate": "2019-10-07",
+  "endDate": "2019-10-08",
+  "city": "Amsterdam",
+  "country": "NL",
+  "lat": 52.37403,
+  "lng": 4.88969,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/devopssummitamsterdam",
+    "deadline": "2019-06-16",
+    "open": false
+  },
+  "source": "confs.tech"
+}

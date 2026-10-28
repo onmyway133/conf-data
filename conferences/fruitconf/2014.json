@@ -1,0 +1,15 @@
+{
+  "name": "FruitConf 2014",
+  "year": 2014,
+  "url": "http://fruitconf.co/",
+  "startDate": "2014-06-12",
+  "endDate": "2014-06-13",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences"
+}

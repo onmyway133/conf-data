@@ -1,0 +1,21 @@
+{
+  "name": "Devopsdays Baltimore 2024",
+  "year": 2024,
+  "url": "https://devopsdays.org/events/2024-baltimore/welcome",
+  "startDate": "2024-05-21",
+  "endDate": "2024-05-22",
+  "city": "Baltimore, MD",
+  "country": "US",
+  "lat": 39.29038,
+  "lng": -76.61219,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://talks.devopsdays.org/devopsdays-baltimore-2024/cfp",
+    "deadline": "2024-02-01",
+    "open": false
+  },
+  "twitter": "https://x.com/DevOpsDaysBmore",
+  "source": "confs.tech"
+}

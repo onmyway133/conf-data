@@ -1,0 +1,15 @@
+{
+  "name": "CocoaConf Austin 2016",
+  "year": 2016,
+  "url": "http://cocoaconf.com/austin-2016/home",
+  "startDate": "2016-04-15",
+  "endDate": "2016-04-16",
+  "city": "Austin",
+  "country": "US",
+  "lat": 30.26715,
+  "lng": -97.74306,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences"
+}

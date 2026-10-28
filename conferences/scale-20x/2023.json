@@ -1,0 +1,19 @@
+{
+  "name": "SCaLE 20x 2023",
+  "year": 2023,
+  "url": "https://www.socallinuxexpo.org/scale/20x",
+  "startDate": "2023-03-09",
+  "endDate": "2023-03-12",
+  "city": "Pasadena, CA",
+  "country": "US",
+  "lat": 29.69106,
+  "lng": -95.2091,
+  "topics": [],
+  "cfp": {
+    "url": "https://www.socallinuxexpo.org/scale/20x/cfp",
+    "deadline": "2022-12-02",
+    "open": false
+  },
+  "twitter": "https://x.com/socallinuxexpo",
+  "source": "confs.tech"
+}

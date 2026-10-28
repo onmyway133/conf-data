@@ -1,0 +1,19 @@
+{
+  "name": "IT-Tage 2019",
+  "year": 2019,
+  "url": "https://www.ittage.informatik-aktuell.de",
+  "startDate": "2019-12-09",
+  "endDate": "2019-12-12",
+  "city": "Frankfurt am Main",
+  "country": "DE",
+  "lat": 50.11552,
+  "lng": 8.68417,
+  "topics": [],
+  "cfp": {
+    "url": "https://www.ittage.informatik-aktuell.de/call-for-papers",
+    "deadline": "2019-05-10",
+    "open": false
+  },
+  "twitter": "https://x.com/ittage",
+  "source": "confs.tech"
+}

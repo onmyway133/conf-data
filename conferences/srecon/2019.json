@@ -1,0 +1,16 @@
+{
+  "name": "SREcon 2019",
+  "year": 2019,
+  "url": "https://www.usenix.org/conference/srecon19americas",
+  "startDate": "2019-03-25",
+  "endDate": "2019-03-27",
+  "city": "Brooklyn, NY",
+  "country": "US",
+  "lat": 40.6501,
+  "lng": -73.94958,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/SREcon",
+  "source": "confs.tech"
+}

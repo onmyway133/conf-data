@@ -1,0 +1,15 @@
+{
+  "name": "droidcon NYC 2021",
+  "year": 2021,
+  "url": "https://www.nyc.droidcon.com",
+  "startDate": "2021-11-10",
+  "endDate": "2021-11-11",
+  "city": "New York, NY",
+  "country": "US",
+  "lat": 40.71427,
+  "lng": -74.00597,
+  "topics": [
+    "Android"
+  ],
+  "source": "confs.tech"
+}

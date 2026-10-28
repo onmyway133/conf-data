@@ -1,0 +1,21 @@
+{
+  "name": "GothamGo 2019",
+  "year": 2019,
+  "url": "http://gothamgo.com",
+  "startDate": "2019-04-12",
+  "endDate": "2019-04-12",
+  "city": "New York, NY",
+  "country": "US",
+  "lat": 40.71427,
+  "lng": -74.00597,
+  "topics": [
+    "Go"
+  ],
+  "cfp": {
+    "url": "https://www.papercall.io/gothamgo2019",
+    "deadline": "2019-01-18",
+    "open": false
+  },
+  "twitter": "https://x.com/gothamgo",
+  "source": "confs.tech"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "heise devSec 2025",
+  "year": 2025,
+  "url": "https://www.heise-devsec.de",
+  "startDate": "2025-09-30",
+  "endDate": "2025-10-01",
+  "city": "Regensburg",
+  "country": "DE",
+  "lat": 49.01513,
+  "lng": 12.10161,
+  "topics": [
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://www.heise-devsec.de/cfp.php",
+    "deadline": "2025-04-11",
+    "open": false
+  },
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "HalfStack New York 2020",
+  "year": 2020,
+  "url": "https://halfstackconf.com/newyork",
+  "startDate": "2020-08-14",
+  "endDate": "2020-08-14",
+  "city": "New York, NY",
+  "country": "US",
+  "lat": 40.71427,
+  "lng": -74.00597,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/halfstackconf",
+  "source": "confs.tech"
+}

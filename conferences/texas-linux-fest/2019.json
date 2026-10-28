@@ -1,0 +1,16 @@
+{
+  "name": "Texas Linux Fest 2019",
+  "year": 2019,
+  "url": "http://www.texaslinuxfest.org",
+  "startDate": "2019-05-31",
+  "endDate": "2019-06-01",
+  "city": "Dallas, TX",
+  "country": "US",
+  "lat": 32.78306,
+  "lng": -96.80667,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/texaslinuxfest",
+  "source": "confs.tech"
+}

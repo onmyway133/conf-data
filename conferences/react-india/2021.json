@@ -1,0 +1,16 @@
+{
+  "name": "React India 2021",
+  "year": 2021,
+  "url": "https://www.reactindia.io",
+  "startDate": "2021-11-12",
+  "endDate": "2021-11-13",
+  "city": "Mumbai",
+  "country": "IN",
+  "lat": 19.07283,
+  "lng": 72.88261,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/react_india",
+  "source": "confs.tech"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "GITEX AI SERBIA 2027",
+  "year": 2027,
+  "url": "https://www.gitexserbia.com",
+  "startDate": "2027-05-26",
+  "endDate": "2027-05-27",
+  "city": "Belgrade",
+  "country": "RS",
+  "lat": 44.80401,
+  "lng": 20.46513,
+  "topics": [
+    "Data/AI"
+  ],
+  "source": "confs.tech"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Manchester Tech Festival | Software Development Day 2025",
+  "year": 2025,
+  "url": "https://www.manchestertechfestival.co.uk/software-development",
+  "startDate": "2025-10-03",
+  "endDate": "2025-10-03",
+  "city": "Manchester",
+  "country": "GB",
+  "lat": 53.48095,
+  "lng": -2.23743,
+  "topics": [
+    "DevOps"
+  ],
+  "source": "confs.tech"
+}

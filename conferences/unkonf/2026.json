@@ -1,0 +1,14 @@
+{
+  "name": "unKonf 2026",
+  "year": 2026,
+  "url": "https://www.unKonf.de",
+  "startDate": "2026-10-10",
+  "endDate": "2026-10-10",
+  "city": "Mannheim",
+  "country": "DE",
+  "lat": 49.4891,
+  "lng": 8.46694,
+  "topics": [],
+  "mastodon": "https://rheinneckar.social/@unKonf",
+  "source": "confs.tech"
+}

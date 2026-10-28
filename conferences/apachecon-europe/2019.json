@@ -1,0 +1,14 @@
+{
+  "name": "ApacheCon Europe 2019",
+  "year": 2019,
+  "url": "https://aceu19.apachecon.com",
+  "startDate": "2019-10-22",
+  "endDate": "2019-10-24",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [],
+  "twitter": "https://x.com/ApacheCon",
+  "source": "confs.tech"
+}

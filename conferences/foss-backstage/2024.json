@@ -1,0 +1,22 @@
+{
+  "name": "FOSS Backstage 2024",
+  "year": 2024,
+  "url": "https://24.foss-backstage.de",
+  "startDate": "2024-03-04",
+  "endDate": "2024-03-05",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "Networking"
+  ],
+  "cfp": {
+    "url": "https://program.foss-backstage.de/fossback24/cfp",
+    "deadline": "2023-11-15",
+    "open": false
+  },
+  "twitter": "https://x.com/fossbckstg",
+  "mastodon": "https://floss.social/@FOSSBackstage",
+  "source": "confs.tech"
+}

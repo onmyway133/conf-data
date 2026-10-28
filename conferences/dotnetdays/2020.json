@@ -1,0 +1,16 @@
+{
+  "name": "dotnetdays 2020",
+  "year": 2020,
+  "url": "https://dotnetdays.ro",
+  "startDate": "2020-02-29",
+  "endDate": "2020-02-29",
+  "city": "Iasi",
+  "country": "RO",
+  "lat": 47.16667,
+  "lng": 27.6,
+  "topics": [
+    ".NET"
+  ],
+  "twitter": "https://x.com/dotnetdaysro",
+  "source": "confs.tech"
+}

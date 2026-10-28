@@ -1,0 +1,16 @@
+{
+  "name": "Women in Tech Summit 2020",
+  "year": 2020,
+  "url": "http://northeast.womenintechsummit.net",
+  "startDate": "2020-11-12",
+  "endDate": "2020-11-13",
+  "city": "Philadelphia, PA",
+  "country": "US",
+  "lat": 39.95238,
+  "lng": -75.16362,
+  "topics": [
+    "Networking"
+  ],
+  "twitter": "https://x.com/womentechsummit",
+  "source": "confs.tech"
+}

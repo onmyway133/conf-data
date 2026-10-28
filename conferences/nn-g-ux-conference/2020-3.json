@@ -1,0 +1,16 @@
+{
+  "name": "NN/g UX Conference 2020",
+  "year": 2020,
+  "url": "https://www.nngroup.com/training/los-angeles",
+  "startDate": "2020-02-23",
+  "endDate": "2020-02-28",
+  "city": "Los Angeles, CA",
+  "country": "US",
+  "lat": 34.05223,
+  "lng": -118.24368,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/nngroup",
+  "source": "confs.tech"
+}

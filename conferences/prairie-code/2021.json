@@ -1,0 +1,21 @@
+{
+  "name": "Prairie Code 2021",
+  "year": 2021,
+  "url": "https://prairiecode.amegala.com",
+  "startDate": "2021-09-23",
+  "endDate": "2021-09-24",
+  "city": "Des Moines, IA",
+  "country": "US",
+  "lat": 41.60054,
+  "lng": -93.60911,
+  "topics": [
+    ".NET"
+  ],
+  "cfp": {
+    "url": "https://www.amegala.com/#/cfp",
+    "deadline": "2021-06-15",
+    "open": false
+  },
+  "twitter": "https://x.com/amegala",
+  "source": "confs.tech"
+}

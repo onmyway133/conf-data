@@ -1,0 +1,19 @@
+{
+  "name": "QCon San Francisco 2021",
+  "year": 2021,
+  "url": "https://qconsf.com",
+  "startDate": "2021-11-01",
+  "endDate": "2021-11-05",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSfexoSjgtnIFrnTqNdST6BPH5FTYFS4gV1w0k5DWzGhDvipXw/viewform",
+    "deadline": "2021-07-31",
+    "open": false
+  },
+  "twitter": "https://x.com/QConSF",
+  "source": "confs.tech"
+}

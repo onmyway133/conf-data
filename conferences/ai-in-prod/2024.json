@@ -1,0 +1,16 @@
+{
+  "name": "AI in Prod 2024",
+  "year": 2024,
+  "url": "https://events.weaviate.io/ai-in-prod-ny-24",
+  "startDate": "2024-05-21",
+  "endDate": "2024-05-21",
+  "city": "New York, NY",
+  "country": "US",
+  "lat": 40.71427,
+  "lng": -74.00597,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/weaviate_io",
+  "source": "confs.tech"
+}

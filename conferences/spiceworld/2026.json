@@ -1,0 +1,19 @@
+{
+  "name": "SpiceWorld 2026",
+  "year": 2026,
+  "url": "https://www.spiceworks.com/spiceworld",
+  "startDate": "2026-11-12",
+  "endDate": "2026-11-13",
+  "city": "Austin, TX",
+  "country": "US",
+  "lat": 30.26715,
+  "lng": -97.74306,
+  "topics": [],
+  "cfp": {
+    "url": "https://sessionize.com/spiceworld-2026",
+    "deadline": "2026-05-01",
+    "open": true
+  },
+  "twitter": "https://x.com/spiceworks",
+  "source": "confs.tech"
+}

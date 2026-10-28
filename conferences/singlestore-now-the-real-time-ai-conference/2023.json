@@ -1,0 +1,15 @@
+{
+  "name": "SingleStore Now: The Real-Time AI Conference 2023",
+  "year": 2023,
+  "url": "https://singlestorenowtherealtimeaicon.splashthat.com",
+  "startDate": "2023-10-17",
+  "endDate": "2023-10-17",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [
+    "Data/AI"
+  ],
+  "source": "confs.tech"
+}

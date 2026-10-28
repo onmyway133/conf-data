@@ -1,0 +1,16 @@
+{
+  "name": "Covalence 2020",
+  "year": 2020,
+  "url": "http://www.covalenceconf.com",
+  "startDate": "2020-01-24",
+  "endDate": "2020-01-24",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/CovalenceConf",
+  "source": "confs.tech"
+}

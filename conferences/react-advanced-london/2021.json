@@ -1,0 +1,16 @@
+{
+  "name": "React Advanced London 2021",
+  "year": 2021,
+  "url": "https://reactadvanced.com",
+  "startDate": "2021-10-22",
+  "endDate": "2021-10-25",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/ReactAdvanced",
+  "source": "confs.tech"
+}

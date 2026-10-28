@@ -1,0 +1,16 @@
+{
+  "name": "JSHeroes 2022",
+  "year": 2022,
+  "url": "https://jsheroes.io",
+  "startDate": "2022-06-09",
+  "endDate": "2022-06-09",
+  "city": "Cluj-Napoca",
+  "country": "RO",
+  "lat": 46.76667,
+  "lng": 23.6,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/jsheroes",
+  "source": "confs.tech"
+}

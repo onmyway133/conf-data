@@ -1,0 +1,21 @@
+{
+  "name": "Caribbean Developers Conference 2019",
+  "year": 2019,
+  "url": "https://cdc.dev",
+  "startDate": "2019-10-04",
+  "endDate": "2019-10-05",
+  "city": "Punta Cana",
+  "country": "DO",
+  "lat": 18.58182,
+  "lng": -68.40431,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/cdc",
+    "deadline": "2019-08-31",
+    "open": false
+  },
+  "twitter": "https://x.com/caribbeandevcon",
+  "source": "confs.tech"
+}

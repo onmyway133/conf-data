@@ -1,0 +1,21 @@
+{
+  "name": "RuhrSec Day 2022",
+  "year": 2022,
+  "url": "https://www.ruhrsec.de/2022",
+  "startDate": "2022-05-05",
+  "endDate": "2022-05-05",
+  "city": "Bochum",
+  "country": "DE",
+  "lat": 51.48165,
+  "lng": 7.21648,
+  "topics": [
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://www.ruhrsec.de/2022/index.html#cfp",
+    "deadline": "2022-03-21",
+    "open": false
+  },
+  "twitter": "https://x.com/ruhrsec",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Web Data Extraction Summit 2022",
+  "year": 2022,
+  "url": "https://www.extractsummit.io",
+  "startDate": "2022-09-29",
+  "endDate": "2022-09-29",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/ExtractSummit",
+  "source": "confs.tech"
+}

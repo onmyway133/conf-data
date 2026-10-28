@@ -1,0 +1,20 @@
+{
+  "name": "Test Automation Innovation Summit | Manila 2026",
+  "year": 2026,
+  "url": "https://www.testautomationinnovationsummit.com/manila",
+  "startDate": "2026-07-17",
+  "endDate": "2026-07-17",
+  "city": "Manila",
+  "country": "PH",
+  "lat": 14.6042,
+  "lng": 120.9822,
+  "topics": [
+    "Testing"
+  ],
+  "cfp": {
+    "url": "https://www.testautomationinnovationsummit.com/manila/register",
+    "deadline": "2026-06-30",
+    "open": false
+  },
+  "source": "confs.tech"
+}

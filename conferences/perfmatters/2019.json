@@ -1,0 +1,21 @@
+{
+  "name": "#PerfMatters 2019",
+  "year": 2019,
+  "url": "https://perfmattersconf.com",
+  "startDate": "2019-04-02",
+  "endDate": "2019-04-03",
+  "city": "Redwood City, CA",
+  "country": "US",
+  "lat": 37.48522,
+  "lng": -122.23635,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://perfmattersconf.com/speak",
+    "deadline": "2018-11-15",
+    "open": false
+  },
+  "twitter": "https://x.com/perfmattersconf",
+  "source": "confs.tech"
+}

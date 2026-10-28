@@ -1,0 +1,20 @@
+{
+  "name": "WeAreDevelopers Conference India 2026",
+  "year": 2026,
+  "url": "https://www.wearedevelopers.com/conference-india",
+  "startDate": "2026-11-25",
+  "endDate": "2026-11-26",
+  "city": "Bengaluru",
+  "country": "IN",
+  "lat": 12.97194,
+  "lng": 77.59369,
+  "topics": [
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/wearedevelopers-conference-2026-india",
+    "deadline": "2026-07-24",
+    "open": true
+  },
+  "source": "confs.tech"
+}

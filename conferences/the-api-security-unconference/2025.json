@@ -1,0 +1,17 @@
+{
+  "name": "The API Security UnConference 2025",
+  "year": 2025,
+  "url": "https://nordicapis.com/events/the-api-security-unconference",
+  "startDate": "2025-10-13",
+  "endDate": "2025-10-13",
+  "city": "Stockholm",
+  "country": "SE",
+  "lat": 59.32938,
+  "lng": 18.06871,
+  "topics": [
+    "APIs"
+  ],
+  "twitter": "https://x.com/nordicapis",
+  "bluesky": "https://bsky.app/profile/nordicapis.com",
+  "source": "confs.tech"
+}

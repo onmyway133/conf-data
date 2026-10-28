@@ -1,0 +1,16 @@
+{
+  "name": "DrupalCamp NJ 2019",
+  "year": 2019,
+  "url": "https://www.drupalcampnj.org",
+  "startDate": "2019-02-01",
+  "endDate": "2019-02-03",
+  "city": "Princeton, NJ",
+  "country": "US",
+  "lat": 25.53844,
+  "lng": -80.40894,
+  "topics": [
+    "PHP"
+  ],
+  "twitter": "https://x.com/drupalcampnj",
+  "source": "confs.tech"
+}

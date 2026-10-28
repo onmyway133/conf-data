@@ -1,0 +1,19 @@
+{
+  "name": "Berlin Buzzwords 2023",
+  "year": 2023,
+  "url": "https://2023.berlinbuzzwords.de",
+  "startDate": "2023-06-18",
+  "endDate": "2023-06-20",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [],
+  "cfp": {
+    "url": "https://2023.berlinbuzzwords.de/call-for-papers",
+    "deadline": "2023-02-19",
+    "open": false
+  },
+  "twitter": "https://x.com/berlinbuzzwords",
+  "source": "confs.tech"
+}

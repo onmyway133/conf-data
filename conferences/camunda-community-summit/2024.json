@@ -1,0 +1,16 @@
+{
+  "name": "Camunda Community Summit 2024",
+  "year": 2024,
+  "url": "https://www.camundacon.com/na",
+  "startDate": "2024-10-16",
+  "endDate": "2024-10-17",
+  "city": "New York, NY",
+  "country": "US",
+  "lat": 40.71427,
+  "lng": -74.00597,
+  "topics": [
+    "DevOps",
+    "Networking"
+  ],
+  "source": "confs.tech"
+}

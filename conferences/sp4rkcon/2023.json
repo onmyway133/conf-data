@@ -1,0 +1,15 @@
+{
+  "name": "Sp4rkcon 2023",
+  "year": 2023,
+  "url": "https://one.walmart.com/content/sp4rkcon/wmeo/sp4rkcon-home/sp4rkcon-2023.html",
+  "startDate": "2023-04-15",
+  "endDate": "2023-04-15",
+  "city": "Bentonville, AR",
+  "country": "US",
+  "lat": 36.37285,
+  "lng": -94.20882,
+  "topics": [
+    "Security"
+  ],
+  "source": "confs.tech"
+}

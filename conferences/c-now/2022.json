@@ -1,0 +1,16 @@
+{
+  "name": "C++ Now 2022",
+  "year": 2022,
+  "url": "https://cppnow.org",
+  "startDate": "2022-05-01",
+  "endDate": "2022-05-06",
+  "city": "Aspen, CO",
+  "country": "US",
+  "lat": 39.1911,
+  "lng": -106.81754,
+  "topics": [
+    "C++"
+  ],
+  "twitter": "https://x.com/cppnow",
+  "source": "confs.tech"
+}

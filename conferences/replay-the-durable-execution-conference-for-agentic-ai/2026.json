@@ -1,0 +1,19 @@
+{
+  "name": "Replay: The Durable Execution Conference for Agentic AI 2026",
+  "year": 2026,
+  "url": "https://replay.temporal.io",
+  "startDate": "2026-05-05",
+  "endDate": "2026-05-07",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [
+    "Data/AI",
+    "DevOps",
+    "Open Source"
+  ],
+  "twitter": "https://x.com/temporalio",
+  "bluesky": "https://bsky.app/profile/temporal.io",
+  "source": "confs.tech"
+}

@@ -1,0 +1,377 @@
+{
+  "name": "try! Swift New York 2017",
+  "year": 2017,
+  "url": "https://www.tryswift.co/events/2017/nyc",
+  "startDate": "2017-09-05",
+  "endDate": "2017-09-06",
+  "city": "New York City",
+  "country": "US",
+  "lat": 40.71427,
+  "lng": -74.00597,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences",
+  "speakers": [
+    {
+      "speaker": "matt-gallagher",
+      "bio": "Matt Gallagher started his career writing embedded C at a printer company and computer vision research at a video games company. For the last decade, Matt has worked as a Mac and iOS developer and consultant across a range of fields from video server software to weather apps. His website, cocoawithlove.com, has offered in-depth articles on Mac and iOS development since 2008.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2017/speakers/matt.jpg",
+      "twitter": "https://twitter.com/cocoawithlove"
+    },
+    {
+      "speaker": "paola-mata",
+      "bio": "Paola is an iOS developer at BuzzFeed, a social media addict, and an occasional blogger based in Brooklyn. Paola is also actively involved in the tech community as co-founder of NYC Tech Latinas and advisor to the Women in iOSoho meetup, and she regularly volunteers her time to promoting diversity in tech and supporting the next wave of new programmers. When she's not buried in code, you'll likely find Paola binge-watching a sci-fi series, lifting at the gym, or hunting down good eats.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2017/speakers/paola.jpeg",
+      "twitter": "https://twitter.com/PaolaNotPaolo"
+    },
+    {
+      "speaker": "harlan-haskins",
+      "bio": "Harlan is a Computer Science student at Rochester Institute of Technology. He's previously worked at Apple as an intern on the Swift Quality Engineering team, where he contributed to LLVM, Swift, and the Swift Migrator. He’s also been working on Swift libraries to interface with LLVM and Clang, which he uses in his hobby compiler, Trill. He currently works as an iOS engineer at Bryx, Inc making apps for 911 and EMS responders.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2017/speakers/harlan.jpg",
+      "twitter": "https://twitter.com/harlanhaskins"
+    },
+    {
+      "speaker": "craig-clayton",
+      "bio": "Craig Clayton is a self-taught, Sr. iOS Engineer at Adept Mobile, which specializes in building mobile experiences primarily for NBA and NFL teams. He is the founder of Cocoa.academy, where he produces workshops and courses on iOS development. Craig is the author of the newly released book called iOS 10 Programming for Beginners. He has worked as a mentor for both adults and kids, helping those who aspire to become iOS developers.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2017/speakers/craig.png",
+      "twitter": "https://twitter.com/thedevme"
+    },
+    {
+      "speaker": "julio-carrettoni",
+      "bio": "Julio Carrettoni started his professional career in 2009 as an iPhoneOS Developer. Since that time he has developed also for Blackberry (Java and C++) and Android, but his platform of choice has always been iOS. Always working from Buenos Aires Argentina, Julio is also a co host at @NSCoderBA and an active collaborator and former speaker at @NSConfArg. Currently he performs as the VP of mobile applications in Blue Trail Software without ever stopping coding.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2017/speakers/fotopulenta.jpg",
+      "twitter": "https://twitter.com/dev_jac"
+    },
+    {
+      "speaker": "tanner-nelson",
+      "bio": "Tanner is an American software engineer based in New York City. He studied Computer Science at New York University and has worked as a full stack, iOS, and embedded systems engineer. Tanner's current focus is developing Vapor, an open source Server-Side Swift framework that he created in 2016.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2017/speakers/tanner.jpg",
+      "twitter": "https://twitter.com/tanner0101"
+    },
+    {
+      "speaker": "neem-serra",
+      "bio": "Neem Serra is an iOS developer in the St. Louis area. She teaches and mentors at a variety of non-profit organizations such as Software Carpentry and the Roy Clay Senior Tech Impact web development workshop. As the lead of the Google Women Techmakers group in St. Louis, she started the St. Louis Techies Project (STLTechies.com) to highlight the diversity of technical people in St. Louis. Neem loves to bake, read comics, and host craft nights.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2017/speakers/neem.jpg",
+      "twitter": "https://twitter.com/TeamNeem"
+    },
+    {
+      "speaker": "yasuhiro-inami",
+      "bio": "Yasuhiro is an iOS developer at CyberAgent, Inc in Japan. While creating AbemaTV (Japanese TV app, https://abema.tv/) in his work, he also dedicates his time to functional programming and open source projects. He is a huge fan of Swift, Haskell, and any statically typed languages that compiler can check his bad code, yet he also loves unpredictable, dynamic world he lives in now.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2017/speakers/inamiy.png",
+      "twitter": "https://twitter.com/inamiy"
+    },
+    {
+      "speaker": "priya-rajagopal",
+      "bio": "Priya Rajagopal is a Mobile Developer Advocate for Couchbase, living in Ann Arbor, MI. She has been professionally developing software for over 18 years. She is active in the local mobile developer community where she organizes the Mobile Monday Ann Arbor group and mentors other developers. Although her current interests lie in mobile development, she has previously worked on a range of technologies including IPTV, Social TV, targeted advertising, network management , network security and platform security. As a TISPAN IPTV standards delegate, she was a contributor to the IPTV architectural specifications. She has spent a decade in software R&D and is a co-inventor on almost 2 dozen US patents. When not developing software, she enjoys spending time with her family and watching movies.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2017/speakers/priya.jpg",
+      "twitter": "https://twitter.com/rajagp"
+    },
+    {
+      "speaker": "james-dempsey",
+      "bio": "James Dempsey is currently building iOS and macOS apps in Swift as a tech lead at Upthere. He is a fifteen-year Apple veteran gone indie. At Apple, he was an evangelist, technical trainer, curriculum manager, and software engineer, working on Aperture, iOS, and macOS. James is also the frontman of James Dempsey and the Breakpoints, a band that performs humorous original songs about Swift, iOS and macOS development. Their debut album Backtrace topped the iTunes comedy charts in the US, UK, and Canada, reaching #5 on the Billboard comedy album chart.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2017/speakers/james.jpg",
+      "twitter": "https://twitter.com/jamesdempsey"
+    },
+    {
+      "speaker": "krunoslav-zaher",
+      "bio": "Worked on various projects for the past 16 years (augmented reality engines, BPM systems, mobile applications, bots …) Recently studying functional programming and modeling systems in a declarative way using observable sequences. I’m the initial committer in the RxSwift repository, I’m helping out bootstrapping an ecosystem inside RxSwiftCommunity and sharing architecture ideas in RxFeedback repository. Currently building systems at a YC well-being startup called Bellabeat.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2017/speakers/krunoslav.jpg",
+      "twitter": "https://twitter.com/krunoslavzaher"
+    },
+    {
+      "speaker": "sonam-dhingra",
+      "bio": "Sonam Dhingra is a Senior iOS engineer, entrepreneur, and spikeballer living in Brooklyn. She has a B.A in Business Administration & Finance and graduated from Boston University. Her background is extremely diverse. From being a real estate agent, to a motion graphics editor, to an entrepreneur, and for the past few years building iOS apps for a variety of companies. Her journey into programming included a 2 month iOS bootcamp in 2013. She has built over 3 iOS applications from the ground up through her experience at a few different agencies.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2017/speakers/sonam.JPG",
+      "twitter": "https://twitter.com/Sdhingra89"
+    },
+    {
+      "speaker": "ray-tsaihong",
+      "bio": "Ray Tsaihong is an iOS developer based in Taipei currently working at LINE. He has worked on back end code, front end code, and code that runs in satellite computers, but his main loves are Swift, Cocoa, and the machines that run them.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2017/speakers/tsaihong.jpg",
+      "twitter": "https://twitter.com/rmundo"
+    },
+    {
+      "speaker": "nataliya-patsovska",
+      "bio": "After graduating as a Software engineer, Nataliya focused on iOS development for more than 4 years, recently as a member of the mobile team at Spotify. Her passion about testing and maintainability in general drove a lot of the talks she did as part of her jobs. Now she is keen to share more broadly her personal reflections and experiences and to elaborate on those with the Swift community.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2017/speakers/nataliya.JPG",
+      "twitter": "https://twitter.com/nataliya_bg"
+    },
+    {
+      "speaker": "paul-fenwick",
+      "bio": "Paul Fenwick is an internationally acclaimed public speaker, developer, and science educator. Paul is well known for presenting on a diverse range of topics including privacy, neuroscience and neuroethics, Klingon programming, open source, depression and mental health, advancements in science, diversity, autonomous agents, and minesweeper automation. His dynamic presentation style and quirky humour has delighted audiences worldwide. Paul was awarded the 2013 O'Reilly Open Source award, and the 2010 White Camel award, both for outstanding contributions to the open source community.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2017/speakers/paul.jpg",
+      "twitter": "https://twitter.com/pjf"
+    },
+    {
+      "speaker": "glenna-buford",
+      "bio": "Glenna is an Engineering Lead at Wooga, where she’s been working on Jelly Splash for over two years, making sure new versions get shipped regularly for players to enjoy the game over a long period of time. Glenna has expertise in iOS and Android development, is a director of Women Who Code Berlin, and organizer of Girls’ Games Workshops in Germany. When she’s not computering, she’s usually trying new beers or traveling.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2017/speakers/glenna.jpg",
+      "twitter": "https://twitter.com/glennersboofy"
+    },
+    {
+      "speaker": "helen-papanikolopoulou",
+      "bio": "Eleni Papanikolopoulou is an active iOS Developer at Workable, an innovating recruiting software company, headquartered in Boston, MA. She is from Athens, Greece and holds a Master’s degree in Computer Science and IT Management from University of Manchester, UK. She started her developing career as a Java engineer but later on converted to Swift when contributing in Pobuca, a contact management app. She is an advocate of RxSwift for solving tough asynchronous-like problems and currently working in developing Error Handler, an open-source Swift framework. When she doesn't work, she enjoys traveling more than anything and watching Silicon Valley series.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2017/speakers/helen.png",
+      "twitter": "https://twitter.com/elenipapanikolo"
+    },
+    {
+      "speaker": "kostas-kremizas",
+      "bio": "Kostas is an iOS Engineer at Workable, the recruitment software company. He's developed over a dozen iOS apps, from cooking and fashion, to retail, radio, food delivery and more. Having survived the years of Objective-C and manual memory management, he now basks in the comfort and (type) safety of Swift. He loves TDD, clean architecture and more recently getting to grips with functional programming and ReactiveX concepts.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2017/speakers/kostas.jpg",
+      "twitter": "https://twitter.com/kostaskremizas"
+    },
+    {
+      "speaker": "meghan-kane",
+      "bio": "Meghan is an independent developer based in Berlin, building apps for the Apple ecosystem since 2009. Her recent work includes building Bike Workshop & SoundCloud, teaching ML for iOS developers, and a white paper with CERN physicists. She is passionate about encouraging people to learn to code and breaking down any barriers to entry to the world of programming. When not coding, Meghan can usually be found cycling around the world, playing board games, or reading.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2017/speakers/meghan.jpg",
+      "twitter": "https://twitter.com/meghafon"
+    },
+    {
+      "speaker": "erica-sadun",
+      "bio": "Erica Sadun enjoys deep diving into technology and has written, co-written, and contributed to dozens of books about computing and digital media. Sadun has blogged at TUAW, Ars Technica, O'Reilly, and Lifehacker, and has authored and co-authored a whole heap of Swift proposals.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2017/speakers/Erica.png",
+      "twitter": "https://twitter.com/ericasadun"
+    },
+    {
+      "speaker": "carl-brown",
+      "bio": "Carl Brown is currently working with Swift on the Server at Swift@IBM. He's been writing iOS apps since 2008 and has done consulting work on several major app projects. He organizes the SwiftAustin and CocoaCoder meetup groups in Austin Texas, and has spoken at conferences including 360iDev and CocoaConf.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2017/speakers/carl.png",
+      "twitter": "https://twitter.com/CarlBrwn"
+    },
+    {
+      "speaker": "dennis-pilarinos",
+      "bio": "Dennis Pilarinos is the founder and CEO of buddybuild, a continuous integration, delivery and user feedback platform that is designed, built and optimized specifically for mobile app developers.\n\nPrior to buddybuild, Dennis held product and engineering leadership roles at Amazon building and running the teams responsible for the Silk Web browser UI for the Kindle Fire Tablet and Fire Phone devices. Prior to his time at Amazon, he spent 9 years at Microsoft and founded the Azure teams focused on defining, building, delivering and operating the Messaging, Access Control and Workflow offerings of Microsoft's cloud services platform.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2017/speakers/dennis.jpg",
+      "twitter": "https://twitter.com/dennispilarinos"
+    },
+    {
+      "speaker": "camille-fournier",
+      "bio": "Camille Fournier is a Managing Director and Head of Platform Engineering at Two Sigma. She is the former Chief Technology Officer of Rent The Runway and a former Vice President of Technology at Goldman Sachs.\n\nFournier earned an undergraduate degree from Carnegie Mellon University and a Master’s degree in Computer Science from the University of Wisconsin–Madison. She is a maintainer of the Apache ZooKeeper open source project, writes the Ask The CTO column for O'Reilly Media, and is a regular public speaker and advocate for greater diversity within technology and leadership. Her book, The Manager's Path, was published by O'Reilly in early 2017.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2017/speakers/camilie.jpg",
+      "twitter": "https://twitter.com/skamille"
+    },
+    {
+      "speaker": "cate-huston",
+      "bio": "Cate has spent her career working on mobile and documenting everything she learns using WordPress. Now she combines the two as Automattic’s mobile lead. She co-curates Technically Speaking, and admins the New-(ish) Manager Slack. You can find her on Twitter at @catehstn and at cate.blog. Cate has lived and worked in the UK, Australia, Canada, China, Colombia and the United States, as Director of Mobile Engineering at Ride, an engineer at Google, an Extreme Blue intern at IBM, and a ski instructor. Cate built Show & Hide (available on iTunes), and speaks internationally on mobile development and tech culture. Her writing has been published on sites as varied as Be Leaderly, Lifehacker, The Daily Beast, The Eloquent Woman and Model View Culture. She is an advisor at Glowforge. You can also find her at WhereTheHellIsCate.com.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2017/instructors/cate.jpg",
+      "twitter": "https://twitter.com/catehstn"
+    },
+    {
+      "speaker": "ash-furrow",
+      "bio": "Ash Furrow is a Canadian iOS developer and author, currently working at Artsy. He has published a number of books, built many apps, and is a contributor to the open source community. On his blog, he writes about a range of topics, from interesting programming to explorations of analogue film photography.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2017/instructors/ash.jpg",
+      "twitter": "https://twitter.com/ashfurrow"
+    },
+    {
+      "speaker": "brian-king",
+      "bio": "Brian King is a Tech Lead at Raizlabs where he gets to make awesome apps and support coworkers doing the same. In-between projects he likes to work on tools like the Swift compiler and Eject as well as libraries like RZBluetooth and BonMot. When not in front of a computer he tries to get his dog to take care of his son so he can spend some time with his wife. It has yet to work.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2017/instructors/brian.jpg",
+      "twitter": "https://twitter.com/KingOfBrian"
+    },
+    {
+      "speaker": "jonathan-guthrie",
+      "bio": "Jonathan (or Jono) is an experienced software engineer who is building Perfect roadmap features and enhancements and supporting developers who are using Perfect. Jono has been developing server-side applications and API’s using a number of different languages for nearly 20 years. He moved to Canada from New Zealand in 2010 to help architect the next generation of server-side development, and he's now part of the Perfect team bringing Swift to the server. In his spare time he’s a session musician, sound engineer, gamer, and loves writing API’s for all sorts of obscure things.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2017/instructors/jono.jpg",
+      "twitter": "https://twitter.com/iamjono"
+    }
+  ],
+  "talks": [
+    {
+      "slug": "a-funny-thing-happened-on-the-way-to-this-array",
+      "title": "A Funny Thing Happened On The Way To This Array",
+      "speakers": [
+        "erica-sadun"
+      ]
+    },
+    {
+      "slug": "adding-machine-learning-to-your-apps",
+      "title": "Adding Machine Learning to your Apps",
+      "speakers": [
+        "meghan-kane"
+      ]
+    },
+    {
+      "slug": "better-swift-from-the-foundation-up",
+      "title": "Better Swift From the Foundation up",
+      "speakers": [
+        "carl-brown"
+      ]
+    },
+    {
+      "slug": "building-a-framework-with-viper",
+      "title": "Building a framework with Viper",
+      "speakers": [
+        "sonam-dhingra"
+      ]
+    },
+    {
+      "slug": "building-an-interactive-imessage-app",
+      "title": "Building an Interactive iMessage App",
+      "speakers": [
+        "craig-clayton"
+      ]
+    },
+    {
+      "slug": "conference-proposal-writing",
+      "title": "Conference Proposal Writing",
+      "speakers": [
+        "cate-huston"
+      ]
+    },
+    {
+      "slug": "contributing-to-open-source-swift",
+      "title": "Contributing to Open Source Swift",
+      "speakers": [
+        "brian-king"
+      ]
+    },
+    {
+      "slug": "core-data-migrations-and-can-we-do-better",
+      "title": "Core Data Migrations and can we do better?",
+      "speakers": [
+        "priya-rajagopal"
+      ]
+    },
+    {
+      "slug": "creating-rich-custom-ui-notifications",
+      "title": "Creating Rich Custom UI Notifications",
+      "speakers": [
+        "craig-clayton"
+      ]
+    },
+    {
+      "slug": "driving-view-state-through-data-for-fun-and-or-debugging",
+      "title": "Driving view state through data for fun and/or debugging",
+      "speakers": [
+        "matt-gallagher"
+      ]
+    },
+    {
+      "slug": "error-handling-made-easy",
+      "title": "Error handling made easy",
+      "speakers": [
+        "helen-papanikolopoulou"
+      ]
+    },
+    {
+      "slug": "everyone-is-your-user",
+      "title": "Everyone is your user",
+      "speakers": [
+        "julio-carrettoni"
+      ]
+    },
+    {
+      "slug": "exploring-natural-language-processing",
+      "title": "Exploring Natural Language Processing",
+      "speakers": [
+        "paola-mata"
+      ]
+    },
+    {
+      "slug": "flexible-view-controller-interfaces-with-swift-4",
+      "title": "Flexible View Controller Interfaces with Swift 4",
+      "speakers": [
+        "james-dempsey"
+      ]
+    },
+    {
+      "slug": "getting-started-with-arkit-tips-and-tricks",
+      "title": "Getting started with ARKit + tips and tricks",
+      "speakers": [
+        "glenna-buford"
+      ]
+    },
+    {
+      "slug": "hello-world-to-server-side-swift",
+      "title": "Hello, World! to Server Side Swift!",
+      "speakers": [
+        "jonathan-guthrie"
+      ]
+    },
+    {
+      "slug": "improving-swift-tools-with-libsyntax",
+      "title": "Improving Swift Tools with libSyntax",
+      "speakers": [
+        "harlan-haskins"
+      ]
+    },
+    {
+      "slug": "machine-ethics-and-emerging-technologies",
+      "title": "Machine Ethics and Emerging Technologies",
+      "speakers": [
+        "paul-fenwick"
+      ]
+    },
+    {
+      "slug": "map-and-flatmap-magic",
+      "title": "Map and FlatMap Magic",
+      "speakers": [
+        "neem-serra"
+      ]
+    },
+    {
+      "slug": "modern-rxswift-architectures",
+      "title": "Modern RxSwift Architectures",
+      "speakers": [
+        "krunoslav-zaher"
+      ]
+    },
+    {
+      "slug": "mvvm-at-scale-not-so-simple",
+      "title": "MVVM at scale - not so simple...",
+      "speakers": [
+        "nataliya-patsovska"
+      ]
+    },
+    {
+      "slug": "practical-machine-learning-for-your-ios-app",
+      "title": "Practical Machine Learning for your iOS App",
+      "speakers": [
+        "meghan-kane"
+      ]
+    },
+    {
+      "slug": "rxswift-reactive-programming-in-swift",
+      "title": "RxSwift: Reactive Programming in Swift",
+      "speakers": [
+        "ash-furrow"
+      ]
+    },
+    {
+      "slug": "server-side-swift-using-vapor",
+      "title": "Server-side Swift Using Vapor",
+      "speakers": [
+        "tanner-nelson"
+      ]
+    },
+    {
+      "slug": "ship-your-mobile-app-in-less-than-10-minutes",
+      "title": "Ship your mobile app in less than 10 minutes!",
+      "speakers": [
+        "dennis-pilarinos"
+      ]
+    },
+    {
+      "slug": "swift-4-codable",
+      "title": "Swift 4 Codable",
+      "speakers": [
+        "yasuhiro-inami"
+      ]
+    },
+    {
+      "slug": "swift-chatbots-for-fun-and-profit",
+      "title": "Swift Chatbots for Fun! and Profit?",
+      "speakers": [
+        "ray-tsaihong"
+      ]
+    },
+    {
+      "slug": "the-role-of-being-technical-in-technical-leadership",
+      "title": "The Role of being Technical in Technical Leadership",
+      "speakers": [
+        "camille-fournier"
+      ]
+    }
+  ]
+}

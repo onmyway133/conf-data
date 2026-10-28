@@ -1,0 +1,16 @@
+{
+  "name": "SEETEST (10th edition) 2021",
+  "year": 2021,
+  "url": "https://seetest.org",
+  "startDate": "2021-09-27",
+  "endDate": "2021-09-29",
+  "city": "Belgrade",
+  "country": "RS",
+  "lat": 44.80401,
+  "lng": 20.46513,
+  "topics": [
+    "Testing"
+  ],
+  "twitter": "https://x.com/SEETESTConf",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Devopsdays Melbourne 2022",
+  "year": 2022,
+  "url": "https://devopsdays.org/events/2022-melbourne/welcome",
+  "startDate": "2022-03-17",
+  "endDate": "2022-03-18",
+  "city": "Melbourne",
+  "country": "AU",
+  "lat": -37.814,
+  "lng": 144.96332,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/Devopsdownunder",
+  "source": "confs.tech"
+}

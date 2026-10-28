@@ -1,0 +1,16 @@
+{
+  "name": "GraphQL Summit 2019",
+  "year": 2019,
+  "url": "https://summit.graphql.com",
+  "startDate": "2019-10-29",
+  "endDate": "2019-10-31",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [
+    "GraphQL"
+  ],
+  "twitter": "https://x.com/graphqlsummit",
+  "source": "confs.tech"
+}

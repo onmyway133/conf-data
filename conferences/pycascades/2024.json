@@ -1,0 +1,22 @@
+{
+  "name": "PyCascades 2024",
+  "year": 2024,
+  "url": "https://www.pycascades.com",
+  "startDate": "2024-04-05",
+  "endDate": "2024-04-08",
+  "city": "Seattle, WA",
+  "country": "US",
+  "lat": 47.60621,
+  "lng": -122.33207,
+  "topics": [
+    "Python"
+  ],
+  "cfp": {
+    "url": "https://pretalx.com/pycascades-2024/cfp",
+    "deadline": "2024-01-04",
+    "open": false
+  },
+  "twitter": "https://x.com/pycascades",
+  "mastodon": "https://fosstodon.org/@pycascades",
+  "source": "confs.tech"
+}

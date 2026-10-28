@@ -1,0 +1,23 @@
+{
+  "name": "CERN PGDay 2026",
+  "year": 2026,
+  "url": "https://www.swisspug.org/cern-pgday-2026.html",
+  "startDate": "2026-02-06",
+  "endDate": "2026-02-06",
+  "city": "Geneva",
+  "country": "CH",
+  "lat": 46.20222,
+  "lng": 6.14569,
+  "topics": [
+    "Data/AI",
+    "Networking",
+    "Open Source"
+  ],
+  "cfp": {
+    "url": "https://indico.cern.ch/event/1504097/abstracts",
+    "deadline": "2025-12-07",
+    "open": false
+  },
+  "mastodon": "https://fosstodon.org/@swisspug",
+  "source": "confs.tech"
+}

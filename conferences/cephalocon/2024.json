@@ -1,0 +1,19 @@
+{
+  "name": "Cephalocon 2024",
+  "year": 2024,
+  "url": "https://events.linuxfoundation.org/cephalocon",
+  "startDate": "2024-12-04",
+  "endDate": "2024-12-05",
+  "city": "Geneva",
+  "country": "CH",
+  "lat": 46.20222,
+  "lng": 6.14569,
+  "topics": [],
+  "cfp": {
+    "url": "https://events.linuxfoundation.org/cephalocon/program/cfp",
+    "deadline": "2024-08-11",
+    "open": false
+  },
+  "twitter": "https://x.com/Ceph",
+  "source": "confs.tech"
+}

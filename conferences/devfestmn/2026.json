@@ -1,0 +1,20 @@
+{
+  "name": "DevFestMN 2026",
+  "year": 2026,
+  "url": "https://devfest.mn",
+  "startDate": "2026-12-05",
+  "endDate": "2026-12-05",
+  "city": "Minneapolis, MN",
+  "country": "US",
+  "lat": 44.97997,
+  "lng": -93.26384,
+  "topics": [],
+  "cfp": {
+    "url": "https://devfest.mn/speaker-cfp",
+    "deadline": "2026-10-20",
+    "open": true
+  },
+  "bluesky": "https://bsky.app/profile/devfestmn.bsky.social",
+  "mastodon": "https://developers.live/@devfestmn",
+  "source": "confs.tech"
+}

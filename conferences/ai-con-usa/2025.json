@@ -1,0 +1,23 @@
+{
+  "name": "AI Con USA 2025",
+  "year": 2025,
+  "url": "https://aiconusa.techwell.com",
+  "startDate": "2025-06-08",
+  "endDate": "2025-06-13",
+  "city": "Seattle, WA",
+  "country": "US",
+  "lat": 47.60621,
+  "lng": -122.33207,
+  "topics": [
+    "Data/AI",
+    "Security",
+    "Testing"
+  ],
+  "cfp": {
+    "url": "https://aiconusa.techwell.com/speak-ai-con-usa",
+    "deadline": "2024-11-25",
+    "open": false
+  },
+  "twitter": "https://x.com/techwell",
+  "source": "confs.tech"
+}

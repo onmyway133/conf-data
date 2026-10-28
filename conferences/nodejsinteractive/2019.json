@@ -1,0 +1,16 @@
+{
+  "name": "NodeJSInteractive 2019",
+  "year": 2019,
+  "url": "https://events.linuxfoundation.org/events/nodejs-interactive-2019/register",
+  "startDate": "2019-12-11",
+  "endDate": "2019-12-12",
+  "city": "Montreal",
+  "country": "CA",
+  "lat": 45.50884,
+  "lng": -73.58781,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/linuxfoundation",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Arm TechCon 2019",
+  "year": 2019,
+  "url": "http://www.armtechcon.com",
+  "startDate": "2019-10-08",
+  "endDate": "2019-10-10",
+  "city": "San Jose, CA",
+  "country": "US",
+  "lat": 37.33939,
+  "lng": -121.89496,
+  "topics": [
+    "Security"
+  ],
+  "twitter": "https://x.com/Arm",
+  "source": "confs.tech"
+}

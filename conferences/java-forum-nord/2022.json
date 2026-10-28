@@ -1,0 +1,16 @@
+{
+  "name": "Java Forum Nord 2022",
+  "year": 2022,
+  "url": "https://javaforumnord.de",
+  "startDate": "2022-10-06",
+  "endDate": "2022-10-06",
+  "city": "Hannover",
+  "country": "DE",
+  "lat": 52.37052,
+  "lng": 9.73322,
+  "topics": [
+    "Java"
+  ],
+  "twitter": "https://x.com/javaforumnord",
+  "source": "confs.tech"
+}

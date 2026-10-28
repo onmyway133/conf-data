@@ -1,0 +1,17 @@
+{
+  "name": "AgileTD Open Air 2022",
+  "year": 2022,
+  "url": "https://openair.agiletestingdays.com",
+  "startDate": "2022-05-17",
+  "endDate": "2022-05-19",
+  "city": "Cologne",
+  "country": "DE",
+  "lat": 50.93333,
+  "lng": 6.95,
+  "topics": [
+    "DevOps",
+    "Testing"
+  ],
+  "twitter": "https://x.com/AgileTD",
+  "source": "confs.tech"
+}

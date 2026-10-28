@@ -1,0 +1,16 @@
+{
+  "name": "Laracon EU 2023",
+  "year": 2023,
+  "url": "https://laracon.eu",
+  "startDate": "2023-01-26",
+  "endDate": "2023-01-27",
+  "city": "Lisbon",
+  "country": "PT",
+  "lat": 38.72509,
+  "lng": -9.1498,
+  "topics": [
+    "PHP"
+  ],
+  "twitter": "https://x.com/LaraconEU",
+  "source": "confs.tech"
+}

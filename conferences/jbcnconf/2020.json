@@ -1,0 +1,16 @@
+{
+  "name": "jbcnconf 2020",
+  "year": 2020,
+  "url": "https://www.jbcnconf.com",
+  "startDate": "2020-09-07",
+  "endDate": "2020-09-09",
+  "city": "Barcelona",
+  "country": "ES",
+  "lat": 41.38879,
+  "lng": 2.15899,
+  "topics": [
+    "Java"
+  ],
+  "twitter": "https://x.com/jbcnconf",
+  "source": "confs.tech"
+}

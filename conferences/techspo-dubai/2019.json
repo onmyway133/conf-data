@@ -1,0 +1,15 @@
+{
+  "name": "TECHSPO Dubai 2019",
+  "year": 2019,
+  "url": "https://techspodubai.ae",
+  "startDate": "2019-10-22",
+  "endDate": "2019-10-23",
+  "city": "Dubai",
+  "country": "AE",
+  "lat": 25.07725,
+  "lng": 55.30927,
+  "topics": [
+    "DevOps"
+  ],
+  "source": "confs.tech"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "SnowCamp 2023",
+  "year": 2023,
+  "url": "https://snowcamp.io/fr",
+  "startDate": "2023-01-25",
+  "endDate": "2023-01-28",
+  "city": "Grenoble",
+  "country": "FR",
+  "lat": 45.17869,
+  "lng": 5.71479,
+  "topics": [],
+  "cfp": {
+    "url": "https://conference-hall.io/public/event/ZGJWM1x64evaNUzycEzn",
+    "deadline": "2022-10-15",
+    "open": false
+  },
+  "twitter": "https://x.com/SnowCampIO",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "ConveyUX 2024",
+  "year": 2024,
+  "url": "https://conveyux.com",
+  "startDate": "2024-02-27",
+  "endDate": "2024-02-29",
+  "city": "Seattle, WA",
+  "country": "US",
+  "lat": 47.60621,
+  "lng": -122.33207,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/conveyux",
+  "source": "confs.tech"
+}

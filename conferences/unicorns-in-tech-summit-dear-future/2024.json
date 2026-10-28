@@ -1,0 +1,15 @@
+{
+  "name": "Unicorns in Tech Summit: dear___future 2024",
+  "year": 2024,
+  "url": "https://www.unicornsintech.com/uit-summit-24",
+  "startDate": "2024-10-12",
+  "endDate": "2024-10-12",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "Networking"
+  ],
+  "source": "confs.tech"
+}

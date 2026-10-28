@@ -1,0 +1,21 @@
+{
+  "name": "React Miami 2023",
+  "year": 2023,
+  "url": "https://reactmiami.com",
+  "startDate": "2023-04-20",
+  "endDate": "2023-04-21",
+  "city": "Miami, FL",
+  "country": "US",
+  "lat": 25.77427,
+  "lng": -80.19366,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSe9svVYULzmGn7Jnt3shELrO9elHetBIykgK4yacUEVcPoP4w/viewform",
+    "deadline": "2022-12-16",
+    "open": false
+  },
+  "twitter": "https://x.com/reactmiamiconf",
+  "source": "confs.tech"
+}

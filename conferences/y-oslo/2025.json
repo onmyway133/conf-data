@@ -1,0 +1,15 @@
+{
+  "name": "Y Oslo 2025",
+  "year": 2025,
+  "url": "https://www.y-oslo.com",
+  "startDate": "2025-10-27",
+  "endDate": "2025-10-28",
+  "city": "Oslo",
+  "country": "NO",
+  "lat": 59.91273,
+  "lng": 10.74609,
+  "topics": [
+    "Design/UX"
+  ],
+  "source": "confs.tech"
+}

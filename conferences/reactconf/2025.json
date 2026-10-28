@@ -1,0 +1,15 @@
+{
+  "name": "ReactConf 2025",
+  "year": 2025,
+  "url": "https://conf.react.dev",
+  "startDate": "2025-10-07",
+  "endDate": "2025-10-08",
+  "city": "Henderson, NV",
+  "country": "US",
+  "lat": 36.0397,
+  "lng": -114.98194,
+  "topics": [
+    "JavaScript"
+  ],
+  "source": "confs.tech"
+}

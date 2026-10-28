@@ -1,0 +1,22 @@
+{
+  "name": "JSNation US 2025",
+  "year": 2025,
+  "url": "https://jsnation.us",
+  "startDate": "2025-11-17",
+  "endDate": "2025-11-20",
+  "city": "New York, NY",
+  "country": "US",
+  "lat": 40.71427,
+  "lng": -74.00597,
+  "topics": [
+    "Networking"
+  ],
+  "cfp": {
+    "url": "https://gitnation.com/events/jsnation-us-2025/cfp",
+    "deadline": "2025-07-01",
+    "open": false
+  },
+  "twitter": "https://x.com/thejsnation",
+  "bluesky": "https://bsky.app/profile/jsnation.gitnation.org",
+  "source": "confs.tech"
+}

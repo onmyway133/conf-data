@@ -1,0 +1,16 @@
+{
+  "name": "Devopsdays Washington, DC 2023",
+  "year": 2023,
+  "url": "https://devopsdays.org/events/2023-washington-dc/welcome",
+  "startDate": "2023-09-13",
+  "endDate": "2023-09-14",
+  "city": "Washington, DC",
+  "country": "US",
+  "lat": 38.89511,
+  "lng": -77.03637,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devopsdaysdc",
+  "source": "confs.tech"
+}

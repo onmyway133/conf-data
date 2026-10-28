@@ -1,0 +1,20 @@
+{
+  "name": "DevOpsDays Raleigh 2019",
+  "year": 2019,
+  "url": "https://www.devopsdays.org/events/2019-raleigh/welcome",
+  "startDate": "2019-10-01",
+  "endDate": "2019-10-02",
+  "city": "Raleigh, NC",
+  "country": "US",
+  "lat": 35.7721,
+  "lng": -78.63861,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://www.devopsdays.org/events/2019-raleigh/propose",
+    "deadline": "2019-04-01",
+    "open": false
+  },
+  "source": "confs.tech"
+}

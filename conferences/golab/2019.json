@@ -1,0 +1,15 @@
+{
+  "name": "GoLab 2019",
+  "year": 2019,
+  "url": "https://www.golab.io",
+  "startDate": "2019-10-20",
+  "endDate": "2019-10-22",
+  "city": "Florence",
+  "country": "IT",
+  "lat": 43.77925,
+  "lng": 11.24626,
+  "topics": [
+    "Go"
+  ],
+  "source": "confs.tech"
+}

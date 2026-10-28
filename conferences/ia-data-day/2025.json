@@ -1,0 +1,15 @@
+{
+  "name": "IA & Data Day 2025",
+  "year": 2025,
+  "url": "https://iadataday.capitale.dev",
+  "startDate": "2025-04-24",
+  "endDate": "2025-04-24",
+  "city": "Strasbourg",
+  "country": "FR",
+  "lat": 48.58392,
+  "lng": 7.74553,
+  "topics": [
+    "Data/AI"
+  ],
+  "source": "confs.tech"
+}

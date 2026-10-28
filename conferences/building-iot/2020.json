@@ -1,0 +1,16 @@
+{
+  "name": "building IoT 2020",
+  "year": 2020,
+  "url": "https://www.buildingiot.de",
+  "startDate": "2020-03-02",
+  "endDate": "2020-03-04",
+  "city": "Essen",
+  "country": "DE",
+  "lat": 51.45657,
+  "lng": 7.01228,
+  "topics": [
+    "IoT"
+  ],
+  "twitter": "https://x.com/building_iot",
+  "source": "confs.tech"
+}

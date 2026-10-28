@@ -1,0 +1,21 @@
+{
+  "name": "Laracon India 2024",
+  "year": 2024,
+  "url": "https://laracon.in",
+  "startDate": "2024-03-23",
+  "endDate": "2024-03-24",
+  "city": "Udaipur",
+  "country": "IN",
+  "lat": 24.58584,
+  "lng": 73.71346,
+  "topics": [
+    "PHP"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSdHBOswhGtvmrZLaeHDwdnksJ4oHCvNG58oTyC5roTNA99Qjw/viewform",
+    "deadline": "2024-02-29",
+    "open": false
+  },
+  "twitter": "https://x.com/LaraconIN",
+  "source": "confs.tech"
+}

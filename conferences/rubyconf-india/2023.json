@@ -1,0 +1,16 @@
+{
+  "name": "RubyConf India 2023",
+  "year": 2023,
+  "url": "https://rubyconf.in",
+  "startDate": "2023-08-26",
+  "endDate": "2023-08-27",
+  "city": "Pune",
+  "country": "IN",
+  "lat": 18.51957,
+  "lng": 73.85535,
+  "topics": [
+    "Ruby"
+  ],
+  "twitter": "https://x.com/rubyconfindia",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Swift by Midwest 2019",
+  "year": 2019,
+  "url": "https://swiftbymidwest.com",
+  "startDate": "2019-04-17",
+  "endDate": "2019-04-18",
+  "city": "Chicago, IL",
+  "country": "US",
+  "lat": 41.85003,
+  "lng": -87.65005,
+  "topics": [
+    "iOS"
+  ],
+  "twitter": "https://x.com/SwiftByX",
+  "source": "confs.tech"
+}

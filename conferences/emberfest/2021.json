@@ -1,0 +1,16 @@
+{
+  "name": "EmberFest 2021",
+  "year": 2021,
+  "url": "https://emberfest.eu",
+  "startDate": "2021-09-30",
+  "endDate": "2021-10-01",
+  "city": "Rome",
+  "country": "IT",
+  "lat": 41.89193,
+  "lng": 12.51133,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/EmberFest",
+  "source": "confs.tech"
+}

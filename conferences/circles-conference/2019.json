@@ -1,0 +1,16 @@
+{
+  "name": "Circles Conference 2019",
+  "year": 2019,
+  "url": "https://www.circlesconference.com",
+  "startDate": "2019-09-18",
+  "endDate": "2019-09-20",
+  "city": "Richardson, TX",
+  "country": "US",
+  "lat": 32.94818,
+  "lng": -96.72972,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/circlesconf",
+  "source": "confs.tech"
+}

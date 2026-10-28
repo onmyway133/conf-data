@@ -1,0 +1,16 @@
+{
+  "name": "NSNorth 2019",
+  "year": 2019,
+  "url": "https://nsnorth.ca",
+  "startDate": "2019-04-26",
+  "endDate": "2019-04-28",
+  "city": "Montreal",
+  "country": "CA",
+  "lat": 45.50884,
+  "lng": -73.58781,
+  "topics": [
+    "iOS"
+  ],
+  "twitter": "https://x.com/nsnorth",
+  "source": "confs.tech"
+}

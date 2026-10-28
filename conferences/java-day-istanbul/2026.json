@@ -1,0 +1,21 @@
+{
+  "name": "Java Day Istanbul 2026",
+  "year": 2026,
+  "url": "https://www.javaday.istanbul",
+  "startDate": "2026-04-18",
+  "endDate": "2026-04-18",
+  "city": "Istanbul",
+  "country": "TR",
+  "lat": 41.01384,
+  "lng": 28.94966,
+  "topics": [
+    "Java"
+  ],
+  "cfp": {
+    "url": "https://www.papercall.io/javadayistanbul2026",
+    "deadline": "2025-12-24",
+    "open": false
+  },
+  "twitter": "https://x.com/javadayistanbul",
+  "source": "confs.tech"
+}

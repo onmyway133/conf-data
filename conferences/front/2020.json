@@ -1,0 +1,15 @@
+{
+  "name": "Front 2020",
+  "year": 2020,
+  "url": "https://www.frontutah.com/conference",
+  "startDate": "2020-11-10",
+  "endDate": "2020-11-13",
+  "city": "Salt Lake City, UT",
+  "country": "US",
+  "lat": 40.76078,
+  "lng": -111.89105,
+  "topics": [
+    "Design/UX"
+  ],
+  "source": "confs.tech"
+}

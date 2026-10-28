@@ -1,0 +1,19 @@
+{
+  "name": "RISC-V Summit 2024",
+  "year": 2024,
+  "url": "https://events.linuxfoundation.org/riscv-summit",
+  "startDate": "2024-10-22",
+  "endDate": "2024-10-23",
+  "city": "Santa Clara, CA",
+  "country": "US",
+  "lat": 37.35411,
+  "lng": -121.95524,
+  "topics": [],
+  "cfp": {
+    "url": "https://events.linuxfoundation.org/riscv-summit/program/cfp",
+    "deadline": "2024-07-12",
+    "open": false
+  },
+  "twitter": "https://x.com/risc_v",
+  "source": "confs.tech"
+}

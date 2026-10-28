@@ -1,0 +1,17 @@
+{
+  "name": "ViteConf 2025",
+  "year": 2025,
+  "url": "https://viteconf.amsterdam",
+  "startDate": "2025-10-09",
+  "endDate": "2025-10-10",
+  "city": "Amsterdam",
+  "country": "NL",
+  "lat": 52.37403,
+  "lng": 4.88969,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/viteconf",
+  "bluesky": "https://bsky.app/profile/viteconf.org",
+  "source": "confs.tech"
+}

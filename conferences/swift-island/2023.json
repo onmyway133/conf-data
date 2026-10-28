@@ -1,0 +1,14 @@
+{
+  "name": "Swift Island 2023",
+  "year": 2023,
+  "url": "https://www.swiftisland.nl",
+  "startDate": "2023-09-04",
+  "endDate": "2023-09-07",
+  "city": "Texel",
+  "country": "NL",
+  "topics": [
+    "iOS"
+  ],
+  "twitter": "https://x.com/SwiftIslandNL",
+  "source": "confs.tech"
+}

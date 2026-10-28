@@ -1,0 +1,21 @@
+{
+  "name": "React Advanced Canada 2026",
+  "year": 2026,
+  "url": "https://reactadvanced.com/canada",
+  "startDate": "2026-03-24",
+  "endDate": "2026-03-26",
+  "city": "Toronto",
+  "country": "CA",
+  "lat": 43.70643,
+  "lng": -79.39864,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://gitnation.com/events/react-advanced-canada-2026/cfp",
+    "deadline": "2025-09-01",
+    "open": false
+  },
+  "twitter": "https://x.com/reactadvanced",
+  "source": "confs.tech"
+}

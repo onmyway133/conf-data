@@ -1,0 +1,15 @@
+{
+  "name": "Outpace Conf 2025",
+  "year": 2025,
+  "url": "https://outpaceconf.com",
+  "startDate": "2025-10-16",
+  "endDate": "2025-10-16",
+  "city": "Manchester",
+  "country": "GB",
+  "lat": 53.48095,
+  "lng": -2.23743,
+  "topics": [
+    "Data/AI"
+  ],
+  "source": "confs.tech"
+}

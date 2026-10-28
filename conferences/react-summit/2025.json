@@ -1,0 +1,23 @@
+{
+  "name": "React Summit 2025",
+  "year": 2025,
+  "url": "https://reactsummit.com",
+  "startDate": "2025-06-13",
+  "endDate": "2025-06-17",
+  "city": "Amsterdam",
+  "country": "NL",
+  "lat": 52.37403,
+  "lng": 4.88969,
+  "topics": [
+    "JavaScript",
+    "Networking",
+    "Open Source"
+  ],
+  "cfp": {
+    "url": "https://forms.gle/9CL7DuMdkgymLfGG9",
+    "deadline": "2025-03-02",
+    "open": false
+  },
+  "twitter": "https://x.com/ReactSummit",
+  "source": "confs.tech"
+}

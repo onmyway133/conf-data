@@ -1,0 +1,20 @@
+{
+  "name": "ConFoo Montreal 2026",
+  "year": 2026,
+  "url": "https://confoo.ca",
+  "startDate": "2026-02-25",
+  "endDate": "2026-02-27",
+  "city": "Montreal",
+  "country": "CA",
+  "lat": 45.50884,
+  "lng": -73.58781,
+  "topics": [],
+  "cfp": {
+    "url": "https://confoo.ca/en/2026/call-for-papers",
+    "deadline": "2025-09-21",
+    "open": false
+  },
+  "twitter": "https://x.com/confooca",
+  "bluesky": "https://bsky.app/profile/confooca.bsky.app",
+  "source": "confs.tech"
+}

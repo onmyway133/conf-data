@@ -1,0 +1,21 @@
+{
+  "name": "DevFest Baltics 2018",
+  "year": 2018,
+  "url": "https://devfest.gdg.lv/",
+  "startDate": "2018-11-16",
+  "endDate": "2018-11-16",
+  "city": "Jurmala",
+  "country": "LV",
+  "lat": 56.968,
+  "lng": 23.77038,
+  "topics": [
+    "iOS",
+    "Mobile"
+  ],
+  "cfp": {
+    "url": "https://www.papercall.io/devfest-baltics-18",
+    "deadline": "2018-06-29",
+    "open": false
+  },
+  "source": "cocoaconferences"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "JSHeroes 2019",
+  "year": 2019,
+  "url": "https://jsheroes.io",
+  "startDate": "2019-04-11",
+  "endDate": "2019-04-12",
+  "city": "Cluj-Napoca",
+  "country": "RO",
+  "lat": 46.76667,
+  "lng": 23.6,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://jsheroes-form.typeform.com/to/IHohur",
+    "deadline": "2018-12-01",
+    "open": false
+  },
+  "twitter": "https://x.com/jsheroes",
+  "source": "confs.tech"
+}

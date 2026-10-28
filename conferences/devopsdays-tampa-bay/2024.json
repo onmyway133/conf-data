@@ -1,0 +1,22 @@
+{
+  "name": "DevOpsDays Tampa Bay 2024",
+  "year": 2024,
+  "url": "https://devopsdays.org/events/2024-tampa/welcome",
+  "startDate": "2024-09-19",
+  "endDate": "2024-09-19",
+  "city": "Tampa, FL",
+  "country": "US",
+  "lat": 27.94752,
+  "lng": -82.45843,
+  "topics": [
+    "DevOps",
+    "SRE"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/devops-days-tampa-bay-2024",
+    "deadline": "2024-05-15",
+    "open": false
+  },
+  "twitter": "https://x.com/devopsdaystb",
+  "source": "confs.tech"
+}

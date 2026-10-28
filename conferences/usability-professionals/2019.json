@@ -1,0 +1,15 @@
+{
+  "name": "Usability Professionals 2019",
+  "year": 2019,
+  "url": "https://muc2019.mensch-und-computer.de/en",
+  "startDate": "2019-09-08",
+  "endDate": "2019-09-11",
+  "city": "Hamburg",
+  "country": "DE",
+  "lat": 53.55073,
+  "lng": 9.99302,
+  "topics": [
+    "Design/UX"
+  ],
+  "source": "confs.tech"
+}

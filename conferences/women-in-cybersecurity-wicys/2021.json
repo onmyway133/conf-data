@@ -1,0 +1,21 @@
+{
+  "name": "Women in CyberSecurity (WiCyS) 2021",
+  "year": 2021,
+  "url": "https://www.wicys.org/events/wicys-2021",
+  "startDate": "2021-09-08",
+  "endDate": "2021-09-10",
+  "city": "Denver, CO",
+  "country": "US",
+  "lat": 39.73915,
+  "lng": -104.9847,
+  "topics": [
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://www.wicys.org/events/call-for-participation",
+    "deadline": "2021-03-01",
+    "open": false
+  },
+  "twitter": "https://x.com/WiCySorg",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "ABC Conclave 2024",
+  "year": 2024,
+  "url": "https://www.abcconclave.com",
+  "startDate": "2024-10-11",
+  "endDate": "2024-10-12",
+  "city": "Dubai",
+  "country": "AE",
+  "lat": 25.07725,
+  "lng": 55.30927,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/abc_conclave",
+  "source": "confs.tech"
+}

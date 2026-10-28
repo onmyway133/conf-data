@@ -1,0 +1,15 @@
+{
+  "name": "PHPFest 2020",
+  "year": 2020,
+  "url": "https://phpfest.ru",
+  "startDate": "2020-10-23",
+  "endDate": "2020-10-24",
+  "city": "Novosibirsk",
+  "country": "RU",
+  "lat": 55.02259,
+  "lng": 82.93175,
+  "topics": [
+    "PHP"
+  ],
+  "source": "confs.tech"
+}

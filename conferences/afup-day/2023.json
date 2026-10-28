@@ -1,0 +1,15 @@
+{
+  "name": "AFUP Day 2023",
+  "year": 2023,
+  "url": "https://event.afup.org",
+  "startDate": "2023-05-12",
+  "endDate": "2023-05-12",
+  "city": "Lyon",
+  "country": "FR",
+  "lat": 45.74906,
+  "lng": 4.84789,
+  "topics": [
+    "PHP"
+  ],
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Webinale 2025",
+  "year": 2025,
+  "url": "https://webinale.de",
+  "startDate": "2025-06-02",
+  "endDate": "2025-06-06",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/webinale",
+  "source": "confs.tech"
+}

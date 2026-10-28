@@ -1,0 +1,16 @@
+{
+  "name": "Italian Agile Days 2019",
+  "year": 2019,
+  "url": "https://www.agileday.it/front",
+  "startDate": "2019-11-08",
+  "endDate": "2019-11-09",
+  "city": "Modena",
+  "country": "IT",
+  "lat": 44.64783,
+  "lng": 10.92539,
+  "topics": [
+    "Networking"
+  ],
+  "twitter": "https://x.com/agileday",
+  "source": "confs.tech"
+}

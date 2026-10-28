@@ -1,0 +1,14 @@
+{
+  "name": "ML Conference 2019",
+  "year": 2019,
+  "url": "https://mlconference.ai",
+  "startDate": "2019-06-17",
+  "endDate": "2019-06-19",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [],
+  "twitter": "https://x.com/mlconference",
+  "source": "confs.tech"
+}

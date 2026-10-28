@@ -1,0 +1,16 @@
+{
+  "name": "uxday 2022",
+  "year": 2022,
+  "url": "https://uxday.it",
+  "startDate": "2022-06-10",
+  "endDate": "2022-06-10",
+  "city": "Faenza",
+  "country": "IT",
+  "lat": 44.29007,
+  "lng": 11.87948,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/uxdayit",
+  "source": "confs.tech"
+}

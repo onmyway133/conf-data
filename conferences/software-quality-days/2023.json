@@ -1,0 +1,19 @@
+{
+  "name": "Software Quality Days 2023",
+  "year": 2023,
+  "url": "https://www.software-quality-days.com",
+  "startDate": "2023-05-23",
+  "endDate": "2023-05-25",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [],
+  "cfp": {
+    "url": "https://www.software-quality-days.com/en/lecturers/call-for-practical-papers",
+    "deadline": "2022-11-30",
+    "open": false
+  },
+  "twitter": "https://x.com/swqd",
+  "source": "confs.tech"
+}

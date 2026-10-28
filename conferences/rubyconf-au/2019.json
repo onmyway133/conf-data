@@ -1,0 +1,21 @@
+{
+  "name": "RubyConf AU 2019",
+  "year": 2019,
+  "url": "https://rubyconf.org.au/2019",
+  "startDate": "2019-02-07",
+  "endDate": "2019-02-09",
+  "city": "Melbourne",
+  "country": "AU",
+  "lat": -37.814,
+  "lng": 144.96332,
+  "topics": [
+    "Ruby"
+  ],
+  "cfp": {
+    "url": "https://www.papercall.io/rubyconf-au-2019",
+    "deadline": "2018-10-15",
+    "open": false
+  },
+  "twitter": "https://x.com/rubyconf_au",
+  "source": "confs.tech"
+}

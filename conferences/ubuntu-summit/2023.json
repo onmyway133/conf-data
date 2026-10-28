@@ -1,0 +1,14 @@
+{
+  "name": "Ubuntu Summit 2023",
+  "year": 2023,
+  "url": "https://summit.ubuntu.com",
+  "startDate": "2023-11-03",
+  "endDate": "2023-11-05",
+  "city": "Riga",
+  "country": "LV",
+  "lat": 56.946,
+  "lng": 24.10589,
+  "topics": [],
+  "twitter": "https://x.com/Ubuntu",
+  "source": "confs.tech"
+}

@@ -1,0 +1,338 @@
+{
+  "name": "Let's visionOS 2024",
+  "year": 2024,
+  "url": "https://letsvisionos24.swiftgg.team/en",
+  "startDate": "2024-03-30",
+  "endDate": "2024-03-31",
+  "city": "Beijing",
+  "country": "CN",
+  "lat": 39.9075,
+  "lng": 116.39723,
+  "topics": [
+    "iOS"
+  ],
+  "twitter": "https://x.com/SketchK_47",
+  "mastodon": "https://mastodon.social/@sketchk",
+  "source": "confs.tech",
+  "speakers": [
+    {
+      "speaker": "adam-watters",
+      "role": "visionOS developer using Godot Engine, Cofounder @Threezy Studio",
+      "photoUrl": "https://letsvisionos24.swiftgg.team/framerusercontent.com/images/lPB7IwEYfe08VI73ponExgHNts.png",
+      "twitter": "https://twitter.com/AdamWatters"
+    },
+    {
+      "speaker": "cristian-diaz-peredo",
+      "role": "Lead Engineer @Monstarlab",
+      "photoUrl": "https://letsvisionos24.swiftgg.team/framerusercontent.com/images/IGcZfcGDZj1nGY3ZxYfzUH7XpoU%EF%B9%96scale-down-to=512.png",
+      "twitter": "https://twitter.com/elkraneo"
+    },
+    {
+      "speaker": "charlie-chapman",
+      "role": "Creator of DarkNoiseApp, Host of Launched podcast",
+      "photoUrl": "https://letsvisionos24.swiftgg.team/framerusercontent.com/images/axFF2eRJQdbmJzFiway5aNPZ1w.png",
+      "twitter": "https://twitter.com/_chuckyc"
+    },
+    {
+      "speaker": "devin-davies",
+      "role": "Indie Developer, Crouton: Recipe Manager, visionOS App recommended by Apple",
+      "photoUrl": "https://letsvisionos24.swiftgg.team/framerusercontent.com/images/4F17OtT1bATZXPBtPl8A3lmIuM.png",
+      "twitter": "https://twitter.com/JustMeDevin"
+    },
+    {
+      "speaker": "hidde-van-der-ploeg",
+      "role": "Product designer, author of NowPlaying, visionOS App recommended by Apple",
+      "photoUrl": "https://letsvisionos24.swiftgg.team/framerusercontent.com/images/QtBlOhESTFr6qsfpRrBc3B2GM%EF%B9%96scale-down-to=512.png",
+      "twitter": "https://twitter.com/hiddevdploeg"
+    },
+    {
+      "speaker": "jordi-bruin",
+      "role": "Apple Design Award nomination, Creator of Navi, recommended by Apple",
+      "photoUrl": "https://letsvisionos24.swiftgg.team/framerusercontent.com/images/tAvqW2Zl3ERhAUw1g4kBhlwQyM.png",
+      "twitter": "https://twitter.com/jordibruin"
+    },
+    {
+      "speaker": "minji-lee",
+      "role": "Tech mentor @Apple Developer Academy",
+      "photoUrl": "https://letsvisionos24.swiftgg.team/framerusercontent.com/images/IIvXXSFAFOQmtOaU7qlDdaZdozs%EF%B9%96scale-down-to=512.png",
+      "linkedin": "https://www.linkedin.com/in/minjimindi"
+    },
+    {
+      "speaker": "oliver-weidlich",
+      "role": "Contxtual Director - Design & Innovation, Day Ahead, visionOS App recommended by Apple",
+      "photoUrl": "https://letsvisionos24.swiftgg.team/framerusercontent.com/images/tzrEwAaXDviLe7FxOLETGTxvALU.png",
+      "twitter": "https://twitter.com/oliverw"
+    },
+    {
+      "speaker": "satoshi-hattori",
+      "role": "xR Engineer",
+      "photoUrl": "https://letsvisionos24.swiftgg.team/framerusercontent.com/images/JaG3BbODke4Je7h71I9ObOQqMU0.png",
+      "twitter": "https://x.com/shmdevelop"
+    },
+    {
+      "speaker": "tim-mitra",
+      "role": "Host of the More Than Just Code podcast, Technical Writer of Kodeco",
+      "photoUrl": "https://letsvisionos24.swiftgg.team/framerusercontent.com/images/z927H2oG7CCpcRnJpBvzLsjzXqE%EF%B9%96scale-down-to=512.png",
+      "twitter": "https://x.com/timmitra"
+    },
+    {
+      "speaker": "vina-melody",
+      "role": "Co-organiser of iOS Conf SG and iOS Dev Scout",
+      "photoUrl": "https://letsvisionos24.swiftgg.team/framerusercontent.com/images/c2AKZjrvId19NgoCEsVrYKzw%EF%B9%96scale-down-to=512.png",
+      "twitter": "https://twitter.com/vinamelody"
+    },
+    {
+      "speaker": "yuki-kobayashi",
+      "role": "CEO of MESON, Creator of SunnyTune",
+      "photoUrl": "https://letsvisionos24.swiftgg.team/framerusercontent.com/images/Teopsz4j9kkNUwnMwFvZ2PxmuM8%EF%B9%96scale-down-to=512.png",
+      "twitter": "https://twitter.com/AR_Ojisan"
+    },
+    {
+      "speaker": "jane-chao",
+      "role": "Content creator, Youtuber of ChaoCode",
+      "photoUrl": "https://letsvisionos24.swiftgg.team/framerusercontent.com/images/vcyZeKPZXnR5S1zzlhpegvMZIw%EF%B9%96scale-down-to=512.png",
+      "twitter": "https://x.com/janechao_dev"
+    },
+    {
+      "speaker": "simon-lee",
+      "role": "Simon_阿文, AbleSlide co-founder, presentation PPT designer, Blender artist",
+      "photoUrl": "https://letsvisionos24.swiftgg.team/framerusercontent.com/images/uiFMvuMf9yeffVX1TavaBNKgH38%EF%B9%96scale-down-to=512.png",
+      "twitter": "https://twitter.com/simonxxoo"
+    },
+    {
+      "speaker": "jazzen-chen",
+      "role": "Partner of Jinteng Technology",
+      "photoUrl": "https://letsvisionos24.swiftgg.team/framerusercontent.com/images/kqtQvRUD7iZ2xpOzZKSc6PbmI%EF%B9%96scale-down-to=512.png"
+    },
+    {
+      "speaker": "morden-chen",
+      "role": "Sr. Director Supply BD, Moloco Greater China Region",
+      "photoUrl": "https://letsvisionos24.swiftgg.team/framerusercontent.com/images/LIYDSF5hYHslh5LQff6SNO6xDeU%EF%B9%96scale-down-to=512.png",
+      "linkedin": "https://www.linkedin.com/in/morden/"
+    },
+    {
+      "speaker": "allen-dang",
+      "role": "Serial Entrepreneur, Creator of TripoGO!",
+      "photoUrl": "https://letsvisionos24.swiftgg.team/framerusercontent.com/images/qRdq1uugMKKZKLlIInSNy200xo%EF%B9%96scale-down-to=512.png",
+      "twitter": "https://x.com/AllenDang"
+    },
+    {
+      "speaker": "nathan-huang",
+      "role": "MStars Co-founder&CEO",
+      "photoUrl": "https://letsvisionos24.swiftgg.team/framerusercontent.com/images/WDmgS6PWWRY998we58evGI2Qkg%EF%B9%96scale-down-to=512.png",
+      "linkedin": "http://www.linkedin.com/in/nathan-huang-b8714628b"
+    },
+    {
+      "speaker": "hyacinth",
+      "role": "Head AI company product leader, Shanghai International Film Festival jury, filmmaker",
+      "photoUrl": "https://letsvisionos24.swiftgg.team/framerusercontent.com/images/xgDcjzdCoq9Q50iR7pmd49D9ys%EF%B9%96scale-down-to=512.png",
+      "website": "https://okjk.co/ChbezN"
+    },
+    {
+      "speaker": "yang-xu",
+      "role": "Swift Blogger, Fatbobman",
+      "photoUrl": "https://letsvisionos24.swiftgg.team/framerusercontent.com/images/UYxyXCPCRln5NfmwefwD3BENDi8%EF%B9%96scale-down-to=512.png",
+      "twitter": "https://twitter.com/fatbobman"
+    },
+    {
+      "speaker": "wu-xu",
+      "role": "Angel Investor,Founder of Maoyan,Investment partner at Zhenfund",
+      "photoUrl": "https://letsvisionos24.swiftgg.team/framerusercontent.com/images/hkP58VXlJLuOFR9x3mmrKUQdDc.png",
+      "twitter": "https://twitter.com/xuwu"
+    },
+    {
+      "speaker": "haifeng-xu",
+      "role": "ARKit developer, Love writing articles",
+      "photoUrl": "https://letsvisionos24.swiftgg.team/framerusercontent.com/images/zy1hVnJA5wsGSjCJ7I7Iz9DCo.png",
+      "website": "https://github.com/XanderXu"
+    },
+    {
+      "speaker": "yujie-ren",
+      "role": "XRealityZone Gold Evangelist",
+      "photoUrl": "https://letsvisionos24.swiftgg.team/framerusercontent.com/images/J19lQ1b0jeAnV4nVamokHq3Rj0.png",
+      "twitter": "https://twitter.com/call_me_onee"
+    },
+    {
+      "speaker": "ming-yi",
+      "role": "Product Manager, Creator of inSpaze",
+      "photoUrl": "https://letsvisionos24.swiftgg.team/framerusercontent.com/images/2IqqRoP0cDKGRErhTwjlAU9axww%EF%B9%96scale-down-to=512.png",
+      "twitter": "https://twitter.com/memtimen"
+    },
+    {
+      "speaker": "yuchen-zhang",
+      "role": "AR developer, Ex-Lead Programmer of HoloKit",
+      "photoUrl": "https://letsvisionos24.swiftgg.team/framerusercontent.com/images/M1h8S673SLU5JYlQpBfzmX0PNGY%EF%B9%96scale-down-to=512.png",
+      "twitter": "https://twitter.com/yuchenz27"
+    }
+  ],
+  "talks": [
+    {
+      "slug": "accessible-spatial-computing",
+      "title": "Accessible Spatial Computing",
+      "speakers": [
+        "cristian-diaz-peredo"
+      ]
+    },
+    {
+      "slug": "build-for-vision-pro-with-godot-engine",
+      "title": "Build for Vision Pro with Godot Engine",
+      "speakers": [
+        "adam-watters"
+      ]
+    },
+    {
+      "slug": "building-the-visionos-ecosystem-moloco-s-innovative-sdk-boosts-app-monetization",
+      "title": "Building the visionOS Ecosystem: Moloco's Innovative SDK Boosts App Monetization and User Growth",
+      "speakers": [
+        "morden-chen"
+      ]
+    },
+    {
+      "slug": "considerations-for-designing-and-creating-visionos-apps",
+      "title": "Considerations for designing and creating visionOS apps",
+      "speakers": [
+        "minji-lee"
+      ]
+    },
+    {
+      "slug": "create-the-next-generation-of-user-experiences-with-text-generation",
+      "title": "Create the next generation of user experiences with text generation",
+      "speakers": [
+        "jane-chao"
+      ]
+    },
+    {
+      "slug": "creating-for-vision-pro-with-ai",
+      "title": "Creating for Vision Pro with AI",
+      "speakers": [
+        "simon-lee"
+      ]
+    },
+    {
+      "slug": "designing-spatial-apps-for-apple-vision-pro",
+      "title": "Designing Spatial Apps for Apple Vision Pro",
+      "speakers": [
+        "hidde-van-der-ploeg"
+      ]
+    },
+    {
+      "slug": "enable-multi-user-collaboration-capabilities-in-the-visionos-app",
+      "title": "Enable multi-user collaboration capabilities in the visionOS App",
+      "speakers": [
+        "yujie-ren"
+      ]
+    },
+    {
+      "slug": "focus-on-apple-ads-break-the-new-era-of-app-growth",
+      "title": "Focus on Apple Ads, break the new era of app growth",
+      "speakers": [
+        "nathan-huang"
+      ]
+    },
+    {
+      "slug": "from-zero-to-immersive-hero-practical-techniques-to-glow-up-your-immersive-conte",
+      "title": "From Zero to Immersive Hero: Practical Techniques to Glow Up Your Immersive Content",
+      "speakers": [
+        "vina-melody"
+      ]
+    },
+    {
+      "slug": "generative-ai-spatial-computing",
+      "title": "Generative AI + Spatial Computing = ∞",
+      "speakers": [
+        "allen-dang"
+      ]
+    },
+    {
+      "slug": "how-i-learned-to-stop-worrying-and-embrace-visionos",
+      "title": "How I Learned to Stop Worrying and Embrace visionOS",
+      "speakers": [
+        "tim-mitra"
+      ]
+    },
+    {
+      "slug": "ios-to-visionos-how-to-prepare-your-app-for-the-future",
+      "title": "iOS to visionOS: How to prepare your app for the future",
+      "speakers": [
+        "devin-davies"
+      ]
+    },
+    {
+      "slug": "learn-by-doing-understanding-spatial-computing-one-small-app-at-a-time",
+      "title": "Learn By Doing. Understanding spatial computing one small app at a time",
+      "speakers": [
+        "jordi-bruin"
+      ]
+    },
+    {
+      "slug": "making-money-with-spatial-computing",
+      "title": "Making Money with Spatial Computing",
+      "speakers": [
+        "charlie-chapman"
+      ]
+    },
+    {
+      "slug": "my-view-on-spatial-computing-understanding-the-era-of-spatial-computing-from-an",
+      "title": "My View on Spatial Computing: Understanding the Era of Spatial Computing from an Entrepreneurial Perspective",
+      "speakers": [
+        "wu-xu"
+      ]
+    },
+    {
+      "slug": "new-framework-new-thinking-exploring-key-practices-of-observation-and-swiftdata",
+      "title": "New Framework, New Thinking: Exploring Key Practices of Observation and SwiftData in New Application Development",
+      "speakers": [
+        "yang-xu"
+      ]
+    },
+    {
+      "slug": "recreate-some-of-the-classic-prototype-implementations-on-visionos-live-code",
+      "title": "Recreate some of the classic prototype implementations on visionOS (live code)",
+      "speakers": [
+        "satoshi-hattori"
+      ]
+    },
+    {
+      "slug": "rethinking-the-app-user-experience-for-the-apple-vision-pro",
+      "title": "Rethinking the App User Experience for the Apple Vision Pro",
+      "speakers": [
+        "oliver-weidlich"
+      ]
+    },
+    {
+      "slug": "the-application-of-apple-vision-pro-spatial-computing-in-social-aspects",
+      "title": "The Application of Apple Vision Pro Spatial Computing in Social Aspects",
+      "speakers": [
+        "ming-yi"
+      ]
+    },
+    {
+      "slug": "the-use-cases-and-practices-of-spatial-computing-in-enterprises",
+      "title": "The use cases and practices of spatial computing in enterprises",
+      "speakers": [
+        "jazzen-chen"
+      ]
+    },
+    {
+      "slug": "understanding-the-mathematical-foundations-of-spatial-computing-from-a-visualiza",
+      "title": "Understanding the Mathematical Foundations of Spatial Computing from a Visualization Perspective",
+      "speakers": [
+        "haifeng-xu"
+      ]
+    },
+    {
+      "slug": "unity-visionos-development-a-comprehensive-guide",
+      "title": "Unity visionOS Development: A Comprehensive Guide",
+      "speakers": [
+        "yuchen-zhang"
+      ]
+    },
+    {
+      "slug": "vision-pro-s-impact-of-ux-design",
+      "title": "Vision Pro's impact of UX design",
+      "speakers": [
+        "yuki-kobayashi"
+      ]
+    }
+  ]
+}

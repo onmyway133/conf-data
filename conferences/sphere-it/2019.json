@@ -1,0 +1,19 @@
+{
+  "name": "Sphere.it 2019",
+  "year": 2019,
+  "url": "https://sphere.it",
+  "startDate": "2019-10-06",
+  "endDate": "2019-10-09",
+  "city": "Kraków",
+  "country": "PL",
+  "lat": 50.06143,
+  "lng": 19.93658,
+  "topics": [],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSfKzFJBeXRkqHZJKlndIoQ6BlLjVUpsqH7Uy-R-9wT3HQkgxg/viewform",
+    "deadline": "2019-06-30",
+    "open": false
+  },
+  "twitter": "https://x.com/sphereit_conf",
+  "source": "confs.tech"
+}

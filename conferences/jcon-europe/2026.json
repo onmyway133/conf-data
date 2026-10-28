@@ -1,0 +1,21 @@
+{
+  "name": "JCON EUROPE 2026",
+  "year": 2026,
+  "url": "https://2026.europe.jcon.one",
+  "startDate": "2026-04-20",
+  "endDate": "2026-04-23",
+  "city": "Cologne",
+  "country": "DE",
+  "lat": 50.93333,
+  "lng": 6.95,
+  "topics": [
+    "Java"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/jcon-europe-2026",
+    "deadline": "2025-10-24",
+    "open": false
+  },
+  "twitter": "https://x.com/jcon_conference",
+  "source": "confs.tech"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Internet 2.0 Conference USA 2023",
+  "year": 2023,
+  "url": "https://www.internet2conf.com",
+  "startDate": "2023-07-10",
+  "endDate": "2023-07-12",
+  "city": "Las Vegas, NV",
+  "country": "US",
+  "lat": 36.17497,
+  "lng": -115.13722,
+  "topics": [
+    "Android",
+    "IoT"
+  ],
+  "twitter": "https://x.com/internet2conf",
+  "source": "confs.tech"
+}

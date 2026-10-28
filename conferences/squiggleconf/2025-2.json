@@ -1,0 +1,19 @@
+{
+  "name": "SquiggleConf 2025",
+  "year": 2025,
+  "url": "https://2025.squiggleconf.com",
+  "startDate": "2025-09-18",
+  "endDate": "2025-09-19",
+  "city": "Boston, MA",
+  "country": "US",
+  "lat": 42.35843,
+  "lng": -71.05977,
+  "topics": [
+    "Open Source",
+    "Rust",
+    "TypeScript"
+  ],
+  "twitter": "https://x.com/SquiggleConf",
+  "mastodon": "https://fosstodon.org/@SquiggleConf",
+  "source": "confs.tech"
+}

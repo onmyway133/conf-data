@@ -1,0 +1,19 @@
+{
+  "name": "Bob Konferenz 2023",
+  "year": 2023,
+  "url": "https://bobkonf.de/2023/en",
+  "startDate": "2023-03-17",
+  "endDate": "2023-03-17",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [],
+  "cfp": {
+    "url": "https://bobkonf.de/2023/en/cfc.html",
+    "deadline": "2022-11-21",
+    "open": false
+  },
+  "twitter": "https://x.com/BOBKonf",
+  "source": "confs.tech"
+}

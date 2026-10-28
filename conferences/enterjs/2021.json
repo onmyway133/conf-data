@@ -1,0 +1,16 @@
+{
+  "name": "enterJS 2021",
+  "year": 2021,
+  "url": "https://enterjs.de",
+  "startDate": "2021-09-27",
+  "endDate": "2021-09-30",
+  "city": "Darmstadt",
+  "country": "DE",
+  "lat": 49.87167,
+  "lng": 8.65027,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/enterjsconf",
+  "source": "confs.tech"
+}

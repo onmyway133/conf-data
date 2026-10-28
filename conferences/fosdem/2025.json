@@ -1,0 +1,17 @@
+{
+  "name": "FOSDEM 2025",
+  "year": 2025,
+  "url": "https://fosdem.org/2025",
+  "startDate": "2025-02-01",
+  "endDate": "2025-02-02",
+  "city": "Brussels",
+  "country": "BE",
+  "lat": 50.85045,
+  "lng": 4.34878,
+  "topics": [
+    "Open Source"
+  ],
+  "twitter": "https://x.com/fosdem",
+  "mastodon": "https://fosstodon.org/@fosdem",
+  "source": "confs.tech"
+}

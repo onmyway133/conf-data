@@ -1,0 +1,21 @@
+{
+  "name": "DevIntersection 2021",
+  "year": 2021,
+  "url": "https://devintersection.com",
+  "startDate": "2021-12-05",
+  "endDate": "2021-12-10",
+  "city": "Las Vegas, NV",
+  "country": "US",
+  "lat": 36.17497,
+  "lng": -115.13722,
+  "topics": [
+    ".NET"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/devintersectionfall2021",
+    "deadline": "2021-07-31",
+    "open": false
+  },
+  "twitter": "https://x.com/devintersection",
+  "source": "confs.tech"
+}

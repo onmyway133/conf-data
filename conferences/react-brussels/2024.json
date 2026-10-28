@@ -1,0 +1,21 @@
+{
+  "name": "REACT BRUSSELS 2024",
+  "year": 2024,
+  "url": "https://www.react.brussels",
+  "startDate": "2024-10-18",
+  "endDate": "2024-10-18",
+  "city": "Brussels",
+  "country": "BE",
+  "lat": 50.85045,
+  "lng": 4.34878,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://forms.gle/3FaoeNE7hbjeHkGW7",
+    "deadline": "2024-07-19",
+    "open": false
+  },
+  "twitter": "https://x.com/BrusselsReact",
+  "source": "confs.tech"
+}

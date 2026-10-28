@@ -1,0 +1,16 @@
+{
+  "name": "Laracon AU 2023",
+  "year": 2023,
+  "url": "https://laracon.au",
+  "startDate": "2023-11-16",
+  "endDate": "2023-11-17",
+  "city": "Sydney",
+  "country": "AU",
+  "lat": -33.86785,
+  "lng": 151.20732,
+  "topics": [
+    "PHP"
+  ],
+  "twitter": "https://x.com/laraconau",
+  "source": "confs.tech"
+}

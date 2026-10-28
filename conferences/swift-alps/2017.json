@@ -1,0 +1,15 @@
+{
+  "name": "Swift Alps 2017",
+  "year": 2017,
+  "url": "http://theswiftalps.com/",
+  "startDate": "2017-11-23",
+  "endDate": "2017-11-24",
+  "city": "Crans-Montana",
+  "country": "CH",
+  "lat": 46.31316,
+  "lng": 7.47914,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences"
+}

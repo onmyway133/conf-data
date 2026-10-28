@@ -1,0 +1,207 @@
+{
+  "name": "Swift Connection 2026",
+  "year": 2026,
+  "url": "https://swiftconnection.io",
+  "startDate": "2026-11-02",
+  "endDate": "2026-11-03",
+  "city": "Paris",
+  "country": "FR",
+  "lat": 48.85341,
+  "lng": 2.3488,
+  "topics": [
+    "iOS"
+  ],
+  "cfp": {
+    "url": "https://conference-hall.io/swift-connection-2026",
+    "deadline": "2026-06-28",
+    "open": true
+  },
+  "source": "cocoaconferences",
+  "speakers": [
+    {
+      "speaker": "laura-savino",
+      "role": "Adobe",
+      "bio": "Laura Savino turns technical topics into conversations that spill out into venue hallways and beyond. She's a software engineer on Adobe creative apps including Photoshop, with a background spanning from decades-old legacy codebases to a thoroughly modern skepticism of the AI she uses every day. Rather than swearing off computers entirely, she copes by reading Cat Hicks papers and studies on occupational health.",
+      "photoUrl": "https://swiftconnection.io/static/ef0d830509b0f858a634a2d5700da0ed/a3f46/laura.png"
+    },
+    {
+      "speaker": "daniel-steinberg",
+      "role": "Dim Sum Thinking",
+      "bio": "Author of A Swift Kickstart, A SwiftUI Kickstart, and more than a dozen books. Writing apps for iPhone and iPad since the very first SDKs. Teaching Swift to engineers at Apple, Google, and eBay. Presenting at conferences on every continent. Daniel has shaped how a generation of developers thinks about this platform.",
+      "photoUrl": "https://swiftconnection.io/static/7dbcafbba0009453a8696f0519c4c4bd/1c565/daniel-steinberg.jpg"
+    },
+    {
+      "speaker": "antoine-van-der-lee",
+      "role": "RocketSim",
+      "bio": "Antoine is passionate about contributing to the Swift community. You might know him from his weekly blog posts on his personal blog, SwiftLee, his newsletter, SwiftLee Weekly, or RocketSim, an Xcode Simulator-enhancing app. His contributions to the Apple developer ecosystem have also been recognized by Apple, where he is featured as part of the Apple Developer Community recognition program. He particularly enjoys speaking on best practices for structuring code architecture in a way that creates sustainability, new Swift features, and how iOS developers can be more successful in their work.\n\nBefore going indie in 2024, he led the team at WeTransfer as a Staff iOS Engineer and developed several large-scale apps since 2009 (iOS 4!). His most recent work resulted in two brand-new courses: From Side Project to Going Indie at going-indie.com and a course focused on Swift 6 and Concurrency at swiftconcurrencycourse.com.",
+      "photoUrl": "https://swiftconnection.io/static/adeb2134e7859787b4c836d6cf35e363/1c565/Profile_Picture_High_Res.jpg"
+    },
+    {
+      "speaker": "matt-massicotte",
+      "role": "Apple Platform Developer",
+      "bio": "Matt keeps himself busy with training, consulting, writing, and working on open source projects. From individuals all the way up to large teams, he loves working with people to understand and solve problems. He's been developing for Apple platforms for about 30 years.",
+      "photoUrl": "https://swiftconnection.io/static/963038e33dc0868f1cfe59ed58b9e14c/3a5e8/Me_with_Mug_(1).jpg"
+    },
+    {
+      "speaker": "soroush-khanlou",
+      "role": "Square",
+      "bio": "Soroush Khanlou is a New York-based iOS developer. He freelanced for many years, for companies like Adobe, Betterment, and non-profits like Urban Archive, and now he works as an accessibility engineer at Square. He blogs about programming at khanlou.com. In his free time, he hikes, bakes bread and pastries, and collects suitcases.",
+      "photoUrl": "https://swiftconnection.io/static/16c4006b393ff391431dfe7640941939/bfe84/soroush-khanlou.jpg"
+    },
+    {
+      "speaker": "chris-eidhof",
+      "role": "objc.io / SwiftUI Field Guide",
+      "bio": "Chris is the founder of objc.io and creator of SwiftUI Field Guide. He wrote multiple books about Swift, runs the Swift Talk video series and organizes SwiftUI workshops.",
+      "photoUrl": "https://swiftconnection.io/static/043b1768105b7688ccea27e0a5ac8a92/1c565/photo.jpg"
+    },
+    {
+      "speaker": "herve-berenger",
+      "role": "MWM",
+      "bio": "After an engineering degree in aeronautics, Hervé has been a developer for more than 25 years. He's built video games, AI frameworks, (real) flight simulators, worked for the banking industry for ten years, and then switched to mobile development in 2014. After 6 years at Applidium/Fabernovel, he joined MWM where he's currently head of the iOS development team. In his talks, he loves taking our toys apart to figure out how they work, and is always promoting a creative and playful use of technology.",
+      "photoUrl": "https://swiftconnection.io/static/a355d01763033f2d2a36b5bb9dcbb48d/96cba/photo.jpg"
+    },
+    {
+      "speaker": "stelios-frantzeskakis",
+      "role": "Perry Street Software",
+      "bio": "Stelios is a Staff Engineer at Perry Street Software. He has been leading and developing native iOS apps for over a decade. He particularly enjoys speaking at technical conferences and writing about architecture, testing, and developer experience.",
+      "photoUrl": "https://swiftconnection.io/static/4948786d08d073dab751170047c2c81d/1c565/photo-square.jpg"
+    },
+    {
+      "speaker": "zach-brass",
+      "bio": "Zach has been an iOS developer for over 15 years at all different types of companies from startups to FAANG. In his spare time, he's a dancer and dance instructor, and competes in the occasional pun competition.",
+      "photoUrl": "https://swiftconnection.io/static/4d110d871ea22d30332b56223796ceb0/96cba/photo.jpg"
+    },
+    {
+      "speaker": "lucy-galik",
+      "bio": "Lucy is a Senior Software Engineer at Monzo working on UI frameworks. Previously she worked at Delli and Farmdrop. She likes learning new technologies, solving problems and helping others. Outside of work, she enjoys cold water swimming and is also an avid operagoer.",
+      "photoUrl": "https://swiftconnection.io/static/32b9d8387811ed286b7ca15338e2dd98/8b46d/photo.webp"
+    },
+    {
+      "speaker": "eric-bariaux",
+      "bio": "Eric, a Software Engineer by trade and a Geek at heart, has had numerous encounters with development in the Apple software ecosystem throughout his career, starting from his early professional days developing on a NeXTstation. Today he works on IoT and energy management backends but uses his many side projects to explore Swift's full potential, from embedded systems to server-side development and on all Apple platforms.",
+      "photoUrl": "https://swiftconnection.io/static/e4f0fa845abb0a527961d896670629a1/d92cd/photo.png"
+    },
+    {
+      "speaker": "douglas-hill",
+      "role": "Nutrient",
+      "bio": "Douglas spent many years as the iOS team lead at Nutrient (previously known as PSPDFKit) and recently switched to work across a wider range of technologies at Nutrient. He's a long-time organiser of the NSLondon iOS developer community.",
+      "photoUrl": "https://swiftconnection.io/static/4961e51c31f7956004123f0067742371/387e2/Douglas_Hill.png"
+    },
+    {
+      "speaker": "klemens-strasser",
+      "role": "Indie Developer",
+      "bio": "Klemens is an indie developer dedicated to crafting delightful apps with a strong focus on accessibility. He won an Apple Design Award as a Student in 2015 for his very first project, Elementary Minute. In 2025, his latest app, Art of Fauna, received both an Apple Design Award and an App Store Award. His work centers on creating thoughtful, high-quality experiences that are welcoming and usable for as many people as possible.",
+      "photoUrl": "https://swiftconnection.io/static/82e44ab0089fe564470efc6b87729afa/387e2/photo.png"
+    },
+    {
+      "speaker": "vlad-toma",
+      "role": "Showpad",
+      "bio": "Vlad is a Staff Engineer at Showpad, where he works on iOS apps and on-device AI. His background combines robotics with iOS engineering, and he enjoys finding practical uses for new Apple technologies. Outside work, he builds apps that make everyday life easier, alongside open-source projects. A new framework usually gives him an excuse to start another side project.",
+      "photoUrl": "https://swiftconnection.io/static/f351fdefdaaf7ea80f796c30d930cce7/513d6/photo.jpg"
+    },
+    {
+      "speaker": "baptiste-dajon",
+      "role": "Decathlon",
+      "bio": "Baptiste is an Apple Platforms Engineer at Decathlon, where he works at the intersection of native Apple development, retail innovation, product strategy, and spatial computing. He has been building for Apple platforms since 2008, from Objective-C to Swift, SwiftUI, and visionOS.\n\nAt Decathlon, he contributes to Apple platform strategy and has worked on customer-facing apps, internal retail tools, and immersive experiences exploring how iOS, iPadOS, tvOS, and visionOS can support new retail and sport journeys.\n\nHe is also an independent app maker behind several Apple-focused projects, including 9:41, DubDub!, WishKit, SkillKit, and Showroom Studio, and is active in the Apple developer community through talks, community initiatives, and knowledge sharing.",
+      "photoUrl": "https://swiftconnection.io/static/634714ae51ce1fab474d420dea10ab09/a3f46/photo.png"
+    },
+    {
+      "speaker": "alaina-kafkes",
+      "bio": "Alaina has been building and maintaining the Calm app for five years. When not writing code, you will find her pursuing off-screen hobbies such as tea, sourdough, and stories.",
+      "photoUrl": "https://swiftconnection.io/static/d01bbbb0a068bc4fadf069a8fc1d6229/1c565/alaina-kafkes.jpg"
+    }
+  ],
+  "talks": [
+    {
+      "slug": "beyond-screens-into-experiences-what-the-apple-ecosystem-enables",
+      "title": "Beyond Screens, Into Experiences: What the Apple Ecosystem Enables",
+      "speakers": [
+        "baptiste-dajon"
+      ]
+    },
+    {
+      "slug": "breathe",
+      "title": "Breathe",
+      "speakers": [
+        "daniel-steinberg"
+      ]
+    },
+    {
+      "slug": "enforcing-your-architecture-with-unit-tests-in-the-ai-era",
+      "title": "Enforcing Your Architecture with Unit Tests in the AI Era",
+      "speakers": [
+        "stelios-frantzeskakis"
+      ]
+    },
+    {
+      "slug": "getting-physical-using-swift-for-3d-printing",
+      "title": "Getting physical: Using Swift for 3D printing",
+      "speakers": [
+        "eric-bariaux"
+      ]
+    },
+    {
+      "slug": "how-private-is-private-cloud-compute",
+      "title": "How Private is Private Cloud Compute?",
+      "speakers": [
+        "herve-berenger"
+      ]
+    },
+    {
+      "slug": "learning-out-loud-under-near-existential-pressure",
+      "title": "Learning out Loud (Under Near-Existential Pressure)",
+      "speakers": [
+        "laura-savino"
+      ]
+    },
+    {
+      "slug": "on-device-ai-at-showpad-evals-local-models-offline-rag-working-title",
+      "title": "On-device AI at Showpad: evals, local models, offline RAG (Working Title)",
+      "speakers": [
+        "vlad-toma"
+      ]
+    },
+    {
+      "slug": "rust-for-ios-developers-more-swifty-than-swift-2",
+      "title": "Rust for iOS Developers: More Swifty than Swift",
+      "speakers": [
+        "douglas-hill"
+      ]
+    },
+    {
+      "slug": "swift-concurrency-s-pit-of-success-non-sendable-types",
+      "title": "Swift Concurrency's \"pit of success\": non-Sendable types",
+      "speakers": [
+        "matt-massicotte"
+      ]
+    },
+    {
+      "slug": "the-art-of-caring-how-empathy-built-an-apple-design-award-winning-app",
+      "title": "The Art of Caring: How Empathy Built an Apple Design Award-Winning App",
+      "speakers": [
+        "klemens-strasser"
+      ]
+    },
+    {
+      "slug": "this-should-have-been-a-struct-the-case-against-enums",
+      "title": "This should have been a struct. The case against enums.",
+      "speakers": [
+        "lucy-galik"
+      ]
+    },
+    {
+      "slug": "xcode-instruments-in-the-ai-era",
+      "title": "Xcode Instruments in the AI era",
+      "speakers": [
+        "antoine-van-der-lee"
+      ]
+    },
+    {
+      "slug": "you-should-mentor-that-person",
+      "title": "You Should Mentor That Person",
+      "speakers": [
+        "zach-brass"
+      ]
+    }
+  ]
+}

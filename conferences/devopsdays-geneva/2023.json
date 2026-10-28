@@ -1,0 +1,16 @@
+{
+  "name": "Devopsdays Geneva 2023",
+  "year": 2023,
+  "url": "https://devopsdays.org/events/2023-geneva/welcome",
+  "startDate": "2023-04-24",
+  "endDate": "2023-04-25",
+  "city": "Geneva",
+  "country": "CH",
+  "lat": 46.20222,
+  "lng": 6.14569,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/DevopsdaysGe",
+  "source": "confs.tech"
+}

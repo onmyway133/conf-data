@@ -1,0 +1,531 @@
+{
+  "name": "try! Swift Tokyo 2018",
+  "year": 2018,
+  "url": "https://www.tryswift.co/events/2018/tokyo/en/",
+  "startDate": "2018-03-01",
+  "endDate": "2018-03-03",
+  "city": "Tokyo",
+  "country": "JP",
+  "lat": 35.6895,
+  "lng": 139.69171,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences",
+  "speakers": [
+    {
+      "speaker": "norman-maurer",
+      "role": "Software Engineer at Apple",
+      "bio": "Norman Maurer is a software engineer on the iCloud team at Apple. He works on the asynchronous network frameworks that underly many of Apple's services.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2018/norman.jpg",
+      "twitter": "https://twitter.com/normanmaurer"
+    },
+    {
+      "speaker": "krzysztof-zablocki",
+      "role": "Creator of Sourcery & Objective-C Playgrounds",
+      "bio": "Krzysztof is the Lead iOS developer at The New York Times, known for creating Sourcery, Objective-C Playgrounds, and Apple’s Essential Apps like Foldify and 3D Game Engines. Passionate about writing quality code and helping other do the same. He blogs on merowing.info and open sources tools/libraries on github.com/krzysztofzablocki.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2018/krzysztof.jpg",
+      "twitter": "https://twitter.com/merowing_",
+      "website": "http://merowing.info/"
+    },
+    {
+      "speaker": "sarah-olson",
+      "role": "iOS Developer at Trello",
+      "bio": "Sarah Olson is an iOS developer for Trello at Atlassian. She has over eighteen years of development experience in a variety of technologies, including iOS, Android, Java, and WordPress development. As Director of Women Who Code Twin Cities, she leads a variety of initiatives and events focused on creating a more inclusive tech culture. You can follow her on Twitter at @saraheolson.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2018/sarah.jpg",
+      "twitter": "https://twitter.com/saraheolson"
+    },
+    {
+      "speaker": "brandon-kase",
+      "role": "iOS Engineer at Pinterest",
+      "bio": "Brandon Kase brings typed functional programming to weird places. He has shipped production code on Android with Kotlin, iOS with Swift and React Native, and Web with JS/Flow/React. Brandon is currently building a new cryptocurrency at O(1) Labs. He came across functional programming while pursuing a B.S. in Computer Science from Carnegie Mellon University. Brandon is excited that strong static typing and functional programming are becoming mainstream, and believes that techniques once reserved for academia will help industry produce more reliable software.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2018/bkase.jpg",
+      "twitter": "https://twitter.com/bkase_"
+    },
+    {
+      "speaker": "tamar-nachmany",
+      "role": "iOS Engineer at Tumblr",
+      "bio": "Tamar Nachmany has spent the past two years building Tumblr as an iOS engineer on Tumblr's Community, Messaging, and Core iOS teams. She is passionate about learning from technology communities around the world and has given talks about engineering and product design in Germany, Australia, Mexico, the United States, and soon Japan! When she is not writing software she teaches engineering, writes fiction, and organizes an art residency. She lives in New York.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2018/tamar.jpg",
+      "twitter": "https://twitter.com/tamarshmallows"
+    },
+    {
+      "speaker": "wendy-lu",
+      "role": "iOS Engineer at Pinterest",
+      "bio": "Wendy is an iOS engineer and has been working at Pinterest for the last 5 years. She is currently engineering manager of the Ad Formats team with a focus on mobile. Previously, she led the launch of their commerce product on mobile and has also touched everything from the data layer to the UI frameworks. She has given talks at several iOS conferences and moderates a mobile development panel at Grace Hopper. In a past life she competed on the US Synchronised Swimming National Team.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2018/wendy.jpg",
+      "twitter": "https://twitter.com/wendyluwho"
+    },
+    {
+      "speaker": "samuel-goodwin",
+      "role": "Founder of Roundwall Software",
+      "bio": "Samuel has worked on iOS since the SDK’s first release and has been in Amsterdam for the last 6 years running his company, Roundwall Software. He rides skateboards, plays bass guitar, and rides bikes.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2018/samuel.jpg",
+      "twitter": "https://twitter.com/samuelgoodwin"
+    },
+    {
+      "speaker": "sash-zats",
+      "role": "Software Engineer at Facebook",
+      "bio": "Sash is a software engineer at Facebook working on News Feed. He works on user interaction, animations and experiences that make people smile. Strong believer that, in the future, designers will code and engineers will design because there will be no distinction between two. Days since he broke the like button: 0.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2018/sash.jpg",
+      "twitter": "https://twitter.com/zats"
+    },
+    {
+      "speaker": "karl-von-randow",
+      "role": "Creator of Camera+, Charles Proxy, and Vee",
+      "bio": "Back in the olden days Karl was co-founder of Camera+, which sold over 12 million copies on the App Store. More recently he created Vee for Video—an app for quickly shooting, editing and sharing video. He is also the creator of Charles Proxy—a popular desktop app for observing an app’s network traffic—and co-founder of Letterboxd—a social website and app for movie lovers. Karl likes creating things.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2018/karl.jpg",
+      "twitter": "https://twitter.com/avon"
+    },
+    {
+      "speaker": "katsumi-kishikawa",
+      "role": "Freelance Software Engineer",
+      "bio": "Katsumi Kishikawa is an iOS/macOS developer working at Realm. He’s a serial open source library developer, and has published some popular libraries on GitHub. He’s also made big contributions to the iOS developer community in Japan with his experience and knowledge.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/katsumi.jpg",
+      "twitter": "https://twitter.com/k_katsumi"
+    },
+    {
+      "speaker": "kohki-miki",
+      "role": "Engineer at Cookpad",
+      "bio": "Kohki Miki (a.k.a @giginet) is a software engineer at Cookpad. He builds infrastructure for mobile development and works to improve productivity of mobile developers. Also, he builds fastlane tools, as a member of core contributors, and other useful development tools. He likes game development, so he creates some games and writes books about game development.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2017/giginet.png",
+      "twitter": "https://twitter.com/giginet"
+    },
+    {
+      "speaker": "ellen-shapiro",
+      "role": "iOS Developer at Bakken & Bæck",
+      "bio": "Ellen Shapiro is a native mobile developer who recently moved to the Netherlands. She's been building iOS and Android apps since 2010, and was most recently the lead mobile developer for SpotHero. In addition, Ellen writes and edits iOS and Android tutorials for RayWenderlich.com, and is the lead developer for Hum, a prominent iOS app for songwriting. In her spare time Ellen enjoys playing the guitar, traveling, biking, and hanging out with her girlfriend and their two cats.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/ellen.jpg",
+      "twitter": "https://twitter.com/designatednerd"
+    },
+    {
+      "speaker": "shuichi-tsutsumi",
+      "role": "iOS Developer in Tokyo/San Francisco",
+      "bio": "Shuichi has been a freelance iOS developer in Tokyo, and works for Fyusion Inc. in San Francisco since 2016. Co-authored “iOS x BLE Core Bluetooth Programming” (2015) and authored “iOS Programming - Advanced 100 Recipes” (2013). He is the creator of some popular OSS repositories such as iOS Sampler series.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2018/shu223.jpg",
+      "twitter": "https://twitter.com/shu223"
+    },
+    {
+      "speaker": "samuel-giddins",
+      "role": "Bundler & CocoaPods Core Team, Developer at Square",
+      "bio": "Samuel is a developer well-versed in the rituals of writing developer tools that occasionally work. By day, Samuel works on making the mobile developer experience at Square less arduous; by night he can be found breaking Bundler and CocoaPods. Before this whole 'developer' thing, Samuel studied in the highly impractical Mathematics & Economics departments at University of Chicago, learning subjects such as 'numbers', 'social theory', and 'memes'. When not coding, Samuel is often in the kitchen, marveling at the fact that dinner smells better than it looks.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2018/sam.jpg",
+      "twitter": "https://twitter.com/segiddins"
+    },
+    {
+      "speaker": "ben-scheirman",
+      "role": "Creator of NSScreencast",
+      "bio": "Ben Scheirman is an independent software developer from Houston, Texas. He is best known for creating NSScreencast, a site that delivers quality training videos on iOS development. Ben has been writing iOS apps since 2009, and has produced more than 300 videos teaching others to do the same. You can find Ben’s website at benscheirman.com or follow him on Twitter @subdigital.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2018/ben.jpg",
+      "twitter": "https://twitter.com/subdigital",
+      "website": "http://benscheirman.com/"
+    },
+    {
+      "speaker": "javier-soto",
+      "role": "iOS Developer at Twitch",
+      "bio": "Javier Soto. Spanish, iOS developer in the SF Bay Area for the past 5 years. Worked at Pebble and Twitter before, now at Twitch. Big fan of Swift. When not writing code, he's playing chess, solving Rubik's cubes or flying planes",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2018/javi.jpg",
+      "twitter": "https://twitter.com/javi"
+    },
+    {
+      "speaker": "daisy-ramos",
+      "role": "iOS Developer",
+      "bio": "Daisy is an avid iOS developer and lover of all that is tech. Most recently working on the iOS team at Citi FinTech building data-driven solutions and new features for their consumer banking app. She also actively consults for early stage companies looking to build the next big thing. Daisy holds a B.S in Computer Science from Queens College in NYC, the same college where the try! Swift NYC meetup originated. She now organizes the meetup and hosts a wide variety of technical Swift talks. She can be found on twitter as @daisyr317.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2018/daisy.jpg",
+      "twitter": "https://twitter.com/daisyr317"
+    },
+    {
+      "speaker": "david-hoang",
+      "role": "Head of Product Design at One Medical",
+      "bio": "David Hoang loves Swift, Visual Programming, and infusing the design and engineering process together. In his 15-year career he has worked in B2B at ExactTarget, Brand at HTC, being a founder of a digital studio, Design Director at Black Pixel, and now Head of Product Design at One Medical. He’s worked on three apps featured by Apple and got into programming as a designer with the desire to push ideas to become more tangible. It’s true that he has a VM of Mac OS 9 running so he can use HyperCard. When he’s not working, David likes to collaborate with other designers and engineers, travel, read, and paint. He currently lives in San Francisco, California, but his heart is back in New York City.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2018/david.jpg",
+      "twitter": "https://twitter.com/davidhoang"
+    },
+    {
+      "speaker": "kate-castellano",
+      "role": "Senior iOS Developer at Clue",
+      "bio": "Kate Castellano is a Venezuelan Informatics Engineer, specialized in Mobile Development. She started her career as an Android Developer but then decided to change to iOS Development, where she has been working for the past 6 years. One of her passions is to work towards the inclusion of more women in technology, therefore she was the co-organizer of Women Who Go Berlin chapter, Event-Manager for Berlin's Geekettes Mentorship Program and a mentor in Learn It Girl!. She currently works as a Senior iOS Developer for Clue and looks forward to join more organisations. When she is not organising events or coding, you can find her traveling or finding new musicals to sing along to.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2018/kate.png",
+      "twitter": "https://twitter.com/katecastellano"
+    },
+    {
+      "speaker": "yuka-ezura",
+      "role": "iOS Engineer at LINE",
+      "bio": "Yuka Ezura is an iOS engineer working at LINE. She belongs to the cloud AI platform “Clova” development team. At conferences and many study meetings, she presents topics focused on Swift language. She is also a personality at a web radio station mookmook radio.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2018/ezura.png",
+      "twitter": "https://twitter.com/eduraaa"
+    },
+    {
+      "speaker": "pushkar-kulkarni",
+      "role": "Server-Side Swift at IBM",
+      "bio": "Pushkar Kulkarni is a server-side Swift developer working with IBM. Prior to Swift, he worked on IBM's Java runtime, working on the JIT compiler and the Java standard library. Over the last two years, he has been contributing to open source Swift Foundation, focussed on making URLSession fully functional on Linux. He thinks Swift is the coolest language ever and is excited about the opportunities it offers on the server side.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/bangalore2017/instructors/pushkar.jpg",
+      "twitter": "https://twitter.com/pushkar_nk"
+    },
+    {
+      "speaker": "yusuke-kita",
+      "role": "iOS Developer at Mercari",
+      "bio": "Yusuke Kita is an iOS developer at Mercari. He works on the internationalization of the Mercari app. He's passionate about learning new technology. When not coding, you can find him cycling.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2018/lt/kita.jpg",
+      "twitter": "https://twitter.com/kitasuke"
+    },
+    {
+      "speaker": "kentaro-matsumae",
+      "role": "Engineer at DeNA",
+      "bio": "Kentaro Matsumae is an engineer at DeNA, where he works on the MangaBox iOS app. Previously, he worked on several other apps including niconico. When not coding, he studies machine learning.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2018/lt/kenmaz.jpg",
+      "twitter": "https://twitter.com/kenmaz"
+    },
+    {
+      "speaker": "vu-nhat-minh",
+      "role": "iOS Engineer at Mercari / Souzoh",
+      "bio": "Orakaro is an iOS Engineer at Mercari currently working on Atte, the Japanese community classifieds app. Though he had years of backend web programming experiences using languages such as Python or Scala, he decided to move on as a native mobile engineer after figuring out that smartphone apps were doing a better job of impacting the world each and every day. He also enjoys digging around concepts and theories in functional programming, learning abstract algebra and excited to help bring those academy concepts closer to industry products. In spare time Orakaro enjoys playing the ancient game of Go. He is a 2 dan amateur go player.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2018/lt/orakaro.jpg",
+      "twitter": "https://twitter.com/orakaro"
+    },
+    {
+      "speaker": "toru-kuriyama",
+      "role": "iOS Engineer at Sansan",
+      "bio": "Toru Kuriyama is an iOS application engineer at Sansan Inc, which handles business card management service, and develops 'Sansan' iOS app for corporations.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2018/lt/kotetu.jpg",
+      "twitter": "https://twitter.com/kotetu"
+    },
+    {
+      "speaker": "tatsuya-tanaka",
+      "role": "Engineer at Yahoo! JAPAN",
+      "bio": "Tatsuya Tanaka is an engineer at Yahoo! JAPAN, where he mainly develops transit iOS apps. When not coding, he shares iOS tips at meetups or on his blog. You can find him at Hackathons.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2018/lt/tattn.jpg",
+      "twitter": "https://twitter.com/tanakasan2525"
+    },
+    {
+      "speaker": "yuki-asai",
+      "role": "iOS Developer at Recruit Marketing Partners",
+      "bio": "Yuki Asai develops iOS apps and server-side apps using Scala. He codes with Swift, Haskell, Ruby, and sometimes ReactNative.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2018/lt/yukiasai.jpg",
+      "twitter": "https://twitter.com/yukiasai417"
+    },
+    {
+      "speaker": "takeshi-ihara",
+      "role": "iOS Engineer at Recruit Marketing Partners",
+      "bio": "Takeshi Ihara is an iOS engineer of English learning services at Recruit Marketing Partners. He uses server side Swift in his personal apps. When not coding, you can find him bouldering or playing games.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2018/lt/ihara.jpg",
+      "twitter": "https://twitter.com/nonchalant0303"
+    },
+    {
+      "speaker": "tiago-martinho",
+      "role": "Developer at ThoughtWorks",
+      "bio": "Tiago Martinho is a Developer at ThoughtWorks in Barcelona - he created Swift Peer Labs in Barcelona. He loves to create apps, mainly for iOS (he already built more than 15 projects). Tiago is currently studying Machine Learning. He started iOS development professionally with Swift 1.0 in 2014.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2018/lt/tiago.jpg",
+      "twitter": "https://twitter.com/martinho_t"
+    },
+    {
+      "speaker": "yuya-hirayama",
+      "role": "iOS Engineer at VASILY Inc.",
+      "bio": "Yuya Hirayama is an iOS engineer at VASILY Inc. He likes the idea of protocol-oriented programming, and pursuing code that realizes type-safe operation with minimal local definition by protocol + protocol extension. Recently, he is pulled toward the strong appeal of server side Swift, focusing more on Swift itself rather than iOS development. Yuya Hirayama also develops a virtual currency service as a side project, including the iOS application and the back-end API using Swift. In addition, he actively speaks at 'iOS Discord' and organizes 'Discord Offline', the first offline event of the community.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2018/lt/hiragram.jpg",
+      "twitter": "https://twitter.com/hiragram"
+    },
+    {
+      "speaker": "nobuo-saito",
+      "role": "iOS Engineer at Mercari",
+      "bio": "Nobuo Saito is an engineer at Mercari. He likes Swift, games and sleeping, so he has problems with time allocation. He recently bought MHW, so the time required for gaming has doubled. It is serious.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2018/lt/tarunon.jpg",
+      "twitter": "https://twitter.com/tarunon"
+    },
+    {
+      "speaker": "taiji-hagino",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2018/instructors/taiji.jpg",
+      "twitter": "https://twitter.com/taiponrock"
+    },
+    {
+      "speaker": "todd-kerpelman",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2018/instructors/todd.jpg",
+      "twitter": "https://twitter.com/ToddKerpelman"
+    },
+    {
+      "speaker": "nicholas-maccharoli",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2018/instructors/nicholas.jpg",
+      "twitter": "https://twitter.com/din0sr"
+    },
+    {
+      "speaker": "sho-ikeda",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2018/instructors/sho.jpg",
+      "twitter": "https://twitter.com/ikesyo"
+    },
+    {
+      "speaker": "yuta-koshizawa",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2018/instructors/koher.jpg",
+      "twitter": "https://twitter.com/koher"
+    },
+    {
+      "speaker": "thomas-paul-mann"
+    },
+    {
+      "speaker": "alex-rozanski"
+    },
+    {
+      "speaker": "jason-harris"
+    }
+  ],
+  "talks": [
+    {
+      "slug": "talk",
+      "title": "👾",
+      "speakers": [
+        "kohki-miki"
+      ]
+    },
+    {
+      "slug": "a-secret-swift-tour",
+      "title": "A Secret Swift Tour",
+      "speakers": [
+        "yuka-ezura"
+      ]
+    },
+    {
+      "slug": "ast-meta-programming",
+      "title": "AST Meta-programming",
+      "speakers": [
+        "katsumi-kishikawa"
+      ]
+    },
+    {
+      "slug": "augmented-reality-swiftly",
+      "title": "Augmented Reality, Swiftly!",
+      "speakers": [
+        "thomas-paul-mann"
+      ]
+    },
+    {
+      "slug": "best-docker-container-in-swift",
+      "title": "Best Docker Container in Swift",
+      "speakers": [
+        "takeshi-ihara"
+      ]
+    },
+    {
+      "slug": "building-real-world-server-side-swift-applications-with-kitura",
+      "title": "Building real-world server-side Swift applications with Kitura",
+      "speakers": [
+        "taiji-hagino"
+      ]
+    },
+    {
+      "slug": "cloud-firestore-workshop",
+      "title": "Cloud Firestore Workshop",
+      "speakers": [
+        "todd-kerpelman"
+      ]
+    },
+    {
+      "slug": "codable-routing-with-kitura",
+      "title": "Codable Routing with Kitura",
+      "speakers": [
+        "pushkar-kulkarni"
+      ]
+    },
+    {
+      "slug": "creating-conversational-interfaces-in-ios-swift",
+      "title": "Creating conversational interfaces in iOS/Swift",
+      "speakers": [
+        "wendy-lu"
+      ]
+    },
+    {
+      "slug": "designing-experiences-with-augmented-reality",
+      "title": "Designing Experiences With Augmented Reality",
+      "speakers": [
+        "david-hoang"
+      ]
+    },
+    {
+      "slug": "digital-signal-processing-with-swift",
+      "title": "Digital Signal Processing with Swift",
+      "speakers": [
+        "daisy-ramos"
+      ]
+    },
+    {
+      "slug": "event-driven-networking-for-swift",
+      "title": "Event driven networking for Swift",
+      "speakers": [
+        "norman-maurer"
+      ]
+    },
+    {
+      "slug": "exploring-clang-modules",
+      "title": "Exploring Clang Modules",
+      "speakers": [
+        "samuel-giddins"
+      ]
+    },
+    {
+      "slug": "finally-solving-the-expression-problem",
+      "title": "Finally Solving the Expression Problem",
+      "speakers": [
+        "brandon-kase"
+      ]
+    },
+    {
+      "slug": "getting-to-know-the-responder-chain",
+      "title": "Getting to Know the Responder Chain",
+      "speakers": [
+        "samuel-goodwin"
+      ]
+    },
+    {
+      "slug": "introducing-charles-for-ios",
+      "title": "Introducing Charles for iOS",
+      "speakers": [
+        "karl-von-randow"
+      ]
+    },
+    {
+      "slug": "investing-time-into-developer-tools-and-experience",
+      "title": "Investing time into developer tools and experience",
+      "speakers": [
+        "krzysztof-zablocki"
+      ]
+    },
+    {
+      "slug": "kotlin-for-swift-developers",
+      "title": "Kotlin For Swift Developers",
+      "speakers": [
+        "ellen-shapiro"
+      ]
+    },
+    {
+      "slug": "making-apps-with-realm-cloud",
+      "title": "Making Apps with Realm Cloud",
+      "speakers": [
+        "katsumi-kishikawa"
+      ]
+    },
+    {
+      "slug": "mastering-value-types-in-swift-with-swift-quest",
+      "title": "Mastering Value Types in Swift with SWIFT QUEST",
+      "speakers": [
+        "yuta-koshizawa"
+      ]
+    },
+    {
+      "slug": "open-source-swift-workshop",
+      "title": "Open Source Swift Workshop",
+      "speakers": [
+        "nicholas-maccharoli"
+      ]
+    },
+    {
+      "slug": "optimizing-swift-code-for-separation-of-concerns-and-simplicity",
+      "title": "Optimizing Swift code for separation of concerns and simplicity",
+      "speakers": [
+        "javier-soto"
+      ]
+    },
+    {
+      "slug": "preparing-for-swift-5-ownership",
+      "title": "Preparing for Swift 5 Ownership",
+      "speakers": [
+        "toru-kuriyama"
+      ]
+    },
+    {
+      "slug": "protocol-oriented-webapi-abstraction",
+      "title": "Protocol Oriented WebAPI Abstraction",
+      "speakers": [
+        "yuya-hirayama"
+      ]
+    },
+    {
+      "slug": "should-coders-design",
+      "title": "Should coders design?",
+      "speakers": [
+        "sash-zats"
+      ]
+    },
+    {
+      "slug": "sil-for-first-time-learners",
+      "title": "SIL for First Time Learners",
+      "speakers": [
+        "yusuke-kita"
+      ]
+    },
+    {
+      "slug": "super-resolution-with-coreml-2",
+      "title": "Super Resolution with CoreML",
+      "speakers": [
+        "kentaro-matsumae"
+      ]
+    },
+    {
+      "slug": "swift-in-my-home",
+      "title": "Swift in my home",
+      "speakers": [
+        "yuki-asai"
+      ]
+    },
+    {
+      "slug": "swift-peer-lab-barcelona",
+      "title": "Swift Peer Lab Barcelona",
+      "speakers": [
+        "tiago-martinho"
+      ]
+    },
+    {
+      "slug": "swiftypi",
+      "title": "SwiftyPi",
+      "speakers": [
+        "kate-castellano"
+      ]
+    },
+    {
+      "slug": "the-diamond-of-variance",
+      "title": "The diamond of variance",
+      "speakers": [
+        "vu-nhat-minh"
+      ]
+    },
+    {
+      "slug": "the-type-erasure-advantage",
+      "title": "The Type Erasure Advantage",
+      "speakers": [
+        "nobuo-saito"
+      ]
+    },
+    {
+      "slug": "the-type-safe-world-of-codable",
+      "title": "The Type-Safe World of Codable",
+      "speakers": [
+        "tatsuya-tanaka"
+      ]
+    },
+    {
+      "slug": "ui-testing-for-fun-and-profit",
+      "title": "UI Testing for Fun and Profit",
+      "speakers": [
+        "sarah-olson"
+      ]
+    },
+    {
+      "slug": "uiimageview-vs-metal",
+      "title": "UIImageView vs Metal",
+      "speakers": [
+        "shuichi-tsutsumi"
+      ]
+    },
+    {
+      "slug": "using-swift-to-visualize-algorithms",
+      "title": "Using Swift to Visualize Algorithms",
+      "speakers": [
+        "ben-scheirman"
+      ]
+    },
+    {
+      "slug": "writing-blockchain-clients-in-swift",
+      "title": "Writing Blockchain Clients in Swift",
+      "speakers": [
+        "tamar-nachmany"
+      ]
+    }
+  ]
+}

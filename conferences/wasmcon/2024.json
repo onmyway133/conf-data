@@ -1,0 +1,18 @@
+{
+  "name": "WasmCon 2024",
+  "year": 2024,
+  "url": "https://events.linuxfoundation.org/wasmcon",
+  "startDate": "2024-11-11",
+  "endDate": "2024-11-12",
+  "city": "Salt Lake City, UT",
+  "country": "US",
+  "lat": 40.76078,
+  "lng": -111.89105,
+  "topics": [],
+  "cfp": {
+    "url": "https://events.linuxfoundation.org/wasmcon/program/cfp",
+    "open": false
+  },
+  "twitter": "https://x.com/linuxfoundation",
+  "source": "confs.tech"
+}

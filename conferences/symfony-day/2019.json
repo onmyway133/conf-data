@@ -1,0 +1,21 @@
+{
+  "name": "Symfony Day 2019",
+  "year": 2019,
+  "url": "https://2019.symfonyday.it",
+  "startDate": "2019-10-17",
+  "endDate": "2019-10-18",
+  "city": "Verona",
+  "country": "IT",
+  "lat": 45.43854,
+  "lng": 10.9938,
+  "topics": [
+    "PHP"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSc2I-7W_j0zCFCRxqqhZMkm0TD5D19WYX166fP5tWc8y8NMkA/viewform",
+    "deadline": "2019-06-01",
+    "open": false
+  },
+  "twitter": "https://x.com/SymfonyDayIt",
+  "source": "confs.tech"
+}

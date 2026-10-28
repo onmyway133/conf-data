@@ -1,0 +1,16 @@
+{
+  "name": "Mobile March 2015",
+  "year": 2015,
+  "url": "http://mobilemarchtc.com/",
+  "startDate": "2015-03-26",
+  "endDate": "2015-03-26",
+  "city": "Minneapolis",
+  "country": "US",
+  "lat": 44.97997,
+  "lng": -93.26384,
+  "topics": [
+    "iOS",
+    "Mobile"
+  ],
+  "source": "cocoaconferences"
+}

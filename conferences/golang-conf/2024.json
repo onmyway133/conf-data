@@ -1,0 +1,20 @@
+{
+  "name": "Golang Conf 2024",
+  "year": 2024,
+  "url": "https://golangconf.ru",
+  "startDate": "2024-06-24",
+  "endDate": "2024-06-25",
+  "city": "Saint Petersburg",
+  "country": "RU",
+  "lat": 59.93863,
+  "lng": 30.31413,
+  "topics": [
+    "Go"
+  ],
+  "cfp": {
+    "url": "https://cfp.golangconf.ru/en",
+    "deadline": "2024-02-29",
+    "open": false
+  },
+  "source": "confs.tech"
+}

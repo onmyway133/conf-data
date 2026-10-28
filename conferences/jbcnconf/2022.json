@@ -1,0 +1,16 @@
+{
+  "name": "JBCNConf 2022",
+  "year": 2022,
+  "url": "https://www.jbcnconf.com/2022",
+  "startDate": "2022-07-18",
+  "endDate": "2022-07-20",
+  "city": "Barcelona",
+  "country": "ES",
+  "lat": 41.38879,
+  "lng": 2.15899,
+  "topics": [
+    "Java"
+  ],
+  "twitter": "https://x.com/jbcnconf",
+  "source": "confs.tech"
+}

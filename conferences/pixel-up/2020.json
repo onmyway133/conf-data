@@ -1,0 +1,16 @@
+{
+  "name": "Pixel Up! 2020",
+  "year": 2020,
+  "url": "https://pixelup.co.za",
+  "startDate": "2020-09-14",
+  "endDate": "2020-09-16",
+  "city": "Cape Town",
+  "country": "ZA",
+  "lat": -33.92584,
+  "lng": 18.42322,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/letspixelup",
+  "source": "confs.tech"
+}

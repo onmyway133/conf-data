@@ -1,0 +1,15 @@
+{
+  "name": "iOSDevUK 2017",
+  "year": 2017,
+  "url": "http://www.iosdevuk.com/",
+  "startDate": "2017-09-04",
+  "endDate": "2017-09-07",
+  "city": "Aberystwyth",
+  "country": "GB",
+  "lat": 52.41548,
+  "lng": -4.08292,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences"
+}

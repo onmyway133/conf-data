@@ -1,0 +1,16 @@
+{
+  "name": "DevOps Talks Conference 2021",
+  "year": 2021,
+  "url": "https://devops.talksplus.com/sydney/devops.html",
+  "startDate": "2021-03-25",
+  "endDate": "2021-03-26",
+  "city": "Sydney",
+  "country": "AU",
+  "lat": -33.86785,
+  "lng": 151.20732,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/DOTC20",
+  "source": "confs.tech"
+}

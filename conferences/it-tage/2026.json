@@ -1,0 +1,22 @@
+{
+  "name": "IT-Tage 2026",
+  "year": 2026,
+  "url": "https://www.it-tage.org",
+  "startDate": "2026-12-07",
+  "endDate": "2026-12-10",
+  "city": "Frankfurt am Main",
+  "country": "DE",
+  "lat": 50.11552,
+  "lng": 8.68417,
+  "topics": [
+    "Data/AI",
+    "DevOps",
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://www.ittage.informatik-aktuell.de/index.html",
+    "deadline": "2026-04-30",
+    "open": true
+  },
+  "source": "confs.tech"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Pragma Conference 2017",
+  "year": 2017,
+  "url": "http://pragmaconference.com",
+  "startDate": "2017-10-11",
+  "endDate": "2017-10-13",
+  "city": "Verona",
+  "country": "IT",
+  "lat": 45.43854,
+  "lng": 10.9938,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Let’s Swift 2020",
+  "year": 2020,
+  "url": "http://letswift.kr/2020/",
+  "startDate": "2020-11-30",
+  "endDate": "2020-12-04",
+  "city": "Seoul",
+  "country": "KR",
+  "lat": 37.566,
+  "lng": 126.9784,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences"
+}

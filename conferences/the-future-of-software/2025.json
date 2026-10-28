@@ -1,0 +1,17 @@
+{
+  "name": "The Future of Software 2025",
+  "year": 2025,
+  "url": "https://www.thefutureofsoftware.com/london",
+  "startDate": "2025-03-26",
+  "endDate": "2025-03-26",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/eficode",
+  "bluesky": "https://bsky.app/profile/eficode.bsky.social",
+  "source": "confs.tech"
+}

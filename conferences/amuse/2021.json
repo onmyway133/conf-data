@@ -1,0 +1,16 @@
+{
+  "name": "Amuse 2021",
+  "year": 2021,
+  "url": "https://amuseconf.com",
+  "startDate": "2021-10-04",
+  "endDate": "2021-10-06",
+  "city": "Budapest",
+  "country": "HU",
+  "lat": 47.49835,
+  "lng": 19.04045,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/amuseconf",
+  "source": "confs.tech"
+}

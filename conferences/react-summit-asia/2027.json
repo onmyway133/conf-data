@@ -1,0 +1,21 @@
+{
+  "name": "React Summit Asia 2027",
+  "year": 2027,
+  "url": "https://reactsummit.asia",
+  "startDate": "2027-04-15",
+  "endDate": "2027-04-19",
+  "city": "Singapore",
+  "country": "SG",
+  "lat": 1.28967,
+  "lng": 103.85007,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://gitnation.com/events/react-summit-asia/cfp",
+    "deadline": "2027-01-04",
+    "open": true
+  },
+  "twitter": "https://x.com/ReactSummit",
+  "source": "confs.tech"
+}

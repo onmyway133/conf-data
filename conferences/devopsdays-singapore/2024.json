@@ -1,0 +1,16 @@
+{
+  "name": "Devopsdays Singapore 2024",
+  "year": 2024,
+  "url": "https://devopsdays.org/events/2024-singapore/welcome",
+  "startDate": "2024-03-21",
+  "endDate": "2024-03-22",
+  "city": "Singapore",
+  "country": "SG",
+  "lat": 1.28967,
+  "lng": 103.85007,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devopsdaysSG",
+  "source": "confs.tech"
+}

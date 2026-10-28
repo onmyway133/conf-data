@@ -1,0 +1,20 @@
+{
+  "name": "Reinforce AI Conference 2019",
+  "year": 2019,
+  "url": "https://reinforceconf.com",
+  "startDate": "2019-03-21",
+  "endDate": "2019-03-22",
+  "city": "Budapest",
+  "country": "HU",
+  "lat": 47.49835,
+  "lng": 19.04045,
+  "topics": [
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://www.papercall.io/reinforce-ai-2019",
+    "deadline": "2018-11-30",
+    "open": false
+  },
+  "source": "confs.tech"
+}

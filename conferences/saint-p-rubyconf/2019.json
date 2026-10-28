@@ -1,0 +1,16 @@
+{
+  "name": "Saint P Rubyconf 2019",
+  "year": 2019,
+  "url": "https://spbrubyconf.ru",
+  "startDate": "2019-06-01",
+  "endDate": "2019-06-02",
+  "city": "Saint Petersburg",
+  "country": "RU",
+  "lat": 59.93863,
+  "lng": 30.31413,
+  "topics": [
+    "Ruby"
+  ],
+  "twitter": "https://x.com/saintprug",
+  "source": "confs.tech"
+}

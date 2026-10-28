@@ -1,0 +1,16 @@
+{
+  "name": "Internet 2.0 Conference 2024",
+  "year": 2024,
+  "url": "https://www.internet2conf.com",
+  "startDate": "2024-12-03",
+  "endDate": "2024-12-05",
+  "city": "Dubai",
+  "country": "AE",
+  "lat": 25.07725,
+  "lng": 55.30927,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/internet2conf",
+  "source": "confs.tech"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "GraphQL Summit 2024",
+  "year": 2024,
+  "url": "https://summit.graphql.com",
+  "startDate": "2024-10-08",
+  "endDate": "2024-10-10",
+  "city": "New York, NY",
+  "country": "US",
+  "lat": 40.71427,
+  "lng": -74.00597,
+  "topics": [
+    "APIs",
+    "Data/AI",
+    "GraphQL"
+  ],
+  "cfp": {
+    "url": "https://reg.summit.graphql.com/flow/apollo/summit24/speaker-landing-page/page/home",
+    "deadline": "2024-05-20",
+    "open": false
+  },
+  "twitter": "https://x.com/graphqlsummit",
+  "source": "confs.tech"
+}

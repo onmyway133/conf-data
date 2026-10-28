@@ -1,0 +1,22 @@
+{
+  "name": "JSConf Ireland 2024",
+  "year": 2024,
+  "url": "https://www.jsconf.ie",
+  "startDate": "2024-09-25",
+  "endDate": "2024-09-26",
+  "city": "Dublin",
+  "country": "IE",
+  "lat": 53.33306,
+  "lng": -6.24889,
+  "topics": [
+    "JavaScript",
+    "TypeScript"
+  ],
+  "cfp": {
+    "url": "https://www.jsconf.ie/call-for-proposals",
+    "deadline": "2024-02-29",
+    "open": false
+  },
+  "twitter": "https://x.com/JSConfIE",
+  "source": "confs.tech"
+}

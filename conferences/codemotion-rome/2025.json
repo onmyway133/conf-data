@@ -1,0 +1,19 @@
+{
+  "name": "Codemotion Rome 2025",
+  "year": 2025,
+  "url": "https://conferences.codemotion.com/rome2025/it/home",
+  "startDate": "2025-04-14",
+  "endDate": "2025-04-14",
+  "city": "Rome",
+  "country": "IT",
+  "lat": 41.89193,
+  "lng": 12.51133,
+  "topics": [],
+  "cfp": {
+    "url": "https://codemo.tech/CFP-Rome25",
+    "deadline": "2025-01-23",
+    "open": false
+  },
+  "twitter": "https://x.com/Codemotion",
+  "source": "confs.tech"
+}

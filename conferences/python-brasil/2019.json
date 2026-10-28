@@ -1,0 +1,16 @@
+{
+  "name": "Python Brasil 2019",
+  "year": 2019,
+  "url": "https://2019.pythonbrasil.org.br",
+  "startDate": "2019-10-23",
+  "endDate": "2019-10-28",
+  "city": "Ribeirão Preto",
+  "country": "BR",
+  "lat": -21.1775,
+  "lng": -47.81028,
+  "topics": [
+    "Python"
+  ],
+  "twitter": "https://x.com/pythonbrasil",
+  "source": "confs.tech"
+}

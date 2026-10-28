@@ -1,0 +1,16 @@
+{
+  "name": "JSDC 2019",
+  "year": 2019,
+  "url": "https://2019.jsdc.tw",
+  "startDate": "2019-10-26",
+  "endDate": "2019-10-26",
+  "city": "Taipei",
+  "country": "TW",
+  "lat": 25.05306,
+  "lng": 121.52639,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/jsdc_tw",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Java Forum Nord 2020",
+  "year": 2020,
+  "url": "https://javaforumnord.de",
+  "startDate": "2020-09-17",
+  "endDate": "2020-09-17",
+  "city": "Hannover",
+  "country": "DE",
+  "lat": 52.37052,
+  "lng": 9.73322,
+  "topics": [
+    "Java"
+  ],
+  "twitter": "https://x.com/JavaForumNord",
+  "source": "confs.tech"
+}

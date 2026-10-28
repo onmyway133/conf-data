@@ -1,0 +1,19 @@
+{
+  "name": "Sphere.it Conf 2023",
+  "year": 2023,
+  "url": "https://sphere.it/event/sphere-it-conf-2023",
+  "startDate": "2023-09-27",
+  "endDate": "2023-09-28",
+  "city": "Kraków",
+  "country": "PL",
+  "lat": 50.06143,
+  "lng": 19.93658,
+  "topics": [],
+  "cfp": {
+    "url": "https://sphere.it/become-a-speaker",
+    "deadline": "2023-06-07",
+    "open": false
+  },
+  "twitter": "https://x.com/sphere_it_",
+  "source": "confs.tech"
+}

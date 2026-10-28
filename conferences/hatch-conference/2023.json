@@ -1,0 +1,21 @@
+{
+  "name": "Hatch Conference 2023",
+  "year": 2023,
+  "url": "https://www.hatchconference.com",
+  "startDate": "2023-10-05",
+  "endDate": "2023-10-06",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "Design/UX"
+  ],
+  "cfp": {
+    "url": "https://speak.hatchconference.com",
+    "deadline": "2023-02-15",
+    "open": false
+  },
+  "twitter": "https://x.com/hatchconference",
+  "source": "confs.tech"
+}

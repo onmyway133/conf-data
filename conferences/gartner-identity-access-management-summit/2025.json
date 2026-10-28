@@ -1,0 +1,16 @@
+{
+  "name": "Gartner Identity & Access Management Summit 2025",
+  "year": 2025,
+  "url": "https://www.gartner.com/en/conferences/emea/identity-access-management-uk",
+  "startDate": "2025-03-24",
+  "endDate": "2025-03-25",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "Security"
+  ],
+  "twitter": "https://x.com/Gartner_inc",
+  "source": "confs.tech"
+}

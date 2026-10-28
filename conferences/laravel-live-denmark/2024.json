@@ -1,0 +1,16 @@
+{
+  "name": "Laravel Live Denmark 2024",
+  "year": 2024,
+  "url": "https://laravellive.dk",
+  "startDate": "2024-08-22",
+  "endDate": "2024-08-23",
+  "city": "Copenhagen",
+  "country": "DK",
+  "lat": 55.67594,
+  "lng": 12.56553,
+  "topics": [
+    "PHP"
+  ],
+  "twitter": "https://x.com/laravellivedk",
+  "source": "confs.tech"
+}

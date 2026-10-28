@@ -1,0 +1,16 @@
+{
+  "name": "Release Notes 2017",
+  "year": 2017,
+  "url": "https://2017.releasenotes.tv/",
+  "startDate": "2017-10-16",
+  "endDate": "2017-10-18",
+  "city": "Chicago",
+  "country": "US",
+  "lat": 41.85003,
+  "lng": -87.65005,
+  "topics": [
+    "iOS",
+    "Mobile"
+  ],
+  "source": "cocoaconferences"
+}

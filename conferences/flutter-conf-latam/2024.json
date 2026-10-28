@@ -1,0 +1,19 @@
+{
+  "name": "Flutter Conf Latam 2024",
+  "year": 2024,
+  "url": "https://flutterconflatam.dev",
+  "startDate": "2024-10-29",
+  "endDate": "2024-10-30",
+  "city": "Arequipa",
+  "country": "PE",
+  "lat": -16.39899,
+  "lng": -71.53747,
+  "topics": [],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSdRTv56rTr_P1LidHu6xc2GtTcgpVs6pAGiKdRy68wFdicIcg/viewform",
+    "deadline": "2024-09-30",
+    "open": false
+  },
+  "twitter": "https://x.com/flutterconflat",
+  "source": "confs.tech"
+}

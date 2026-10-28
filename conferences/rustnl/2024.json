@@ -1,0 +1,15 @@
+{
+  "name": "RustNL 2024",
+  "year": 2024,
+  "url": "https://2024.rustnl.org",
+  "startDate": "2024-05-07",
+  "endDate": "2024-05-08",
+  "city": "Delft",
+  "country": "NL",
+  "lat": 52.00667,
+  "lng": 4.35556,
+  "topics": [
+    "Rust"
+  ],
+  "source": "confs.tech"
+}

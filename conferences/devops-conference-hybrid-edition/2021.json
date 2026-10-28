@@ -1,0 +1,16 @@
+{
+  "name": "DevOps Conference Hybrid Edition 2021",
+  "year": 2021,
+  "url": "https://devopscon.io/berlin",
+  "startDate": "2021-06-14",
+  "endDate": "2021-06-17",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devops_con",
+  "source": "confs.tech"
+}

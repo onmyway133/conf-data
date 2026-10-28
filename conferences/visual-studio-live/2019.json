@@ -1,0 +1,18 @@
+{
+  "name": "Visual Studio Live! 2019",
+  "year": 2019,
+  "url": "https://vslive.com/events/las-vegas-2019/home.aspx",
+  "startDate": "2019-03-03",
+  "endDate": "2019-03-08",
+  "city": "Las Vegas, NV",
+  "country": "US",
+  "lat": 36.17497,
+  "lng": -115.13722,
+  "topics": [],
+  "cfp": {
+    "url": "https://vslive.com/pages/call-for-papers.aspx",
+    "open": false
+  },
+  "twitter": "https://x.com/VSLive",
+  "source": "confs.tech"
+}

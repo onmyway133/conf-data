@@ -1,0 +1,15 @@
+{
+  "name": "SwiftAveiro 2016",
+  "year": 2016,
+  "url": "https://attending.io/events/swiftaveiro/",
+  "startDate": "2016-03-20",
+  "endDate": "2016-03-20",
+  "city": "Aveiro",
+  "country": "PT",
+  "lat": 40.64575,
+  "lng": -8.64643,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Linq 2022",
+  "year": 2022,
+  "url": "https://linqconf.com",
+  "startDate": "2022-10-13",
+  "endDate": "2022-10-14",
+  "city": "Paphos",
+  "country": "CY",
+  "lat": 34.77679,
+  "lng": 32.42451,
+  "topics": [
+    "Data/AI",
+    "Networking"
+  ],
+  "source": "confs.tech"
+}

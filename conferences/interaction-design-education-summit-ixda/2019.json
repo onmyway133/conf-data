@@ -1,0 +1,16 @@
+{
+  "name": "Interaction Design Education Summit (IxDA) 2019",
+  "year": 2019,
+  "url": "https://edusummit.ixda.org",
+  "startDate": "2019-02-03",
+  "endDate": "2019-02-04",
+  "city": "Seattle, WA",
+  "country": "US",
+  "lat": 47.60621,
+  "lng": -122.33207,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/ixdaEducation",
+  "source": "confs.tech"
+}

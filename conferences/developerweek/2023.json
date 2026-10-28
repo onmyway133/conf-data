@@ -1,0 +1,19 @@
+{
+  "name": "DeveloperWeek 2023",
+  "year": 2023,
+  "url": "https://www.developerweek.com",
+  "startDate": "2023-02-15",
+  "endDate": "2023-02-23",
+  "city": "Oakland, CA",
+  "country": "US",
+  "lat": 37.80437,
+  "lng": -122.2708,
+  "topics": [],
+  "cfp": {
+    "url": "https://sessionize.com/developerweek-2023",
+    "deadline": "2022-10-26",
+    "open": false
+  },
+  "twitter": "https://x.com/developerweek",
+  "source": "confs.tech"
+}

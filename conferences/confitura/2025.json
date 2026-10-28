@@ -1,0 +1,18 @@
+{
+  "name": "Confitura 2025",
+  "year": 2025,
+  "url": "https://confitura.pl",
+  "startDate": "2025-09-19",
+  "endDate": "2025-09-20",
+  "city": "Warsaw",
+  "country": "PL",
+  "lat": 52.22977,
+  "lng": 21.01178,
+  "topics": [],
+  "cfp": {
+    "url": "https://app.confitura.pl/login",
+    "deadline": "2025-07-31",
+    "open": false
+  },
+  "source": "confs.tech"
+}

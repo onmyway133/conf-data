@@ -1,0 +1,16 @@
+{
+  "name": "RustFest Barcelona 2019",
+  "year": 2019,
+  "url": "https://barcelona.rustfest.eu",
+  "startDate": "2019-11-09",
+  "endDate": "2019-11-12",
+  "city": "Barcelona",
+  "country": "ES",
+  "lat": 41.38879,
+  "lng": 2.15899,
+  "topics": [
+    "Rust"
+  ],
+  "twitter": "https://x.com/rustfest",
+  "source": "confs.tech"
+}

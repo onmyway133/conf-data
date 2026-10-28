@@ -1,0 +1,22 @@
+{
+  "name": "PyCon Italia 2024",
+  "year": 2024,
+  "url": "https://2024.pycon.it",
+  "startDate": "2024-05-22",
+  "endDate": "2024-05-25",
+  "city": "Florence",
+  "country": "IT",
+  "lat": 43.77925,
+  "lng": 11.24626,
+  "topics": [
+    "Python"
+  ],
+  "cfp": {
+    "url": "https://2024.pycon.it/en/call-for-proposals",
+    "deadline": "2024-01-06",
+    "open": false
+  },
+  "twitter": "https://x.com/pyconit",
+  "mastodon": "https://social.python.it/@pycon",
+  "source": "confs.tech"
+}

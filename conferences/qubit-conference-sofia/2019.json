@@ -1,0 +1,21 @@
+{
+  "name": "QuBit Conference Sofia 2019",
+  "year": 2019,
+  "url": "https://sofia.qubitconference.com",
+  "startDate": "2019-11-13",
+  "endDate": "2019-11-14",
+  "city": "Sofia",
+  "country": "BG",
+  "lat": 42.69751,
+  "lng": 23.32415,
+  "topics": [
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://sofia.qubitconference.com/call-speakers-form-sofia",
+    "deadline": "2019-11-04",
+    "open": false
+  },
+  "twitter": "https://x.com/QuBitCon",
+  "source": "confs.tech"
+}

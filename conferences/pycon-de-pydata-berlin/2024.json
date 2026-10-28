@@ -1,0 +1,17 @@
+{
+  "name": "PyCon DE & PyData Berlin 2024",
+  "year": 2024,
+  "url": "https://2024.pycon.de",
+  "startDate": "2024-04-22",
+  "endDate": "2024-04-24",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "Data/AI",
+    "Python"
+  ],
+  "twitter": "https://x.com/PyConDE",
+  "source": "confs.tech"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Az Community Conference 2022",
+  "year": 2022,
+  "url": "https://azconf.dev",
+  "startDate": "2022-10-19",
+  "endDate": "2022-10-21",
+  "city": "Chennai",
+  "country": "IN",
+  "lat": 13.08784,
+  "lng": 80.27847,
+  "topics": [],
+  "twitter": "https://x.com/AzConfDev",
+  "source": "confs.tech"
+}

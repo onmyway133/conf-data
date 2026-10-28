@@ -1,0 +1,16 @@
+{
+  "name": "Forum PHP 2022",
+  "year": 2022,
+  "url": "https://event.afup.org",
+  "startDate": "2022-10-13",
+  "endDate": "2022-10-14",
+  "city": "Paris",
+  "country": "FR",
+  "lat": 48.85341,
+  "lng": 2.3488,
+  "topics": [
+    "PHP"
+  ],
+  "twitter": "https://x.com/afup",
+  "source": "confs.tech"
+}

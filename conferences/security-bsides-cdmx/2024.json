@@ -1,0 +1,21 @@
+{
+  "name": "Security BSides CDMX 2024",
+  "year": 2024,
+  "url": "https://bsidescdmx.org/en",
+  "startDate": "2024-07-19",
+  "endDate": "2024-07-19",
+  "city": "Mexico City",
+  "country": "MX",
+  "lat": 19.42847,
+  "lng": -99.12766,
+  "topics": [
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/security-bsides-cdmx-2024",
+    "deadline": "2024-04-30",
+    "open": false
+  },
+  "twitter": "https://x.com/bsidescdmx",
+  "source": "confs.tech"
+}

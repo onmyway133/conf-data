@@ -1,0 +1,22 @@
+{
+  "name": "Apidays Singapore 2024",
+  "year": 2024,
+  "url": "https://www.apidays.global/singapore",
+  "startDate": "2024-04-17",
+  "endDate": "2024-04-18",
+  "city": "Singapore",
+  "country": "SG",
+  "lat": 1.28967,
+  "lng": 103.85007,
+  "topics": [
+    "APIs"
+  ],
+  "cfp": {
+    "url": "https://apidays.typeform.com/to/ILJeAaV8#event_name=xxxxx",
+    "deadline": "2024-04-16",
+    "open": false
+  },
+  "twitter": "https://x.com/APIdaysGlobal",
+  "mastodon": "https://mastodon.social/@apidaysglobal",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Voxxed Days Iasi 2023",
+  "year": 2023,
+  "url": "https://romania.voxxeddays.com/voxxed-days-iasi-2023",
+  "startDate": "2023-05-23",
+  "endDate": "2023-05-24",
+  "city": "Iasi",
+  "country": "RO",
+  "lat": 47.16667,
+  "lng": 27.6,
+  "topics": [
+    "Java"
+  ],
+  "twitter": "https://x.com/VoxxedIasi",
+  "source": "confs.tech"
+}

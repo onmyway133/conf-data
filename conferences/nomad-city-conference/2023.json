@@ -1,0 +1,14 @@
+{
+  "name": "Nomad City Conference 2023",
+  "year": 2023,
+  "url": "https://www.nomadcity.org/nomad-city-festival-2023",
+  "startDate": "2023-07-22",
+  "endDate": "2023-07-22",
+  "city": "Gran Canaria",
+  "country": "ES",
+  "topics": [
+    "Networking"
+  ],
+  "twitter": "https://x.com/nomadcityGC",
+  "source": "confs.tech"
+}

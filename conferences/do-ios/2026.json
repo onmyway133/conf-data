@@ -1,0 +1,201 @@
+{
+  "name": "Do iOS 2026",
+  "year": 2026,
+  "url": "https://do-ios.com/",
+  "startDate": "2026-11-10",
+  "endDate": "2026-11-12",
+  "city": "Amsterdam",
+  "country": "NL",
+  "lat": 52.37403,
+  "lng": 4.88969,
+  "topics": [
+    "iOS"
+  ],
+  "cfp": {
+    "url": "https://do-ios.com/#call-for-papers",
+    "deadline": "2026-08-16",
+    "open": true
+  },
+  "source": "cocoaconferences",
+  "speakers": [
+    {
+      "speaker": "daniel-steinberg",
+      "bio": "Daniel loves to write about, teach and code for Apple platforms using Swift. Daniel is the author of more than a dozen books including the best-selling books A Functional Programming Kickstart, A SwiftUI Kickstart, A Swift Kickstart and Dear Elena. Daniel presents iOS, Functional Programming, SwiftUI, and Swift training and consults through his company Dim Sum Thinking.",
+      "photoUrl": "https://do-ios.com/images/hosts/2024/daniel.webp",
+      "twitter": "https://x.com/dimsumthinking"
+    },
+    {
+      "speaker": "peter-friese",
+      "role": "Staff Developer Advocate on the Firebase team at Google",
+      "bio": "Peter is a Staff Developer Advocate on the Firebase team at Google, helping developers build amazing experiences and high quality apps using Firebase and AI.\n\nWith a passion for empowering developers and fostering innovation, Peter works tirelessly with the Firebase team to make his vision of “cutting short the time to magic” a reality.\n\nPeter is also the author of the book Asynchronous Programming with SwiftUI and Combine: Functional Programming to Build UIs on Apple Platforms and host of the YouTube show Firebase After Hours, in which he and his colleagues explore Firebase in a light-hearted and fun setting.\n\nHe has written code in BASIC, C, ObjectPascal, Java, Kotlin, Xtext, JavaScript, TypeScript, Objective-C, and a number of home-grown DSLs - but his all-time favourite is Swift.\n\nYou can follow Peter on Twitter, Mastodon, Threads, and YouTube.",
+      "photoUrl": "https://do-ios.com/images/speakers/2026/peter.webp",
+      "twitter": "https://x.com/peterfriese"
+    },
+    {
+      "speaker": "dharam-kapila",
+      "role": "Senior Software Engineer at Obsidian",
+      "bio": "Dharam is an iOS developer based in Denmark. He’s the creator of “Funnel: Quick Capture”, an indie app he’s been building since 2023. Today he works as a senior software engineer at Obsidian.\n\nYou can follow Dharam on X.",
+      "photoUrl": "https://do-ios.com/images/speakers/2026/dharam.webp",
+      "twitter": "https://x.com/DharamKapila"
+    },
+    {
+      "speaker": "raluca-bujor",
+      "role": "iOS Chapter Lead at Deutsche Bank",
+      "bio": "Raluca is an iOS Chapter Lead at Deutsche Bank with 8 years of experience in iOS development. She is passionate about SwiftUI, modern mobile architecture, and building scalable, user-friendly applications.\n\nBeyond engineering, she enjoys organizing iOS community meetups, mentoring developers, and sharing knowledge with fellow mobile engineers. Outside of tech, she loves fitness, staying active, and bringing the same consistency and discipline from sports into everyday work.",
+      "photoUrl": "https://do-ios.com/images/speakers/2026/raluca.webp"
+    },
+    {
+      "speaker": "emanuele-agosta",
+      "role": "UX and learning design at Tesla",
+      "bio": "Emanuele is a product designer and Apple Certified Trainer. He was a senior design mentor at the Apple Developer Academy in Naples from 2019 to 2025, designing curriculum and mentoring 300+ international developers a year in UX/UI, product design, spatial computing, and accessibility. He now works on UX and learning design at Tesla in Amsterdam.",
+      "photoUrl": "https://do-ios.com/images/speakers/2026/emanuele.webp"
+    },
+    {
+      "speaker": "matvei-novoselov",
+      "role": "iOS and visionOS Software Engineer at Sony Group",
+      "bio": "I am an iOS and visionOS Software Engineer working in London, UK at Sony Group. Apple Developer Academy Alumni. Apple Swift Student Challenge 2025 winner. Co-author of a scientific research paper on visionOS and Spatial Computing at the ICSR International Conference on Social Robotics published by Springer. Co-author of Virtual Film Maker Patent SYP361478US01.",
+      "photoUrl": "https://do-ios.com/images/speakers/2026/matvei.webp"
+    },
+    {
+      "speaker": "antoine-van-der-lee",
+      "photoUrl": "https://do-ios.com/images/speakers/2026/antoine.jpeg",
+      "twitter": "https://x.com/twannl"
+    },
+    {
+      "speaker": "alex-antonov",
+      "bio": "Experienced iOS developer based in The Netherlands, worked in different fields and ended in healthcare startup. Every Apple event drinks apple cider and eats apple cakes. Easily distracted by cows.",
+      "photoUrl": "https://do-ios.com/images/speakers/2026/alex.webp"
+    },
+    {
+      "speaker": "cyril-cermak",
+      "role": "iOS System Architect",
+      "bio": "Hi I am Cyril, an iOS System Architect with over a decade of experience building cutting-edge mobile applications. I am specializing in leading teams to deliver state-of-the-art mobile engineering solutions. My professional passions include software engineering, iOS security, modular architecture, and reverse engineering iOS apps. I frequently share my expertise through workshops and talks, aiming to inspire others and drive innovation and a practical security mindset within the mobile development community.",
+      "photoUrl": "https://do-ios.com/images/speakers/2026/cyril.webp",
+      "twitter": "https://x.com/cyrilcermak"
+    },
+    {
+      "speaker": "douglas-hill",
+      "bio": "Douglas spent many years as the iOS team lead at Nutrient (previously known as PSPDFKit) and recently switched to work across a wider range of technologies at the company. He’s a long-time organiser of the NSLondon iOS developer community.",
+      "photoUrl": "https://do-ios.com/images/speakers/2026/douglas.webp"
+    },
+    {
+      "speaker": "caitlin-steele",
+      "bio": "Caitlin Steele has worked as a developer and led design on tools developers use every day, including Trello, Confluence, and Jira. She’s a Certified OOUX Strategist and has keynoted SwiftCraft, with talks at Pragma and iOSKonf. She works on the human side of building software at Thoughtful Apes.",
+      "photoUrl": "https://do-ios.com/images/speakers/2026/caitlin.webp"
+    },
+    {
+      "speaker": "mihaela-mihaljevic",
+      "role": "Swift engineer",
+      "bio": "Mihaela is a Swift engineer who works from first principles: to understand a framework, she rebuilds it and measures parity against the original. That habit produced SlayerMotion, a from-scratch pure-Swift reimplementation of Apple’s UI, graphics, and motion pipeline. She writes about Swift internals at aleahim.com.",
+      "photoUrl": "https://do-ios.com/images/speakers/2026/mihaela.webp",
+      "website": "https://aleahim.com"
+    },
+    {
+      "speaker": "ekaterina-volkova",
+      "role": "Software Engineer at Zalando",
+      "bio": "Ekaterina Volkova is a Software Engineer at Zalando, where she builds products used by millions of customers. She has spoken at international conferences including Swift Heroes, NS Spain, and SwiftLeeds. Her talks combine real engineering experience with the human side of software development, exploring how developers grow, adapt and thrive in an industry that never stops changing.",
+      "photoUrl": "https://do-ios.com/images/speakers/2026/ekaterina.webp"
+    },
+    {
+      "speaker": "jeroen-leenarts",
+      "role": "Senior iOS Engineer at Dawn Technology",
+      "bio": "Jeroen is a Senior iOS Engineer at Dawn Technology and the organizer of Do iOS. He has been building software since 2002, and iOS has been his main focus since 2012.\n\nHe previously led iOS developer relations at Stream, where the job was to make a complex product feel simple for other developers. Before that he led iOS work at Achmea and consulted at Xebia. Across that path he has moved between Python, Java, Objective-C, and Swift — and between writing code and talking with the people who have to live with it.\n\nOutside the day job he runs AppForce1, a podcast and writing practice about real iOS work rather than polished demos, and he has chaired CocoaHeadsNL since 2013. He is the author of Lead Developer.\n\nYou can follow Jeroen on X and at appforce1.net.",
+      "photoUrl": "https://do-ios.com/images/speakers/2026/jeroen.webp",
+      "twitter": "https://x.com/appforce1",
+      "website": "https://appforce1.net"
+    }
+  ],
+  "talks": [
+    {
+      "slug": "behind-the-walls-penetrating-a-secure-system",
+      "title": "Behind The Walls: Penetrating A Secure System",
+      "speakers": [
+        "cyril-cermak"
+      ]
+    },
+    {
+      "slug": "building-hybrid-agentic-apps-with-apple-s-foundation-models-framework",
+      "title": "Building Hybrid, Agentic Apps with Apple’s Foundation Models Framework",
+      "speakers": [
+        "peter-friese"
+      ]
+    },
+    {
+      "slug": "building-scalable-apps-using-swiftui",
+      "title": "Building Scalable Apps using SwiftUI",
+      "speakers": [
+        "raluca-bujor"
+      ]
+    },
+    {
+      "slug": "designing-for-all-screen-sizes",
+      "title": "Designing for All Screen Sizes",
+      "speakers": [
+        "emanuele-agosta"
+      ]
+    },
+    {
+      "slug": "how-to-train-your-designer-a-talk-for-ios-developers-who-keep-getting-bitten-by",
+      "title": "How to Train Your Designer: A talk for iOS developers who keep getting bitten by design",
+      "speakers": [
+        "caitlin-steele"
+      ]
+    },
+    {
+      "slug": "lessons-from-extending-obsidian-for-ios",
+      "title": "Lessons from Extending Obsidian for iOS",
+      "speakers": [
+        "dharam-kapila"
+      ]
+    },
+    {
+      "slug": "making-your-ios-samd-software-as-a-medical-device-ready-for-fda-testing",
+      "title": "Making your iOS SaMD (Software as a Medical Device) ready for FDA Testing",
+      "speakers": [
+        "alex-antonov"
+      ]
+    },
+    {
+      "slug": "rust-for-ios-developers-more-swifty-than-swift",
+      "title": "Rust for iOS Developers: More Swifty than Swift",
+      "speakers": [
+        "douglas-hill"
+      ]
+    },
+    {
+      "slug": "swiftui-is-one-graph",
+      "title": "SwiftUI Is One Graph",
+      "speakers": [
+        "mihaela-mihaljevic"
+      ]
+    },
+    {
+      "slug": "visionos-in-production-real-business-use-cases",
+      "title": "visionOS in Production: Real Business Use Cases",
+      "speakers": [
+        "matvei-novoselov"
+      ]
+    },
+    {
+      "slug": "when-your-expertise-stops-feeling-relevant",
+      "title": "When Your Expertise Stops Feeling Relevant",
+      "speakers": [
+        "ekaterina-volkova"
+      ]
+    },
+    {
+      "slug": "workshop-building-production-ready-ai-with-apple-foundation-models-gemini-and-fi",
+      "title": "Workshop: Building production-ready AI with Apple Foundation Models, Gemini and Firebase",
+      "speakers": [
+        "peter-friese"
+      ]
+    },
+    {
+      "slug": "workshop-intro-to-foundation-models",
+      "title": "Workshop: Intro to Foundation Models",
+      "speakers": [
+        "daniel-steinberg"
+      ]
+    }
+  ]
+}

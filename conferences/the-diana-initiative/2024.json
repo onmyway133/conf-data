@@ -1,0 +1,21 @@
+{
+  "name": "The Diana Initiative 2024",
+  "year": 2024,
+  "url": "https://www.dianainitiative.org",
+  "startDate": "2024-08-05",
+  "endDate": "2024-08-05",
+  "city": "Las Vegas, NV",
+  "country": "US",
+  "lat": 36.17497,
+  "lng": -115.13722,
+  "topics": [
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://www.dianainitiative.org/call-for-presentations-2024",
+    "deadline": "2024-05-30",
+    "open": false
+  },
+  "twitter": "https://x.com/DianaInitiative",
+  "source": "confs.tech"
+}

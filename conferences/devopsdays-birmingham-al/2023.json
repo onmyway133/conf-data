@@ -1,0 +1,21 @@
+{
+  "name": "Devopsdays Birmingham, AL 2023",
+  "year": 2023,
+  "url": "https://devopsdays.org/events/2023-birmingham-al/welcome",
+  "startDate": "2023-04-20",
+  "endDate": "2023-04-21",
+  "city": "Birmingham, AL",
+  "country": "US",
+  "lat": 33.52066,
+  "lng": -86.80249,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://devopsdays.org/events/2023-birmingham-al/propose",
+    "deadline": "2022-12-01",
+    "open": false
+  },
+  "twitter": "https://x.com/DevOpsDaysBham",
+  "source": "confs.tech"
+}

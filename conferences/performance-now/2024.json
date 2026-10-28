@@ -1,0 +1,16 @@
+{
+  "name": "performance.now() 2024",
+  "year": 2024,
+  "url": "https://perfnow.nl",
+  "startDate": "2024-11-14",
+  "endDate": "2024-11-15",
+  "city": "Amsterdam",
+  "country": "NL",
+  "lat": 52.37403,
+  "lng": 4.88969,
+  "topics": [
+    "Performance"
+  ],
+  "twitter": "https://x.com/perfnowconf",
+  "source": "confs.tech"
+}

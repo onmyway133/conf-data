@@ -1,0 +1,16 @@
+{
+  "name": "DevOpsDays Copenhagen 2019",
+  "year": 2019,
+  "url": "https://www.devopsdays.org/events/2019-copenhagen/welcome",
+  "startDate": "2019-04-03",
+  "endDate": "2019-04-04",
+  "city": "Copenhagen",
+  "country": "DK",
+  "lat": 55.67594,
+  "lng": 12.56553,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devopsdayscph",
+  "source": "confs.tech"
+}

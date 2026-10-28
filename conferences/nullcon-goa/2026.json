@@ -1,0 +1,21 @@
+{
+  "name": "Nullcon Goa 2026",
+  "year": 2026,
+  "url": "https://nullcon.net/goa-2026",
+  "startDate": "2026-02-28",
+  "endDate": "2026-03-01",
+  "city": "Goa",
+  "country": "IN",
+  "lat": 15.38914,
+  "lng": 73.81491,
+  "topics": [
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://nullcon.net/goa-2026/cfp",
+    "deadline": "2025-11-20",
+    "open": false
+  },
+  "twitter": "https://x.com/nullcon",
+  "source": "confs.tech"
+}

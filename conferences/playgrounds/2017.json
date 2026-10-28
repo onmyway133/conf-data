@@ -1,0 +1,15 @@
+{
+  "name": "Playgrounds 2017",
+  "year": 2017,
+  "url": "http://www.playgroundscon.com",
+  "startDate": "2017-02-23",
+  "endDate": "2017-02-24",
+  "city": "Melbourne",
+  "country": "AU",
+  "lat": -37.814,
+  "lng": 144.96332,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences"
+}

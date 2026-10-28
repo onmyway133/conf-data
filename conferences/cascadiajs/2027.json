@@ -1,0 +1,19 @@
+{
+  "name": "CascadiaJS 2027",
+  "year": 2027,
+  "url": "https://cascadiajs.com/2027",
+  "startDate": "2027-06-07",
+  "endDate": "2027-06-08",
+  "city": "Seattle",
+  "country": "US",
+  "topics": [
+    "JavaScript",
+    "Web",
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://cfp.cascadiajs.com/",
+    "deadline": "2027-01-10",
+    "open": true
+  }
+}

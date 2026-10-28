@@ -1,0 +1,760 @@
+{
+  "name": "Appdevcon 2026",
+  "year": 2026,
+  "url": "https://appdevcon.nl",
+  "startDate": "2026-03-10",
+  "endDate": "2026-03-13",
+  "city": "Amsterdam",
+  "country": "NL",
+  "lat": 52.37403,
+  "lng": 4.88969,
+  "topics": [
+    "Android",
+    "iOS"
+  ],
+  "twitter": "https://x.com/appdevcon",
+  "mastodon": "https://mastodon.social/@appdevcon",
+  "source": "confs.tech",
+  "speakers": [
+    {
+      "speaker": "jeff-watkins",
+      "role": "Engineering Manager, Mentor, and Coach at Thoughtful Apes"
+    },
+    {
+      "speaker": "daniel-steinberg",
+      "role": "Storyteller at Dim Sum Thinking"
+    },
+    {
+      "speaker": "mathijs-kadijk",
+      "role": "Indie Developer at Nonstrict B.V."
+    },
+    {
+      "speaker": "michael-gerasymenko",
+      "role": "Mobile Engineer at ElevenLabs, Berlin at ElevenLabs"
+    },
+    {
+      "speaker": "tom-lokhorst",
+      "role": "Indie Developer at Nonstrict B.V."
+    },
+    {
+      "speaker": "lianne-potter",
+      "role": "Award-Winning Digital and Cyber Anthropologist, Cybersecurity Operations and Technology Leader, Podcast Host @ Compromising Positions at Compromising Positions"
+    },
+    {
+      "speaker": "bruno-scheele",
+      "role": "Senior iOS developer and accessibility advocate at Noodlewerk Apps"
+    },
+    {
+      "speaker": "vicky-pirker",
+      "role": "Vicky Pirker UX Consulting - UX strategic consultant at Vicky Pirker UX Consulting"
+    },
+    {
+      "speaker": "elvira-leveque",
+      "role": "Mobile developer at ING"
+    },
+    {
+      "speaker": "richard-chirino",
+      "role": "Senior iOS Developer / AI Implementation Advisor at Dawn Technology"
+    },
+    {
+      "speaker": "sarp-remzi-aksu",
+      "role": "MSc. Student @ Mersin University at Mersin University"
+    },
+    {
+      "speaker": "angga-dwi-arifandi",
+      "role": "Mobile Engineer @ ING | Google Developer Expert Flutter - Indonesia at ING"
+    },
+    {
+      "speaker": "muralidharan-kathiresan"
+    },
+    {
+      "speaker": "gerard-van-engelen"
+    },
+    {
+      "speaker": "maartje-keulen"
+    },
+    {
+      "speaker": "henning-schwentner"
+    },
+    {
+      "speaker": "sam-morrow"
+    },
+    {
+      "speaker": "bernardus-peters"
+    },
+    {
+      "speaker": "glenn-reyes"
+    },
+    {
+      "speaker": "krasimir-tsonev"
+    },
+    {
+      "speaker": "soumaya-erradi"
+    },
+    {
+      "speaker": "jeroen-keppens"
+    },
+    {
+      "speaker": "marcin-samsonowski"
+    },
+    {
+      "speaker": "tom-colvin"
+    },
+    {
+      "speaker": "simon-painter"
+    },
+    {
+      "speaker": "vadym-pinchuk"
+    },
+    {
+      "speaker": "murat-menzilci"
+    },
+    {
+      "speaker": "dennie-declercq"
+    },
+    {
+      "speaker": "florian-vogtle"
+    },
+    {
+      "speaker": "maxim-malisciuc"
+    },
+    {
+      "speaker": "marius-obert"
+    },
+    {
+      "speaker": "sander-ten-brinke"
+    },
+    {
+      "speaker": "heather-thacker"
+    },
+    {
+      "speaker": "wim-godden"
+    },
+    {
+      "speaker": "stefan-sinca"
+    },
+    {
+      "speaker": "balazs-gerlei"
+    },
+    {
+      "speaker": "josu-vergara-lecue"
+    },
+    {
+      "speaker": "ievgen-umanets"
+    },
+    {
+      "speaker": "klaudia-kozaroczy"
+    },
+    {
+      "speaker": "julien-salvi"
+    },
+    {
+      "speaker": "chrystian-vieyra-cortes"
+    },
+    {
+      "speaker": "jan-seredynski"
+    },
+    {
+      "speaker": "sebastian-hagedorn"
+    },
+    {
+      "speaker": "dan-wood"
+    },
+    {
+      "speaker": "itay-brenner"
+    },
+    {
+      "speaker": "jeroen-leenarts"
+    },
+    {
+      "speaker": "antoine-van-der-lee"
+    },
+    {
+      "speaker": "jason-viljoen"
+    },
+    {
+      "speaker": "peter-van-vliet"
+    },
+    {
+      "speaker": "pieter-jordaan"
+    },
+    {
+      "speaker": "jessica-smith"
+    },
+    {
+      "speaker": "mike-lehan"
+    },
+    {
+      "speaker": "susanne-bach-ladefoged-hou"
+    },
+    {
+      "speaker": "thomas-kunneth"
+    },
+    {
+      "speaker": "iulia-stana"
+    },
+    {
+      "speaker": "andrea-della-porta"
+    },
+    {
+      "speaker": "pierluigi-cifani"
+    },
+    {
+      "speaker": "joannis-orlandos"
+    },
+    {
+      "speaker": "bert-lobbezoo"
+    },
+    {
+      "speaker": "serges-goma"
+    },
+    {
+      "speaker": "melinda-seckington"
+    },
+    {
+      "speaker": "stefan-koopmanschap"
+    },
+    {
+      "speaker": "helvira-goma"
+    },
+    {
+      "speaker": "johan-janssens"
+    },
+    {
+      "speaker": "frank-prins"
+    },
+    {
+      "speaker": "matthias-zieger"
+    },
+    {
+      "speaker": "tamas-bazsonyi"
+    }
+  ],
+  "talks": [
+    {
+      "slug": "130-swift-keywords-in-45-minutes-the-remix",
+      "title": "130 Swift Keywords in 45 Minutes – the remix",
+      "speakers": [
+        "jeroen-leenarts"
+      ]
+    },
+    {
+      "slug": "a-vision-for-your-app-on-device-visual-perception",
+      "title": "A vision for your app: On-device visual perception",
+      "speakers": [
+        "tom-colvin"
+      ]
+    },
+    {
+      "slug": "ai-implementation-bootcamp-hands-on-workshop-part-1",
+      "title": "AI Implementation Bootcamp: Hands-On Workshop (part 1)",
+      "speakers": [
+        "maartje-keulen"
+      ]
+    },
+    {
+      "slug": "ai-implementation-bootcamp-hands-on-workshop-part-2",
+      "title": "AI Implementation Bootcamp: Hands-On Workshop (part 2)",
+      "speakers": [
+        "maartje-keulen"
+      ]
+    },
+    {
+      "slug": "android-doesn-t-deserve-swift-but-we-did-it-anyway",
+      "title": "Android doesn't deserve Swift… but we did it anyway",
+      "speakers": [
+        "pierluigi-cifani"
+      ]
+    },
+    {
+      "slug": "app-intents-take-your-features-out-of-your-app",
+      "title": "App Intents: Take your features out of your app!",
+      "speakers": [
+        "bruno-scheele"
+      ]
+    },
+    {
+      "slug": "architecture-as-code",
+      "title": "Architecture As Code",
+      "speakers": [
+        "marcin-samsonowski"
+      ]
+    },
+    {
+      "slug": "are-friends-electric-what-it-means-to-be-human-now-and-tomorrow-in-the-age-of-ai",
+      "title": "Are ‘Friends’ Electric?: What It Means to Be Human Now and Tomorrow in the Age of AI",
+      "speakers": [
+        "lianne-potter"
+      ]
+    },
+    {
+      "slug": "automate-or-stagnate-keep-your-dependencies-up-to-date-with-renovate",
+      "title": "Automate or Stagnate: Keep Your Dependencies up to date with Renovate",
+      "speakers": [
+        "susanne-bach-ladefoged-hou"
+      ]
+    },
+    {
+      "slug": "beyond-crashes-mastering-monitoring-observability-for-android-apps-3",
+      "title": "Beyond Crashes: Mastering Monitoring & Observability for Android Apps 🚀",
+      "speakers": [
+        "julien-salvi"
+      ]
+    },
+    {
+      "slug": "beyond-qa-building-self-defending-applications-in-the-age-of-ai-driven-attacks",
+      "title": "Beyond QA: Building Self-Defending Applications in the Age of AI-Driven Attacks",
+      "speakers": [
+        "matthias-zieger"
+      ]
+    },
+    {
+      "slug": "breaking-designs-with-a-simple-trick-text-scaling",
+      "title": "Breaking designs with a simple trick: Text scaling",
+      "speakers": [
+        "klaudia-kozaroczy"
+      ]
+    },
+    {
+      "slug": "build-to-last",
+      "title": "Build to Last",
+      "speakers": [
+        "jeff-watkins"
+      ]
+    },
+    {
+      "slug": "build-your-own-mcp-server",
+      "title": "Build your own MCP server",
+      "speakers": [
+        "sam-morrow"
+      ]
+    },
+    {
+      "slug": "building-a-pdf-parser-so-you-don-t-have-to",
+      "title": "Building a PDF parser so you don't have to",
+      "speakers": [
+        "frank-prins"
+      ]
+    },
+    {
+      "slug": "building-for-the-digital-illiterate-users",
+      "title": "Building for the (digital) Illiterate users",
+      "speakers": [
+        "dennie-declercq"
+      ]
+    },
+    {
+      "slug": "building-interactive-chat-interfaces-with-mcp-ui",
+      "title": "Building Interactive Chat Interfaces with MCP-UI",
+      "speakers": [
+        "glenn-reyes"
+      ]
+    },
+    {
+      "slug": "building-your-apps-in-offline-first-mode",
+      "title": "Building your apps in offline-first mode",
+      "speakers": [
+        "wim-godden"
+      ]
+    },
+    {
+      "slug": "c2pa-protecting-reality-in-a-deepfake-world",
+      "title": "C2PA: Protecting Reality in a Deepfake World",
+      "speakers": [
+        "bert-lobbezoo"
+      ]
+    },
+    {
+      "slug": "choose-your-weapon-the-performance-testing-arsenal",
+      "title": "Choose Your Weapon: The Performance Testing Arsenal",
+      "speakers": [
+        "heather-thacker"
+      ]
+    },
+    {
+      "slug": "decompose-delegate-maintain",
+      "title": "deCompose.Delegate.Maintain",
+      "speakers": [
+        "ievgen-umanets"
+      ]
+    },
+    {
+      "slug": "deep-dive-into-swift-actors",
+      "title": "Deep Dive into Swift Actors",
+      "speakers": [
+        "mathijs-kadijk"
+      ]
+    },
+    {
+      "slug": "designing-a-messaging-domain-beyond-whatsapp",
+      "title": "Designing a Messaging Domain Beyond WhatsApp",
+      "speakers": [
+        "jason-viljoen"
+      ]
+    },
+    {
+      "slug": "enhancing-collaboration-between-development-and-design-for-a-seamless-app-develo",
+      "title": "Enhancing Collaboration Between Development and Design for a Seamless App Development Process",
+      "speakers": [
+        "florian-vogtle"
+      ]
+    },
+    {
+      "slug": "exploring-server-side-rendering",
+      "title": "Exploring Server Side Rendering",
+      "speakers": [
+        "krasimir-tsonev"
+      ]
+    },
+    {
+      "slug": "file-uploads-and-rest",
+      "title": "File Uploads and REST",
+      "speakers": [
+        "pieter-jordaan"
+      ]
+    },
+    {
+      "slug": "flutter-for-tv-no-touch-no-gestures-can-you-still-build-a-great-ux",
+      "title": "Flutter for TV: No touch. No gestures. Can you still build a Great UX?",
+      "speakers": [
+        "vadym-pinchuk"
+      ]
+    },
+    {
+      "slug": "frankenphp-demos",
+      "title": "FrankenPHP demos",
+      "speakers": [
+        "johan-janssens"
+      ]
+    },
+    {
+      "slug": "from-0-to-10k-mrr-the-indie-app-playbook",
+      "title": "From $0 to $10K MRR: The Indie App Playbook",
+      "speakers": [
+        "murat-menzilci"
+      ]
+    },
+    {
+      "slug": "from-oop-to-oops-escaping-the-one-paradigm-trap",
+      "title": "From OOP to OOPS: Escaping the One-Paradigm Trap",
+      "speakers": [
+        "peter-van-vliet"
+      ]
+    },
+    {
+      "slug": "from-slow-to-smooth-profiling-fixing-performance-with-swift-concurrency-instrume",
+      "title": "From Slow to Smooth: Profiling & Fixing Performance with Swift Concurrency & Instruments",
+      "speakers": [
+        "antoine-van-der-lee"
+      ]
+    },
+    {
+      "slug": "getting-started-with-claude-code",
+      "title": "Getting started with Claude Code",
+      "speakers": [
+        "jeroen-keppens"
+      ]
+    },
+    {
+      "slug": "hack-the-planet-what-movies-can-teach-us-about-infosec",
+      "title": "Hack the Planet! What Movies can Teach Us about InfoSec",
+      "speakers": [
+        "simon-painter"
+      ]
+    },
+    {
+      "slug": "how-to-git-away-with-murder",
+      "title": "How to Git Away with Murder",
+      "speakers": [
+        "serges-goma"
+      ]
+    },
+    {
+      "slug": "how-to-make-good-decisions-with-a-happy-team",
+      "title": "How to make good decisions with a happy team",
+      "speakers": [
+        "stefan-koopmanschap"
+      ]
+    },
+    {
+      "slug": "keeping-api-definitions-tidy-across-your-organization-with-openapi-and-spectral",
+      "title": "Keeping API definitions tidy across your organization with OpenAPI and Spectral!",
+      "speakers": [
+        "sander-ten-brinke"
+      ]
+    },
+    {
+      "slug": "learning-advanced-typescript-safer-code-step-by-step",
+      "title": "Learning advanced TypeScript: safer code step by step",
+      "speakers": [
+        "soumaya-erradi"
+      ]
+    },
+    {
+      "slug": "learning-to-love-hateoas",
+      "title": "Learning to love HateOAS",
+      "speakers": [
+        "sander-ten-brinke"
+      ]
+    },
+    {
+      "slug": "live-activities-and-live-updates-on-ios-and-android",
+      "title": "Live Activities and Live Updates on iOS and Android",
+      "speakers": [
+        "chrystian-vieyra-cortes"
+      ]
+    },
+    {
+      "slug": "mastering-swift-concurrency-part-1",
+      "title": "Mastering Swift Concurrency (part 1)",
+      "speakers": [
+        "muralidharan-kathiresan"
+      ]
+    },
+    {
+      "slug": "mastering-swift-concurrency-part-2",
+      "title": "Mastering Swift Concurrency (part 2)",
+      "speakers": [
+        "muralidharan-kathiresan"
+      ]
+    },
+    {
+      "slug": "mcp-servers-for-mobile-developers-the-good-the-bad-and-the-sorry-you-ran-out-of",
+      "title": "MCP servers for mobile developers: the good, the bad, and the “sorry, you ran out of context”",
+      "speakers": [
+        "richard-chirino"
+      ]
+    },
+    {
+      "slug": "mobile-devops-supercharged-with-caching-and-ai",
+      "title": "Mobile DevOps supercharged with Caching and AI",
+      "speakers": [
+        "tamas-bazsonyi"
+      ]
+    },
+    {
+      "slug": "no-two-biometrics-apis-are-alike",
+      "title": "No Two Biometrics (APIs) Are Alike",
+      "speakers": [
+        "balazs-gerlei"
+      ]
+    },
+    {
+      "slug": "one-codebase-two-platforms-how-ing-wholesale-banking-unified-mobile-development",
+      "title": "One Codebase, Two Platforms: How ING Wholesale Banking Unified Mobile Development with Flutter",
+      "speakers": [
+        "elvira-leveque"
+      ]
+    },
+    {
+      "slug": "packets-protocols-and-php-networking-fundamentals-for-developers",
+      "title": "Packets, Protocols and PHP: Networking Fundamentals for Developers",
+      "speakers": [
+        "jessica-smith"
+      ]
+    },
+    {
+      "slug": "passkeys-android-a-full-stack-workshop",
+      "title": "Passkeys + Android: a full stack workshop",
+      "speakers": [
+        "tom-colvin"
+      ]
+    },
+    {
+      "slug": "recent-mobile-app-security-incidents-from-real-world-cases",
+      "title": "Recent Mobile App Security Incidents from Real-World Cases",
+      "speakers": [
+        "jan-seredynski"
+      ]
+    },
+    {
+      "slug": "refuelling-your-jetpack-using-jetpack-libraries-beyond-android",
+      "title": "Refuelling your Jetpack – using Jetpack libraries beyond Android",
+      "speakers": [
+        "thomas-kunneth"
+      ]
+    },
+    {
+      "slug": "rust-rewrites-a-serverless-journey",
+      "title": "Rust Rewrites: a serverless journey",
+      "speakers": [
+        "mike-lehan"
+      ]
+    },
+    {
+      "slug": "side-quest-unlocked-community-connection-and-the-future-of-tech",
+      "title": "Side Quest Unlocked: Community, Connection and the Future of Tech",
+      "speakers": [
+        "melinda-seckington"
+      ]
+    },
+    {
+      "slug": "streamlining-ios-development-with-selective-testing",
+      "title": "Streamlining iOS Development with Selective Testing",
+      "speakers": [
+        "michael-gerasymenko"
+      ]
+    },
+    {
+      "slug": "strong-types-blinking-lights-learning-advanced-typescript-with-arduino",
+      "title": "Strong types, blinking lights: Learning advanced TypeScript with Arduino",
+      "speakers": [
+        "soumaya-erradi"
+      ]
+    },
+    {
+      "slug": "swift-outside-apple-android-backend-and-beyond",
+      "title": "Swift outside Apple – Android, Backend and beyond",
+      "speakers": [
+        "joannis-orlandos"
+      ]
+    },
+    {
+      "slug": "testing-in-production-with-synthetics-see-it-before-they-do-part-1",
+      "title": "Testing in production with Synthetics: See it before they do (part 1)",
+      "speakers": [
+        "gerard-van-engelen"
+      ]
+    },
+    {
+      "slug": "testing-in-production-with-synthetics-see-it-before-they-do-part-2",
+      "title": "Testing in production with Synthetics: See it before they do (part 2)",
+      "speakers": [
+        "gerard-van-engelen"
+      ]
+    },
+    {
+      "slug": "the-client-is-lying",
+      "title": "The Client Is Lying",
+      "speakers": [
+        "stefan-sinca"
+      ]
+    },
+    {
+      "slug": "the-dark-corners-of-kotlin-multiplatform-2",
+      "title": "The Dark Corners of Kotlin Multiplatform",
+      "speakers": [
+        "andrea-della-porta"
+      ]
+    },
+    {
+      "slug": "the-fast-and-the-curious-optimizing-project-builds-for-maximum-speed",
+      "title": "The Fast and the Curious: Optimizing Project Builds for Maximum Speed",
+      "speakers": [
+        "michael-gerasymenko"
+      ]
+    },
+    {
+      "slug": "the-hidden-cost-of-sdks",
+      "title": "The hidden cost of SDKs",
+      "speakers": [
+        "itay-brenner"
+      ]
+    },
+    {
+      "slug": "the-kotlin-advantage-android-backend-and-multiplatform",
+      "title": "The Kotlin Advantage: Android, Backend, and Multiplatform",
+      "speakers": [
+        "iulia-stana"
+      ]
+    },
+    {
+      "slug": "the-sensitive-app",
+      "title": "The Sensitive App",
+      "speakers": [
+        "sebastian-hagedorn"
+      ]
+    },
+    {
+      "slug": "thinking-outside-the-phone-the-art-of-adaptive-apps-in-android-16",
+      "title": "Thinking Outside the Phone: The Art of Adaptive Apps in Android 16",
+      "speakers": [
+        "sarp-remzi-aksu"
+      ]
+    },
+    {
+      "slug": "this-sucks-but-i-ll-tell-you-nicely-a-developer-s-guide-to-better-feedback",
+      "title": "This Sucks (But I'll Tell You Nicely): A Developer's Guide to Better Feedback",
+      "speakers": [
+        "vicky-pirker"
+      ]
+    },
+    {
+      "slug": "tidying-organizing-and-encapsulating-your-swift-codebase",
+      "title": "Tidying, Organizing and Encapsulating your Swift Codebase",
+      "speakers": [
+        "dan-wood"
+      ]
+    },
+    {
+      "slug": "using-foundation-models-to-access-apple-intelligence-part-1",
+      "title": "Using Foundation Models to access Apple Intelligence (part 1)",
+      "speakers": [
+        "daniel-steinberg"
+      ]
+    },
+    {
+      "slug": "using-foundation-models-to-access-apple-intelligence-part-2",
+      "title": "Using Foundation Models to access Apple Intelligence (part 2)",
+      "speakers": [
+        "daniel-steinberg"
+      ]
+    },
+    {
+      "slug": "ux101-for-devs-building-user-centered-mindset-beyond-code-part-1",
+      "title": "UX101 for Devs: Building User-Centered Mindset Beyond Code (part 1)",
+      "speakers": [
+        "vicky-pirker"
+      ]
+    },
+    {
+      "slug": "ux101-for-devs-building-user-centered-mindset-beyond-code-part-2",
+      "title": "UX101 for Devs: Building User-Centered Mindset Beyond Code (part 2)",
+      "speakers": [
+        "vicky-pirker"
+      ]
+    },
+    {
+      "slug": "when-compliance-breaks-the-ui-a-story-of-mobile-accessibility",
+      "title": "When Compliance Breaks the UI: A Story of Mobile Accessibility",
+      "speakers": [
+        "maxim-malisciuc"
+      ]
+    },
+    {
+      "slug": "why-silence-is-not-always-golden",
+      "title": "Why Silence Is Not Always Golden",
+      "speakers": [
+        "helvira-goma"
+      ]
+    },
+    {
+      "slug": "workshop-domain-driven-design-hands-on-part-1",
+      "title": "Workshop: Domain-Driven Design hands-on (part 1)",
+      "speakers": [
+        "henning-schwentner"
+      ]
+    },
+    {
+      "slug": "workshop-domain-driven-design-hands-on-part-2",
+      "title": "Workshop: Domain-Driven Design hands-on (part 2)",
+      "speakers": [
+        "henning-schwentner"
+      ]
+    },
+    {
+      "slug": "wtf-app-intents-i-didn-t-know-you-can-do-that",
+      "title": "WTF App Intents – I didn't know you can do that",
+      "speakers": [
+        "daniel-steinberg"
+      ]
+    },
+    {
+      "slug": "your-bank-or-a-scammer-the-blurred-lines-of-phone-trust",
+      "title": "Your Bank or a Scammer? The Blurred Lines of Phone Trust",
+      "speakers": [
+        "marius-obert"
+      ]
+    }
+  ]
+}

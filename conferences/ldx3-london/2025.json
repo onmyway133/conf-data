@@ -1,0 +1,19 @@
+{
+  "name": "LDX3 London 2025",
+  "year": 2025,
+  "url": "https://leaddev.com/leaddev-london",
+  "startDate": "2025-06-16",
+  "endDate": "2025-06-17",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [],
+  "cfp": {
+    "url": "https://leaddev.submittable.com/submit/312728/talk-submissions-for-ldx3-2025",
+    "deadline": "2025-01-13",
+    "open": false
+  },
+  "twitter": "https://x.com/TheLeadDev",
+  "source": "confs.tech"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Confoo 2019",
+  "year": 2019,
+  "url": "https://confoo.ca/en/yul2019",
+  "startDate": "2019-03-13",
+  "endDate": "2019-03-15",
+  "city": "Montreal",
+  "country": "CA",
+  "lat": 45.50884,
+  "lng": -73.58781,
+  "topics": [],
+  "cfp": {
+    "url": "https://confoo.ca/en/yul2019/call-for-papers",
+    "deadline": "2018-09-24",
+    "open": false
+  },
+  "twitter": "https://x.com/confooca",
+  "source": "confs.tech"
+}

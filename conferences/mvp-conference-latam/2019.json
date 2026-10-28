@@ -1,0 +1,16 @@
+{
+  "name": "MVP Conference LATAM 2019",
+  "year": 2019,
+  "url": "https://mvpconf.com.br",
+  "startDate": "2019-04-12",
+  "endDate": "2019-04-13",
+  "city": "São Paulo",
+  "country": "BR",
+  "lat": -23.5475,
+  "lng": -46.63611,
+  "topics": [
+    "Networking"
+  ],
+  "twitter": "https://x.com/MVPConference",
+  "source": "confs.tech"
+}

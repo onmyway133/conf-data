@@ -1,0 +1,16 @@
+{
+  "name": "STHLM Xperience Conference 2020",
+  "year": 2020,
+  "url": "https://sthlm.xconf.co",
+  "startDate": "2020-11-12",
+  "endDate": "2020-11-12",
+  "city": "Stockholm",
+  "country": "SE",
+  "lat": 59.32938,
+  "lng": 18.06871,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/SthlmXperience",
+  "source": "confs.tech"
+}

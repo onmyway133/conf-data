@@ -1,0 +1,16 @@
+{
+  "name": "Devopsdays Copenhagen 2023",
+  "year": 2023,
+  "url": "https://devopsdays.org/events/2023-copenhagen/welcome",
+  "startDate": "2023-05-02",
+  "endDate": "2023-05-03",
+  "city": "Copenhagen",
+  "country": "DK",
+  "lat": 55.67594,
+  "lng": 12.56553,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devopsdayscph",
+  "source": "confs.tech"
+}

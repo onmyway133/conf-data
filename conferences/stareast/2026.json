@@ -1,0 +1,16 @@
+{
+  "name": "STAREAST 2026",
+  "year": 2026,
+  "url": "https://stareast.techwell.com",
+  "startDate": "2026-04-26",
+  "endDate": "2026-05-01",
+  "city": "Orlando, FL",
+  "country": "US",
+  "lat": 28.53834,
+  "lng": -81.37924,
+  "topics": [
+    "Testing"
+  ],
+  "twitter": "https://x.com/Coveros",
+  "source": "confs.tech"
+}

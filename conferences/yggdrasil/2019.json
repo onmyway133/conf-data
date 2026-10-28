@@ -1,0 +1,16 @@
+{
+  "name": "Yggdrasil 2019",
+  "year": 2019,
+  "url": "https://yggdrasilkonferansen.no",
+  "startDate": "2019-04-01",
+  "endDate": "2019-04-02",
+  "city": "Sandefjord",
+  "country": "NO",
+  "lat": 59.13118,
+  "lng": 10.21665,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/yggdrasilkonf",
+  "source": "confs.tech"
+}

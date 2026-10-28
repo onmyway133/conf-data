@@ -1,0 +1,14 @@
+{
+  "name": "Techorama 2019",
+  "year": 2019,
+  "url": "https://techorama.nl",
+  "startDate": "2019-09-30",
+  "endDate": "2019-10-02",
+  "city": "Ede",
+  "country": "NL",
+  "lat": 52.03333,
+  "lng": 5.65833,
+  "topics": [],
+  "twitter": "https://x.com/TechoramaNL",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "AndroidMakers by droidcon 2026",
+  "year": 2026,
+  "url": "https://droidcon.wixsite.com/website-28",
+  "startDate": "2026-04-09",
+  "endDate": "2026-04-10",
+  "city": "Paris",
+  "country": "FR",
+  "lat": 48.85341,
+  "lng": 2.3488,
+  "topics": [
+    "Android",
+    "Kotlin"
+  ],
+  "source": "confs.tech"
+}

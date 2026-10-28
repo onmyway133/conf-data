@@ -1,0 +1,21 @@
+{
+  "name": "React Nexus 2025",
+  "year": 2025,
+  "url": "https://reactnexus.com",
+  "startDate": "2025-07-03",
+  "endDate": "2025-07-05",
+  "city": "Bangalore",
+  "country": "IN",
+  "lat": 12.97194,
+  "lng": 77.59369,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLScfOIsdIQ7Tyzfsx2S69rj_qHu0TgpQyoHcJPXGDPHHd_tpOQ/viewform",
+    "deadline": "2025-02-28",
+    "open": false
+  },
+  "twitter": "https://x.com/ReactNexus",
+  "source": "confs.tech"
+}

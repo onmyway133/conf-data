@@ -1,0 +1,16 @@
+{
+  "name": "Dotnetos Conference 2020",
+  "year": 2020,
+  "url": "https://conf.dotnetos.org",
+  "startDate": "2020-10-01",
+  "endDate": "2020-10-02",
+  "city": "Warsaw",
+  "country": "PL",
+  "lat": 52.22977,
+  "lng": 21.01178,
+  "topics": [
+    ".NET"
+  ],
+  "twitter": "https://x.com/dotnetosorg",
+  "source": "confs.tech"
+}

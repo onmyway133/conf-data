@@ -1,0 +1,21 @@
+{
+  "name": "enterJS 2026",
+  "year": 2026,
+  "url": "https://enterjs.de",
+  "startDate": "2026-06-16",
+  "endDate": "2026-06-17",
+  "city": "Mannheim",
+  "country": "DE",
+  "lat": 49.4891,
+  "lng": 8.46694,
+  "topics": [
+    "JavaScript",
+    "TypeScript"
+  ],
+  "cfp": {
+    "url": "https://enterjs.de/cfp.php",
+    "deadline": "2025-11-12",
+    "open": false
+  },
+  "source": "confs.tech"
+}

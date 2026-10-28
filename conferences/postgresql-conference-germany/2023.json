@@ -1,0 +1,16 @@
+{
+  "name": "PostgreSQL Conference Germany 2023",
+  "year": 2023,
+  "url": "https://2023.pgconf.de",
+  "startDate": "2023-06-27",
+  "endDate": "2023-06-27",
+  "city": "Essen",
+  "country": "DE",
+  "lat": 51.45657,
+  "lng": 7.01228,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/pgconfde",
+  "source": "confs.tech"
+}

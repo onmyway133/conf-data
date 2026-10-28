@@ -1,0 +1,22 @@
+{
+  "name": "EuroSTAR Conference 2026",
+  "year": 2026,
+  "url": "https://conference.eurostarsoftwaretesting.com",
+  "startDate": "2026-06-15",
+  "endDate": "2026-06-18",
+  "city": "Oslo",
+  "country": "NO",
+  "lat": 59.91273,
+  "lng": 10.74609,
+  "topics": [
+    "Data/AI",
+    "DevOps",
+    "Testing"
+  ],
+  "cfp": {
+    "url": "https://conference.eurostarsoftwaretesting.com/call-for-submissions",
+    "deadline": "2025-10-13",
+    "open": false
+  },
+  "source": "confs.tech"
+}

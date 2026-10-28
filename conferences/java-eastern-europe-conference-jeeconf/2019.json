@@ -1,0 +1,21 @@
+{
+  "name": "Java Eastern Europe Conference (JEEConf) 2019",
+  "year": 2019,
+  "url": "https://jeeconf.com",
+  "startDate": "2019-04-25",
+  "endDate": "2019-04-26",
+  "city": "Kyiv",
+  "country": "UA",
+  "lat": 50.45466,
+  "lng": 30.5238,
+  "topics": [
+    "Java"
+  ],
+  "cfp": {
+    "url": "https://jeeconf.com/speakers",
+    "deadline": "2019-03-03",
+    "open": false
+  },
+  "twitter": "https://x.com/jeeconf",
+  "source": "confs.tech"
+}

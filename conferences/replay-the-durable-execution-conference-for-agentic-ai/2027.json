@@ -1,0 +1,17 @@
+{
+  "name": "Replay: The Durable Execution Conference for Agentic AI 2027",
+  "year": 2027,
+  "url": "https://replay.temporal.io/",
+  "startDate": "2027-05-17",
+  "endDate": "2027-05-19",
+  "city": "San Francisco",
+  "country": "US",
+  "topics": [
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/replay-2027",
+    "deadline": "2027-01-31",
+    "open": true
+  }
+}

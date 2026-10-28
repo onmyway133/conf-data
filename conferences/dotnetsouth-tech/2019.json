@@ -1,0 +1,16 @@
+{
+  "name": "DotNetSouth.Tech 2019",
+  "year": 2019,
+  "url": "https://dotnetsouth.tech",
+  "startDate": "2019-05-13",
+  "endDate": "2019-05-14",
+  "city": "Atlanta, GA",
+  "country": "US",
+  "lat": 33.749,
+  "lng": -84.38798,
+  "topics": [
+    ".NET"
+  ],
+  "twitter": "https://x.com/dotnetsouth",
+  "source": "confs.tech"
+}

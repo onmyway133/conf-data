@@ -1,0 +1,15 @@
+{
+  "name": "BSides Manchester 2020",
+  "year": 2020,
+  "url": "https://www.bsidesmcr.org.uk",
+  "startDate": "2020-08-20",
+  "endDate": "2020-08-20",
+  "city": "Manchester",
+  "country": "GB",
+  "lat": 53.48095,
+  "lng": -2.23743,
+  "topics": [
+    "Security"
+  ],
+  "source": "confs.tech"
+}

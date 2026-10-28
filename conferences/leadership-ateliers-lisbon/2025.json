@@ -1,0 +1,16 @@
+{
+  "name": "Leadership Ateliers Lisbon 2025",
+  "year": 2025,
+  "url": "https://www.leadershipateliers.com/lisbon",
+  "startDate": "2025-04-23",
+  "endDate": "2025-04-24",
+  "city": "Lisbon",
+  "country": "PT",
+  "lat": 38.72509,
+  "lng": -9.1498,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/hatchconference",
+  "source": "confs.tech"
+}

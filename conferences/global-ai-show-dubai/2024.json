@@ -1,0 +1,21 @@
+{
+  "name": "Global AI Show Dubai 2024",
+  "year": 2024,
+  "url": "https://www.globalaishow.com",
+  "startDate": "2024-04-16",
+  "endDate": "2024-04-17",
+  "city": "Dubai",
+  "country": "AE",
+  "lat": 25.07725,
+  "lng": 55.30927,
+  "topics": [
+    "Networking"
+  ],
+  "cfp": {
+    "url": "https://www.globalaishow.com/tickets",
+    "deadline": "2024-04-15",
+    "open": false
+  },
+  "twitter": "https://x.com/GlobalAIShow",
+  "source": "confs.tech"
+}

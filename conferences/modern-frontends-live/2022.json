@@ -1,0 +1,19 @@
+{
+  "name": "Modern Frontends Live! 2022",
+  "year": 2022,
+  "url": "https://modernfrontends.live",
+  "startDate": "2022-11-17",
+  "endDate": "2022-11-18",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [],
+  "cfp": {
+    "url": "https://sessionize.com/modern-frontends-live-2022",
+    "deadline": "2022-07-31",
+    "open": false
+  },
+  "twitter": "https://x.com/modernfrontends",
+  "source": "confs.tech"
+}

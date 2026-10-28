@@ -1,0 +1,21 @@
+{
+  "name": "JSday Feira de Santana 2019",
+  "year": 2019,
+  "url": "http://fsa.jsday.com.br",
+  "startDate": "2019-08-17",
+  "endDate": "2019-08-17",
+  "city": "Feira De Santana",
+  "country": "BR",
+  "lat": -12.26667,
+  "lng": -38.96667,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSeK507aZmD5gLc7wQGjR9jShNzdMNwEzONK4PXnJ1Gll5uL5A/viewform",
+    "deadline": "2019-07-15",
+    "open": false
+  },
+  "twitter": "https://x.com/jsdaybr",
+  "source": "confs.tech"
+}

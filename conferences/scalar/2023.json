@@ -1,0 +1,21 @@
+{
+  "name": "Scalar 2023",
+  "year": 2023,
+  "url": "https://www.scalar-conf.com",
+  "startDate": "2023-03-23",
+  "endDate": "2023-03-24",
+  "city": "Warsaw",
+  "country": "PL",
+  "lat": 52.22977,
+  "lng": 21.01178,
+  "topics": [
+    "Scala"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSfZh-gG3Zb3AxECUOVzq8anoCPlrOUGdtjCtxerWpnANN1DfA/viewform",
+    "deadline": "2023-01-10",
+    "open": false
+  },
+  "twitter": "https://x.com/scalarconf",
+  "source": "confs.tech"
+}

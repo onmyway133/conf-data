@@ -1,0 +1,16 @@
+{
+  "name": "CityJS Medellín 2024",
+  "year": 2024,
+  "url": "https://medellin.cityjsconf.org",
+  "startDate": "2024-10-25",
+  "endDate": "2024-10-26",
+  "city": "Medellín",
+  "country": "CO",
+  "lat": 6.245,
+  "lng": -75.57151,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/cityjsconf",
+  "source": "confs.tech"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Hacker Camp 2019",
+  "year": 2019,
+  "url": "http://hackercamp.in",
+  "startDate": "2019-12-14",
+  "endDate": "2019-12-15",
+  "city": "Noida",
+  "country": "IN",
+  "lat": 28.58,
+  "lng": 77.33,
+  "topics": [
+    ".NET"
+  ],
+  "cfp": {
+    "url": "https://hackercamp2019.typeform.com/to/BICv5S",
+    "deadline": "2019-12-13",
+    "open": false
+  },
+  "twitter": "https://x.com/innovaccer",
+  "source": "confs.tech"
+}

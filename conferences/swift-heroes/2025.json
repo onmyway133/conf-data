@@ -1,0 +1,274 @@
+{
+  "name": "Swift Heroes 2025",
+  "year": 2025,
+  "url": "https://swiftheroes.com/2025",
+  "startDate": "2025-04-08",
+  "endDate": "2025-04-09",
+  "city": "Turin",
+  "country": "IT",
+  "lat": 45.07049,
+  "lng": 7.68682,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences",
+  "speakers": [
+    {
+      "speaker": "alex-ozun",
+      "role": "Staff iOS Engineer, American Express",
+      "bio": "Alex Ozun is a software engineer with a ton of experience in mobile applications development. For the last 6 years he’s been developing the flagship iOS app at American Express, where he currently acts as a Staff iOS Engineer in a team of 60+ iOS engineers.\nOutside work, Alex maintains a tech blog on advanced Swift topics at www.swiftology.io",
+      "photoUrl": "https://swiftheroes.com/2025/wp-content/uploads/sites/7/sito_foto_ozun.png",
+      "website": "http://www.swiftology.io"
+    },
+    {
+      "speaker": "brahim-lamri",
+      "role": "iOS Developer, Aventique (On a mission for SEPHORA)",
+      "bio": "Passionate about iOS development, I’ve been building apps with Swift for the past five years. I’m always eager to deepen my expertise, from mastering UIKit fundamentals to exploring advanced topics like TDD, and architecture. Currently, I’m focused on sharpening my skills and sharing my learning journey with the community.",
+      "photoUrl": "https://swiftheroes.com/2025/wp-content/uploads/sites/7/sito_foto_brahim.png",
+      "twitter": "https://x.com/brahim_llmr",
+      "linkedin": "https://www.linkedin.com/in/brahim-lmr"
+    },
+    {
+      "speaker": "louise-hsu",
+      "role": "Software Engineer, Google",
+      "bio": "I'm a software engineer based in Seattle, but originally from Vancouver, Canada. I've worked at Google primarily on Flutter for iOS for 3 years. Outside of work, I love video games, crocheting, and playing music!",
+      "photoUrl": "https://swiftheroes.com/2025/wp-content/uploads/sites/7/sito_foto_hsu.png",
+      "linkedin": "https://www.linkedin.com/in/louise-hsu/"
+    },
+    {
+      "speaker": "roman-gorbenko",
+      "role": "iOS Developer, Smart Business Technology",
+      "bio": "Roman is an iOS developer who graduated from the Apple Developer Academy in Naples. He actively participates in open-source projects such as Swift, Tuist, and Periphery. His main area of expertise is infrastructure development.",
+      "photoUrl": "https://swiftheroes.com/2025/wp-content/uploads/sites/7/sito_foto_Gorbenko.png",
+      "linkedin": "https://www.linkedin.com/in/roman-gorbenko-a56020231/"
+    },
+    {
+      "speaker": "jose-a-lobato",
+      "role": "Senior Software Developer, Kape Technologies",
+      "bio": "After spending ten years working on embedded systems, primarily using C++, I joined the Apple ecosystem in 2010. Since then, I have been focused on developing applications for iOS and macOS. Over the past decade, I have worked for various companies, including DxO in France, Teamwork in Ireland, and Kape Technologies. In each role, I have contributed to enhancing their architecture and advancing their projects to a higher level of maintainability.",
+      "photoUrl": "https://swiftheroes.com/2025/wp-content/uploads/sites/7/sito_foto_messineo_lobato.png",
+      "website": "https://josealobato.com"
+    },
+    {
+      "speaker": "pietro-messineo",
+      "role": "Software Engineer, ExpressVPN (Kape)",
+      "bio": "Based in the Czech Republic and hailing from Italy, I've been crafting innovative applications for the Apple ecosystem (iOS, watchOS, tvOS, iPadOS, and visionOS) since 2012. Transitioning from Objective-C to Swift in 2014, my passion for technology has only grown, leading me all the way to NY to acquire a Vision Pro.",
+      "photoUrl": "https://swiftheroes.com/2025/wp-content/uploads/sites/7/sito_foto_messineo_lobato.png",
+      "twitter": "https://x.com/pietro_messineo",
+      "linkedin": "https://linkedin.com/in/pietromessineo/"
+    },
+    {
+      "speaker": "emilio-arvonio",
+      "role": "Senior iOS Developer, Open Reply",
+      "bio": "I'm passionate about mobile development. I decided to start this long journey with iOS development but I am slowly discovering other frameworks. I love approaching and learning new tools to continuously improve my code and the apps I create.\nI am constantly looking for new challenges that take me out of my comfort zone and make me grow both professionally and personally.",
+      "photoUrl": "https://swiftheroes.com/2025/wp-content/uploads/sites/7/sito_foto_arvonio.png",
+      "twitter": "https://x.com/emilioarvonio",
+      "linkedin": "https://www.linkedin.com/in/emilio-arvonio/"
+    },
+    {
+      "speaker": "andra-pop",
+      "role": "iOS Developer, Garmin",
+      "bio": "Andra has been an iOS developer for 7 years, combining her love for technology and problem solving with a passion for building beautiful, user-friendly apps. Outside of coding, she enjoys travelling to new places and staying active through a variety of sports. She’s excited to present at Swift Heroes to share insights, connect with fellow developers, and explore new ways to push the boundaries of app development.",
+      "photoUrl": "https://swiftheroes.com/2025/wp-content/uploads/sites/7/sito_foto_pop-1.png",
+      "twitter": "https://x.com/AndraPop29",
+      "linkedin": "https://www.linkedin.com/in/andra-pop-66111216b/"
+    },
+    {
+      "speaker": "klemens-strasser",
+      "role": "Indie Developer",
+      "bio": "Klemens is an Apple Design Award-winning indie developer from Graz, Austria, whose passion is making apps and games more accessible and delightful for everyone. Over the past decade, he has contributed to prominent apps such as Fantastical, Cardhop, and the Nuki SmartLock platform. Since the end of 2024, he has been working as a full-time indie developer. His commitment to inclusive design has earned him recognition from Apple on multiple occasions. Not only was he selected for a WWDC Scholarship four times, but he also won an Apple Design Award as a student in 2015 for Elementary Minute. Additionally, he received two Apple Design Award nominations in for Letter Rooms (2022) and Ancient Board Game Collection (2023) in the inclusivity category.",
+      "photoUrl": "https://swiftheroes.com/2025/wp-content/uploads/sites/7/sito_foto_Strasser.png",
+      "twitter": "https://x.com/klemensstrasser",
+      "linkedin": "https://www.linkedin.com/in/klemensstrasser/"
+    },
+    {
+      "speaker": "oliver-binns",
+      "role": "Tech Lead, Deloitte Digital",
+      "bio": "Oliver is an experienced software engineer based in London, but originally from Yorkshire. After attaining an IET accredited master’s degree in Computer Science from the University of York, he started his career building websites in PHP and JavaScript, before pivoting into native iOS development. He has worked on highly-rated mobile apps for airlines, healthcare organisations and even government departments. Oliver was shortlisted for British Computer Society's Engineer of the Year 2024.",
+      "photoUrl": "https://swiftheroes.com/2025/wp-content/uploads/sites/7/sito_foto_binns.png",
+      "twitter": "https://x.com/Oliver_Binns",
+      "linkedin": "https://www.linkedin.com/in/obinns/"
+    },
+    {
+      "speaker": "pavel-zak",
+      "role": "Freelance",
+      "bio": "Pavel is iOS/macOS developer, passionate about UX and animations. He makes his living as a freelancer and SwiftUI mentor at swiftUI.training.\nHe finds joy in creative processes, regardless if it is a generative art, pencil drawing, or metal music.",
+      "photoUrl": "https://swiftheroes.com/2025/wp-content/uploads/sites/7/sito_foto_zak.png",
+      "twitter": "https://x.com/myridiphis",
+      "linkedin": "https://www.linkedin.com/in/pavel-zak-5983642/"
+    },
+    {
+      "speaker": "anastasia-petrova",
+      "role": "iOS Engineer, Depop",
+      "bio": "I’m an iOS engineer from London, working at Depop. In the past, worked on popular fintech products such as Monzo and Paymentsense, and I have a vast experience with A/B testing.",
+      "photoUrl": "https://swiftheroes.com/2025/wp-content/uploads/sites/7/sito_foto_petrova.png",
+      "linkedin": "https://www.linkedin.com/in/anastasia-ios/"
+    },
+    {
+      "speaker": "peter-friese",
+      "role": "Developer Relations Engineer, Google",
+      "bio": "Peter is a Staff Developer Advocate on the Firebase at Google, helping developers build amazing experiences and high quality apps using Firebase and AI. With a passion for empowering developers and fostering innovation, Peter works tirelessly with the Firebase team to make his vision of “cutting short the time to magic” a reality. Peter is also the author of the book Asynchronous Programming with SwiftUI and Combine: Functional Programming to Build UIs on Apple Platforms and host of the YouTube show Firebase After Hours, in which he and his colleagues explore Firebase in a light-hearted and fun setting. He has written code in BASIC, C, ObjectPascal, Java, Kotlin, Xtext, JavaScript, TypeScript, Objective-C, and a number of home-grown DSLs – but his all-time favourite is Swift.",
+      "photoUrl": "https://swiftheroes.com/2025/wp-content/uploads/sites/7/sito_foto_friese.png",
+      "twitter": "https://x.com/peterfriese"
+    },
+    {
+      "speaker": "muralidharan-kathiresan",
+      "role": "Senior iOS Engineer, Ballys Interactive",
+      "bio": "Murali is an experienced Senior iOS Developer with more than 12 years of expertise in Mobile App Development. He is also the creator of https://swiftpublished.com, a weekly blog focusing on iOS Development. Murali believes in writing clean and organised code and prioritises testing as the first step. He enjoys collaborating and learning from the community to enhance his skills.",
+      "photoUrl": "https://swiftheroes.com/2025/wp-content/uploads/sites/7/sito_foto_Kathiresan.png",
+      "twitter": "https://x.com/Muralidharan_K",
+      "linkedin": "https://www.linkedin.com/in/muralidharankathiresan/"
+    },
+    {
+      "speaker": "artem-olkov",
+      "role": "Developer on the Kotlin/Native team, JetBrains",
+      "bio": "iOS Engineer since 2013. KMP Enthusiast since 2018. In the nearest past spent 4 years transforming a platform-specific mobile dev team into a KMP-oriented one. Year and a half ago moved to JetBrains in hopes of building Swift-Export.",
+      "photoUrl": "https://swiftheroes.com/2025/wp-content/uploads/sites/7/sito_foto_olkov.png",
+      "twitter": "https://x.com/mMaxy85"
+    },
+    {
+      "speaker": "jane-chubenko",
+      "role": "Mobile Team Lead, NIX",
+      "bio": "With nearly a decade of experience in the realm of mobile technology, I am leading the mobile development team at NIX, a global software engineering partner. In my current role, I oversee a skilled team of over 30 talented developers. My focus extends to orchestrating seamless processes and providing technical consultation to our business development departments. My extensive portfolio ranges from intricate IoT systems to dynamic social networks, and I've also specialized in domain-specific solutions such as healthcare and fintech applications. My passion lies in addressing complex challenges through user-centric solutions that empower businesses to thrive. Throughout my journey, my passion for coding has remained unwavering. I find immense satisfaction in rolling up my sleeves and delving into lines of code, solving complex puzzles, and crafting innovative solutions that align with our clients' unique requirements. Beyond the digital realm, I'm an avid adventurer. You'll often find me exploring new depths while diving or conquering new heights on hiking trails.",
+      "photoUrl": "https://swiftheroes.com/2025/wp-content/uploads/sites/7/sito_foto_chubenko.png",
+      "twitter": "https://x.com/jane_chubenko",
+      "linkedin": "https://www.linkedin.com/in/jane-bondar-41215a165/"
+    },
+    {
+      "speaker": "ekaterina-volkova",
+      "role": "Software Engineer, Zalando",
+      "bio": "Better late than never: that would describe my way of coming to tech. I already had a university degree, when I decided to make a major change and to become a software engineer. I took a risk and started another degree in IT. Later on, I was hired by Zalando and I am a software engineer for 2,5 years now.",
+      "photoUrl": "https://swiftheroes.com/2025/wp-content/uploads/sites/7/sito_foto_volkova.png",
+      "linkedin": "https://www.linkedin.com/in/ekaterina-v-b3b578139/"
+    },
+    {
+      "speaker": "lukasz-lech",
+      "role": "iOS Engineer, Founder, Peakme",
+      "bio": "iOS engineer with over 7 years of experience, passionate about Swift tooling, Vapor, and exploring Web3 development. Aspiring speaker. Outside of coding, an avid tennis player and board sports enthusiast, enjoying snowboarding, surfing, and kitesurfing. A lover of Italian cuisine, currently on a quest to master the perfect cacio e pepe.",
+      "photoUrl": "https://swiftheroes.com/2025/wp-content/uploads/sites/7/sito_foto_lech.png",
+      "twitter": "https://x.com/leszkie11",
+      "linkedin": "https://www.linkedin.com/in/leszko11/"
+    }
+  ],
+  "talks": [
+    {
+      "slug": "1-000-projects-later-how-to-approach-estimation-like-a-pro",
+      "title": "1,000 Projects Later: How to Approach Estimation Like a Pro",
+      "speakers": [
+        "jane-chubenko"
+      ]
+    },
+    {
+      "slug": "controlling-side-effects-with-swift",
+      "title": "Controlling Side Effects with Swift",
+      "speakers": [
+        "alex-ozun"
+      ]
+    },
+    {
+      "slug": "from-modularization-to-clang-and-back",
+      "title": "From Modularization to Clang and Back",
+      "speakers": [
+        "roman-gorbenko"
+      ]
+    },
+    {
+      "slug": "going-solo-essential-tools-for-indie-ios-app-developers",
+      "title": "Going Solo: Essential Tools for Indie iOS App Developers",
+      "speakers": [
+        "lukasz-lech"
+      ]
+    },
+    {
+      "slug": "harnessing-the-power-of-asyncsequence-streaming-data-the-modern-swift-way",
+      "title": "Harnessing the Power of AsyncSequence: Streaming Data the Modern Swift Way",
+      "speakers": [
+        "andra-pop"
+      ]
+    },
+    {
+      "slug": "heavy-metal-in-swiftui",
+      "title": "Heavy Metal in SwiftUI",
+      "speakers": [
+        "pavel-zak"
+      ]
+    },
+    {
+      "slug": "how-a-b-testing-can-ruin-your-codebase",
+      "title": "How A/B Testing can ruin your codebase",
+      "speakers": [
+        "anastasia-petrova"
+      ]
+    },
+    {
+      "slug": "how-to-modularize-a-monolith-transforming-legacy-code-for-the-future",
+      "title": "How to Modularize a Monolith: Transforming Legacy Code for the Future",
+      "speakers": [
+        "jose-a-lobato"
+      ]
+    },
+    {
+      "slug": "kotlin-multiplatform-for-ios-myths-vs-reality",
+      "title": "Kotlin Multiplatform for iOS: Myths vs Reality",
+      "speakers": [
+        "artem-olkov"
+      ]
+    },
+    {
+      "slug": "mind-the-data-gap-bridging-user-trust-and-ios-development-challenges",
+      "title": "Mind the Data Gap: Bridging User Trust and iOS Development Challenges",
+      "speakers": [
+        "ekaterina-volkova"
+      ]
+    },
+    {
+      "slug": "multi-platform-development-for-ios-with-flutter",
+      "title": "Multi-platform development for iOS with Flutter",
+      "speakers": [
+        "louise-hsu"
+      ]
+    },
+    {
+      "slug": "sparkdi-swift-dependency-injection-for-the-concurrent-age",
+      "title": "SparkDI: Swift Dependency Injection for the Concurrent Age",
+      "speakers": [
+        "brahim-lamri"
+      ]
+    },
+    {
+      "slug": "staying-relevant-cultivating-growth-in-an-ai-driven-era",
+      "title": "Staying Relevant: Cultivating Growth in an AI-Driven Era",
+      "speakers": [
+        "emilio-arvonio"
+      ]
+    },
+    {
+      "slug": "swifttesting-right-swipe-or-left-swipe",
+      "title": "SwiftTesting ~ Right Swipe or Left Swipe",
+      "speakers": [
+        "muralidharan-kathiresan"
+      ]
+    },
+    {
+      "slug": "what-could-possibly-go-wrong",
+      "title": "What could possibly go wrong?",
+      "speakers": [
+        "oliver-binns"
+      ]
+    },
+    {
+      "slug": "what-video-games-can-teach-us-about-accessibility",
+      "title": "What Video Games can Teach us about Accessibility",
+      "speakers": [
+        "klemens-strasser"
+      ]
+    },
+    {
+      "slug": "why-every-swiftui-developer-should-care-about-the-environment",
+      "title": "Why every SwiftUI developer should care about the environment",
+      "speakers": [
+        "peter-friese"
+      ]
+    }
+  ]
+}

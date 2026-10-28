@@ -1,0 +1,20 @@
+{
+  "name": "WordCamp Iloilo 2019",
+  "year": 2019,
+  "url": "https://2019.iloilo.wordcamp.org",
+  "startDate": "2019-08-24",
+  "endDate": "2019-08-25",
+  "city": "Iloilo City",
+  "country": "PH",
+  "lat": 10.69694,
+  "lng": 122.56444,
+  "topics": [
+    "PHP"
+  ],
+  "cfp": {
+    "url": "https://2019.iloilo.wordcamp.org/2019/03/04/call-for-speakers",
+    "deadline": "2019-06-15",
+    "open": false
+  },
+  "source": "confs.tech"
+}

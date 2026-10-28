@@ -1,0 +1,20 @@
+{
+  "name": "App Builders 2020",
+  "year": 2020,
+  "url": "https://appbuilders.ch",
+  "startDate": "2020-05-11",
+  "endDate": "2020-05-12",
+  "city": "Lugano",
+  "country": "CH",
+  "lat": 46.01008,
+  "lng": 8.96004,
+  "topics": [
+    "iOS"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSegSs5vGzVmd_wM-TN8yZsi2tZ0uhhwQqNjxYBc3o8ovmEWvg/viewform",
+    "deadline": "2020-01-26",
+    "open": false
+  },
+  "source": "cocoaconferences"
+}

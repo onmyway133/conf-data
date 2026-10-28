@@ -1,0 +1,20 @@
+{
+  "name": "beyond IoT 2025",
+  "year": 2025,
+  "url": "https://beyond-iot.de",
+  "startDate": "2025-09-23",
+  "endDate": "2025-09-24",
+  "city": "Cologne",
+  "country": "DE",
+  "lat": 50.93333,
+  "lng": 6.95,
+  "topics": [
+    "IoT"
+  ],
+  "cfp": {
+    "url": "https://beyond-iot.de/cfp.php",
+    "deadline": "2025-04-04",
+    "open": false
+  },
+  "source": "confs.tech"
+}

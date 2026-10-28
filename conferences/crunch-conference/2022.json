@@ -1,0 +1,16 @@
+{
+  "name": "Crunch Conference 2022",
+  "year": 2022,
+  "url": "https://crunchconf.com",
+  "startDate": "2022-10-03",
+  "endDate": "2022-10-05",
+  "city": "Budapest",
+  "country": "HU",
+  "lat": 47.49835,
+  "lng": 19.04045,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/crunchbp",
+  "source": "confs.tech"
+}

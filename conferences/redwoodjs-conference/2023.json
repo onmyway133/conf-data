@@ -1,0 +1,16 @@
+{
+  "name": "RedwoodJS Conference 2023",
+  "year": 2023,
+  "url": "https://redwoodjsconf.com",
+  "startDate": "2023-09-26",
+  "endDate": "2023-09-29",
+  "city": "Grants Pass, OR",
+  "country": "US",
+  "lat": 42.43933,
+  "lng": -123.33067,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/redwoodjs",
+  "source": "confs.tech"
+}

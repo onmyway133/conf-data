@@ -1,0 +1,16 @@
+{
+  "name": "PyCascades 2019",
+  "year": 2019,
+  "url": "https://2019.pycascades.com",
+  "startDate": "2019-02-23",
+  "endDate": "2019-02-25",
+  "city": "Seattle, WA",
+  "country": "US",
+  "lat": 47.60621,
+  "lng": -122.33207,
+  "topics": [
+    "Python"
+  ],
+  "twitter": "https://x.com/pycascades",
+  "source": "confs.tech"
+}

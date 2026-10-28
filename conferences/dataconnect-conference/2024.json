@@ -1,0 +1,16 @@
+{
+  "name": "DataConnect Conference 2024",
+  "year": 2024,
+  "url": "https://www.dataconnectconf.com",
+  "startDate": "2024-07-11",
+  "endDate": "2024-07-12",
+  "city": "Columbus, OH",
+  "country": "US",
+  "lat": 39.96118,
+  "lng": -82.99879,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/dataconnectconf",
+  "source": "confs.tech"
+}

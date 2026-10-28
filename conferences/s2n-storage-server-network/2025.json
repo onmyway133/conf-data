@@ -1,0 +1,17 @@
+{
+  "name": "S2N: Storage Server Network 2025",
+  "year": 2025,
+  "url": "https://s2n.heise.de",
+  "startDate": "2025-10-22",
+  "endDate": "2025-10-23",
+  "city": "Regensburg",
+  "country": "DE",
+  "lat": 49.01513,
+  "lng": 12.10161,
+  "topics": [
+    "IoT",
+    "Performance",
+    "Security"
+  ],
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "CSScamp 2020",
+  "year": 2020,
+  "url": "https://csscamp.tech",
+  "startDate": "2020-07-15",
+  "endDate": "2020-07-15",
+  "city": "Barcelona",
+  "country": "ES",
+  "lat": 41.38879,
+  "lng": 2.15899,
+  "topics": [
+    "CSS"
+  ],
+  "twitter": "https://x.com/csscamp",
+  "source": "confs.tech"
+}

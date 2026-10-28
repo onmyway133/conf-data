@@ -1,0 +1,14 @@
+{
+  "name": "NDC Sydney 2020",
+  "year": 2020,
+  "url": "https://ndcsydney.com",
+  "startDate": "2020-10-12",
+  "endDate": "2020-10-16",
+  "city": "Sydney",
+  "country": "AU",
+  "lat": -33.86785,
+  "lng": 151.20732,
+  "topics": [],
+  "twitter": "https://x.com/NDC_Conferences",
+  "source": "confs.tech"
+}

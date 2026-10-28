@@ -1,0 +1,21 @@
+{
+  "name": "React Boston, MA 2019",
+  "year": 2019,
+  "url": "https://www.reactboston.com",
+  "startDate": "2019-09-21",
+  "endDate": "2019-09-22",
+  "city": "Boston, MA",
+  "country": "US",
+  "lat": 42.35843,
+  "lng": -71.05977,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSdx4L2_iKZ7VEsWJHJmz0XpDGfYJzNHG4KB2Bhnpraov20fjw/viewform",
+    "deadline": "2019-07-01",
+    "open": false
+  },
+  "twitter": "https://x.com/ReactBoston",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Bulgaria PHP Conference 2019",
+  "year": 2019,
+  "url": "https://www.bgphp.org",
+  "startDate": "2019-11-08",
+  "endDate": "2019-11-10",
+  "city": "Sofia",
+  "country": "BG",
+  "lat": 42.69751,
+  "lng": 23.32415,
+  "topics": [
+    "PHP"
+  ],
+  "twitter": "https://x.com/bgphpconf",
+  "source": "confs.tech"
+}

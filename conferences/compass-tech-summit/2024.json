@@ -1,0 +1,17 @@
+{
+  "name": "Compass Tech Summit 2024",
+  "year": 2024,
+  "url": "https://ti.to/crafthub/compass-tech-summit-2024",
+  "startDate": "2024-10-03",
+  "endDate": "2024-10-04",
+  "city": "Budapest",
+  "country": "HU",
+  "lat": 47.49835,
+  "lng": 19.04045,
+  "topics": [
+    "Data/AI",
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/amuseconf",
+  "source": "confs.tech"
+}

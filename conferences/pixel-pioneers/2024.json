@@ -1,0 +1,19 @@
+{
+  "name": "Pixel Pioneers 2024",
+  "year": 2024,
+  "url": "https://pixelpioneers.co/events/bristol-2024",
+  "startDate": "2024-06-14",
+  "endDate": "2024-06-14",
+  "city": "Bristol",
+  "country": "GB",
+  "lat": 51.45523,
+  "lng": -2.59665,
+  "topics": [],
+  "cfp": {
+    "url": "https://pixelpioneers.co/call-for-speakers",
+    "deadline": "2024-04-15",
+    "open": false
+  },
+  "twitter": "https://x.com/pixelpioneers",
+  "source": "confs.tech"
+}

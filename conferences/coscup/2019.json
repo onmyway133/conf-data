@@ -1,0 +1,14 @@
+{
+  "name": "COSCUP 2019",
+  "year": 2019,
+  "url": "https://coscup.org/2019/en",
+  "startDate": "2019-08-17",
+  "endDate": "2019-08-18",
+  "city": "Taipei",
+  "country": "TW",
+  "lat": 25.05306,
+  "lng": 121.52639,
+  "topics": [],
+  "twitter": "https://x.com/coscup",
+  "source": "confs.tech"
+}

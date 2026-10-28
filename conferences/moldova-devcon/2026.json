@@ -1,0 +1,18 @@
+{
+  "name": "Moldova DevCon 2026",
+  "year": 2026,
+  "url": "https://mdc.md",
+  "startDate": "2026-11-06",
+  "endDate": "2026-11-07",
+  "city": "Chișinău",
+  "country": "MD",
+  "lat": 47.00902,
+  "lng": 28.85938,
+  "topics": [],
+  "cfp": {
+    "url": "https://forms.gle/fioMNEFN7XZPQsbv9",
+    "deadline": "2026-08-31",
+    "open": true
+  },
+  "source": "confs.tech"
+}

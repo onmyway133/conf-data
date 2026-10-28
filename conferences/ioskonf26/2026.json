@@ -1,0 +1,20 @@
+{
+  "name": "iOSKonf26 2026",
+  "year": 2026,
+  "url": "https://www.ioskonf.mk/",
+  "startDate": "2026-05-04",
+  "endDate": "2026-05-06",
+  "city": "Skopje",
+  "country": "MK",
+  "lat": 41.99646,
+  "lng": 21.43141,
+  "topics": [
+    "iOS"
+  ],
+  "cfp": {
+    "url": "https://www.papercall.io/ioskonf26",
+    "deadline": "2026-01-31",
+    "open": false
+  },
+  "source": "cocoaconferences"
+}

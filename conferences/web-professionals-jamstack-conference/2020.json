@@ -1,0 +1,16 @@
+{
+  "name": "Web Professionals JAMStack Conference 2020",
+  "year": 2020,
+  "url": "https://www.web-professionals.ch/barcamp",
+  "startDate": "2020-01-25",
+  "endDate": "2020-01-25",
+  "city": "Buchs",
+  "country": "CH",
+  "lat": 47.16743,
+  "lng": 9.47794,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/WebProCH",
+  "source": "confs.tech"
+}

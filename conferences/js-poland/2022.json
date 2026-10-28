@@ -1,0 +1,21 @@
+{
+  "name": "JS Poland 2022",
+  "year": 2022,
+  "url": "https://www.js-poland.pl",
+  "startDate": "2022-10-26",
+  "endDate": "2022-10-26",
+  "city": "Warsaw",
+  "country": "PL",
+  "lat": 52.22977,
+  "lng": 21.01178,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSeVsK-OA9HudBjk7CpkKNCK8M_DD4_DF-AsFLAP8wdHeZ3O-g/viewform",
+    "deadline": "2022-10-16",
+    "open": false
+  },
+  "twitter": "https://x.com/jsPolandConf",
+  "source": "confs.tech"
+}

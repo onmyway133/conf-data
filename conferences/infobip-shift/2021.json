@@ -1,0 +1,19 @@
+{
+  "name": "Infobip Shift 2021",
+  "year": 2021,
+  "url": "https://shift.infobip.com",
+  "startDate": "2021-09-07",
+  "endDate": "2021-09-08",
+  "city": "Split",
+  "country": "HR",
+  "lat": 43.50891,
+  "lng": 16.43915,
+  "topics": [],
+  "cfp": {
+    "url": "https://sessionize.com/shift-dev-2021",
+    "deadline": "2021-07-31",
+    "open": false
+  },
+  "twitter": "https://x.com/shiftconf_co",
+  "source": "confs.tech"
+}

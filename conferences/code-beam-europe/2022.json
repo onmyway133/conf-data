@@ -1,0 +1,16 @@
+{
+  "name": "Code BEAM Europe 2022",
+  "year": 2022,
+  "url": "https://codesync.global/conferences/code-beam-sto-2022",
+  "startDate": "2022-05-19",
+  "endDate": "2022-05-20",
+  "city": "Stockholm",
+  "country": "SE",
+  "lat": 59.32938,
+  "lng": 18.06871,
+  "topics": [
+    "Elixir"
+  ],
+  "twitter": "https://x.com/CodeSyncGlobal",
+  "source": "confs.tech"
+}

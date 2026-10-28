@@ -1,0 +1,16 @@
+{
+  "name": "BASTA! 2019",
+  "year": 2019,
+  "url": "https://basta.net",
+  "startDate": "2019-09-23",
+  "endDate": "2019-09-27",
+  "city": "Mainz",
+  "country": "DE",
+  "lat": 49.98185,
+  "lng": 8.28008,
+  "topics": [
+    ".NET"
+  ],
+  "twitter": "https://x.com/BASTAcon",
+  "source": "confs.tech"
+}

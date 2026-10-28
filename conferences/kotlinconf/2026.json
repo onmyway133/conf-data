@@ -1,0 +1,22 @@
+{
+  "name": "KotlinConf 2026",
+  "year": 2026,
+  "url": "https://kotlinconf.com",
+  "startDate": "2026-05-21",
+  "endDate": "2026-05-22",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [
+    "Kotlin"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/kotlinconf-2026",
+    "deadline": "2025-11-30",
+    "open": false
+  },
+  "twitter": "https://x.com/kotlinconf",
+  "bluesky": "https://bsky.app/profile/kotlinconf.com",
+  "source": "confs.tech"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "TestCon Europe 2022",
+  "year": 2022,
+  "url": "https://testcon.lt",
+  "startDate": "2022-10-24",
+  "endDate": "2022-10-27",
+  "city": "Vilnius",
+  "country": "LT",
+  "lat": 54.68916,
+  "lng": 25.2798,
+  "topics": [
+    "Testing"
+  ],
+  "cfp": {
+    "url": "https://airtable.com/shrnlAKGCLYEtzHar",
+    "open": false
+  },
+  "twitter": "https://x.com/TestConEurope",
+  "source": "confs.tech"
+}

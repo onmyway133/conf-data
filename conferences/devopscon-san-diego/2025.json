@@ -1,0 +1,16 @@
+{
+  "name": "DevOpsCon San Diego 2025",
+  "year": 2025,
+  "url": "https://devopscon.io/san-diego",
+  "startDate": "2025-05-19",
+  "endDate": "2025-05-22",
+  "city": "San Diego, CA",
+  "country": "US",
+  "lat": 32.71571,
+  "lng": -117.16472,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devops_con",
+  "source": "confs.tech"
+}

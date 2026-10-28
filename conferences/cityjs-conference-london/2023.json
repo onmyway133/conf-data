@@ -1,0 +1,16 @@
+{
+  "name": "CityJS Conference London 2023",
+  "year": 2023,
+  "url": "https://london.cityjsconf.org",
+  "startDate": "2023-03-29",
+  "endDate": "2023-03-31",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/cityjsconf",
+  "source": "confs.tech"
+}

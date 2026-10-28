@@ -1,0 +1,16 @@
+{
+  "name": "International JavaScript Conference Munich 2026",
+  "year": 2026,
+  "url": "https://javascript-conference.com/muenchen",
+  "startDate": "2026-10-26",
+  "endDate": "2026-10-30",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/JavaScriptCon",
+  "source": "confs.tech"
+}

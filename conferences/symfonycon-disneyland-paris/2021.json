@@ -1,0 +1,21 @@
+{
+  "name": "SymfonyCon Disneyland Paris 2021",
+  "year": 2021,
+  "url": "https://live.symfony.com/2021-paris-con",
+  "startDate": "2021-12-02",
+  "endDate": "2021-12-03",
+  "city": "Paris",
+  "country": "FR",
+  "lat": 48.85341,
+  "lng": 2.3488,
+  "topics": [
+    "PHP"
+  ],
+  "cfp": {
+    "url": "https://live.symfony.com/2021-paris-con/cfp",
+    "deadline": "2021-03-29",
+    "open": false
+  },
+  "twitter": "https://x.com/SymfonyCon",
+  "source": "confs.tech"
+}

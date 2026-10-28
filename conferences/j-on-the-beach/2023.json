@@ -1,0 +1,16 @@
+{
+  "name": "J on the Beach 2023",
+  "year": 2023,
+  "url": "https://jonthebeach.com",
+  "startDate": "2023-05-10",
+  "endDate": "2023-05-12",
+  "city": "Malaga",
+  "country": "ES",
+  "lat": 36.72016,
+  "lng": -4.42034,
+  "topics": [
+    "Java"
+  ],
+  "twitter": "https://x.com/jotb23",
+  "source": "confs.tech"
+}

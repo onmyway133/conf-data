@@ -1,0 +1,13 @@
+{
+  "name": "QCon 2023",
+  "year": 2023,
+  "url": "https://qconsf.com",
+  "startDate": "2023-10-02",
+  "endDate": "2023-10-06",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [],
+  "source": "confs.tech"
+}

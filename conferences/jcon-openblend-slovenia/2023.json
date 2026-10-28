@@ -1,0 +1,21 @@
+{
+  "name": "JCON OpenBlend Slovenia 2023",
+  "year": 2023,
+  "url": "https://slovenia.jcon.one/en",
+  "startDate": "2023-06-01",
+  "endDate": "2023-06-02",
+  "city": "Portorož",
+  "country": "SI",
+  "lat": 45.51429,
+  "lng": 13.59206,
+  "topics": [
+    "Java"
+  ],
+  "cfp": {
+    "url": "https://slovenia.jcon.one/en/call-for-papers",
+    "deadline": "2023-01-31",
+    "open": false
+  },
+  "twitter": "https://x.com/jcon_conference",
+  "source": "confs.tech"
+}

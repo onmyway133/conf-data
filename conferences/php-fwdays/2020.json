@@ -1,0 +1,16 @@
+{
+  "name": "PHP fwdays 2020",
+  "year": 2020,
+  "url": "https://fwdays.com/en/event/php-fwdays-2020",
+  "startDate": "2020-05-30",
+  "endDate": "2020-05-30",
+  "city": "Kyiv",
+  "country": "UA",
+  "lat": 50.45466,
+  "lng": 30.5238,
+  "topics": [
+    "PHP"
+  ],
+  "twitter": "https://x.com/fwdays_php",
+  "source": "confs.tech"
+}

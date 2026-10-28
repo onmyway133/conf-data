@@ -1,0 +1,21 @@
+{
+  "name": "EuroSTAR Conference 2023",
+  "year": 2023,
+  "url": "https://conference.eurostarsoftwaretesting.com",
+  "startDate": "2023-06-13",
+  "endDate": "2023-06-16",
+  "city": "Antwerp",
+  "country": "BE",
+  "lat": 51.22047,
+  "lng": 4.40026,
+  "topics": [
+    "Testing"
+  ],
+  "cfp": {
+    "url": "https://conference.eurostarsoftwaretesting.com/call-for-submissions",
+    "deadline": "2022-09-09",
+    "open": false
+  },
+  "twitter": "https://x.com/esconfs",
+  "source": "confs.tech"
+}

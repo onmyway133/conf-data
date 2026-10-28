@@ -1,0 +1,16 @@
+{
+  "name": "Mobilization 2015",
+  "year": 2015,
+  "url": "http://mobilization.pl",
+  "startDate": "2015-10-17",
+  "endDate": "2015-10-17",
+  "city": "Łódź",
+  "country": "PL",
+  "lat": 51.77058,
+  "lng": 19.47395,
+  "topics": [
+    "iOS",
+    "Mobile"
+  ],
+  "source": "cocoaconferences"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "MobileHCI 2019",
+  "year": 2019,
+  "url": "https://mobilehci.acm.org/2019",
+  "startDate": "2019-10-01",
+  "endDate": "2019-10-04",
+  "city": "Taipei",
+  "country": "TW",
+  "lat": 25.05306,
+  "lng": 121.52639,
+  "topics": [
+    "Design/UX"
+  ],
+  "source": "confs.tech"
+}

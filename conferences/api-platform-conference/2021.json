@@ -1,0 +1,16 @@
+{
+  "name": "API Platform Conference 2021",
+  "year": 2021,
+  "url": "https://api-platform.com/con/2021",
+  "startDate": "2021-09-10",
+  "endDate": "2021-09-10",
+  "city": "Lille",
+  "country": "FR",
+  "lat": 50.63391,
+  "lng": 3.05512,
+  "topics": [
+    "PHP"
+  ],
+  "twitter": "https://x.com/ApiPlatform",
+  "source": "confs.tech"
+}

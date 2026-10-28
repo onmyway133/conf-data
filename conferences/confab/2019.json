@@ -1,0 +1,16 @@
+{
+  "name": "Confab 2019",
+  "year": 2019,
+  "url": "https://www.confabevents.com",
+  "startDate": "2019-04-23",
+  "endDate": "2019-04-26",
+  "city": "Minneapolis, MN",
+  "country": "US",
+  "lat": 44.97997,
+  "lng": -93.26384,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/ConfabEvents",
+  "source": "confs.tech"
+}

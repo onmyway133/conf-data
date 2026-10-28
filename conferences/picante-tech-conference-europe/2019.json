@@ -1,0 +1,16 @@
+{
+  "name": "PICANTE TECH Conference Europe 2019",
+  "year": 2019,
+  "url": "https://techconference.eu",
+  "startDate": "2019-09-03",
+  "endDate": "2019-09-04",
+  "city": "Prague",
+  "country": "CZ",
+  "lat": 50.08804,
+  "lng": 14.42076,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/Picante_Media",
+  "source": "confs.tech"
+}

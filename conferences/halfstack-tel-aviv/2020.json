@@ -1,0 +1,16 @@
+{
+  "name": "HalfStack Tel Aviv 2020",
+  "year": 2020,
+  "url": "https://halfstackconf.com/telaviv",
+  "startDate": "2020-10-19",
+  "endDate": "2020-10-19",
+  "city": "Tel Aviv",
+  "country": "IL",
+  "lat": 32.08088,
+  "lng": 34.78057,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/halfstackconf",
+  "source": "confs.tech"
+}

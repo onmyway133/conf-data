@@ -1,0 +1,23 @@
+{
+  "name": "EclipseCon 2022",
+  "year": 2022,
+  "url": "https://www.eclipsecon.org/2022",
+  "startDate": "2022-10-24",
+  "endDate": "2022-10-27",
+  "city": "Ludwigsburg",
+  "country": "DE",
+  "lat": 48.89731,
+  "lng": 9.19161,
+  "topics": [
+    "IoT",
+    "Java",
+    "Testing"
+  ],
+  "cfp": {
+    "url": "https://www.eclipsecon.org/2022/cfp",
+    "deadline": "2022-06-15",
+    "open": false
+  },
+  "twitter": "https://x.com/eclipsecon",
+  "source": "confs.tech"
+}

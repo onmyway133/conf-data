@@ -1,0 +1,16 @@
+{
+  "name": "Istanbul Tech Talks 2015",
+  "year": 2015,
+  "url": "http://www.istanbultechtalks.com/",
+  "startDate": "2015-04-27",
+  "endDate": "2015-04-27",
+  "city": "Istanbul",
+  "country": "TR",
+  "lat": 41.01384,
+  "lng": 28.94966,
+  "topics": [
+    "iOS",
+    "Mobile"
+  ],
+  "source": "cocoaconferences"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "MAD Summit 2024",
+  "year": 2024,
+  "url": "https://mad-summit.de/muenchen",
+  "startDate": "2024-06-10",
+  "endDate": "2024-06-12",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [
+    "APIs"
+  ],
+  "twitter": "https://x.com/mad_summit",
+  "source": "confs.tech"
+}

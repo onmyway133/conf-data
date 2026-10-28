@@ -1,0 +1,20 @@
+{
+  "name": "CTO Craft Con: The Finance Edition 2025",
+  "year": 2025,
+  "url": "https://conference.ctocraft.com/finance",
+  "startDate": "2025-11-18",
+  "endDate": "2025-11-19",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "Networking"
+  ],
+  "cfp": {
+    "url": "https://conference.ctocraft.com/finance/call-for-content",
+    "deadline": "2025-06-25",
+    "open": false
+  },
+  "source": "confs.tech"
+}

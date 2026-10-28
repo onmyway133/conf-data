@@ -1,0 +1,18 @@
+{
+  "name": "Chemnitzer Linuxtage 2024",
+  "year": 2024,
+  "url": "https://chemnitzer.linux-tage.de/2024/de",
+  "startDate": "2024-03-16",
+  "endDate": "2024-03-17",
+  "city": "Chemnitz",
+  "country": "DE",
+  "lat": 50.8357,
+  "lng": 12.92922,
+  "topics": [
+    "DevOps",
+    "Python",
+    "Security"
+  ],
+  "twitter": "https://x.com/clt_news",
+  "source": "confs.tech"
+}

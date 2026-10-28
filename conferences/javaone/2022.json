@@ -1,0 +1,16 @@
+{
+  "name": "JavaOne 2022",
+  "year": 2022,
+  "url": "https://www.oracle.com/cloudworld/javaone",
+  "startDate": "2022-10-16",
+  "endDate": "2022-10-20",
+  "city": "Las Vegas, NV",
+  "country": "US",
+  "lat": 36.17497,
+  "lng": -115.13722,
+  "topics": [
+    "Java"
+  ],
+  "twitter": "https://x.com/JavaOne",
+  "source": "confs.tech"
+}

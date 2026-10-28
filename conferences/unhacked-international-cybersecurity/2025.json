@@ -1,0 +1,20 @@
+{
+  "name": "Unhacked International CyberSecurity 2025",
+  "year": 2025,
+  "url": "https://momentera.org/conferences/unhacked-conference",
+  "startDate": "2025-02-10",
+  "endDate": "2025-02-12",
+  "city": "Vienna",
+  "country": "AT",
+  "lat": 48.20849,
+  "lng": 16.37208,
+  "topics": [
+    "Networking"
+  ],
+  "cfp": {
+    "url": "https://momentera.org/conferences/unhacked-conference/register.php",
+    "deadline": "2024-12-18",
+    "open": false
+  },
+  "source": "confs.tech"
+}

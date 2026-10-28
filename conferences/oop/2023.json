@@ -1,0 +1,15 @@
+{
+  "name": "OOP 2023",
+  "year": 2023,
+  "url": "https://www.oop-konferenz.de/oop-2023-muenchen",
+  "startDate": "2023-07-03",
+  "endDate": "2023-07-05",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [
+    "APIs"
+  ],
+  "source": "confs.tech"
+}

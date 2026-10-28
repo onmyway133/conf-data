@@ -1,0 +1,16 @@
+{
+  "name": "React.NotAConf 2019",
+  "year": 2019,
+  "url": "http://react-not-a-conf.com",
+  "startDate": "2019-05-11",
+  "endDate": "2019-05-11",
+  "city": "Sofia",
+  "country": "BG",
+  "lat": 42.69751,
+  "lng": 23.32415,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/ReactNotAConf",
+  "source": "confs.tech"
+}

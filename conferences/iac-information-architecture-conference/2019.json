@@ -1,0 +1,16 @@
+{
+  "name": "IAC - Information Architecture Conference 2019",
+  "year": 2019,
+  "url": "http://www.theiaconference.com",
+  "startDate": "2019-03-12",
+  "endDate": "2019-03-17",
+  "city": "Orlando, FL",
+  "country": "US",
+  "lat": 28.53834,
+  "lng": -81.37924,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/theiaconf",
+  "source": "confs.tech"
+}

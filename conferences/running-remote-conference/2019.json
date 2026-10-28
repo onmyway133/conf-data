@@ -1,0 +1,14 @@
+{
+  "name": "Running Remote Conference 2019",
+  "year": 2019,
+  "url": "https://runningremote.com",
+  "startDate": "2019-06-29",
+  "endDate": "2019-06-30",
+  "city": "Bali",
+  "country": "ID",
+  "topics": [
+    "Networking"
+  ],
+  "twitter": "https://x.com/RunningRemote",
+  "source": "confs.tech"
+}

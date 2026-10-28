@@ -1,0 +1,18 @@
+{
+  "name": "Visual Studio Live! (VSLive!) Las Vegas 2024",
+  "year": 2024,
+  "url": "https://vslive.com/events/las-vegas-2024/home.aspx",
+  "startDate": "2024-03-03",
+  "endDate": "2024-03-08",
+  "city": "Las Vegas, NV",
+  "country": "US",
+  "lat": 36.17497,
+  "lng": -115.13722,
+  "topics": [
+    "Data/AI",
+    ".NET",
+    "TypeScript"
+  ],
+  "twitter": "https://x.com/vslive",
+  "source": "confs.tech"
+}

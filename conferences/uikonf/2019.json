@@ -1,0 +1,16 @@
+{
+  "name": "UIKonf 2019",
+  "year": 2019,
+  "url": "https://uikonf.com",
+  "startDate": "2019-05-26",
+  "endDate": "2019-05-29",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "iOS"
+  ],
+  "twitter": "https://x.com/uikonf",
+  "source": "confs.tech"
+}

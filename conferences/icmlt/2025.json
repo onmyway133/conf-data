@@ -1,0 +1,15 @@
+{
+  "name": "ICMLT 2025",
+  "year": 2025,
+  "url": "https://www.icmlt.org/",
+  "startDate": "2025-05-23",
+  "endDate": "2025-05-25",
+  "city": "Helsinki",
+  "country": "FI",
+  "lat": 60.16952,
+  "lng": 24.93545,
+  "topics": [
+    "Data/AI"
+  ],
+  "source": "confs.tech"
+}

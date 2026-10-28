@@ -1,0 +1,23 @@
+{
+  "name": "AI in Production 2027",
+  "year": 2027,
+  "url": "https://ai-in-production.jumpingrivers.com",
+  "startDate": "2027-06-10",
+  "endDate": "2027-06-11",
+  "city": "Newcastle-Upon-Tyne",
+  "country": "GB",
+  "lat": 54.97328,
+  "lng": -1.61396,
+  "topics": [
+    "Data/AI",
+    "Python"
+  ],
+  "cfp": {
+    "url": "https://ai-in-production.jumpingrivers.com/#abstracts",
+    "deadline": "2027-01-29",
+    "open": true
+  },
+  "bluesky": "https://bsky.app/profile/jumpingrivers.com",
+  "mastodon": "https://fosstodon.org/@jumpingrivers",
+  "source": "confs.tech"
+}

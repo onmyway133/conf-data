@@ -1,0 +1,16 @@
+{
+  "name": "#a11yTO Gaming 2023",
+  "year": 2023,
+  "url": "https://gaming.a11yto.com",
+  "startDate": "2023-10-21",
+  "endDate": "2023-10-21",
+  "city": "Toronto",
+  "country": "CA",
+  "lat": 43.70643,
+  "lng": -79.39864,
+  "topics": [
+    "Accessibility"
+  ],
+  "twitter": "https://x.com/a11yto",
+  "source": "confs.tech"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "UX Y'all 2024",
+  "year": 2024,
+  "url": "https://www.uxyall.org",
+  "startDate": "2024-09-19",
+  "endDate": "2024-09-20",
+  "city": "Raleigh, NC",
+  "country": "US",
+  "lat": 35.7721,
+  "lng": -78.63861,
+  "topics": [
+    "Design/UX"
+  ],
+  "source": "confs.tech"
+}

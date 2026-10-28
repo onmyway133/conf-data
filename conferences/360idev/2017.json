@@ -1,0 +1,15 @@
+{
+  "name": "360iDev 2017",
+  "year": 2017,
+  "url": "http://360idev.com/",
+  "startDate": "2017-08-13",
+  "endDate": "2017-08-16",
+  "city": "Denver",
+  "country": "US",
+  "lat": 39.73915,
+  "lng": -104.9847,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences"
+}

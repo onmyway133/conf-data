@@ -1,0 +1,21 @@
+{
+  "name": "Devopsdays Denver 2024",
+  "year": 2024,
+  "url": "https://devopsdays.org/events/2024-denver/welcome",
+  "startDate": "2024-04-29",
+  "endDate": "2024-04-30",
+  "city": "Denver, CO",
+  "country": "US",
+  "lat": 39.73915,
+  "lng": -104.9847,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://devopsdays.org/events/2024-denver/propose",
+    "deadline": "2024-01-12",
+    "open": false
+  },
+  "twitter": "https://x.com/devopsdaysrox",
+  "source": "confs.tech"
+}

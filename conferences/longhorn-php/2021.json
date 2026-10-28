@@ -1,0 +1,16 @@
+{
+  "name": "Longhorn PHP 2021",
+  "year": 2021,
+  "url": "https://www.longhornphp.com",
+  "startDate": "2021-10-14",
+  "endDate": "2021-10-16",
+  "city": "Austin, TX",
+  "country": "US",
+  "lat": 30.26715,
+  "lng": -97.74306,
+  "topics": [
+    "PHP"
+  ],
+  "twitter": "https://x.com/longhornphp",
+  "source": "confs.tech"
+}

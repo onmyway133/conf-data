@@ -1,0 +1,21 @@
+{
+  "name": "Newcrafts 2019",
+  "year": 2019,
+  "url": "http://ncrafts.io",
+  "startDate": "2019-05-16",
+  "endDate": "2019-05-17",
+  "city": "Paris",
+  "country": "FR",
+  "lat": 48.85341,
+  "lng": 2.3488,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "http://cfp.ncrafts.io",
+    "deadline": "2019-03-03",
+    "open": false
+  },
+  "twitter": "https://x.com/ncraftsconf",
+  "source": "confs.tech"
+}

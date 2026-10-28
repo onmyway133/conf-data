@@ -1,0 +1,14 @@
+{
+  "name": "ConFoo 2020",
+  "year": 2020,
+  "url": "https://confoo.ca/en/yul2020",
+  "startDate": "2020-02-26",
+  "endDate": "2020-02-28",
+  "city": "Montreal",
+  "country": "CA",
+  "lat": 45.50884,
+  "lng": -73.58781,
+  "topics": [],
+  "twitter": "https://x.com/confooca",
+  "source": "confs.tech"
+}

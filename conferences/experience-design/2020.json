@@ -1,0 +1,16 @@
+{
+  "name": "Experience Design 2020",
+  "year": 2020,
+  "url": "https://experiencedesignweek.iqpc.com",
+  "startDate": "2020-02-24",
+  "endDate": "2020-02-26",
+  "city": "Denver, CO",
+  "country": "US",
+  "lat": 39.73915,
+  "lng": -104.9847,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/CMPinnovation",
+  "source": "confs.tech"
+}

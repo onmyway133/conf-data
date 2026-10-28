@@ -1,0 +1,20 @@
+{
+  "name": "PGDay Napoli 2025",
+  "year": 2025,
+  "url": "https://2025.pgdaynapoli.org/",
+  "startDate": "2025-09-25",
+  "endDate": "2025-09-25",
+  "city": "Napels",
+  "country": "IT",
+  "lat": 40.85216,
+  "lng": 14.26811,
+  "topics": [
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://2025.pgdaynapoli.org/cfp/",
+    "deadline": "2025-06-16",
+    "open": false
+  },
+  "source": "confs.tech"
+}

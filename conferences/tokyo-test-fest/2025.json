@@ -1,0 +1,21 @@
+{
+  "name": "Tokyo Test Fest 2025",
+  "year": 2025,
+  "url": "https://tokyotestfest.com",
+  "startDate": "2025-11-14",
+  "endDate": "2025-11-14",
+  "city": "Tokyo",
+  "country": "JP",
+  "lat": 35.6895,
+  "lng": 139.69171,
+  "topics": [
+    "Testing"
+  ],
+  "cfp": {
+    "url": "https://forms.gle/digCBTMSELLxM6Pb9",
+    "deadline": "2025-04-20",
+    "open": false
+  },
+  "twitter": "https://x.com/tokyotestfest",
+  "source": "confs.tech"
+}

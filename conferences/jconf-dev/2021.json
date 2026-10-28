@@ -1,0 +1,21 @@
+{
+  "name": "jConf.dev 2021",
+  "year": 2021,
+  "url": "https://2021.jconf.dev",
+  "startDate": "2021-12-08",
+  "endDate": "2021-12-10",
+  "city": "Chicago, IL",
+  "country": "US",
+  "lat": 41.85003,
+  "lng": -87.65005,
+  "topics": [
+    "Java"
+  ],
+  "cfp": {
+    "url": "https://2021.jconf.dev/cfp",
+    "deadline": "2021-08-01",
+    "open": false
+  },
+  "twitter": "https://x.com/jconfdev",
+  "source": "confs.tech"
+}

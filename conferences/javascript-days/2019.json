@@ -1,0 +1,16 @@
+{
+  "name": "JavaScript Days 2019",
+  "year": 2019,
+  "url": "https://javascript-days.de",
+  "startDate": "2019-10-07",
+  "endDate": "2019-10-10",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/JS_Days",
+  "source": "confs.tech"
+}

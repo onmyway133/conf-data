@@ -1,0 +1,16 @@
+{
+  "name": "Devopsdays Los Angeles 2023",
+  "year": 2023,
+  "url": "https://devopsdays.org/events/2023-los-angeles/welcome",
+  "startDate": "2023-03-10",
+  "endDate": "2023-03-10",
+  "city": "Los Angeles, CA",
+  "country": "US",
+  "lat": 34.05223,
+  "lng": -118.24368,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/socaldevops",
+  "source": "confs.tech"
+}

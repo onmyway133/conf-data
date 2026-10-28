@@ -1,0 +1,21 @@
+{
+  "name": "RubyConf Taiwan 2019",
+  "year": 2019,
+  "url": "https://2019.rubyconf.tw",
+  "startDate": "2019-07-26",
+  "endDate": "2019-07-27",
+  "city": "Taipei",
+  "country": "TW",
+  "lat": 25.05306,
+  "lng": 121.52639,
+  "topics": [
+    "Ruby"
+  ],
+  "cfp": {
+    "url": "https://cfp.rubyconf.tw/activities/2019",
+    "deadline": "2019-04-25",
+    "open": false
+  },
+  "twitter": "https://x.com/rubyconftw",
+  "source": "confs.tech"
+}

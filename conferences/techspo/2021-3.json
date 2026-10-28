@@ -1,0 +1,16 @@
+{
+  "name": "TECHSPO 2021",
+  "year": 2021,
+  "url": "https://techspohouston.com",
+  "startDate": "2021-05-26",
+  "endDate": "2021-05-27",
+  "city": "Houston, TX",
+  "country": "US",
+  "lat": 29.76328,
+  "lng": -95.36327,
+  "topics": [
+    "Networking"
+  ],
+  "twitter": "https://x.com/techspotweets",
+  "source": "confs.tech"
+}

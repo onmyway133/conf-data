@@ -1,0 +1,16 @@
+{
+  "name": "UX New Zealand 2023",
+  "year": 2023,
+  "url": "https://www.uxnewzealand.com",
+  "startDate": "2023-02-15",
+  "endDate": "2023-02-17",
+  "city": "Wellington",
+  "country": "NZ",
+  "lat": -41.28664,
+  "lng": 174.77557,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/uxnewzealand",
+  "source": "confs.tech"
+}

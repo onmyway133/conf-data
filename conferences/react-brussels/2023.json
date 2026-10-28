@@ -1,0 +1,19 @@
+{
+  "name": "React Brussels 2023",
+  "year": 2023,
+  "url": "https://www.react.brussels",
+  "startDate": "2023-10-13",
+  "endDate": "2023-10-13",
+  "city": "Brussels",
+  "country": "BE",
+  "lat": 50.85045,
+  "lng": 4.34878,
+  "topics": [],
+  "cfp": {
+    "url": "https://forms.gle/5jzwU6H6axJbfzMy7",
+    "deadline": "2023-07-14",
+    "open": false
+  },
+  "twitter": "https://x.com/BrusselsReact",
+  "source": "confs.tech"
+}

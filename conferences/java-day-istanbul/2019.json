@@ -1,0 +1,16 @@
+{
+  "name": "Java Day Istanbul 2019",
+  "year": 2019,
+  "url": "http://javaday.istanbul",
+  "startDate": "2019-03-15",
+  "endDate": "2019-03-16",
+  "city": "Istanbul",
+  "country": "TR",
+  "lat": 41.01384,
+  "lng": 28.94966,
+  "topics": [
+    "Java"
+  ],
+  "twitter": "https://x.com/javadayistanbul",
+  "source": "confs.tech"
+}

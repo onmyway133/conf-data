@@ -1,0 +1,16 @@
+{
+  "name": "Linux Plumbers Conference 2021",
+  "year": 2021,
+  "url": "https://linuxplumbersconf.org",
+  "startDate": "2021-09-27",
+  "endDate": "2021-09-29",
+  "city": "Dublin",
+  "country": "IE",
+  "lat": 53.33306,
+  "lng": -6.24889,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/LinuxPlumbers",
+  "source": "confs.tech"
+}

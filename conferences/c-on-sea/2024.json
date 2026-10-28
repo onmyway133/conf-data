@@ -1,0 +1,15 @@
+{
+  "name": "C ++ on Sea 2024",
+  "year": 2024,
+  "url": "https://cpponsea.uk",
+  "startDate": "2024-07-03",
+  "endDate": "2024-07-05",
+  "city": "Folkestone",
+  "country": "GB",
+  "lat": 51.08169,
+  "lng": 1.16734,
+  "topics": [
+    "C++"
+  ],
+  "source": "confs.tech"
+}

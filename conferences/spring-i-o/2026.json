@@ -1,0 +1,23 @@
+{
+  "name": "Spring I/O 2026",
+  "year": 2026,
+  "url": "https://2026.springio.net",
+  "startDate": "2026-04-13",
+  "endDate": "2026-04-15",
+  "city": "Barcelona",
+  "country": "ES",
+  "lat": 41.38879,
+  "lng": 2.15899,
+  "topics": [
+    "APIs",
+    "Java"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/springio26",
+    "deadline": "2026-01-09",
+    "open": false
+  },
+  "twitter": "https://x.com/spring_io",
+  "bluesky": "https://bsky.app/profile/springio.net",
+  "source": "confs.tech"
+}

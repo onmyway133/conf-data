@@ -1,0 +1,20 @@
+{
+  "name": "NSSpain 2026",
+  "year": 2026,
+  "url": "https://2026.nsspain.com",
+  "startDate": "2026-09-17",
+  "endDate": "2026-09-18",
+  "city": "Logroño",
+  "country": "ES",
+  "lat": 42.46615,
+  "lng": -2.45115,
+  "topics": [
+    "iOS"
+  ],
+  "cfp": {
+    "url": "https://2026.nsspain.com/#speakers",
+    "deadline": "2026-06-22",
+    "open": false
+  },
+  "source": "cocoaconferences"
+}

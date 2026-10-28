@@ -1,0 +1,21 @@
+{
+  "name": "ConFrontJS 2019",
+  "year": 2019,
+  "url": "https://confrontjs.com",
+  "startDate": "2019-12-07",
+  "endDate": "2019-12-07",
+  "city": "Warsaw",
+  "country": "PL",
+  "lat": 52.22977,
+  "lng": 21.01178,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://forms.gle/wVUKK5HbUEC6S9CD9",
+    "deadline": "2019-11-01",
+    "open": false
+  },
+  "twitter": "https://x.com/confrontjs",
+  "source": "confs.tech"
+}

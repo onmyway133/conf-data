@@ -1,0 +1,18 @@
+{
+  "name": "UberConf 2026",
+  "year": 2026,
+  "url": "https://uberconf.com",
+  "startDate": "2026-07-14",
+  "endDate": "2026-07-17",
+  "city": "Denver, CO",
+  "country": "US",
+  "lat": 39.73915,
+  "lng": -104.9847,
+  "topics": [
+    "APIs",
+    "Data/AI",
+    "Java"
+  ],
+  "twitter": "https://x.com/nofluff",
+  "source": "confs.tech"
+}

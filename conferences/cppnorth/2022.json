@@ -1,0 +1,16 @@
+{
+  "name": "CppNorth 2022",
+  "year": 2022,
+  "url": "https://cppnorth.ca",
+  "startDate": "2022-07-17",
+  "endDate": "2022-07-20",
+  "city": "Toronto",
+  "country": "CA",
+  "lat": 43.70643,
+  "lng": -79.39864,
+  "topics": [
+    "C++"
+  ],
+  "twitter": "https://x.com/cppnorth",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "DSS Miami: AI and Machine Learning in the Enterprise 2023",
+  "year": 2023,
+  "url": "https://www.datascience.salon/miami",
+  "startDate": "2023-09-13",
+  "endDate": "2023-09-14",
+  "city": "Miami, FL",
+  "country": "US",
+  "lat": 25.77427,
+  "lng": -80.19366,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/DataSciSalon",
+  "source": "confs.tech"
+}

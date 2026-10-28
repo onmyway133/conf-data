@@ -1,0 +1,17 @@
+{
+  "name": "JFokus 2023",
+  "year": 2023,
+  "url": "https://www.jfokus.se",
+  "startDate": "2023-02-06",
+  "endDate": "2023-02-08",
+  "city": "Stockholm",
+  "country": "SE",
+  "lat": 59.32938,
+  "lng": 18.06871,
+  "topics": [
+    "Java",
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/Jfokus",
+  "source": "confs.tech"
+}

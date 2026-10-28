@@ -1,0 +1,16 @@
+{
+  "name": "European Azure Conference 2020",
+  "year": 2020,
+  "url": "https://www.europeanazureconference.com",
+  "startDate": "2020-10-27",
+  "endDate": "2020-10-29",
+  "city": "Nice",
+  "country": "FR",
+  "lat": 43.70313,
+  "lng": 7.26608,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/europeanazure",
+  "source": "confs.tech"
+}

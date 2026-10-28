@@ -1,0 +1,19 @@
+{
+  "name": "Software Architecture fwdays 2024",
+  "year": 2024,
+  "url": "https://fwdays.com/event/architecture-fwdays-2024",
+  "startDate": "2024-09-14",
+  "endDate": "2024-09-14",
+  "city": "Kyiv",
+  "country": "UA",
+  "lat": 50.45466,
+  "lng": 30.5238,
+  "topics": [],
+  "cfp": {
+    "url": "https://forms.gle/ZuvW5uJdHNNJypUV6",
+    "deadline": "2024-08-16",
+    "open": false
+  },
+  "twitter": "https://x.com/fwdays",
+  "source": "confs.tech"
+}

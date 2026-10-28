@@ -1,0 +1,16 @@
+{
+  "name": "Appdevcon (previously called mDevcon) 2017",
+  "year": 2017,
+  "url": "http://appdevcon.nl/",
+  "startDate": "2017-03-16",
+  "endDate": "2017-03-17",
+  "city": "Amsterdam",
+  "country": "NL",
+  "lat": 52.37403,
+  "lng": 4.88969,
+  "topics": [
+    "iOS",
+    "Mobile"
+  ],
+  "source": "cocoaconferences"
+}

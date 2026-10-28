@@ -1,0 +1,15 @@
+{
+  "name": "Frontrunners 2026",
+  "year": 2026,
+  "url": "https://frontrunners.tech",
+  "startDate": "2026-03-27",
+  "endDate": "2026-03-27",
+  "city": "Washington, DC",
+  "country": "US",
+  "lat": 38.89511,
+  "lng": -77.03637,
+  "topics": [
+    "Data/AI"
+  ],
+  "source": "confs.tech"
+}

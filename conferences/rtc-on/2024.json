@@ -1,0 +1,23 @@
+{
+  "name": "RTC.On 2024",
+  "year": 2024,
+  "url": "https://rtcon.live",
+  "startDate": "2024-09-11",
+  "endDate": "2024-09-13",
+  "city": "Kraków",
+  "country": "PL",
+  "lat": 50.06143,
+  "lng": 19.93658,
+  "topics": [
+    "Data/AI",
+    "Elixir",
+    "Rust"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSel_6kQ6AXMAbtua6QjqfTAFiLauXSB0lHjl8uvd-wlTzzSwQ/viewform",
+    "deadline": "2024-06-28",
+    "open": false
+  },
+  "twitter": "https://x.com/ElixirMembrane",
+  "source": "confs.tech"
+}

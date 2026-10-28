@@ -1,0 +1,23 @@
+{
+  "name": "The Matrix Conference 2026",
+  "year": 2026,
+  "url": "https://conference.matrix.org",
+  "startDate": "2026-10-20",
+  "endDate": "2026-10-23",
+  "city": "Malmö",
+  "country": "SE",
+  "lat": 55.60587,
+  "lng": 13.00073,
+  "topics": [
+    "Open Source",
+    "Rust"
+  ],
+  "cfp": {
+    "url": "https://cfp.2026.matrix.org/matrix-conference-2026/schedule",
+    "deadline": "2026-09-28",
+    "open": false
+  },
+  "bluesky": "https://bsky.app/profile/matrix.org",
+  "mastodon": "https://mastodon.matrix.org/@matrix",
+  "source": "confs.tech"
+}

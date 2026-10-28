@@ -1,0 +1,16 @@
+{
+  "name": "How.Camp 2024",
+  "year": 2024,
+  "url": "https://how.camp",
+  "startDate": "2024-07-27",
+  "endDate": "2024-07-27",
+  "city": "Gabrovo",
+  "country": "BG",
+  "lat": 42.87419,
+  "lng": 25.31823,
+  "topics": [
+    "Networking"
+  ],
+  "mastodon": "https://fosstodon.org/@howcamp",
+  "source": "confs.tech"
+}

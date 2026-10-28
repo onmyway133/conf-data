@@ -1,0 +1,16 @@
+{
+  "name": ".NET DeveloperDays 2019",
+  "year": 2019,
+  "url": "https://net.developerdays.pl",
+  "startDate": "2019-10-23",
+  "endDate": "2019-10-25",
+  "city": "Warsaw",
+  "country": "PL",
+  "lat": 52.22977,
+  "lng": 21.01178,
+  "topics": [
+    ".NET"
+  ],
+  "twitter": "https://x.com/DeveloperDaysPL",
+  "source": "confs.tech"
+}

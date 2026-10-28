@@ -1,0 +1,17 @@
+{
+  "name": "JSNation US 2024",
+  "year": 2024,
+  "url": "https://jsnation.us",
+  "startDate": "2024-11-18",
+  "endDate": "2024-11-21",
+  "city": "New York, NY",
+  "country": "US",
+  "lat": 40.71427,
+  "lng": -74.00597,
+  "topics": [
+    "JavaScript",
+    "Networking"
+  ],
+  "twitter": "https://x.com/thejsnation",
+  "source": "confs.tech"
+}

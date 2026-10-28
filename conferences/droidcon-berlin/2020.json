@@ -1,0 +1,16 @@
+{
+  "name": "droidcon Berlin 2020",
+  "year": 2020,
+  "url": "https://www.berlin.droidcon.com",
+  "startDate": "2020-10-07",
+  "endDate": "2020-10-09",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "Android"
+  ],
+  "twitter": "https://x.com/droidconBerlin",
+  "source": "confs.tech"
+}

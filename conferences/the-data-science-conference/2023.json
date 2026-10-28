@@ -1,0 +1,21 @@
+{
+  "name": "The Data Science Conference 2023",
+  "year": 2023,
+  "url": "https://www.thedatascienceconference.com",
+  "startDate": "2023-05-25",
+  "endDate": "2023-05-26",
+  "city": "Chicago, IL",
+  "country": "US",
+  "lat": 41.85003,
+  "lng": -87.65005,
+  "topics": [
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://www.thedatascienceconference.com/be-a-speaker",
+    "deadline": "2023-02-25",
+    "open": false
+  },
+  "twitter": "https://x.com/_tdsc_",
+  "source": "confs.tech"
+}

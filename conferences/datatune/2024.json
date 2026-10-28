@@ -1,0 +1,15 @@
+{
+  "name": "DataTune 2024",
+  "year": 2024,
+  "url": "https://www.datatuneconf.com",
+  "startDate": "2024-03-08",
+  "endDate": "2024-03-09",
+  "city": "Nashville, TN",
+  "country": "US",
+  "lat": 36.16589,
+  "lng": -86.78444,
+  "topics": [
+    "Data/AI"
+  ],
+  "source": "confs.tech"
+}

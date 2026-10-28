@@ -1,0 +1,17 @@
+{
+  "name": "International PHP Conference 2026",
+  "year": 2026,
+  "url": "https://phpconference.com/berlin-en",
+  "startDate": "2026-06-08",
+  "endDate": "2026-06-12",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "PHP"
+  ],
+  "twitter": "https://x.com/phpconference",
+  "bluesky": "https://bsky.app/profile/phpconference.bsky.social",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "SymfonyLive Berlin 2019",
+  "year": 2019,
+  "url": "https://berlin2019.live.symfony.com",
+  "startDate": "2019-09-24",
+  "endDate": "2019-09-27",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "PHP"
+  ],
+  "twitter": "https://x.com/SensioLabsDE",
+  "source": "confs.tech"
+}

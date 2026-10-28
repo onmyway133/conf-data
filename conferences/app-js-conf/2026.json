@@ -1,0 +1,62 @@
+{
+  "name": "App.js Conf 2026",
+  "year": 2026,
+  "url": "https://appjs.co",
+  "startDate": "2026-05-27",
+  "endDate": "2026-05-29",
+  "city": "Kraków",
+  "country": "PL",
+  "lat": 50.06143,
+  "lng": 19.93658,
+  "topics": [
+    "Android",
+    "iOS",
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/appjsconf",
+  "source": "confs.tech",
+  "speakers": [
+    {
+      "speaker": "norbert-klockiewicz"
+    },
+    {
+      "speaker": "kiryl-ziusko"
+    },
+    {
+      "speaker": "iwo-plaza"
+    },
+    {
+      "speaker": "britta-evans-fenton"
+    }
+  ],
+  "talks": [
+    {
+      "slug": "accessibility-in-motion",
+      "title": "Accessibility in Motion",
+      "speakers": [
+        "britta-evans-fenton"
+      ]
+    },
+    {
+      "slug": "challenges-in-building-react-native-apps-with-on-device-ai",
+      "title": "Challenges in Building React Native Apps with On-Device AI",
+      "speakers": [
+        "norbert-klockiewicz"
+      ]
+    },
+    {
+      "slug": "illusion-of-portals",
+      "title": "Illusion of Portals",
+      "speakers": [
+        "kiryl-ziusko"
+      ]
+    },
+    {
+      "slug": "write-typegpu-use-anywhere-composable-webgpu-shaders-for-react-native-and-beyond",
+      "title": "Write TypeGPU, Use Anywhere: Composable WebGPU Shaders for React Native and Beyond",
+      "speakers": [
+        "iwo-plaza"
+      ]
+    }
+  ]
+}

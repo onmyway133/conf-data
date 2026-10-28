@@ -1,0 +1,23 @@
+{
+  "name": "Pixel Pioneers 2023",
+  "year": 2023,
+  "url": "https://pixelpioneers.co/events/bristol-2023",
+  "startDate": "2023-06-16",
+  "endDate": "2023-06-16",
+  "city": "Bristol",
+  "country": "GB",
+  "lat": 51.45523,
+  "lng": -2.59665,
+  "topics": [
+    "CSS",
+    "JavaScript",
+    "Design/UX"
+  ],
+  "cfp": {
+    "url": "https://pixelpioneers.co/call-for-speakers",
+    "deadline": "2023-04-15",
+    "open": false
+  },
+  "twitter": "https://x.com/pixelpioneers",
+  "source": "confs.tech"
+}

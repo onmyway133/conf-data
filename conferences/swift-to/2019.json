@@ -1,0 +1,21 @@
+{
+  "name": "Swift TO 2019",
+  "year": 2019,
+  "url": "https://swiftconf.to",
+  "startDate": "2019-08-13",
+  "endDate": "2019-08-13",
+  "city": "Toronto",
+  "country": "CA",
+  "lat": 43.70643,
+  "lng": -79.39864,
+  "topics": [
+    "iOS"
+  ],
+  "cfp": {
+    "url": "https://www.papercall.io/swift-to",
+    "deadline": "2019-06-30",
+    "open": false
+  },
+  "twitter": "https://x.com/swiftconfto",
+  "source": "confs.tech"
+}

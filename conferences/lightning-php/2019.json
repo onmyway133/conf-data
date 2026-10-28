@@ -1,0 +1,16 @@
+{
+  "name": "Lightning PHP 2019",
+  "year": 2019,
+  "url": "https://lightningphp.org",
+  "startDate": "2019-10-04",
+  "endDate": "2019-10-04",
+  "city": "Tampa, FL",
+  "country": "US",
+  "lat": 27.94752,
+  "lng": -82.45843,
+  "topics": [
+    "PHP"
+  ],
+  "twitter": "https://x.com/LightningPHP",
+  "source": "confs.tech"
+}

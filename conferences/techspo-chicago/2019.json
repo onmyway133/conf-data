@@ -1,0 +1,19 @@
+{
+  "name": "TECHSPO Chicago 2019",
+  "year": 2019,
+  "url": "https://techspochicago.com",
+  "startDate": "2019-06-20",
+  "endDate": "2019-06-21",
+  "city": "Chicago, IL",
+  "country": "US",
+  "lat": 41.85003,
+  "lng": -87.65005,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "deadline": "2019-06-20",
+    "open": false
+  },
+  "source": "confs.tech"
+}

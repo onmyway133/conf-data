@@ -1,0 +1,19 @@
+{
+  "name": "webinale Munich 2026",
+  "year": 2026,
+  "url": "https://webinale.com/munich",
+  "startDate": "2026-10-26",
+  "endDate": "2026-10-30",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [
+    "Data/AI",
+    "DevOps",
+    ".NET"
+  ],
+  "twitter": "https://x.com/webinale",
+  "bluesky": "https://bsky.app/profile/webinale.bsky.social",
+  "source": "confs.tech"
+}

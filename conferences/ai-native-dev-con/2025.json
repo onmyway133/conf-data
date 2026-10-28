@@ -1,0 +1,15 @@
+{
+  "name": "AI Native Dev Con 2025",
+  "year": 2025,
+  "url": "https://ainativedev.io/devcon",
+  "startDate": "2025-11-18",
+  "endDate": "2025-11-19",
+  "city": "Brooklyn, NY",
+  "country": "US",
+  "lat": 40.6501,
+  "lng": -73.94958,
+  "topics": [
+    "Data/AI"
+  ],
+  "source": "confs.tech"
+}

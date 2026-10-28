@@ -1,0 +1,770 @@
+{
+  "name": "Nullcon Goa 2023",
+  "year": 2023,
+  "url": "https://nullcon.net/goa-2023",
+  "startDate": "2023-09-23",
+  "endDate": "2023-09-24",
+  "city": "Goa",
+  "country": "IN",
+  "lat": 15.38914,
+  "lng": 73.81491,
+  "topics": [
+    "Android",
+    "Networking",
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://nullcon.net/goa-2023/cfp",
+    "deadline": "2023-07-10",
+    "open": false
+  },
+  "twitter": "https://x.com/nullcon",
+  "source": "confs.tech",
+  "speakers": [
+    {
+      "speaker": "john-lambert",
+      "role": "Corporate VP, Distinguished Engineer at Microsoft Security Research",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/05/John-Lambert-300x300.jpg",
+      "twitter": "https://x.com/JohnLaTwC",
+      "linkedin": "https://www.linkedin.com/in/johnjlambert/"
+    },
+    {
+      "speaker": "navin-kumar-singh",
+      "role": "DG NCIIPC @ Govt of India",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/navin-kumar-singh.webp"
+    },
+    {
+      "speaker": "mathan-babu-kasilingam",
+      "role": "CISO @ Vodafone Idea",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/mathan-babu-kasilingam-300x300.webp"
+    },
+    {
+      "speaker": "mv-shashadri",
+      "role": "CISO @ NSE"
+    },
+    {
+      "speaker": "madhavi-purandare",
+      "role": "CISO @ ICICI"
+    },
+    {
+      "speaker": "saikat-datta",
+      "role": "Founder & CEO @ DeepStrat and Riskstrat",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/saikat-datta-300x300.webp",
+      "linkedin": "https://www.linkedin.com/in/saikat-datta-86064a9/"
+    },
+    {
+      "speaker": "anand-venkatanaryanan",
+      "role": "CTO @ DeepStrat",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/anand-venkatanaryanan-300x300.webp"
+    },
+    {
+      "speaker": "manu-zacharia",
+      "role": "CEO @ HackIT Technologies",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/manu-zacharia-300x300.webp"
+    },
+    {
+      "speaker": "sunil-bajpai",
+      "role": "Chief Trust Officer @ Tanla Platforms",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/sunil-bajpai-300x300.webp",
+      "linkedin": "https://www.linkedin.com/in/sunilbajpai1/"
+    },
+    {
+      "speaker": "ashish-bhadouria",
+      "role": "Domain Engineering Manager - Security and Privacy @ Ingka (IKEA)",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/ashish-bhadouria-300x300.webp",
+      "linkedin": "https://www.linkedin.com/in/ashishbhadouria/"
+    },
+    {
+      "speaker": "jimmi-thakkar",
+      "role": "Deputy General Manager and Head of Cybersecurity @ Zydus Lifesciences",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/jimmi-thakkar-300x300.webp",
+      "linkedin": "https://www.linkedin.com/in/jimmi-thakkar-00a23536/"
+    },
+    {
+      "speaker": "burgess-cooper",
+      "role": "Chief Executive Officer: Cybersecurity @ Adani Enterprises Limited",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/burgess-cooper-300x300.webp",
+      "linkedin": "https://www.linkedin.com/in/burgesscooper/"
+    },
+    {
+      "speaker": "satish-kumar-dwibhashi",
+      "role": "CISO @ InMobi",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/satish-kumar-dwibhashi.webp",
+      "linkedin": "https://www.linkedin.com/in/satishkumard"
+    },
+    {
+      "speaker": "manoj-kumar",
+      "role": "Senior Director - Head of Information Security @ Shiprocket",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/manoj-kumar-300x300.webp",
+      "linkedin": "https://www.linkedin.com/in/manojdkumar"
+    },
+    {
+      "speaker": "dinesh-varma",
+      "role": "Cloud Security Leader @ Palo Alto Networks",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/dinesh-varma.webp",
+      "linkedin": "https://www.linkedin.com/in/varmadinesh/"
+    },
+    {
+      "speaker": "yogi-kapur",
+      "role": "Senior Director, Information security operations at Salesforce",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/yogi-kapur-300x300.webp",
+      "linkedin": "https://www.linkedin.com/in/yogi-k-b975503"
+    },
+    {
+      "speaker": "manish-tiwari",
+      "role": "Chief Information Officer @ Fractal",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/manish-tiwari.webp"
+    },
+    {
+      "speaker": "shomiron-das-gupta",
+      "role": "Founder @ DNIF Hypercloud",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/shomiron-das-gupta-300x300.webp",
+      "twitter": "https://twitter.com/shomiron",
+      "linkedin": "https://www.linkedin.com/in/shomiron/"
+    },
+    {
+      "speaker": "alan-j-white",
+      "role": "Head of Managed Defense Consulting @ Mandiant (Google Cloud)",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/alan-j-white-300x300.webp"
+    },
+    {
+      "speaker": "yogesh-kulkarni",
+      "role": "General Manager, Regional CISO @ Wipro",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/yogesh-kulkarni-300x300.webp",
+      "linkedin": "https://www.linkedin.com/in/kulkarniys/"
+    },
+    {
+      "speaker": "ambarish-kumar-singh",
+      "role": "CISO @ Godrej & Boyce",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/ambarish-kumar-singh.webp",
+      "linkedin": "https://www.linkedin.com/in/ambarish-singh-02835119/"
+    },
+    {
+      "speaker": "rahul-neel-mani",
+      "role": "Founding Director - Grey Head Media, VP Community Engagement & Editorial @ ISMG",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/05/Rahul-300x215.jpg",
+      "linkedin": "https://www.linkedin.com/in/rahulneelmani/"
+    },
+    {
+      "speaker": "travis-carelock",
+      "role": "CISO @ N26 Bank",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/travis-carelock-300x300.webp",
+      "linkedin": "https://www.linkedin.com/in/traviscarelock/"
+    },
+    {
+      "speaker": "dr-sanjay-bahl",
+      "role": "Director General @ CERT-In",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/dr-sanjay-bahl-300x300.webp"
+    },
+    {
+      "speaker": "krishna-pandey",
+      "role": "Senior Director, Cybersecurity @ Xerox",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/krishna-pandey-300x300.webp",
+      "linkedin": "https://www.linkedin.com/in/krishna-pandey1/"
+    },
+    {
+      "speaker": "avkash-kathiriya",
+      "role": "Sr. VP of Research and Innovation @ Cyware",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/avkash-kathiriya-300x300.webp",
+      "linkedin": "https://www.linkedin.com/in/avkash-kathiriya/"
+    },
+    {
+      "speaker": "varun-singla",
+      "role": "SVP, CISO at Bharti Airtel",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/varun-singla.webp"
+    },
+    {
+      "speaker": "akash-mahajan",
+      "role": "Founder CEO @ Kloudle & Appsecco",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/akash-mahajan-300x300.webp",
+      "linkedin": "https://www.linkedin.com/in/akashm/"
+    },
+    {
+      "speaker": "phil-rodrigues",
+      "role": "Head of Security, APJ Commercial @ AWS",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/phil-rodrigues-300x300.webp"
+    },
+    {
+      "speaker": "yask-sharma",
+      "role": "Cyber and Privacy Professional @ IOCL",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/yask-sharma-300x300.webp",
+      "linkedin": "https://www.linkedin.com/in/yask-ciso-iocl/"
+    },
+    {
+      "speaker": "sanjeev-sharma",
+      "role": "General Manager @ Indian Oil Corporation Limited",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/sanjeev-sharma-300x300.webp",
+      "linkedin": "https://www.linkedin.com/in/sanjeevsharma01/"
+    },
+    {
+      "speaker": "britto-sidhan",
+      "role": "General Manager - Global Security Lab @ Schneider Electric",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/britto-sidhan-300x300.webp",
+      "linkedin": "https://www.linkedin.com/in/brittosidhan/"
+    },
+    {
+      "speaker": "rohit-sharma",
+      "role": "CISO @ Adani Power",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/rohit-sharma-300x300.webp",
+      "linkedin": "https://www.linkedin.com/in/rohit-sharma-2730aa145/"
+    },
+    {
+      "speaker": "ramandeep-singh-walia",
+      "role": "Co-founder & CEO @ QOS Technology",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/ramandeep-singh-walia-300x300.webp",
+      "twitter": "https://twitter.com/RamandeepSR",
+      "linkedin": "https://www.linkedin.com/in/ramanqos"
+    },
+    {
+      "speaker": "aapo-oksman",
+      "role": "Senior Security Specialist @ Nixu Corporation",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/aapo-oksman-300x300.webp",
+      "twitter": "https://twitter.com/AapoOksman",
+      "linkedin": "https://www.linkedin.com/in/aapooksman/"
+    },
+    {
+      "speaker": "shubham-sharma",
+      "role": "Senior Security Engineer @ we45",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/shubham-sharma-300x300.webp",
+      "twitter": "https://twitter.com/shubham__735",
+      "linkedin": "https://www.linkedin.com/in/shubham735/"
+    },
+    {
+      "speaker": "tihmstar",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/tihmstar-300x300.webp",
+      "twitter": "https://twitter.com/tihmstar"
+    },
+    {
+      "speaker": "linus-henze",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/linus-henze-300x300.webp",
+      "twitter": "https://twitter.com/LinusHenze",
+      "linkedin": "https://linkedin.com/in/linus-henze-9233b521a"
+    },
+    {
+      "speaker": "gaurav-gogia",
+      "role": "Security Research Engineer @ Privado",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/gaurav-gogia-300x300.webp",
+      "linkedin": "https://www.linkedin.com/in/gaurav-gogia/"
+    },
+    {
+      "speaker": "pandurang-patil",
+      "role": "Chief Architect @ Privado Inc",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/pandurang-patil-300x300.webp",
+      "linkedin": "https://www.linkedin.com/in/pandurangpatil/"
+    },
+    {
+      "speaker": "gopika-subramanian",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/gopika-subramanian-269x300.webp",
+      "twitter": "https://twitter.com/m0n574",
+      "linkedin": "https://www.linkedin.com/in/gopika-subramanian-007304b5/"
+    },
+    {
+      "speaker": "saddam-hussain",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/saddam-hussain-300x300.webp",
+      "twitter": "https://twitter.com/wisdomfreak1",
+      "linkedin": "https://www.linkedin.com/in/wisdomfreak/"
+    },
+    {
+      "speaker": "sebastian-neef",
+      "role": "Technische Universität Berlin",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/sebastian-neef-300x300.webp"
+    },
+    {
+      "speaker": "samuel-mertenat",
+      "role": "Senior Security Engineer @ Kudelski IoT",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/samuel-mertenat-300x300.webp",
+      "twitter": "https://x.com/SamZorSec",
+      "linkedin": "https://www.linkedin.com/in/smrtnt/"
+    },
+    {
+      "speaker": "daniel-schwendner",
+      "role": "DevOps Engineer, a passion for educating",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/daniel-schwendner-300x300.webp",
+      "twitter": "https://twitter.com/code_byter",
+      "linkedin": "https://www.linkedin.com/in/dschwendner/"
+    },
+    {
+      "speaker": "jaden-furtado",
+      "role": "Security Engineer @ R.U.D.R.A Cybersecurity Pvt Ltd",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/jaden-furtado-300x300.webp",
+      "twitter": "https://twitter.com/furtado_jaden",
+      "linkedin": "https://www.linkedin.com/in/jaden-furtado/"
+    },
+    {
+      "speaker": "mukesh-sai-kumar",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/mukesh-sai-kumar-300x300.webp",
+      "linkedin": "https://www.linkedin.com/in/mukesh-sai-kumar/"
+    },
+    {
+      "speaker": "amey-gat",
+      "role": "Principal Threat Researcher @ Fortinet",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/amey-gat-300x300.webp",
+      "twitter": "https://x.com/ameygat",
+      "linkedin": "https://www.linkedin.com/in/ameygat"
+    },
+    {
+      "speaker": "namrata-brahmkshatriya",
+      "role": "Cybersecurity Analyst @ Skillusions",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/namrata-brahmkshatriya-300x300.webp",
+      "twitter": "https://twitter.com/NamrataKhatri49",
+      "linkedin": "https://www.linkedin.com/in/infosecnamu/"
+    },
+    {
+      "speaker": "ravi-rajput",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/ravi-rajput-300x300.webp",
+      "twitter": "https://twitter.com/infosecRavi",
+      "linkedin": "https://www.linkedin.com/in/frustratedresearcher/"
+    },
+    {
+      "speaker": "chandresh-gupta",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/chandresh-gupta-300x300.webp",
+      "twitter": "https://twitter.com/chandresh_ss",
+      "linkedin": "https://www.linkedin.com/in/chandresh-gupta-ss"
+    },
+    {
+      "speaker": "rupesh-surve",
+      "role": "Hardware Security Researcher @ Payatu",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/rupesh-surve-300x300.webp",
+      "linkedin": "https://www.linkedin.com/in/rupesh-surve-55518b118/"
+    },
+    {
+      "speaker": "sudeep-kumar-das",
+      "role": "Security Engineering Head, India & SAARC",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/sudeep-kumar-das-300x300.webp"
+    },
+    {
+      "speaker": "anton-dorfman",
+      "role": "Lead Expert of Reverse Engineering Department @ Positive Technologies",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/anton-dorfman-300x300.webp",
+      "linkedin": "https://www.linkedin.com/in/anton-dorfman-377771aa/"
+    },
+    {
+      "speaker": "ayan-saha",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/ayan-saha-300x300.webp",
+      "twitter": "https://twitter.com/ayantaker",
+      "linkedin": "https://www.linkedin.com/in/ayantaker/"
+    },
+    {
+      "speaker": "achute-sharma",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/achute-sharma-300x300.webp",
+      "twitter": "https://twitter.com/achute",
+      "linkedin": "https://www.linkedin.com/in/achutes/"
+    },
+    {
+      "speaker": "conna",
+      "role": "Security Researcher @ Lenovo",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/conna-300x300.webp",
+      "twitter": "https://twitter.com/hby82044385"
+    },
+    {
+      "speaker": "subba-bachina",
+      "role": "Penetration Testing Lead @ Lenovo",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/subba-bachina-300x300.webp",
+      "linkedin": "https://www.linkedin.com/in/subbab/"
+    },
+    {
+      "speaker": "dennis-giese",
+      "role": "Security Researcher @ Independant",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/dennis-giese-300x300.webp",
+      "twitter": "https://twitter.com/dgi_DE",
+      "linkedin": "https://www.linkedin.com/in/dennis-giese/"
+    },
+    {
+      "speaker": "james-kettle",
+      "role": "Director of Research @ PortSwigger",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/james-kettle-300x300.webp",
+      "twitter": "https://twitter.com/albinowax",
+      "linkedin": "https://www.linkedin.com/in/james-kettle-albinowax/"
+    },
+    {
+      "speaker": "kirils-solovjovs",
+      "role": "Hacker @ Possible Security",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/kirils-solovjovs-300x300.webp",
+      "twitter": "https://twitter.com/kirilssolovjovs"
+    },
+    {
+      "speaker": "nemo",
+      "role": "Independent Security Researcher",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/nemo-300x300.webp"
+    },
+    {
+      "speaker": "nikhil-ashok-hegde",
+      "role": "Security Researcher",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/nikhil-ashok-hegde-300x300.webp",
+      "twitter": "https://twitter.com/ka1do9",
+      "linkedin": "https://www.linkedin.com/in/nikhilh2/"
+    },
+    {
+      "speaker": "nitesh-surana",
+      "role": "Senior Cloud Threat Researcher @ TrendAI",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/Nitesh-Surana-300x300.jpg",
+      "twitter": "https://twitter.com/_niteshsurana",
+      "linkedin": "https://linkedin.com/in/ideaengine007"
+    },
+    {
+      "speaker": "rishit-bansal",
+      "role": "Founding Team / SDE @ Dyte",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/rishit-bansal-300x300.webp",
+      "twitter": "https://twitter.com/BansalRishit",
+      "linkedin": "https://www.linkedin.com/in/bansal-rishit/"
+    },
+    {
+      "speaker": "siddharth-muralee",
+      "role": "Ph.D. Student @ Purdue University",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/siddharth-muralee-300x300.webp",
+      "twitter": "https://twitter.com/Tr3x__",
+      "linkedin": "https://www.linkedin.com/in/siddharthmuralee-a59977129/"
+    },
+    {
+      "speaker": "timur-yunusov",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/timur-yunusov-300x300.webp",
+      "twitter": "https://twitter.com/a66ot",
+      "linkedin": "https://www.linkedin.com/in/tyunusov/"
+    },
+    {
+      "speaker": "aleksandra-murzina",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/aleksandra-murzina.webp",
+      "linkedin": "https://www.linkedin.com/in/murzinaa/"
+    },
+    {
+      "speaker": "ankit-sharma",
+      "role": "SDE @ Cisco",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/ankit-sharma-300x300.webp",
+      "twitter": "https://twitter.com/ankitsharma_007",
+      "linkedin": "https://www.linkedin.com/in/ankitsharma-007/"
+    },
+    {
+      "speaker": "prayank-swaroop",
+      "role": "Partner @ Accel Partners",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/prayank-swaroop-300x300.webp"
+    },
+    {
+      "speaker": "ajey-gore",
+      "role": "Operating Partner Technology @ Peak XV",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/ajey-gore-300x300.webp",
+      "twitter": "https://twitter.com/AjeyGore",
+      "linkedin": "https://www.linkedin.com/in/ajeygore/"
+    },
+    {
+      "speaker": "sateesh-andra",
+      "role": "Managing Director @ Endiya Partners",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/sateesh-andra-300x300.webp"
+    },
+    {
+      "speaker": "akshat-jain",
+      "role": "Co-Founder & CTO @ Cyware",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/akshat-jain-300x300.webp"
+    },
+    {
+      "speaker": "niraj-sharma",
+      "role": "Chief Product Officer @ Incore Semiconductors",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/niraj-sharma-300x300.webp",
+      "linkedin": "https://www.linkedin.com/in/nnsharma/"
+    },
+    {
+      "speaker": "dr-kunal-korgaonkar",
+      "role": "Lead of Confluences of Computing Lab and Assistant Professor @ BITS-Goa",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/dr-kunal-korgaonkar-300x300.webp",
+      "linkedin": "https://www.linkedin.com/in/kunal-korgaonkar-70171418/"
+    },
+    {
+      "speaker": "col-kapil-jaiswal",
+      "role": "Director Research @ Govt. Of India",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/col-kapil-jaiswal-300x300.jpg"
+    },
+    {
+      "speaker": "malcolm-d-souza",
+      "role": "Co-founder & CTO @ Spintly Inc",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/malcolm-d-souza-300x300.webp",
+      "linkedin": "https://www.linkedin.com/in/malcolm-dsouza-3863a123/"
+    },
+    {
+      "speaker": "manoj-aggarwal",
+      "role": "Chief Engineer ( Digital vertical within R&D ) @ Stryker, India",
+      "photoUrl": "https://nullcon.net/wp-content/uploads/2026/04/manoj-aggarwal-300x300.webp",
+      "linkedin": "https://www.linkedin.com/in/manojaggarwal/"
+    }
+  ],
+  "talks": [
+    {
+      "slug": "in-secure-host-key-verification-are-sshfp-dns-records-the-next-big-thing",
+      "title": "(In)Secure Host Key Verification – Are SSHFP DNS Records The ‘Next Big Thing’?",
+      "speakers": [
+        "sebastian-neef"
+      ]
+    },
+    {
+      "slug": "android-sigmorph-covert-communication-exploiting-android-signing-schemes",
+      "title": "Android-SigMorph: Covert Communication Exploiting Android Signing Schemes",
+      "speakers": [
+        "ayan-saha"
+      ]
+    },
+    {
+      "slug": "arm-ing-for-android-unraveling-the-mysteries-of-native-library-reverse-engineeri",
+      "title": "ARM-ing For Android: Unraveling The Mysteries Of Native Library Reverse Engineering",
+      "speakers": [
+        "ravi-rajput"
+      ]
+    },
+    {
+      "slug": "cracking-with-automated-usb-fuzz",
+      "title": "Cracking With Automated USB Fuzz",
+      "speakers": [
+        "conna"
+      ]
+    },
+    {
+      "slug": "critical-information-infrastructure-cii-protection-challenges-opportunities",
+      "title": "Critical Information Infrastructure (CII) Protection: Challenges & Opportunities",
+      "speakers": [
+        "navin-kumar-singh"
+      ]
+    },
+    {
+      "slug": "cxo-panel",
+      "title": "CXO Panel",
+      "speakers": [
+        "anand-venkatanaryanan"
+      ]
+    },
+    {
+      "slug": "cxo-panel-a-cyber-physical-system-for-india-with-security-privacy-and-equity",
+      "title": "CXO Panel: A Cyber-Physical System For India with Security, Privacy, and Equity",
+      "speakers": [
+        "niraj-sharma"
+      ]
+    },
+    {
+      "slug": "cxo-panel-adversary-simulation-and-incident-response-impact",
+      "title": "CXO Panel: Adversary Simulation and Incident Response Impact",
+      "speakers": [
+        "yogi-kapur"
+      ]
+    },
+    {
+      "slug": "cxo-panel-c4cii-securing-use-of-cloud-in-critical-information-infrastructure",
+      "title": "CXO Panel: C4CII – Securing Use of Cloud in Critical Information Infrastructure",
+      "speakers": [
+        "navin-kumar-singh"
+      ]
+    },
+    {
+      "slug": "cxo-panel-data-protection-law-and-its-potential-implications-for-the-industry",
+      "title": "CXO Panel: Data Protection Law and its potential implications for the industry",
+      "speakers": [
+        "sunil-bajpai"
+      ]
+    },
+    {
+      "slug": "cxo-panel-inside-the-investor-s-mind-a-fireside-chat-of-entrepreneur-vc-aap-ki-a",
+      "title": "CXO Panel: Inside the Investor’s Mind: A fireside chat of Entrepreneur-VC (Aap ki Adalat)",
+      "speakers": [
+        "prayank-swaroop"
+      ]
+    },
+    {
+      "slug": "cxo-panel-intelligence-led-defense-leveraging-threat-intelligence-in-the-age-of",
+      "title": "CXO Panel: Intelligence-led Defense: Leveraging Threat Intelligence in the age of AI",
+      "speakers": [
+        "mathan-babu-kasilingam"
+      ]
+    },
+    {
+      "slug": "cxo-panel-shifting-left-with-security-and-the-evolution-of-your-devsecops-team-s",
+      "title": "CXO Panel: Shifting Left with Security and the Evolution of your DevSecOps Team’s Journey to Excellence",
+      "speakers": [
+        "satish-kumar-dwibhashi"
+      ]
+    },
+    {
+      "slug": "cxo-panel-threat-intel-sharing-in-ot-community-and-industry",
+      "title": "CXO Panel: Threat Intel sharing in OT Community and Industry",
+      "speakers": [
+        "yask-sharma"
+      ]
+    },
+    {
+      "slug": "cxo-panel-weaponization-of-ai-with-special-reference-to-gen-ai",
+      "title": "CXO Panel: Weaponization of AI with special reference to Gen-AI",
+      "speakers": [
+        "manish-tiwari"
+      ]
+    },
+    {
+      "slug": "cyber-operations-doctrine-and-geo-politics",
+      "title": "Cyber Operations, Doctrine And Geo-Politics",
+      "speakers": [
+        "john-lambert"
+      ]
+    },
+    {
+      "slug": "deconstructing-the-beast-a-deep-dive-into-jit-compilation-attacks-in-ios",
+      "title": "Deconstructing The Beast: A Deep Dive Into JIT Compilation Attacks In iOS",
+      "speakers": [
+        "shubham-sharma"
+      ]
+    },
+    {
+      "slug": "hacking-mitsubishi-plc-without-access-to-firmware",
+      "title": "Hacking Mitsubishi PLC Without Access To Firmware",
+      "speakers": [
+        "anton-dorfman"
+      ]
+    },
+    {
+      "slug": "how-i-hacked-your-bank-account-a-detailed-look-at-upi-security",
+      "title": "How I hacked your bank account: A detailed look at UPI Security",
+      "speakers": [
+        "nemo"
+      ]
+    },
+    {
+      "slug": "identifying-and-detecting-active-directory-attacks",
+      "title": "Identifying And Detecting Active Directory Attacks",
+      "speakers": [
+        "sudeep-kumar-das"
+      ]
+    },
+    {
+      "slug": "iot-hacking-101-reverse-engineering-the-xiaomi-ecosystem",
+      "title": "IoT Hacking 101: Reverse Engineering the Xiaomi Ecosystem",
+      "speakers": [
+        "dennis-giese"
+      ]
+    },
+    {
+      "slug": "jailbreaking-the-apple-homepod-fun-with-checkm8-smart-speakers",
+      "title": "Jailbreaking The Apple HomePod – Fun With checkm8 & Smart Speakers",
+      "speakers": [
+        "tihmstar"
+      ]
+    },
+    {
+      "slug": "journey-in-setting-up-ot-soc",
+      "title": "Journey In Setting Up OT SOC",
+      "speakers": [
+        "ramandeep-singh-walia"
+      ]
+    },
+    {
+      "slug": "lens-of-deceit-unmasking-and-altering-camera-sunglasses-footage",
+      "title": "Lens Of Deceit: Unmasking And Altering Camera Sunglasses’ Footage",
+      "speakers": [
+        "daniel-schwendner"
+      ]
+    },
+    {
+      "slug": "lock-picking-village",
+      "title": "Lock Picking Village",
+      "speakers": [
+        "amey-gat"
+      ]
+    },
+    {
+      "slug": "mitm-on-pstn-novel-methods-for-intercepting-phone-calls",
+      "title": "MITM On PSTN — Novel Methods For Intercepting Phone Calls",
+      "speakers": [
+        "kirils-solovjovs"
+      ]
+    },
+    {
+      "slug": "multiplying-threat-intelligence",
+      "title": "Multiplying Threat Intelligence",
+      "speakers": [
+        "john-lambert"
+      ]
+    },
+    {
+      "slug": "open-bar-at-the-playground",
+      "title": "Open Bar At The Playground",
+      "speakers": [
+        "samuel-mertenat"
+      ]
+    },
+    {
+      "slug": "reverse-engineering-rgb-keyboard-backlights-with-linux-kernel-drivers",
+      "title": "Reverse Engineering RGB Keyboard Backlights With Linux Kernel Drivers",
+      "speakers": [
+        "rishit-bansal"
+      ]
+    },
+    {
+      "slug": "secure-coding-fix-from-the-root",
+      "title": "Secure Coding: Fix From The Root",
+      "speakers": [
+        "gopika-subramanian"
+      ]
+    },
+    {
+      "slug": "secure-your-angular-app-using-jwt-and-graphql",
+      "title": "Secure Your Angular App Using JWT And GraphQL",
+      "speakers": [
+        "ankit-sharma"
+      ]
+    },
+    {
+      "slug": "securing-ci-cd-pipelines-exploring-vulnerabilities-in-workflows",
+      "title": "Securing CI/CD Pipelines – Exploring Vulnerabilities In Workflows",
+      "speakers": [
+        "siddharth-muralee"
+      ]
+    },
+    {
+      "slug": "self-signed-why-not-exploiting-insecure-certificate-validation-in-ios-and-macos",
+      "title": "Self-Signed, Why Not! Exploiting Insecure Certificate Validation In iOS And macOS",
+      "speakers": [
+        "aapo-oksman"
+      ]
+    },
+    {
+      "slug": "smashing-the-state-machine-the-true-potential-of-web-race-conditions",
+      "title": "Smashing the State Machine: The True Potential of Web Race Conditions",
+      "speakers": [
+        "james-kettle"
+      ]
+    },
+    {
+      "slug": "soldering-village",
+      "title": "Soldering Village",
+      "speakers": [
+        "rupesh-surve"
+      ]
+    },
+    {
+      "slug": "the-convergence-of-ebpf-buildroot-and-qemu-for-automated-linux-malware-analysis",
+      "title": "The Convergence Of eBPF, Buildroot, And QEMU For Automated Linux Malware Analysis",
+      "speakers": [
+        "nikhil-ashok-hegde"
+      ]
+    },
+    {
+      "slug": "the-curious-case-of-the-rogue-soar",
+      "title": "The Curious Case Of The Rogue SOAR",
+      "speakers": [
+        "jaden-furtado"
+      ]
+    },
+    {
+      "slug": "uncovering-azure-s-silent-threats-a-journey-into-cloud-vulnerabilities",
+      "title": "Uncovering Azure’s Silent Threats: A Journey Into Cloud Vulnerabilities",
+      "speakers": [
+        "nitesh-surana"
+      ]
+    },
+    {
+      "slug": "unlocking-any-door-in-the-21st-century-immersion-in-biometric-security",
+      "title": "Unlocking Any Door In The 21st Century. Immersion In Biometric Security.",
+      "speakers": [
+        "timur-yunusov"
+      ]
+    },
+    {
+      "slug": "your-app-is-probably-a-spyware-or-is-it",
+      "title": "Your App Is Probably A Spyware…Or Is It?",
+      "speakers": [
+        "gaurav-gogia"
+      ]
+    }
+  ]
+}

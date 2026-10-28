@@ -1,0 +1,17 @@
+{
+  "name": "Open Confidential Computing Conference 2025",
+  "year": 2025,
+  "url": "https://www.oc3.dev",
+  "startDate": "2025-03-27",
+  "endDate": "2025-03-27",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "Data/AI",
+    "Networking",
+    "Security"
+  ],
+  "source": "confs.tech"
+}

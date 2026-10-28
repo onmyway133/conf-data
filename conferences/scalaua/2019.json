@@ -1,0 +1,16 @@
+{
+  "name": "ScalaUA 2019",
+  "year": 2019,
+  "url": "https://www.scalaua.com",
+  "startDate": "2019-03-29",
+  "endDate": "2019-03-30",
+  "city": "Kyiv",
+  "country": "UA",
+  "lat": 50.45466,
+  "lng": 30.5238,
+  "topics": [
+    "Scala"
+  ],
+  "twitter": "https://x.com/ScalaUA_Conf",
+  "source": "confs.tech"
+}

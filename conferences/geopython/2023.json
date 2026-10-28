@@ -1,0 +1,21 @@
+{
+  "name": "GeoPython 2023",
+  "year": 2023,
+  "url": "https://2023.geopython.net",
+  "startDate": "2023-03-06",
+  "endDate": "2023-03-08",
+  "city": "Basel",
+  "country": "CH",
+  "lat": 47.55839,
+  "lng": 7.57327,
+  "topics": [
+    "Python"
+  ],
+  "cfp": {
+    "url": "https://2023.geopython.net/#speakers",
+    "deadline": "2023-01-12",
+    "open": false
+  },
+  "twitter": "https://x.com/GeoPythonConf",
+  "source": "confs.tech"
+}

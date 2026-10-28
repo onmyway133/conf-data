@@ -1,0 +1,13 @@
+{
+  "name": "JFokus 2020",
+  "year": 2020,
+  "url": "https://www.jfokus.se",
+  "startDate": "2020-02-03",
+  "endDate": "2020-02-05",
+  "city": "Stockholm",
+  "country": "SE",
+  "lat": 59.32938,
+  "lng": 18.06871,
+  "topics": [],
+  "source": "confs.tech"
+}

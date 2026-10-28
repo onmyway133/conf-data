@@ -1,0 +1,21 @@
+{
+  "name": "Update Conference Krakow 2025",
+  "year": 2025,
+  "url": "http://krakow.updateconference.net",
+  "startDate": "2025-05-26",
+  "endDate": "2025-05-27",
+  "city": "Kraków",
+  "country": "PL",
+  "lat": 50.06143,
+  "lng": 19.93658,
+  "topics": [
+    ".NET"
+  ],
+  "cfp": {
+    "url": "http://krakow.updateconference.net/en/call-for-speakers",
+    "deadline": "2025-01-31",
+    "open": false
+  },
+  "twitter": "https://x.com/update_conf",
+  "source": "confs.tech"
+}

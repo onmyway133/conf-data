@@ -1,0 +1,19 @@
+{
+  "name": "Joomla! World Conference 2026",
+  "year": 2026,
+  "url": "https://conference.joomla.org",
+  "startDate": "2026-10-16",
+  "endDate": "2026-10-18",
+  "city": "Potsdam",
+  "country": "DE",
+  "lat": 52.39886,
+  "lng": 13.06566,
+  "topics": [
+    "Networking",
+    "Open Source"
+  ],
+  "twitter": "https://x.com/jworldcon",
+  "bluesky": "https://bsky.app/profile/joomlaworldcon.bsky.social",
+  "mastodon": "https://joomla.social/@joomlaworldcon",
+  "source": "confs.tech"
+}

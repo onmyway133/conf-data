@@ -1,0 +1,16 @@
+{
+  "name": "CakeFest 2024",
+  "year": 2024,
+  "url": "https://cakefest.org",
+  "startDate": "2024-07-24",
+  "endDate": "2024-07-26",
+  "city": "Esch-sur-Alzette",
+  "country": "LU",
+  "lat": 49.49583,
+  "lng": 5.98056,
+  "topics": [
+    "PHP"
+  ],
+  "twitter": "https://x.com/cakephp",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Data Science fwdays 2020",
+  "year": 2020,
+  "url": "https://fwdays.com/event/data-science-fwdays-2020",
+  "startDate": "2020-06-13",
+  "endDate": "2020-06-13",
+  "city": "Kyiv",
+  "country": "UA",
+  "lat": 50.45466,
+  "lng": 30.5238,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/fwdays",
+  "source": "confs.tech"
+}

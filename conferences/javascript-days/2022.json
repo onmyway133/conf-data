@@ -1,0 +1,16 @@
+{
+  "name": "JavaScript Days 2022",
+  "year": 2022,
+  "url": "https://javascript-days.de/javascript",
+  "startDate": "2022-03-21",
+  "endDate": "2022-03-24",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/JS_Days",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "nodejsday 2020",
+  "year": 2020,
+  "url": "https://2020.nodejsday.it",
+  "startDate": "2020-10-14",
+  "endDate": "2020-10-14",
+  "city": "Verona",
+  "country": "IT",
+  "lat": 45.43854,
+  "lng": 10.9938,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/nodejsconfit",
+  "source": "confs.tech"
+}

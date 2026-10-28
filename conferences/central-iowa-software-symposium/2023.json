@@ -1,0 +1,17 @@
+{
+  "name": "Central Iowa Software Symposium 2023",
+  "year": 2023,
+  "url": "https://nofluffjuststuff.com/desmoines",
+  "startDate": "2023-06-09",
+  "endDate": "2023-06-10",
+  "city": "Des Moines, IA",
+  "country": "US",
+  "lat": 41.60054,
+  "lng": -93.60911,
+  "topics": [
+    "DevOps",
+    "Java"
+  ],
+  "twitter": "https://x.com/nofluff",
+  "source": "confs.tech"
+}

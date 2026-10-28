@@ -1,0 +1,16 @@
+{
+  "name": "ML Conference Munich 2020",
+  "year": 2020,
+  "url": "https://mlconference.ai/munich",
+  "startDate": "2020-06-17",
+  "endDate": "2020-06-19",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/mlconference",
+  "source": "confs.tech"
+}

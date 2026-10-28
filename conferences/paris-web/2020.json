@@ -1,0 +1,16 @@
+{
+  "name": "Paris Web 2020",
+  "year": 2020,
+  "url": "https://www.paris-web.fr",
+  "startDate": "2020-10-01",
+  "endDate": "2020-10-03",
+  "city": "Paris",
+  "country": "FR",
+  "lat": 48.85341,
+  "lng": 2.3488,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/ParisWeb",
+  "source": "confs.tech"
+}

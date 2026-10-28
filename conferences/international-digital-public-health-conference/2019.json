@@ -1,0 +1,19 @@
+{
+  "name": "International Digital Public Health Conference 2019",
+  "year": 2019,
+  "url": "http://www.acm-digitalhealth.org",
+  "startDate": "2019-11-20",
+  "endDate": "2019-11-23",
+  "city": "Marseille",
+  "country": "FR",
+  "lat": 43.29695,
+  "lng": 5.38107,
+  "topics": [],
+  "cfp": {
+    "url": "https://easychair.org/conferences",
+    "deadline": "2019-06-25",
+    "open": false
+  },
+  "twitter": "https://x.com/UCL_dPHE",
+  "source": "confs.tech"
+}

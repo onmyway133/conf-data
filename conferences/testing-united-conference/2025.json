@@ -1,0 +1,15 @@
+{
+  "name": "Testing United conference 2025",
+  "year": 2025,
+  "url": "https://www.testingunited.com",
+  "startDate": "2025-11-13",
+  "endDate": "2025-11-14",
+  "city": "Milano",
+  "country": "IT",
+  "lat": 45.46427,
+  "lng": 9.18951,
+  "topics": [
+    "Data/AI"
+  ],
+  "source": "confs.tech"
+}

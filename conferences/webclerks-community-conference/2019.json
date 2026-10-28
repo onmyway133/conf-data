@@ -1,0 +1,21 @@
+{
+  "name": "Webclerks Community Conference 2019",
+  "year": 2019,
+  "url": "https://webclerks.at",
+  "startDate": "2019-11-25",
+  "endDate": "2019-11-25",
+  "city": "Vienna",
+  "country": "AT",
+  "lat": 48.20849,
+  "lng": 16.37208,
+  "topics": [
+    "Design/UX"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSdMlydittpPpWLcd0tiDqadmAoaQv2nD8F8w4esqwdyKQt1aw/viewform",
+    "deadline": "2019-09-15",
+    "open": false
+  },
+  "twitter": "https://x.com/wearewebclerks",
+  "source": "confs.tech"
+}

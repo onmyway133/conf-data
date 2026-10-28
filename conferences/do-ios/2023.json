@@ -1,0 +1,17 @@
+{
+  "name": "Do iOS 2023",
+  "year": 2023,
+  "url": "https://do-ios.com",
+  "startDate": "2023-11-08",
+  "endDate": "2023-11-09",
+  "city": "Amsterdam",
+  "country": "NL",
+  "lat": 52.37403,
+  "lng": 4.88969,
+  "topics": [
+    "iOS"
+  ],
+  "twitter": "https://x.com/iosconf",
+  "mastodon": "https://hachyderm.io/@appforce1",
+  "source": "confs.tech"
+}

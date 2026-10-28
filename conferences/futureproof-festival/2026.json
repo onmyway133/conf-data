@@ -1,0 +1,20 @@
+{
+  "name": "Futureproof Festival 2026",
+  "year": 2026,
+  "url": "https://www.futureproof.website",
+  "startDate": "2026-10-28",
+  "endDate": "2026-10-30",
+  "city": "Vancouver",
+  "country": "CA",
+  "lat": 49.24966,
+  "lng": -123.11934,
+  "topics": [
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://www.futureproof.website/call-for-talks",
+    "deadline": "2026-07-31",
+    "open": true
+  },
+  "source": "confs.tech"
+}

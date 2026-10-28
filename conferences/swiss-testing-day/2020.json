@@ -1,0 +1,16 @@
+{
+  "name": "Swiss Testing Day 2020",
+  "year": 2020,
+  "url": "https://swisstestingday.ch",
+  "startDate": "2020-08-26",
+  "endDate": "2020-08-26",
+  "city": "Zurich",
+  "country": "CH",
+  "lat": 47.36667,
+  "lng": 8.55,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/SwissTesting",
+  "source": "confs.tech"
+}

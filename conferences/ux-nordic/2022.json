@@ -1,0 +1,15 @@
+{
+  "name": "UX Nordic 2022",
+  "year": 2022,
+  "url": "https://www.uxnordic.com",
+  "startDate": "2022-08-26",
+  "endDate": "2022-08-26",
+  "city": "Aarhus",
+  "country": "DK",
+  "lat": 56.15674,
+  "lng": 10.21076,
+  "topics": [
+    "Design/UX"
+  ],
+  "source": "confs.tech"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "DevOpsDays Kansas City 2024",
+  "year": 2024,
+  "url": "https://devopsdayskc.org",
+  "startDate": "2024-05-15",
+  "endDate": "2024-05-16",
+  "city": "Kansas City, MO",
+  "country": "US",
+  "lat": 39.09973,
+  "lng": -94.57857,
+  "topics": [],
+  "cfp": {
+    "url": "https://talks.devopsdays.org/devopsdays-kc-2024",
+    "deadline": "2024-01-31",
+    "open": false
+  },
+  "twitter": "https://x.com/devopsdayskc",
+  "source": "confs.tech"
+}

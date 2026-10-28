@@ -1,0 +1,21 @@
+{
+  "name": "dotGo 2019",
+  "year": 2019,
+  "url": "https://2019.dotgo.eu",
+  "startDate": "2019-03-25",
+  "endDate": "2019-03-25",
+  "city": "Paris",
+  "country": "FR",
+  "lat": 48.85341,
+  "lng": 2.3488,
+  "topics": [
+    "Go"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSfJjXZDjdvJKTKUz_HedK9oJt_sh9MN57GIm_7H0MfDnd4wOA/viewform",
+    "deadline": "2019-01-01",
+    "open": false
+  },
+  "twitter": "https://x.com/dotGoEu",
+  "source": "confs.tech"
+}

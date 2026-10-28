@@ -1,0 +1,19 @@
+{
+  "name": "ContainerDays Conference 2025",
+  "year": 2025,
+  "url": "https://www.containerdays.io/containerdays-conference-2025",
+  "startDate": "2025-09-09",
+  "endDate": "2025-09-11",
+  "city": "Hamburg",
+  "country": "DE",
+  "lat": 53.55073,
+  "lng": 9.99302,
+  "topics": [],
+  "cfp": {
+    "url": "https://sessionize.com/containerdays-conference-2025",
+    "deadline": "2025-03-31",
+    "open": false
+  },
+  "twitter": "https://x.com/ConDaysEU",
+  "source": "confs.tech"
+}

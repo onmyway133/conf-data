@@ -1,0 +1,22 @@
+{
+  "name": "Apidays London 2026",
+  "year": 2026,
+  "url": "https://www.apidays.global/london",
+  "startDate": "2026-09-30",
+  "endDate": "2026-10-01",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "GraphQL"
+  ],
+  "cfp": {
+    "url": "https://apidays.typeform.com/to/ILJeAaV8",
+    "deadline": "2026-09-29",
+    "open": false
+  },
+  "twitter": "https://x.com/APIdaysGlobal",
+  "mastodon": "https://mastodon.social/@apidaysglobal",
+  "source": "confs.tech"
+}

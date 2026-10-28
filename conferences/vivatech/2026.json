@@ -1,0 +1,17 @@
+{
+  "name": "VivaTech 2026",
+  "year": 2026,
+  "url": "https://vivatech.com",
+  "startDate": "2026-06-17",
+  "endDate": "2026-06-20",
+  "city": "Paris",
+  "country": "FR",
+  "lat": 48.85341,
+  "lng": 2.3488,
+  "topics": [
+    "Data/AI",
+    "Networking"
+  ],
+  "twitter": "https://x.com/VivaTech",
+  "source": "confs.tech"
+}

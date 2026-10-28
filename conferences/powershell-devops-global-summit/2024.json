@@ -1,0 +1,15 @@
+{
+  "name": "PowerShell + DevOps Global Summit 2024",
+  "year": 2024,
+  "url": "https://www.powershellsummit.org",
+  "startDate": "2024-04-08",
+  "endDate": "2024-04-11",
+  "city": "Bellevue, WA",
+  "country": "US",
+  "lat": 47.61038,
+  "lng": -122.20068,
+  "topics": [
+    "DevOps"
+  ],
+  "source": "confs.tech"
+}

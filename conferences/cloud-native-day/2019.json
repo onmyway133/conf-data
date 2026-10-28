@@ -1,0 +1,16 @@
+{
+  "name": "Cloud Native Day 2019",
+  "year": 2019,
+  "url": "https://cloudnative.amsterdam",
+  "startDate": "2019-06-14",
+  "endDate": "2019-06-14",
+  "city": "Amsterdam",
+  "country": "NL",
+  "lat": 52.37403,
+  "lng": 4.88969,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/cloudnative_ams",
+  "source": "confs.tech"
+}

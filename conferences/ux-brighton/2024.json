@@ -1,0 +1,16 @@
+{
+  "name": "UX Brighton 2024",
+  "year": 2024,
+  "url": "https://uxbri.org/2024",
+  "startDate": "2024-11-01",
+  "endDate": "2024-11-01",
+  "city": "Brighton",
+  "country": "GB",
+  "lat": 50.82838,
+  "lng": -0.13947,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/UXbri",
+  "source": "confs.tech"
+}

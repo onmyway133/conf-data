@@ -1,0 +1,13 @@
+{
+  "name": "DeveloperWeek 2019",
+  "year": 2019,
+  "url": "http://www.developerweek.com",
+  "startDate": "2019-02-20",
+  "endDate": "2019-02-24",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [],
+  "source": "confs.tech"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Agile Coach Camp 2019",
+  "year": 2019,
+  "url": "https://accitaly.wordpress.com",
+  "startDate": "2019-06-13",
+  "endDate": "2019-06-15",
+  "city": "Cavalese",
+  "country": "IT",
+  "lat": 46.29048,
+  "lng": 11.45862,
+  "topics": [
+    "Networking"
+  ],
+  "source": "confs.tech"
+}

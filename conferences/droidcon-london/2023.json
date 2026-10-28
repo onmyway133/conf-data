@@ -1,0 +1,19 @@
+{
+  "name": "droidcon London 2023",
+  "year": 2023,
+  "url": "https://london.droidcon.com",
+  "startDate": "2023-10-26",
+  "endDate": "2023-10-27",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "Android",
+    "Kotlin",
+    "Networking"
+  ],
+  "twitter": "https://x.com/droidconLondon",
+  "mastodon": "https://androiddev.social/@droidcon",
+  "source": "confs.tech"
+}

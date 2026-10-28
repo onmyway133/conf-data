@@ -1,0 +1,14 @@
+{
+  "name": "Devoxx 2019",
+  "year": 2019,
+  "url": "http://devoxx.fr",
+  "startDate": "2019-04-17",
+  "endDate": "2019-04-19",
+  "city": "Paris",
+  "country": "FR",
+  "lat": 48.85341,
+  "lng": 2.3488,
+  "topics": [],
+  "twitter": "https://x.com/devoxx",
+  "source": "confs.tech"
+}

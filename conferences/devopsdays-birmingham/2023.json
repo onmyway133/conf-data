@@ -1,0 +1,16 @@
+{
+  "name": "Devopsdays Birmingham 2023",
+  "year": 2023,
+  "url": "https://devopsdays.org/events/2023-birmingham-uk/welcome",
+  "startDate": "2023-06-15",
+  "endDate": "2023-06-16",
+  "city": "Birmingham",
+  "country": "GB",
+  "lat": 52.48142,
+  "lng": -1.89983,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devopsdaysbrum",
+  "source": "confs.tech"
+}

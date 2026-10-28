@@ -1,0 +1,16 @@
+{
+  "name": "#a11yTO Conf 2022",
+  "year": 2022,
+  "url": "https://a11yto.com",
+  "startDate": "2022-10-17",
+  "endDate": "2022-10-18",
+  "city": "Toronto",
+  "country": "CA",
+  "lat": 43.70643,
+  "lng": -79.39864,
+  "topics": [
+    "Accessibility"
+  ],
+  "twitter": "https://x.com/a11yTO",
+  "source": "confs.tech"
+}

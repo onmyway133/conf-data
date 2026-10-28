@@ -1,0 +1,21 @@
+{
+  "name": "Pytorch 2024",
+  "year": 2024,
+  "url": "https://events.linuxfoundation.org/pytorch-conference",
+  "startDate": "2024-09-18",
+  "endDate": "2024-09-19",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [
+    "Python"
+  ],
+  "cfp": {
+    "url": "https://events.linuxfoundation.org/pytorch-conference/program/cfp",
+    "deadline": "2024-06-07",
+    "open": false
+  },
+  "twitter": "https://x.com/PyTorch",
+  "source": "confs.tech"
+}

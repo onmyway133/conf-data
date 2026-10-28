@@ -1,0 +1,21 @@
+{
+  "name": "MLOps 2019",
+  "year": 2019,
+  "url": "https://www.mlopsnyc.com",
+  "startDate": "2019-09-24",
+  "endDate": "2019-09-24",
+  "city": "New York, NY",
+  "country": "US",
+  "lat": 40.71427,
+  "lng": -74.00597,
+  "topics": [
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://www.mlopsnyc.com/call-for-papers",
+    "deadline": "2019-08-15",
+    "open": false
+  },
+  "twitter": "https://x.com/iguazio",
+  "source": "confs.tech"
+}

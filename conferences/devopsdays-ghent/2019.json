@@ -1,0 +1,16 @@
+{
+  "name": "devopsdays Ghent 2019",
+  "year": 2019,
+  "url": "https://devopsdays.org/events/2019-ghent",
+  "startDate": "2019-10-28",
+  "endDate": "2019-10-30",
+  "city": "Ghent",
+  "country": "BE",
+  "lat": 51.05,
+  "lng": 3.71667,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devopsdaysghent",
+  "source": "confs.tech"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Oπe\\n Conf Athens 2022",
+  "year": 2022,
+  "url": "https://www.open-conf.gr",
+  "startDate": "2022-12-02",
+  "endDate": "2022-12-03",
+  "city": "Athens",
+  "country": "GR",
+  "lat": 37.98376,
+  "lng": 23.72784,
+  "topics": [],
+  "cfp": {
+    "url": "https://sessionize.com/open_conf",
+    "deadline": "2022-08-31",
+    "open": false
+  },
+  "twitter": "https://x.com/open_conf",
+  "source": "confs.tech"
+}

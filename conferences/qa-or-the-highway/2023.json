@@ -1,0 +1,21 @@
+{
+  "name": "QA or the highway 2023",
+  "year": 2023,
+  "url": "https://www.qaorthehwy.com",
+  "startDate": "2023-05-30",
+  "endDate": "2023-05-30",
+  "city": "Columbus, OH",
+  "country": "US",
+  "lat": 39.96118,
+  "lng": -82.99879,
+  "topics": [
+    "Testing"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSc4RuC-pxVvFcC5VR4Yw6Ud2psGfQ2GNRFryZItyDNjy0gliQ/viewform",
+    "deadline": "2023-02-28",
+    "open": false
+  },
+  "twitter": "https://x.com/qaorthehighway",
+  "source": "confs.tech"
+}

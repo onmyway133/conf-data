@@ -1,0 +1,17 @@
+{
+  "name": "Enterprise Tech Leadership Summit 2025",
+  "year": 2025,
+  "url": "https://itrevolution.com/product/enterprise-tech-leadership-summit-las-vegas",
+  "startDate": "2025-09-23",
+  "endDate": "2025-09-25",
+  "city": "Las Vegas, NV",
+  "country": "US",
+  "lat": 36.17497,
+  "lng": -115.13722,
+  "topics": [
+    "Data/AI",
+    "DevOps"
+  ],
+  "bluesky": "https://bsky.app/profile/itrevolution.com",
+  "source": "confs.tech"
+}

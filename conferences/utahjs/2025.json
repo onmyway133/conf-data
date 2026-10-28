@@ -1,0 +1,19 @@
+{
+  "name": "UtahJS 2025",
+  "year": 2025,
+  "url": "https://utahjs.com/conference",
+  "startDate": "2025-09-12",
+  "endDate": "2025-09-12",
+  "city": "Salt Lake City, UT",
+  "country": "US",
+  "lat": 40.76078,
+  "lng": -111.89105,
+  "topics": [],
+  "cfp": {
+    "url": "https://sessionize.com/utahjs-conf-2025",
+    "deadline": "2025-04-07",
+    "open": false
+  },
+  "twitter": "https://x.com/utjs",
+  "source": "confs.tech"
+}

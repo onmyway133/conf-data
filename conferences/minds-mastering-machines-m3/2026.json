@@ -1,0 +1,20 @@
+{
+  "name": "Minds Mastering Machines - M3 2026",
+  "year": 2026,
+  "url": "https://www.m3-konferenz.de",
+  "startDate": "2026-04-22",
+  "endDate": "2026-04-23",
+  "city": "Karlsruhe",
+  "country": "DE",
+  "lat": 49.00937,
+  "lng": 8.40444,
+  "topics": [
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://www.m3-konferenz.de/cfp.php",
+    "deadline": "2025-11-23",
+    "open": false
+  },
+  "source": "confs.tech"
+}

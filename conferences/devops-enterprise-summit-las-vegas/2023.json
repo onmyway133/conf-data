@@ -1,0 +1,21 @@
+{
+  "name": "DevOps Enterprise Summit Las Vegas 2023",
+  "year": 2023,
+  "url": "https://itrevolution.com/product/devops-enterprise-summit-las-vegas-2023",
+  "startDate": "2023-10-03",
+  "endDate": "2023-10-05",
+  "city": "Las Vegas, NV",
+  "country": "US",
+  "lat": 36.17497,
+  "lng": -115.13722,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/devops-enterprise-summit-las-vegas-2023",
+    "deadline": "2023-06-12",
+    "open": false
+  },
+  "twitter": "https://x.com/ITRevDOES",
+  "source": "confs.tech"
+}

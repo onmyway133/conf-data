@@ -1,0 +1,20 @@
+{
+  "name": "Continuous Lifecycle/ContainerConf (CLC) 2025",
+  "year": 2025,
+  "url": "https://www.continuouslifecycle.de",
+  "startDate": "2025-11-19",
+  "endDate": "2025-11-20",
+  "city": "Mannheim",
+  "country": "DE",
+  "lat": 49.4891,
+  "lng": 8.46694,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://www.continuouslifecycle.de/cfp.php",
+    "deadline": "2025-04-27",
+    "open": false
+  },
+  "source": "confs.tech"
+}

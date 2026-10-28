@@ -1,0 +1,16 @@
+{
+  "name": "Vue.js London Conference 2021",
+  "year": 2021,
+  "url": "https://vuejs.london",
+  "startDate": "2021-10-20",
+  "endDate": "2021-10-21",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/vue_london",
+  "source": "confs.tech"
+}

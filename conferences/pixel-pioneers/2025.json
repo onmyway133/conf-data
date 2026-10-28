@@ -1,0 +1,19 @@
+{
+  "name": "Pixel Pioneers 2025",
+  "year": 2025,
+  "url": "https://pixelpioneers.co/events/bristol-2025",
+  "startDate": "2025-06-20",
+  "endDate": "2025-06-20",
+  "city": "Bristol",
+  "country": "GB",
+  "lat": 51.45523,
+  "lng": -2.59665,
+  "topics": [],
+  "cfp": {
+    "url": "https://pixelpioneers.co/call-for-speakers",
+    "deadline": "2025-04-14",
+    "open": false
+  },
+  "twitter": "https://x.com/pixelpioneers",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "HCI International 2019",
+  "year": 2019,
+  "url": "http://2019.hci.international",
+  "startDate": "2019-07-26",
+  "endDate": "2019-07-31",
+  "city": "Orlando, FL",
+  "country": "US",
+  "lat": 28.53834,
+  "lng": -81.37924,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/hciinews",
+  "source": "confs.tech"
+}

@@ -1,0 +1,373 @@
+{
+  "name": "try! Swift India 2017",
+  "year": 2017,
+  "url": "https://www.tryswift.co/events/2017/bangalore",
+  "startDate": "2017-11-18",
+  "endDate": "2017-11-19",
+  "city": "Bangalore",
+  "country": "IN",
+  "lat": 12.97194,
+  "lng": 77.59369,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences",
+  "speakers": [
+    {
+      "speaker": "robin-malhotra",
+      "role": "Open Source Contributor",
+      "bio": "Robin’s love affair with computers started with his dad’s hand-me-down IBM PC. He’s a huge swift fan (, not Taylor) who spends his free time playing basketball (Go Dubs!) and working on open source. When he’s not coding or wasting time on reddit, he usually plays NBA 2k, Overwatch or Mass Effect.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/bangalore2017/robin.jpg",
+      "twitter": "https://twitter.com/codeOfRobin"
+    },
+    {
+      "speaker": "bhargav-gurlanka",
+      "role": "Senior iOS Engineer at Agoda",
+      "bio": "Bhargav Gurlanka is an iOS developer, building apps since iOS 6, currently working at agoda.com. With a passion for both electronics and programming, he graduated as an Electronics Engineer and started his programming career as Freelance Web Dev. Fell in love with iOS early on and since then, he is purely working on mobile apps for big orgs. After office hours, you can find him in street food joints in Bangkok eating SomTam with sticky rice.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/bangalore2017/bhargav.jpg",
+      "twitter": "https://twitter.com/bhargavgurlanka"
+    },
+    {
+      "speaker": "cate-huston",
+      "role": "Mobile Lead at Automattic",
+      "bio": "Cate has spent her career working on mobile and documenting everything she learns using WordPress. Now she combines the two as Automattic’s mobile lead. She co-curates Technically Speaking, and admins the New-(ish) Manager Slack. You can find her on Twitter at @catehstn and at cate.blog. Cate has lived and worked in the UK, Australia, Canada, China, Colombia and the United States, as Director of Mobile Engineering at Ride, an engineer at Google, an Extreme Blue intern at IBM, and a ski instructor. Cate built Show & Hide (available on iTunes), and speaks internationally on mobile development and tech culture. Her writing has been published on sites as varied as Be Leaderly, Lifehacker, The Daily Beast, The Eloquent Woman and Model View Culture. She is an advisor at Glowforge. You can also find her at WhereTheHellIsCate.com.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/bangalore2017/cate.jpg",
+      "twitter": "https://twitter.com/catehstn"
+    },
+    {
+      "speaker": "vatsal-manot",
+      "role": "Framework Designer",
+      "bio": "Vatsal is a Swift programmer with interest in compilers, runtimes and metaprogramming. He has written numerous runtime extensions (“tweaks”) for the jailbroken iPhone, and is currently writing a computer algebra system targeting iOS and macOS. He also enjoys eating and sleeping, as most humans do.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/bangalore2017/vatsal.jpeg",
+      "twitter": "https://twitter.com/vatsal_manot"
+    },
+    {
+      "speaker": "mugunth-kumar",
+      "role": "Top Selling iOS Books Author",
+      "bio": "Mugunth is an independent iOS developer based in Singapore. He graduated in 2009 and holds a Masters degree from Nanyang Technological University, Singapore, majoring in Information Systems. He blogs about mobile development, writing tutorials focussing mostly on iOS platform. Mugunth has authored a handful of programming books, iOS 5 Programming: Pushing the limits, iOS 6 Programming: Pushing the limits and iOS 7 Programming: Pushing the limits. The books were in the top 100 most selling books on Amazon’s Computers and Technology Section. Mugunth also runs a classroom-based training in Singapore (http://iostraining.sg/), teaching advanced concepts in iOS programming. If he were not coding, he would probably be found at some exotic place capturing scenic photos of Mother Nature.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/bangalore2017/mugunth.jpg",
+      "twitter": "https://twitter.com/mugunthkumar"
+    },
+    {
+      "speaker": "sai-hema-kanduri",
+      "role": "Swift Foundation APIs Contributor",
+      "bio": "Sai Hema Kanduri is an Open Source developer with IBM Software Labs, Bangalore. She is currently working on the open-source development of the Swift Foundation APIs on swift.org. Sai has been a part of the Runtime Technologies team for IBM JDK Class Libraries. She has over 9 years of experience in Web application & eclipse plugin development.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/bangalore2017/sai.jpg",
+      "twitter": "https://twitter.com/KituraSwift"
+    },
+    {
+      "speaker": "ks-sreeram",
+      "role": "Founder of Clay Programming Language & Clay Labs",
+      "bio": "KS Sreeram is a computer programmer who has been programming for 25 years. He works on programming language design, compilers, and natural language processing. He runs Clay Labs, a business that specializes in ground-up design and development of software applications. Clay Labs uses modeling & code-generation techniques to speed up software development.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/bangalore2017/sreeram.jpg",
+      "twitter": "https://twitter.com/kssreeram"
+    },
+    {
+      "speaker": "jesse-squires",
+      "role": "Swift Weekly Brief, Swift Unwrapped",
+      "bio": "Jesse is an iOS developer at PlanGrid. He writes and curates the Swift Weekly Brief newsletter, co-hosts the Swift Unwrapped podcast, and contributes to many open source projects. Outside of work he enjoys trail running and goes to punk and metal shows. He is fueled primarily by black coffee and black metal.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/bangalore2017/jesse.jpg",
+      "twitter": "https://twitter.com/jesse_squires"
+    },
+    {
+      "speaker": "kamilah-taylor",
+      "role": "Sr. Software Engineer at LinkedIn",
+      "bio": "Kamilah is a Sr. Software Engineer at LinkedIn, currently does infrastructure and features on the LinkedIn Learning app, and worked on the complete rewrite of LinkedIn’s flagship app. Previously she did robotics at Wolfram Research and UIUC, is a co-author of Women in Tech, and likes that Swift reminds her of an upgraded version of Haskell.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/bangalore2017/kamilah-taylor.jpg",
+      "twitter": "https://twitter.com/kamilah"
+    },
+    {
+      "speaker": "jonathan-guthrie",
+      "role": "Sr. Software Engineer at Perfect.org",
+      "bio": "Jonathan (or Jono) is an experienced software engineer who is building Perfect roadmap features and enhancements and supporting developers who are using Perfect. Jono has been developing server-side applications and API’s using a number of different languages for nearly 20 years. He moved to Canada from New Zealand in 2010 to help architect the next generation of server-side development, and he's now part of the Perfect team bringing Swift to the server. In his spare time he’s a session musician, sound engineer, gamer, and loves writing API’s for all sorts of obscure things.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/bangalore2017/jono.jpg",
+      "twitter": "https://twitter.com/iamjono"
+    },
+    {
+      "speaker": "satoshi-hachiya",
+      "role": "iOS Engineer at ookami",
+      "bio": "Satoshi is a Japanese iOS developer at ookami, Inc. Currently, he's making an iOS app called Player!. He was a speaker at Mobile Optimized 2017 in Belarus. He is also a founder of Pancake Meetup taken place in Tokyo and San Jose so far. You can find him with a profile picture of pancakes on Twitter, GitHub and Instagram.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/bangalore2017/jpmarthajp.jpg",
+      "twitter": "https://twitter.com/jpmartha_jp"
+    },
+    {
+      "speaker": "shivam-mishra",
+      "role": "iOS Team Lead at BookMyShow",
+      "bio": "Shivam leads BookMyShow's iOS team and is backed by 6 years of experience in Objective-C and Swift. He focuses on application architecture, and played a key role in the complete re-write of BookMyShow's app. His curiosity drives him to constantly learn and experiment, and he is currently dabbling in React Native. When he's not at his desk coding, he is busy organising & managing Swift Mumbai meet ups, winning hackathons, and reading about Indian mythology.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/bangalore2017/shivam.jpg",
+      "twitter": "https://twitter.com/shivammishra9"
+    },
+    {
+      "speaker": "aishwarya-kumar",
+      "role": "Engineering Manager at Flipkart",
+      "bio": "With no relations to the namesake Rai Bachhan whatsoever, Aish comes from the land of Symbian, travelling through the diverse forests of Android, crossing the rocky Windows Phone 7, Windows 8x and 10 OS to finally reach the meadows of iOS. You can always find him driving - either changes in the Apps space in Flipkart or his car in Goa or someone else's car in GTA. From the App that played your Flipkart music to the one where you read your Flipkart ebooks or where you 'Ping'ed your sellers on Flipkart to one of the most fluid shopping apps, you can find him neck deep.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/bangalore2017/aishwarya.jpg",
+      "twitter": "https://twitter.com/Aishwarya_Kumar"
+    },
+    {
+      "speaker": "chris-bailey",
+      "role": "Swift@IBM Chief Architect",
+      "bio": "Chris Bailey is a developer and technical leader in the Runtime Technologies team at IBM. Chris has spent over 15 years working on open source runtimes including Java, Node.js and Swift. Chris is a contributor and committor to the Swift Language, Foundation and Dispatch projects, and is on steering committee for the Swift Server APIs project aimed at making new networking, security and HTTP APIs available to the community. He is also the Chief Architect for the Swift@IBM, providing the open source Kitura server framework.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/bangalore2017/chris.jpg",
+      "twitter": "https://twitter.com/Chris__Bailey"
+    },
+    {
+      "speaker": "ab-vijay-kumar",
+      "role": "CTO for Apple IBM Partnership",
+      "bio": "AB Vijay is a IBM Distinguished Engineer & CTO for Apple IBM Partnership. He is a senior inventor, who has more than 25 patents filed in his name. He has more than 19 years experience in IBM. He is a recognized as subject matter expert for his contribution to advanced mobility in automotive, and has led several implementation engagements involving complex industry solutions. He specializes in mobile, cloud, automotive, sensor-based machine-to-machine, Internet of Things, and telematics technologies.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/bangalore2017/ab.jpg",
+      "twitter": "https://twitter.com/abvijaykumar"
+    },
+    {
+      "speaker": "akanksha-sharma",
+      "role": "iOS Developer at Network18",
+      "bio": "Akanksha Sharma is an iOS Developer at Network18. She has been working in Swift for the past 3 years and has been an iOS Developer for 5 years. You can visit her GitHub or connect with her on Twitter.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/bangalore2017/akansha.jpeg",
+      "twitter": "https://twitter.com/akanksharmaa",
+      "website": "https://github.com/akanksharma"
+    },
+    {
+      "speaker": "bob-lee",
+      "bio": "Bob Lee is known as Bob the Developer. After having failed at running an app startup in college, He has been sharing what he has learned since last year. He focuses on the Swift fundamentals for those who want to get started with iOS Development at blog.bobthedeveloper.io . Besides teaching, He enjoys playing basketball, interacting with his readers, and finding shortcuts.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/bangalore2017/instructors/bob.png",
+      "twitter": "https://twitter.com/bobleesj"
+    },
+    {
+      "speaker": "ritesh-gupta",
+      "bio": "Ritesh Gupta is an iOS Engineer at Fueled, creator of RGListKit & author of Swift-Snippets on medium. He is also actively involved in the tech community as a lead organiser of Swift-India which conduct meetup once a month across various cities in India. He guest authored 295th issue of iOS dev weekly newsletter. When he is not swifting, he likes to share thoughts on twitter & enjoy different cuisines.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/bangalore2017/instructors/ritesh.jpg",
+      "twitter": "https://twitter.com/_riteshhh"
+    },
+    {
+      "speaker": "pushkar-kulkarni",
+      "bio": "Pushkar Kulkarni has been working in the languages and frameworks space over the last ten years. He started his career as a Java JIT compiler developer with the the IBM Java Runtime. He spent days digging through system core files, fixing bugs without problem reproduction at hand! Later he changed gears to IBM Java Class Libraries development, fixing bugs and implementing features in the various Java packages (java.net, java.nio and java.util). Early in 2016, after Apple open sourced Swift he started working on swift-corelibs-foundation - the open source Swift implementation of the Foundation classes. Currently, as a committer on swift-corelibs-foundation, he is focused on developing and improving the Swift implementation of URLSession and friends.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/bangalore2017/instructors/pushkar.jpg",
+      "twitter": "https://twitter.com/pushkar_nk"
+    },
+    {
+      "speaker": "rahul-katariya",
+      "bio": "Rahul Katariya is an iOS Developer at Hike. There, he encourages Swift with Framework Oriented Programming. He has more than 4 years of professional experience and has worked with companies like Empeiria, Xebia. He has been contributing to Open Source whenever he can and believes in giving back to the community. He is the creator of Restofire and JetpackSwift/FrameworkTemplate repositories.",
+      "photoUrl": "https://www.tryswift.co/assets/images/speakers/bangalore2017/instructors/rahul.jpg",
+      "twitter": "https://twitter.com/rahulkatariya91"
+    }
+  ],
+  "talks": [
+    {
+      "slug": "escaping-closure-capture-list-delegate-weak-unowned-arc",
+      "title": "@escaping, closure capture list, delegate, weak, unowned, ARC",
+      "speakers": [
+        "bob-lee"
+      ]
+    },
+    {
+      "slug": "3-basic-types-of-enum-enum-as-value-type-self",
+      "title": "3 basic types of enum, enum as value type, self",
+      "speakers": [
+        "bob-lee"
+      ]
+    },
+    {
+      "slug": "adapting-to-change-design-patterns-in-swift",
+      "title": "Adapting to change: design patterns in Swift",
+      "speakers": [
+        "jesse-squires"
+      ]
+    },
+    {
+      "slug": "ai-deep-learning-using-core-ml-and-metal-framework",
+      "title": "AI & Deep Learning using Core ML and Metal Framework",
+      "speakers": [
+        "akanksha-sharma"
+      ]
+    },
+    {
+      "slug": "all-you-need-is-swift",
+      "title": "All you need is Swift",
+      "speakers": [
+        "chris-bailey"
+      ]
+    },
+    {
+      "slug": "architecture-where-science-and-art-break-even",
+      "title": "Architecture - where Science and Art break even",
+      "speakers": [
+        "shivam-mishra"
+      ]
+    },
+    {
+      "slug": "building-with-swiftpm",
+      "title": "Building with SwiftPM",
+      "speakers": [
+        "bhargav-gurlanka"
+      ]
+    },
+    {
+      "slug": "collections-and-sequences",
+      "title": "Collections and Sequences",
+      "speakers": [
+        "pushkar-kulkarni"
+      ]
+    },
+    {
+      "slug": "completion-handlers-intro-to-functional-swift-init-with-closure-escaping",
+      "title": "Completion Handlers, intro to functional swift, init with closure, escaping",
+      "speakers": [
+        "bob-lee"
+      ]
+    },
+    {
+      "slug": "core-ml-and-your-app",
+      "title": "Core ML and your App",
+      "speakers": [
+        "mugunth-kumar"
+      ]
+    },
+    {
+      "slug": "custom-operators",
+      "title": "Custom operators",
+      "speakers": [
+        "pushkar-kulkarni"
+      ]
+    },
+    {
+      "slug": "declarative-programming-in-swift",
+      "title": "Declarative Programming in Swift",
+      "speakers": [
+        "vatsal-manot"
+      ]
+    },
+    {
+      "slug": "generic-protocol-with-associated-type",
+      "title": "Generic protocol with associated type",
+      "speakers": [
+        "ritesh-gupta"
+      ]
+    },
+    {
+      "slug": "generics-and-protocols",
+      "title": "Generics and Protocols",
+      "speakers": [
+        "rahul-katariya"
+      ]
+    },
+    {
+      "slug": "generics-optionals-tuple-type-casting",
+      "title": "Generics, Optionals, Tuple, Type Casting",
+      "speakers": [
+        "ritesh-gupta"
+      ]
+    },
+    {
+      "slug": "higher-order-function-closure-syntax-autoclosure-trailing-closure",
+      "title": "Higher order function, Closure syntax, autoclosure, trailing closure",
+      "speakers": [
+        "bob-lee"
+      ]
+    },
+    {
+      "slug": "how-flipkart-scrolls-at-60fps",
+      "title": "How Flipkart scrolls at 60fps",
+      "speakers": [
+        "aishwarya-kumar"
+      ]
+    },
+    {
+      "slug": "may-the-open-source-be-with-you",
+      "title": "May the ‘open’ source be with you.",
+      "speakers": [
+        "sai-hema-kanduri"
+      ]
+    },
+    {
+      "slug": "memory-management",
+      "title": "Memory management",
+      "speakers": [
+        "rahul-katariya"
+      ]
+    },
+    {
+      "slug": "objective-c-vs-swift-error-handling-error-protocol-custom-errors-with-try-catch",
+      "title": "Objective-C vs Swift Error Handling, Error Protocol, Custom errors with try-catch",
+      "speakers": [
+        "ritesh-gupta"
+      ]
+    },
+    {
+      "slug": "pair-programming-with-the-computer",
+      "title": "Pair programming with the computer",
+      "speakers": [
+        "ks-sreeram"
+      ]
+    },
+    {
+      "slug": "property-static-vs-class-types-guard-access-controls",
+      "title": "Property, Static vs Class, Types, Guard, Access Controls",
+      "speakers": [
+        "bob-lee"
+      ]
+    },
+    {
+      "slug": "protocol-enum-generics-optional-result-type",
+      "title": "Protocol enum, generics (optional), result type",
+      "speakers": [
+        "ritesh-gupta"
+      ]
+    },
+    {
+      "slug": "protocol-syntax-protocol-extension-contraints-where-self",
+      "title": "Protocol syntax, protocol extension, contraints, where, Self",
+      "speakers": [
+        "ritesh-gupta"
+      ]
+    },
+    {
+      "slug": "refactoring-your-app-in-rx",
+      "title": "Refactoring your app in Rx",
+      "speakers": [
+        "robin-malhotra"
+      ]
+    },
+    {
+      "slug": "swift-guru-workshop",
+      "title": "Swift Guru Workshop",
+      "speakers": [
+        "pushkar-kulkarni"
+      ]
+    },
+    {
+      "slug": "swift-robot-workshop",
+      "title": "Swift Robot Workshop",
+      "speakers": [
+        "bob-lee"
+      ]
+    },
+    {
+      "slug": "swift-one-language-to-rule-them-all",
+      "title": "Swift: One Language to Rule Them All",
+      "speakers": [
+        "jonathan-guthrie"
+      ]
+    },
+    {
+      "slug": "swiftly-programming-robots",
+      "title": "Swiftly programming robots",
+      "speakers": [
+        "kamilah-taylor"
+      ]
+    },
+    {
+      "slug": "what-is-swifty",
+      "title": "What is `Swifty`?",
+      "speakers": [
+        "satoshi-hachiya"
+      ]
+    },
+    {
+      "slug": "yolo-releases-considered-harmful-running-an-effective-mobile-engineering-team",
+      "title": "YOLO Releases Considered Harmful - Running An Effective Mobile Engineering Team",
+      "speakers": [
+        "cate-huston"
+      ]
+    }
+  ]
+}

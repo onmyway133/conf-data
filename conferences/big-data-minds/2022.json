@@ -1,0 +1,21 @@
+{
+  "name": "Big Data Minds 2022",
+  "year": 2022,
+  "url": "https://www.big-data-minds.com",
+  "startDate": "2022-09-18",
+  "endDate": "2022-09-20",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://www.big-data-minds.com/sprecher",
+    "deadline": "2022-09-15",
+    "open": false
+  },
+  "twitter": "https://x.com/weCONECT",
+  "source": "confs.tech"
+}

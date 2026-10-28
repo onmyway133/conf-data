@@ -1,0 +1,19 @@
+{
+  "name": "RevolutionConf 2019",
+  "year": 2019,
+  "url": "https://revolutionconf.com",
+  "startDate": "2019-06-06",
+  "endDate": "2019-06-07",
+  "city": "Virginia Beach, VA",
+  "country": "US",
+  "lat": 36.85293,
+  "lng": -75.97799,
+  "topics": [],
+  "cfp": {
+    "url": "https://sessionize.com/revolutionconf-2019",
+    "deadline": "2019-01-18",
+    "open": false
+  },
+  "twitter": "https://x.com/revconf",
+  "source": "confs.tech"
+}

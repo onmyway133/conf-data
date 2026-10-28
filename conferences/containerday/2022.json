@@ -1,0 +1,16 @@
+{
+  "name": "containerday 2022",
+  "year": 2022,
+  "url": "https://containerday.it",
+  "startDate": "2022-10-28",
+  "endDate": "2022-10-28",
+  "city": "Bologna",
+  "country": "IT",
+  "lat": 44.49381,
+  "lng": 11.33875,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/containerayit",
+  "source": "confs.tech"
+}

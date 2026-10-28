@@ -1,0 +1,21 @@
+{
+  "name": "PyCon SK 2019",
+  "year": 2019,
+  "url": "https://2019.pycon.sk/en",
+  "startDate": "2019-03-22",
+  "endDate": "2019-03-24",
+  "city": "Bratislava",
+  "country": "SK",
+  "lat": 48.14816,
+  "lng": 17.10674,
+  "topics": [
+    "Python"
+  ],
+  "cfp": {
+    "url": "https://2019.pycon.sk/en/cfp.html",
+    "deadline": "2019-02-14",
+    "open": false
+  },
+  "twitter": "https://x.com/pyconsk",
+  "source": "confs.tech"
+}

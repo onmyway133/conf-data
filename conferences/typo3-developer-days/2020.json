@@ -1,0 +1,16 @@
+{
+  "name": "TYPO3 Developer Days 2020",
+  "year": 2020,
+  "url": "https://t3dd20.typo3.com",
+  "startDate": "2020-07-30",
+  "endDate": "2020-08-02",
+  "city": "Karlsruhe",
+  "country": "DE",
+  "lat": 49.00937,
+  "lng": 8.40444,
+  "topics": [
+    "PHP"
+  ],
+  "twitter": "https://x.com/typo3",
+  "source": "confs.tech"
+}

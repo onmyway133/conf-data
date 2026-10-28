@@ -1,0 +1,14 @@
+{
+  "name": "Developer Camp 2019",
+  "year": 2019,
+  "url": "https://developercamp.io",
+  "startDate": "2019-04-05",
+  "endDate": "2019-04-06",
+  "city": "Wuerzburg",
+  "country": "DE",
+  "lat": 49.79391,
+  "lng": 9.95121,
+  "topics": [],
+  "twitter": "https://x.com/_developercamp",
+  "source": "confs.tech"
+}

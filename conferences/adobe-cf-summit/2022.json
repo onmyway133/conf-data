@@ -1,0 +1,16 @@
+{
+  "name": "Adobe CF Summit 2022",
+  "year": 2022,
+  "url": "https://cfsummit.adobeevents.com",
+  "startDate": "2022-10-03",
+  "endDate": "2022-10-04",
+  "city": "Las Vegas, NV",
+  "country": "US",
+  "lat": 36.17497,
+  "lng": -115.13722,
+  "topics": [
+    "CFML"
+  ],
+  "twitter": "https://x.com/coldfusion",
+  "source": "confs.tech"
+}

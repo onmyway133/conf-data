@@ -1,0 +1,21 @@
+{
+  "name": "DevOpsDays Salvador 2019",
+  "year": 2019,
+  "url": "https://devopsdays.org/events/2019-salvador/welcome",
+  "startDate": "2019-10-05",
+  "endDate": "2019-10-05",
+  "city": "Salvador",
+  "country": "BR",
+  "lat": -12.97563,
+  "lng": -38.49096,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://www.papercall.io/devopsdaysssa2019",
+    "deadline": "2019-07-10",
+    "open": false
+  },
+  "twitter": "https://x.com/devopsdaysssa",
+  "source": "confs.tech"
+}

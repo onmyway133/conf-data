@@ -1,0 +1,16 @@
+{
+  "name": "React Day New York 2019",
+  "year": 2019,
+  "url": "https://reactnewyork.com",
+  "startDate": "2019-09-13",
+  "endDate": "2019-09-13",
+  "city": "Brooklyn, NY",
+  "country": "US",
+  "lat": 40.6501,
+  "lng": -73.94958,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/ReactNewYork",
+  "source": "confs.tech"
+}

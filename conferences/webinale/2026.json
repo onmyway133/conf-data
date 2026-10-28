@@ -1,0 +1,18 @@
+{
+  "name": "Webinale 2026",
+  "year": 2026,
+  "url": "https://webinale.de/en",
+  "startDate": "2026-06-08",
+  "endDate": "2026-06-12",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "Accessibility",
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/webinale",
+  "bluesky": "https://bsky.app/profile/webinale.bsky.social",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "droidconKE 2020",
+  "year": 2020,
+  "url": "https://droidcon.co.ke",
+  "startDate": "2020-08-06",
+  "endDate": "2020-08-08",
+  "city": "Nairobi",
+  "country": "KE",
+  "lat": -1.28333,
+  "lng": 36.81667,
+  "topics": [
+    "Android"
+  ],
+  "twitter": "https://x.com/droidconke",
+  "source": "confs.tech"
+}

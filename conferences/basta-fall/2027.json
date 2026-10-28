@@ -1,0 +1,19 @@
+{
+  "name": "BASTA! Fall 2027",
+  "year": 2027,
+  "url": "https://basta.net/mainz",
+  "startDate": "2027-09-27",
+  "endDate": "2027-10-01",
+  "city": "Mainz",
+  "country": "DE",
+  "lat": 49.98185,
+  "lng": 8.28008,
+  "topics": [
+    "Data/AI",
+    "DevOps",
+    ".NET"
+  ],
+  "twitter": "https://x.com/bastacon",
+  "bluesky": "https://bsky.app/profile/bastacon.bsky.social",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "We Love Speed 2023",
+  "year": 2023,
+  "url": "https://www.welovespeed.com/2023",
+  "startDate": "2023-05-10",
+  "endDate": "2023-05-10",
+  "city": "Paris",
+  "country": "FR",
+  "lat": 48.85341,
+  "lng": 2.3488,
+  "topics": [
+    "Performance"
+  ],
+  "twitter": "https://x.com/_welovespeed",
+  "source": "confs.tech"
+}

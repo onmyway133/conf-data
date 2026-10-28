@@ -1,0 +1,15 @@
+{
+  "name": "CocoaConf Raleigh 2014",
+  "year": 2014,
+  "url": "http://cocoaconf.com/raleigh-2014/home",
+  "startDate": "2014-05-09",
+  "endDate": "2014-05-10",
+  "city": "Raleigh",
+  "country": "US",
+  "lat": 35.7721,
+  "lng": -78.63861,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences"
+}

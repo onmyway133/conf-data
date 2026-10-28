@@ -1,0 +1,21 @@
+{
+  "name": "AltConf 2019",
+  "year": 2019,
+  "url": "http://altconf.com",
+  "startDate": "2019-06-03",
+  "endDate": "2019-06-03",
+  "city": "San Jose, CA",
+  "country": "US",
+  "lat": 37.33939,
+  "lng": -121.89496,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSdtpfJDh53Mu6HHh539Uo51RDfd34QtXaGsvtMW8_dbUz5qSQ/viewform",
+    "deadline": "2019-04-29",
+    "open": false
+  },
+  "twitter": "https://x.com/altconference",
+  "source": "confs.tech"
+}

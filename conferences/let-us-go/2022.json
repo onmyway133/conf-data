@@ -1,0 +1,47 @@
+{
+  "name": "Let us: Go! 2022",
+  "year": 2022,
+  "url": "https://let-us-go-2022-fall.vercel.app",
+  "startDate": "2022-11-05",
+  "endDate": "2022-11-05",
+  "city": "Seoul",
+  "country": "KR",
+  "lat": 37.566,
+  "lng": 126.9784,
+  "topics": [
+    "iOS"
+  ],
+  "source": "confs.tech",
+  "speakers": [
+    {
+      "speaker": "rubin",
+      "role": "이스트소프트",
+      "bio": "언제나 낮은 자세를 갖추려고 노력하는 개발자입니다.",
+      "photoUrl": "https://let-us-go-2022-fall.vercel.app/static/jyb-34f792d98efb0b39fba5390b796dcc6f.jpeg",
+      "website": "https://github.com/Dev-RubinJo"
+    },
+    {
+      "speaker": "hansjin",
+      "role": "닥터다이어리",
+      "bio": "어,왔니?",
+      "photoUrl": "https://let-us-go-2022-fall.vercel.app/static/hsj-2726edd31d5e38738aef549ea870a304.png",
+      "website": "https://github.com/HanSJin"
+    }
+  ],
+  "talks": [
+    {
+      "slug": "ci-cd-uitesting",
+      "title": "CI/CD 최종보스 UITesting 두둥등장",
+      "speakers": [
+        "hansjin"
+      ]
+    },
+    {
+      "slug": "swiftui-feat-rxswift",
+      "title": "SwiftUI를 도입하기 전 대비하는 자세 feat: RxSwift 의존도 줄이기",
+      "speakers": [
+        "rubin"
+      ]
+    }
+  ]
+}

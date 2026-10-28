@@ -1,0 +1,17 @@
+{
+  "name": "SwiftLeeds 2025",
+  "year": 2025,
+  "url": "https://swiftleeds.co.uk",
+  "startDate": "2025-10-06",
+  "endDate": "2025-10-08",
+  "city": "Leeds",
+  "country": "GB",
+  "lat": 53.79648,
+  "lng": -1.54785,
+  "topics": [
+    "iOS"
+  ],
+  "twitter": "https://x.com/swift_leeds",
+  "mastodon": "https://iosdev.space/@SwiftLeeds",
+  "source": "confs.tech"
+}

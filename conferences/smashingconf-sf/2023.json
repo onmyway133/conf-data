@@ -1,0 +1,17 @@
+{
+  "name": "SmashingConf SF 2023",
+  "year": 2023,
+  "url": "https://smashingconf.com/sf-2023",
+  "startDate": "2023-05-23",
+  "endDate": "2023-05-26",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [
+    "CSS",
+    "JavaScript",
+    "Performance"
+  ],
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "PHP Serbia 2020",
+  "year": 2020,
+  "url": "https://2020.phpsrbija.rs",
+  "startDate": "2020-09-10",
+  "endDate": "2020-09-12",
+  "city": "Belgrade",
+  "country": "RS",
+  "lat": 44.80401,
+  "lng": 20.46513,
+  "topics": [
+    "PHP"
+  ],
+  "twitter": "https://x.com/PHPSrbija",
+  "source": "confs.tech"
+}

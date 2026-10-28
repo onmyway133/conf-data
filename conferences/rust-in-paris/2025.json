@@ -1,0 +1,16 @@
+{
+  "name": "Rust In Paris 2025",
+  "year": 2025,
+  "url": "https://www.rustinparis.com",
+  "startDate": "2025-03-14",
+  "endDate": "2025-03-14",
+  "city": "Paris",
+  "country": "FR",
+  "lat": 48.85341,
+  "lng": 2.3488,
+  "topics": [
+    "Rust"
+  ],
+  "twitter": "https://x.com/xperhub",
+  "source": "confs.tech"
+}

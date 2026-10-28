@@ -1,0 +1,18 @@
+{
+  "name": "TestCon Europe : The Hybrid Edition 2020",
+  "year": 2020,
+  "url": "https://testcon.lt",
+  "startDate": "2020-10-13",
+  "endDate": "2020-10-15",
+  "city": "Vilnius",
+  "country": "LT",
+  "lat": 54.68916,
+  "lng": 25.2798,
+  "topics": [],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSeNmGRtQ78ZY2dPGiwKOHlc59C6EcsQRKg5lJFOagT2Zu9UwA/viewform",
+    "deadline": "2020-09-30",
+    "open": false
+  },
+  "source": "confs.tech"
+}

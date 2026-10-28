@@ -1,0 +1,17 @@
+{
+  "name": "RustWeek 2026",
+  "year": 2026,
+  "url": "https://2026.rustweek.org",
+  "startDate": "2026-05-18",
+  "endDate": "2026-05-23",
+  "city": "Utrecht",
+  "country": "NL",
+  "lat": 52.09083,
+  "lng": 5.12222,
+  "topics": [
+    "Rust"
+  ],
+  "bluesky": "https://bsky.app/profile/rustnl.bsky.social",
+  "mastodon": "https://fosstodon.org/@rustnl",
+  "source": "confs.tech"
+}

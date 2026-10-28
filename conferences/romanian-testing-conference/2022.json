@@ -1,0 +1,16 @@
+{
+  "name": "Romanian Testing Conference 2022",
+  "year": 2022,
+  "url": "https://romaniatesting.ro",
+  "startDate": "2022-06-16",
+  "endDate": "2022-06-17",
+  "city": "Cluj-Napoca",
+  "country": "RO",
+  "lat": 46.76667,
+  "lng": 23.6,
+  "topics": [
+    "Testing"
+  ],
+  "twitter": "https://x.com/romaniatesting",
+  "source": "confs.tech"
+}

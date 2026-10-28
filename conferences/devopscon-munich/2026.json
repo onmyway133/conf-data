@@ -1,0 +1,16 @@
+{
+  "name": "DevOpsCon Munich 2026",
+  "year": 2026,
+  "url": "https://devopscon.io/muenchen",
+  "startDate": "2026-11-30",
+  "endDate": "2026-12-04",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devops_con",
+  "source": "confs.tech"
+}

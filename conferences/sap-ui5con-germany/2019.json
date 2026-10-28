@@ -1,0 +1,21 @@
+{
+  "name": "SAP UI5con Germany 2019",
+  "year": 2019,
+  "url": "https://openui5.org/ui5con",
+  "startDate": "2019-06-28",
+  "endDate": "2019-06-28",
+  "city": "St. Leon-Rot",
+  "country": "DE",
+  "lat": 49.26593,
+  "lng": 8.61803,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://ui5concallforpapers.cfapps.eu10.hana.ondemand.com",
+    "deadline": "2019-03-18",
+    "open": false
+  },
+  "twitter": "https://x.com/ui5con",
+  "source": "confs.tech"
+}

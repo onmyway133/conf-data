@@ -1,0 +1,21 @@
+{
+  "name": "J on the Beach 2019",
+  "year": 2019,
+  "url": "https://jonthebeach.com",
+  "startDate": "2019-05-15",
+  "endDate": "2019-05-17",
+  "city": "Marbella",
+  "country": "ES",
+  "lat": 36.51543,
+  "lng": -4.88583,
+  "topics": [
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://www.papercall.io/jotb19",
+    "deadline": "2019-02-04",
+    "open": false
+  },
+  "twitter": "https://x.com/jotb19",
+  "source": "confs.tech"
+}

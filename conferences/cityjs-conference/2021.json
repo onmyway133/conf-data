@@ -1,0 +1,16 @@
+{
+  "name": "CITYJS Conference 2021",
+  "year": 2021,
+  "url": "https://cityjsconf.org",
+  "startDate": "2021-09-17",
+  "endDate": "2021-09-17",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/cityjsconf",
+  "source": "confs.tech"
+}

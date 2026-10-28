@@ -1,0 +1,21 @@
+{
+  "name": "PHP Yorkshire 2019",
+  "year": 2019,
+  "url": "https://www.phpyorkshire.co.uk",
+  "startDate": "2019-04-11",
+  "endDate": "2019-04-13",
+  "city": "York",
+  "country": "GB",
+  "lat": 53.95763,
+  "lng": -1.08271,
+  "topics": [
+    "PHP"
+  ],
+  "cfp": {
+    "url": "https://cfp.phpyorkshire.co.uk",
+    "deadline": "2018-11-17",
+    "open": false
+  },
+  "twitter": "https://x.com/phpyorkshire",
+  "source": "confs.tech"
+}

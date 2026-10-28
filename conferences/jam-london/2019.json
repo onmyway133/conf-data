@@ -1,0 +1,16 @@
+{
+  "name": "JAM London 2019",
+  "year": 2019,
+  "url": "https://www.jamlondon.io/events/conferences/jam-london-2019",
+  "startDate": "2019-10-31",
+  "endDate": "2019-11-01",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/makingjam",
+  "source": "confs.tech"
+}

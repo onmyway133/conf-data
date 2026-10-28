@@ -1,0 +1,23 @@
+{
+  "name": "Agile Testing Days 2024",
+  "year": 2024,
+  "url": "https://agiletestingdays.com",
+  "startDate": "2024-11-19",
+  "endDate": "2024-11-22",
+  "city": "Potsdam",
+  "country": "DE",
+  "lat": 52.39886,
+  "lng": 13.06566,
+  "topics": [
+    "Accessibility",
+    "DevOps",
+    "Testing"
+  ],
+  "cfp": {
+    "url": "https://agiletestingdays.com/call-for-papers",
+    "deadline": "2024-02-11",
+    "open": false
+  },
+  "twitter": "https://x.com/AgileTD",
+  "source": "confs.tech"
+}

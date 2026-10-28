@@ -1,0 +1,177 @@
+{
+  "name": "#Pragma Conference 2024",
+  "year": 2024,
+  "url": "https://pragmaconference.com",
+  "startDate": "2024-10-29",
+  "endDate": "2024-10-30",
+  "city": "Bologna",
+  "country": "IT",
+  "lat": 44.49381,
+  "lng": 11.33875,
+  "topics": [
+    "iOS"
+  ],
+  "cfp": {
+    "url": "https://pragmaconference.com/speakers.html",
+    "deadline": "2024-06-30",
+    "open": false
+  },
+  "twitter": "https://x.com/pragmamarkorg",
+  "mastodon": "https://mastodon.social/@pragmamark",
+  "source": "confs.tech",
+  "speakers": [
+    {
+      "speaker": "daniel-steinberg",
+      "role": "Storyteller, writer, trainer, coder @ dimsumthinking.com",
+      "photoUrl": "https://2024.pragmaconference.com/images/4/pragma-speakers-454.jpg",
+      "linkedin": "https://www.linkedin.com/in/dimsumthinking/",
+      "website": "https://www.dimsumthinking.com"
+    },
+    {
+      "speaker": "anna-beltrami",
+      "role": "Mad Scientist & Software Engineer",
+      "photoUrl": "https://2024.pragmaconference.com/images/j/anna_beltrami-454.jpg",
+      "twitter": "https://twitter.com/acbdev",
+      "linkedin": "https://www.linkedin.com/in/anna-b-8b0134a9/",
+      "website": "https://bento.me/acbdev"
+    },
+    {
+      "speaker": "antoine-van-der-lee",
+      "role": "Indie Developer & Founder of SwiftLee & RocketSim",
+      "photoUrl": "https://2024.pragmaconference.com/images/c/antoine_van_der_lee-454.jpeg",
+      "twitter": "https://twitter.com/twannl",
+      "linkedin": "https://www.linkedin.com/in/ajvanderlee/",
+      "website": "https://www.avanderlee.com/"
+    },
+    {
+      "speaker": "chris-eidhof",
+      "role": "Founder @ objc.io and host of Swift Talk",
+      "photoUrl": "https://2024.pragmaconference.com/images/a/chris-454.jpg",
+      "website": "https://chris.eidhof.nl/"
+    },
+    {
+      "speaker": "nick-lockwood",
+      "role": "Senior iOS engineer @ Bloomberg",
+      "photoUrl": "https://2024.pragmaconference.com/images/v/nick_lockwood-454.jpeg",
+      "website": "https://www.charcoaldesign.co.uk/"
+    },
+    {
+      "speaker": "amy-worrall",
+      "role": "iOS Engineer @ Facebook",
+      "photoUrl": "https://2024.pragmaconference.com/images/j/amy_warrall-454.jpeg",
+      "website": "https://www.amyworrall.com/"
+    },
+    {
+      "speaker": "manu-carrasco-molina",
+      "role": "visionOS & Senior iOS Developer",
+      "photoUrl": "https://2024.pragmaconference.com/images/v/stuffmc-454.jpg",
+      "linkedin": "https://linkedin.com/in/carrascomolina",
+      "website": "https://carrascomolina.com/"
+    },
+    {
+      "speaker": "tobias-due-munk",
+      "role": "Engineering Team Lead @ NORNORM",
+      "photoUrl": "https://2024.pragmaconference.com/images/p/tobias_due_munk-454.jpeg",
+      "website": "https://duemunk.dk/"
+    },
+    {
+      "speaker": "erica-engle",
+      "role": "Staff Technical Lead Manager @ Slack",
+      "photoUrl": "https://2024.pragmaconference.com/images/t/erica_engle-454.jpeg",
+      "twitter": "https://x.com/EricaEngle2",
+      "linkedin": "https://www.linkedin.com/in/erica-engle-b4906167/",
+      "website": "https://medium.com/@ericaengle"
+    },
+    {
+      "speaker": "eric-bariaux",
+      "role": "Founder @ Nelcea",
+      "photoUrl": "https://2024.pragmaconference.com/images/n/eric_bariaux-454.jpg",
+      "linkedin": "https://www.linkedin.com/in/ebariaux/",
+      "website": "https://www.ericbariaux.com/"
+    },
+    {
+      "speaker": "cyril-cermak",
+      "role": "iOS System Architect / Tech Lead @ Porsche AG",
+      "photoUrl": "https://2024.pragmaconference.com/images/h/cyril_cermak-454.jpeg",
+      "twitter": "https://x.com/cyrilcermak",
+      "linkedin": "https://www.linkedin.com/in/cyril-cermak-210a8b6b/",
+      "website": "https://cyrilcermak.com/"
+    },
+    {
+      "speaker": "tim-condon",
+      "role": "Core Team @ Vapor",
+      "photoUrl": "https://2024.pragmaconference.com/images/8/tim_condon-454.jpeg",
+      "website": "https://www.timc.dev/"
+    },
+    {
+      "speaker": "mikolas-stuchlik",
+      "role": "Senior iOS Developer @ Futured apps s. r. o.",
+      "photoUrl": "https://2024.pragmaconference.com/images/p/mikolas_stuchlik--454.jpeg",
+      "linkedin": "https://www.linkedin.com/in/mstuchlik/"
+    },
+    {
+      "speaker": "araks-avoyan",
+      "role": "Senior iOS Engineer @ Bambuser",
+      "photoUrl": "https://2024.pragmaconference.com/images/v/araks_avoyan-454.jpg",
+      "twitter": "https://x.com/araksavoyan",
+      "linkedin": "https://www.linkedin.com/in/araksavoyan/"
+    },
+    {
+      "speaker": "daniel-james-tronca",
+      "role": "Senior iOS Engineer @ Zalando",
+      "photoUrl": "https://2024.pragmaconference.com/images/r/daniel_james_tronca-454.jpeg",
+      "twitter": "https://twitter.com/danieltjamess",
+      "linkedin": "https://www.linkedin.com/in/daniel-james-tronca-a1602419a/",
+      "website": "https://www.danieljamestronca.com/"
+    },
+    {
+      "speaker": "aleksandar-vacic",
+      "role": "Founder and Director @ Radiant Tap",
+      "photoUrl": "https://2024.pragmaconference.com/images/c/aleksandar_vacic-454.jpeg",
+      "linkedin": "https://www.linkedin.com/in/aleksandar-vaci%C4%87-a08599215/",
+      "website": "https://aplus.rs/"
+    },
+    {
+      "speaker": "robin-kanatzar",
+      "role": "CEO & Mobile Engineer @ Accessible Mobile Apps",
+      "photoUrl": "https://2024.pragmaconference.com/images/c/robin_kalatzar-454.jpeg",
+      "twitter": "https://x.com/RobinKanatzar",
+      "linkedin": "https://www.linkedin.com/in/robin-kanatzar-63851a58/",
+      "website": "https://www.robinkanatzar.com/"
+    },
+    {
+      "speaker": "charles-pisciotta",
+      "role": "Software Engineer II @ Audible",
+      "photoUrl": "https://2024.pragmaconference.com/images/t/charles_pisciotta-454.jpg",
+      "twitter": "https://x.com/CharlesP000",
+      "linkedin": "https://www.linkedin.com/in/charlespisciotta/",
+      "website": "https://www.charlespisciotta.com/"
+    },
+    {
+      "speaker": "feli-bernutz",
+      "role": "iOS engineer @ Spotify",
+      "photoUrl": "https://2024.pragmaconference.com/images/j/feli_bernutz-454.jpeg",
+      "twitter": "https://x.com/felibe444",
+      "website": "https://fbernutz.github.io/"
+    },
+    {
+      "speaker": "antonio-markotic",
+      "role": "iOS Engineer @ Endava | Founder @ Room Decor Studio",
+      "photoUrl": "https://2024.pragmaconference.com/images/0/antonio_markotic-454.jpg",
+      "linkedin": "https://www.linkedin.com/in/antonio-markotic/"
+    },
+    {
+      "speaker": "steven-van-impe",
+      "role": "Lecturer @ HOGENT University of Applied Sciences",
+      "photoUrl": "https://2024.pragmaconference.com/images/h/steven_van_impe-454.jpg",
+      "twitter": "https://twitter.com/pwsacademy",
+      "website": "https://pwsacademy.org"
+    },
+    {
+      "speaker": "nikolaj-schumacher",
+      "role": "Team Lead @ JetBrains",
+      "photoUrl": "https://2024.pragmaconference.com/images/2/nikolaj_schumacher-456.jpg",
+      "linkedin": "https://www.linkedin.com/in/nikolaj-schumacher-1b799a309/"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Devopsdays Birmingham 2022",
+  "year": 2022,
+  "url": "https://devopsdays.org/events/2022-birmingham-uk/welcome",
+  "startDate": "2022-05-05",
+  "endDate": "2022-05-06",
+  "city": "Birmingham",
+  "country": "GB",
+  "lat": 52.48142,
+  "lng": -1.89983,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/devopsdays-birmingham-uk-2022",
+    "deadline": "2022-02-20",
+    "open": false
+  },
+  "source": "confs.tech"
+}

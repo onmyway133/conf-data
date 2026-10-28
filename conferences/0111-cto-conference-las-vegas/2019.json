@@ -1,0 +1,15 @@
+{
+  "name": "0111 CTO Conference Las Vegas 2019",
+  "year": 2019,
+  "url": "https://7ctos.com/0111-las-vegas-2019",
+  "startDate": "2019-03-29",
+  "endDate": "2019-03-29",
+  "city": "Las Vegas, NV",
+  "country": "US",
+  "lat": 36.17497,
+  "lng": -115.13722,
+  "topics": [
+    "Data/AI"
+  ],
+  "source": "confs.tech"
+}

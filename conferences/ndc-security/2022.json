@@ -1,0 +1,21 @@
+{
+  "name": "NDC Security 2022",
+  "year": 2022,
+  "url": "https://ndc-security.com",
+  "startDate": "2022-04-03",
+  "endDate": "2022-04-06",
+  "city": "Oslo",
+  "country": "NO",
+  "lat": 59.91273,
+  "lng": 10.74609,
+  "topics": [
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://ndc-security.com/call-for-papers",
+    "deadline": "2022-01-15",
+    "open": false
+  },
+  "twitter": "https://x.com/NDC_Conferences",
+  "source": "confs.tech"
+}

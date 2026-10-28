@@ -1,0 +1,17 @@
+{
+  "name": "Vuejs Amsterdam 2027",
+  "year": 2027,
+  "url": "https://www.vuejs.amsterdam",
+  "startDate": "2027-03-11",
+  "endDate": "2027-03-12",
+  "city": "Amsterdam",
+  "country": "NL",
+  "lat": 52.37403,
+  "lng": 4.88969,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/vuejsamsterdam",
+  "bluesky": "https://bsky.app/profile/vuejsamsterdam.bsky.social",
+  "source": "confs.tech"
+}

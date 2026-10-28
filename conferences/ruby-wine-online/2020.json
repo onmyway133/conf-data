@@ -1,0 +1,15 @@
+{
+  "name": "Ruby Wine Online 2020",
+  "year": 2020,
+  "url": "https://www.rubywine.org",
+  "startDate": "2020-04-04",
+  "endDate": "2020-04-04",
+  "city": "Chișinău",
+  "country": "MD",
+  "lat": 47.00902,
+  "lng": 28.85938,
+  "topics": [
+    "Ruby"
+  ],
+  "source": "confs.tech"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Localhost 2019",
+  "year": 2019,
+  "url": "https://localhost.engineering",
+  "startDate": "2019-10-12",
+  "endDate": "2019-10-12",
+  "city": "Düsseldorf",
+  "country": "DE",
+  "lat": 51.22319,
+  "lng": 6.77927,
+  "topics": [],
+  "twitter": "https://x.com/localhost_conf",
+  "source": "confs.tech"
+}

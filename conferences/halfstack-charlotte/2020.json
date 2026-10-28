@@ -1,0 +1,16 @@
+{
+  "name": "HalfStack Charlotte 2020",
+  "year": 2020,
+  "url": "https://halfstackconf.com/charlotte",
+  "startDate": "2020-12-11",
+  "endDate": "2020-12-11",
+  "city": "Charlotte, NC",
+  "country": "US",
+  "lat": 35.22709,
+  "lng": -80.84313,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/halfstackconf",
+  "source": "confs.tech"
+}

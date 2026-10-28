@@ -1,0 +1,21 @@
+{
+  "name": "GitLab Commit Conferences 2019",
+  "year": 2019,
+  "url": "https://about.gitlab.com/events/commit",
+  "startDate": "2019-09-16",
+  "endDate": "2019-09-17",
+  "city": "Brooklyn, NY",
+  "country": "US",
+  "lat": 40.6501,
+  "lng": -73.94958,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSdbDLOt7jYDlvZqgs2-IlOoLexszEZ0zGghA3HB-VEq_vVICA/viewform",
+    "deadline": "2019-07-19",
+    "open": false
+  },
+  "twitter": "https://x.com/gitlab",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "BlackBerry Summit 2023",
+  "year": 2023,
+  "url": "https://www.blackberry.com/us/en/events/2023/blackberry-summit",
+  "startDate": "2023-10-17",
+  "endDate": "2023-10-17",
+  "city": "New York, NY",
+  "country": "US",
+  "lat": 40.71427,
+  "lng": -74.00597,
+  "topics": [
+    "IoT",
+    "Security"
+  ],
+  "source": "confs.tech"
+}

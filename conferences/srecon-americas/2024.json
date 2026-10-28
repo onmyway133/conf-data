@@ -1,0 +1,21 @@
+{
+  "name": "SRECon Americas 2024",
+  "year": 2024,
+  "url": "https://www.usenix.org/conference/srecon24americas",
+  "startDate": "2024-03-18",
+  "endDate": "2024-03-20",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [
+    "SRE"
+  ],
+  "cfp": {
+    "url": "https://www.usenix.org/conference/srecon24americas/call-for-participation",
+    "deadline": "2023-10-31",
+    "open": false
+  },
+  "twitter": "https://x.com/srecon",
+  "source": "confs.tech"
+}

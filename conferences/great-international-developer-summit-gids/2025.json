@@ -1,0 +1,19 @@
+{
+  "name": "Great International Developer Summit (GIDS) 2025",
+  "year": 2025,
+  "url": "https://developersummit.com",
+  "startDate": "2025-04-22",
+  "endDate": "2025-04-25",
+  "city": "Bengaluru",
+  "country": "IN",
+  "lat": 12.97194,
+  "lng": 77.59369,
+  "topics": [],
+  "cfp": {
+    "url": "https://developersummit.com/cfp",
+    "deadline": "2024-09-30",
+    "open": false
+  },
+  "twitter": "https://x.com/developersummit",
+  "source": "confs.tech"
+}

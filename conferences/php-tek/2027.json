@@ -1,0 +1,19 @@
+{
+  "name": "PHP Tek 2027",
+  "year": 2027,
+  "url": "https://phptek.io/",
+  "startDate": "2027-04-27",
+  "endDate": "2027-04-29",
+  "city": "Chicago",
+  "country": "US",
+  "topics": [
+    "Web",
+    "DevOps",
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/php-tek-2027/",
+    "deadline": "2026-10-31",
+    "open": true
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "InflectraCon 2022",
+  "year": 2022,
+  "url": "https://www.inflectracon.com",
+  "startDate": "2022-05-05",
+  "endDate": "2022-05-06",
+  "city": "Washington, DC",
+  "country": "US",
+  "lat": 38.89511,
+  "lng": -77.03637,
+  "topics": [
+    "DevOps",
+    "Testing"
+  ],
+  "twitter": "https://x.com/inflectraCon",
+  "source": "confs.tech"
+}

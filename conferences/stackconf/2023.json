@@ -1,0 +1,16 @@
+{
+  "name": "stackconf 2023",
+  "year": 2023,
+  "url": "https://stackconf.eu",
+  "startDate": "2023-09-13",
+  "endDate": "2023-09-14",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "Networking"
+  ],
+  "twitter": "https://x.com/stackonf",
+  "source": "confs.tech"
+}

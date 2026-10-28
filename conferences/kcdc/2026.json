@@ -1,0 +1,15 @@
+{
+  "name": "KCDC 2026",
+  "year": 2026,
+  "url": "https://www.kcdc.info",
+  "startDate": "2026-09-09",
+  "endDate": "2026-09-11",
+  "city": "Kansas City, MO",
+  "country": "US",
+  "lat": 39.09973,
+  "lng": -94.57857,
+  "topics": [],
+  "twitter": "https://x.com/kc_dc",
+  "bluesky": "https://bsky.app/profile/kcdc.bsky.social",
+  "source": "confs.tech"
+}

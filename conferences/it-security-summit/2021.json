@@ -1,0 +1,16 @@
+{
+  "name": "IT Security Summit 2021",
+  "year": 2021,
+  "url": "https://it-security-summit.de/muenchen",
+  "startDate": "2021-05-19",
+  "endDate": "2021-05-21",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [
+    "Security"
+  ],
+  "twitter": "https://x.com/ITSecSummit",
+  "source": "confs.tech"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Developer Developer Developer East Anglia 2019",
+  "year": 2019,
+  "url": "https://www.dddeastanglia.com",
+  "startDate": "2019-09-21",
+  "endDate": "2019-09-21",
+  "city": "Cambridge",
+  "country": "GB",
+  "lat": 52.2,
+  "lng": 0.11667,
+  "topics": [],
+  "cfp": {
+    "url": "https://www.dddeastanglia.com/Session/Create",
+    "deadline": "2019-07-20",
+    "open": false
+  },
+  "twitter": "https://x.com/dddeastanglia",
+  "source": "confs.tech"
+}

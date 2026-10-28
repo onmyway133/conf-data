@@ -1,0 +1,23 @@
+{
+  "name": "phpday 2023",
+  "year": 2023,
+  "url": "https://2023.phpday.it",
+  "startDate": "2023-05-18",
+  "endDate": "2023-05-19",
+  "city": "Verona",
+  "country": "IT",
+  "lat": 45.43854,
+  "lng": 10.9938,
+  "topics": [
+    "APIs",
+    "PHP",
+    "Testing"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSdo5I9UCxBTmVWNa4UKzkpk2f_ObW4Ce_kHuXBy2zZWcKuEwg/viewform",
+    "deadline": "2023-01-16",
+    "open": false
+  },
+  "twitter": "https://x.com/phpday",
+  "source": "confs.tech"
+}

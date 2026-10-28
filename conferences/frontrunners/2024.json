@@ -1,0 +1,23 @@
+{
+  "name": "Frontrunners 2024",
+  "year": 2024,
+  "url": "https://frontrunners.tech",
+  "startDate": "2024-03-08",
+  "endDate": "2024-03-08",
+  "city": "Arlington, VA",
+  "country": "US",
+  "lat": 32.73569,
+  "lng": -97.10807,
+  "topics": [
+    "CSS",
+    "JavaScript",
+    "Design/UX"
+  ],
+  "cfp": {
+    "url": "https://www.papercall.io/frontrunners2024",
+    "deadline": "2023-10-20",
+    "open": false
+  },
+  "twitter": "https://x.com/frontrunnersdc",
+  "source": "confs.tech"
+}

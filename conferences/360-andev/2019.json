@@ -1,0 +1,15 @@
+{
+  "name": "360|AnDev 2019",
+  "year": 2019,
+  "url": "http://360andev.com",
+  "startDate": "2019-07-18",
+  "endDate": "2019-07-19",
+  "city": "Denver, CO",
+  "country": "US",
+  "lat": 39.73915,
+  "lng": -104.9847,
+  "topics": [
+    "Android"
+  ],
+  "source": "confs.tech"
+}

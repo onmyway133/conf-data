@@ -1,0 +1,19 @@
+{
+  "name": "Women Techmakers Salt Lake 2019",
+  "year": 2019,
+  "url": "https://sites.google.com/view/wtmslc/home",
+  "startDate": "2019-03-23",
+  "endDate": "2019-03-23",
+  "city": "Salt Lake City, UT",
+  "country": "US",
+  "lat": 40.76078,
+  "lng": -111.89105,
+  "topics": [],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSfaN3o7NuHVjE-sW9C1PbKUQ0qXsll5gz5VpIjrBQsAZCAiNw/viewform",
+    "deadline": "2019-02-12",
+    "open": false
+  },
+  "twitter": "https://x.com/wtmSaltLake",
+  "source": "confs.tech"
+}

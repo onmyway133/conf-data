@@ -1,0 +1,16 @@
+{
+  "name": "The Deep Learning Summit 2020",
+  "year": 2020,
+  "url": "https://www.re-work.co/summits/sanfrancisco-summit-2020",
+  "startDate": "2020-01-30",
+  "endDate": "2020-01-31",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/teamrework",
+  "source": "confs.tech"
+}

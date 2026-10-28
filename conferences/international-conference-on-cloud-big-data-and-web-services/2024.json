@@ -1,0 +1,20 @@
+{
+  "name": "International Conference on Cloud, Big Data and Web Services 2024",
+  "year": 2024,
+  "url": "https://icaita2024.org/cbw/index",
+  "startDate": "2024-05-25",
+  "endDate": "2024-05-26",
+  "city": "Vancouver",
+  "country": "CA",
+  "lat": 49.24966,
+  "lng": -123.11934,
+  "topics": [
+    "C++"
+  ],
+  "cfp": {
+    "url": "https://icaita2024.org/cbw/papersubmission",
+    "deadline": "2024-04-13",
+    "open": false
+  },
+  "source": "confs.tech"
+}

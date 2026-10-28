@@ -1,0 +1,16 @@
+{
+  "name": "CodeMotion Berlin 2019",
+  "year": 2019,
+  "url": "https://events.codemotion.com/conferences/berlin/2019",
+  "startDate": "2019-11-12",
+  "endDate": "2019-11-13",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "Java"
+  ],
+  "twitter": "https://x.com/codemoBerlin",
+  "source": "confs.tech"
+}

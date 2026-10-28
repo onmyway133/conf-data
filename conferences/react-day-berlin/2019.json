@@ -1,0 +1,21 @@
+{
+  "name": "React Day Berlin 2019",
+  "year": 2019,
+  "url": "https://reactday.berlin",
+  "startDate": "2019-12-06",
+  "endDate": "2019-12-06",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://forms.gle/AgMTgshXsNuNACCN7",
+    "deadline": "2019-08-31",
+    "open": false
+  },
+  "twitter": "https://x.com/reactdayberlin",
+  "source": "confs.tech"
+}

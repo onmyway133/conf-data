@@ -1,0 +1,18 @@
+{
+  "name": "DjangoCon US 2026",
+  "year": 2026,
+  "url": "https://2026.djangocon.us",
+  "startDate": "2026-08-24",
+  "endDate": "2026-08-28",
+  "city": "Chicago, IL",
+  "country": "US",
+  "lat": 41.85003,
+  "lng": -87.65005,
+  "topics": [
+    "Python"
+  ],
+  "twitter": "https://x.com/djangocon.us",
+  "bluesky": "https://bsky.app/profile/djangocon.us",
+  "mastodon": "https://fosstodon.org/@djangocon",
+  "source": "confs.tech"
+}

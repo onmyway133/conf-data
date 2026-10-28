@@ -1,0 +1,16 @@
+{
+  "name": "DesignOps Global Conference 2019",
+  "year": 2019,
+  "url": "https://designops-conference.com",
+  "startDate": "2019-05-30",
+  "endDate": "2019-05-31",
+  "city": "Manchester",
+  "country": "GB",
+  "lat": 53.48095,
+  "lng": -2.23743,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/2019Gc",
+  "source": "confs.tech"
+}

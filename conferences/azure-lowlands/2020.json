@@ -1,0 +1,16 @@
+{
+  "name": "Azure Lowlands 2020",
+  "year": 2020,
+  "url": "https://www.azurelowlands.com",
+  "startDate": "2020-01-24",
+  "endDate": "2020-01-24",
+  "city": "Rotterdam",
+  "country": "NL",
+  "lat": 51.9225,
+  "lng": 4.47917,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/AzureLowlands",
+  "source": "confs.tech"
+}

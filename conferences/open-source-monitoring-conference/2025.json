@@ -1,0 +1,16 @@
+{
+  "name": "Open Source Monitoring Conference 2025",
+  "year": 2025,
+  "url": "https://osmc.de",
+  "startDate": "2025-11-18",
+  "endDate": "2025-11-20",
+  "city": "Nürnberg",
+  "country": "DE",
+  "lat": 49.45421,
+  "lng": 11.07752,
+  "topics": [
+    ".NET"
+  ],
+  "twitter": "https://x.com/osmc",
+  "source": "confs.tech"
+}

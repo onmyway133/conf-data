@@ -1,0 +1,20 @@
+{
+  "name": "VibeKode 2026",
+  "year": 2026,
+  "url": "https://vibekode.it",
+  "startDate": "2026-06-23",
+  "endDate": "2026-06-26",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://vibekode.it/call-for-papers",
+    "deadline": "2026-01-14",
+    "open": false
+  },
+  "source": "confs.tech"
+}

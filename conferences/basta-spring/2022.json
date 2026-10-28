@@ -1,0 +1,16 @@
+{
+  "name": "BASTA! Spring 2022",
+  "year": 2022,
+  "url": "https://basta.net/frankfurt",
+  "startDate": "2022-02-21",
+  "endDate": "2022-02-25",
+  "city": "Frankfurt am Main",
+  "country": "DE",
+  "lat": 50.11552,
+  "lng": 8.68417,
+  "topics": [
+    ".NET"
+  ],
+  "twitter": "https://x.com/BASTAcon",
+  "source": "confs.tech"
+}

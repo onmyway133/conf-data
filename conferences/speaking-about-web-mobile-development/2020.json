@@ -1,0 +1,15 @@
+{
+  "name": "Speaking About - Web & Mobile development 2020",
+  "year": 2020,
+  "url": "http://speaking.aidicb.pt",
+  "startDate": "2020-10-03",
+  "endDate": "2020-10-03",
+  "city": "Castelo Branco",
+  "country": "PT",
+  "lat": 39.82364,
+  "lng": -7.49101,
+  "topics": [
+    "DevOps"
+  ],
+  "source": "confs.tech"
+}

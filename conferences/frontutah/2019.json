@@ -1,0 +1,16 @@
+{
+  "name": "FrontUtah 2019",
+  "year": 2019,
+  "url": "https://www.frontutah.com/conference",
+  "startDate": "2019-06-06",
+  "endDate": "2019-06-07",
+  "city": "Salt Lake City, UT",
+  "country": "US",
+  "lat": 40.76078,
+  "lng": -111.89105,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/front",
+  "source": "confs.tech"
+}

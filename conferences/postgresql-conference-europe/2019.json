@@ -1,0 +1,16 @@
+{
+  "name": "PostgreSQL Conference Europe 2019",
+  "year": 2019,
+  "url": "https://2019.pgconf.eu",
+  "startDate": "2019-10-15",
+  "endDate": "2019-10-18",
+  "city": "Milano",
+  "country": "IT",
+  "lat": 45.46427,
+  "lng": 9.18951,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/pgconfeu",
+  "source": "confs.tech"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "World Haptics 2019",
+  "year": 2019,
+  "url": "http://www.worldhaptics2019.org",
+  "startDate": "2019-07-09",
+  "endDate": "2019-07-12",
+  "city": "Tokyo",
+  "country": "JP",
+  "lat": 35.6895,
+  "lng": 139.69171,
+  "topics": [
+    "Design/UX"
+  ],
+  "source": "confs.tech"
+}

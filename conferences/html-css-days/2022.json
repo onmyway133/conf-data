@@ -1,0 +1,16 @@
+{
+  "name": "HTML & CSS Days 2022",
+  "year": 2022,
+  "url": "https://javascript-days.de/html-css",
+  "startDate": "2022-03-21",
+  "endDate": "2022-03-24",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [
+    "CSS"
+  ],
+  "twitter": "https://x.com/htmlcssdays",
+  "source": "confs.tech"
+}

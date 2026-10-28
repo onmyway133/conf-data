@@ -1,0 +1,16 @@
+{
+  "name": "ML Conference Munich 2022",
+  "year": 2022,
+  "url": "https://mlconference.ai/munich",
+  "startDate": "2022-06-27",
+  "endDate": "2022-06-29",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/mlconference",
+  "source": "confs.tech"
+}

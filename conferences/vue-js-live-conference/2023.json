@@ -1,0 +1,22 @@
+{
+  "name": "Vue.js Live Conference 2023",
+  "year": 2023,
+  "url": "https://vuejslive.com",
+  "startDate": "2023-05-12",
+  "endDate": "2023-05-15",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "JavaScript",
+    "Networking"
+  ],
+  "cfp": {
+    "url": "https://forms.gle/V1727ta24LLFBqKD7",
+    "deadline": "2023-02-05",
+    "open": false
+  },
+  "twitter": "https://x.com/VueJSLive",
+  "source": "confs.tech"
+}

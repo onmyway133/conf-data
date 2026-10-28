@@ -1,0 +1,14 @@
+{
+  "name": "WordCamp, Seattle 2019",
+  "year": 2019,
+  "url": "https://2019.seattle.wordcamp.org",
+  "startDate": "2019-11-09",
+  "endDate": "2019-11-10",
+  "city": "Seattle, WA",
+  "country": "US",
+  "lat": 47.60621,
+  "lng": -122.33207,
+  "topics": [],
+  "twitter": "https://x.com/wordcampseattle",
+  "source": "confs.tech"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "GDG DevFest Modesto & Berkeley 2019",
+  "year": 2019,
+  "url": "https://www.meetup.com/GDG-Modesto-Google-Developer-Group/events/260757377",
+  "startDate": "2019-10-19",
+  "endDate": "2019-10-19",
+  "city": "Modesto, CA",
+  "country": "US",
+  "lat": 37.6391,
+  "lng": -120.99688,
+  "topics": [],
+  "cfp": {
+    "url": "https://www.papercall.io/gdg-devfest-modesto-2019",
+    "deadline": "2019-10-12",
+    "open": false
+  },
+  "source": "confs.tech"
+}

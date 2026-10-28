@@ -1,0 +1,20 @@
+{
+  "name": "NSSpain 2025",
+  "year": 2025,
+  "url": "https://2025.nsspain.com",
+  "startDate": "2025-09-18",
+  "endDate": "2025-09-19",
+  "city": "Logroño",
+  "country": "ES",
+  "lat": 42.46615,
+  "lng": -2.45115,
+  "topics": [
+    "iOS"
+  ],
+  "cfp": {
+    "url": "https://2025.nsspain.com/#speakers",
+    "deadline": "2025-06-30",
+    "open": false
+  },
+  "source": "cocoaconferences"
+}

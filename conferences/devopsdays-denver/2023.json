@@ -1,0 +1,16 @@
+{
+  "name": "Devopsdays Denver 2023",
+  "year": 2023,
+  "url": "https://devopsdays.org/events/2023-denver/welcome",
+  "startDate": "2023-04-23",
+  "endDate": "2023-04-24",
+  "city": "Denver, CO",
+  "country": "US",
+  "lat": 39.73915,
+  "lng": -104.9847,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devopsdaysrox",
+  "source": "confs.tech"
+}

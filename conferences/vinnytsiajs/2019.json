@@ -1,0 +1,16 @@
+{
+  "name": "VinnytsiaJS 2019",
+  "year": 2019,
+  "url": "http://vinnytsiajs.org",
+  "startDate": "2019-08-03",
+  "endDate": "2019-08-04",
+  "city": "Vinnytsia",
+  "country": "UA",
+  "lat": 49.2322,
+  "lng": 28.46871,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/VinnytsiaJS",
+  "source": "confs.tech"
+}

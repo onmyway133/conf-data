@@ -1,0 +1,16 @@
+{
+  "name": "DevOpsCon London 2021",
+  "year": 2021,
+  "url": "https://devopscon.io/london",
+  "startDate": "2021-04-20",
+  "endDate": "2021-04-23",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devops_con",
+  "source": "confs.tech"
+}

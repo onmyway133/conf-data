@@ -1,0 +1,16 @@
+{
+  "name": "NVIDIA GTC AI Conference 2025",
+  "year": 2025,
+  "url": "https://www.nvidia.com/gtc",
+  "startDate": "2025-03-17",
+  "endDate": "2025-03-21",
+  "city": "San Jose, CA",
+  "country": "US",
+  "lat": 37.33939,
+  "lng": -121.89496,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/NVIDIAGTC",
+  "source": "confs.tech"
+}

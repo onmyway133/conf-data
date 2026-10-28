@@ -1,0 +1,15 @@
+{
+  "name": "NexTech Week Tokyo 2023",
+  "year": 2023,
+  "url": "https://www.nextech-week.jp/spring/en-gb.html",
+  "startDate": "2023-05-10",
+  "endDate": "2023-05-12",
+  "city": "Koto",
+  "country": "JP",
+  "lat": 32.77856,
+  "lng": 130.74537,
+  "topics": [
+    "Data/AI"
+  ],
+  "source": "confs.tech"
+}

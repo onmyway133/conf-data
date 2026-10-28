@@ -1,0 +1,18 @@
+{
+  "name": "API Conference Berlin 2026",
+  "year": 2026,
+  "url": "https://apiconference.net/berlin",
+  "startDate": "2026-11-16",
+  "endDate": "2026-11-20",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "APIs",
+    "DevOps",
+    "Security"
+  ],
+  "twitter": "https://x.com/api_conference",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "CppCon 2024",
+  "year": 2024,
+  "url": "https://cppcon.org",
+  "startDate": "2024-09-15",
+  "endDate": "2024-09-20",
+  "city": "Aurora, CO",
+  "country": "US",
+  "lat": 39.72943,
+  "lng": -104.83192,
+  "topics": [
+    "C++"
+  ],
+  "twitter": "https://x.com/cppcon",
+  "source": "confs.tech"
+}

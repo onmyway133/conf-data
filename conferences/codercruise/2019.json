@@ -1,0 +1,19 @@
+{
+  "name": "CoderCruise 2019",
+  "year": 2019,
+  "url": "https://www.codercruise.com",
+  "startDate": "2019-08-19",
+  "endDate": "2019-08-23",
+  "city": "Port Canaveral, FL",
+  "country": "US",
+  "lat": 28.40584,
+  "lng": -80.60477,
+  "topics": [],
+  "cfp": {
+    "url": "https://www.papercall.io/codercruise-2019",
+    "deadline": "2019-03-03",
+    "open": false
+  },
+  "twitter": "https://x.com/codercruise",
+  "source": "confs.tech"
+}

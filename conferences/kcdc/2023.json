@@ -1,0 +1,14 @@
+{
+  "name": "KCDC 2023",
+  "year": 2023,
+  "url": "https://www.kcdc.info",
+  "startDate": "2023-06-21",
+  "endDate": "2023-06-23",
+  "city": "Kansas City, KS",
+  "country": "US",
+  "lat": 39.09973,
+  "lng": -94.57857,
+  "topics": [],
+  "twitter": "https://x.com/kc_dc",
+  "source": "confs.tech"
+}

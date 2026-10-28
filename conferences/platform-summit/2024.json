@@ -1,0 +1,17 @@
+{
+  "name": "Platform Summit 2024",
+  "year": 2024,
+  "url": "https://nordicapis.com/events/platform-summit-2024",
+  "startDate": "2024-10-07",
+  "endDate": "2024-10-09",
+  "city": "Stockholm",
+  "country": "SE",
+  "lat": 59.32938,
+  "lng": 18.06871,
+  "topics": [
+    "APIs",
+    "DevOps",
+    "Security"
+  ],
+  "source": "confs.tech"
+}

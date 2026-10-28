@@ -1,0 +1,17 @@
+{
+  "name": "Capital Series Poland 2025",
+  "year": 2025,
+  "url": "https://openforumeurope.org/event/capital-series-poland/",
+  "startDate": "2025-06-11",
+  "endDate": "2025-06-11",
+  "city": "Warsaw",
+  "country": "PL",
+  "lat": 52.22977,
+  "lng": 21.01178,
+  "topics": [
+    "Open Source"
+  ],
+  "bluesky": "https://bsky.app/profile/openforumeurope.org",
+  "mastodon": "https://mastodon.cloud/@OpenForumEurope",
+  "source": "confs.tech"
+}

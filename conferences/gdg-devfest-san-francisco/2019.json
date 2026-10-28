@@ -1,0 +1,18 @@
+{
+  "name": "GDG DevFest San Francisco 2019",
+  "year": 2019,
+  "url": "https://devfestsanfrancisco.eventbrite.com",
+  "startDate": "2019-09-21",
+  "endDate": "2019-09-21",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [],
+  "cfp": {
+    "url": "https://www.papercall.io/gdgdevfest",
+    "deadline": "2019-08-31",
+    "open": false
+  },
+  "source": "confs.tech"
+}

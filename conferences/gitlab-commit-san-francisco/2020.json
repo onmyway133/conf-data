@@ -1,0 +1,16 @@
+{
+  "name": "GitLab Commit San Francisco 2020",
+  "year": 2020,
+  "url": "https://about.gitlab.com/events/commit",
+  "startDate": "2020-01-14",
+  "endDate": "2020-01-14",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/gitlab",
+  "source": "confs.tech"
+}

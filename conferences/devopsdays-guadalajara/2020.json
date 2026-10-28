@@ -1,0 +1,15 @@
+{
+  "name": "devopsdays Guadalajara 2020",
+  "year": 2020,
+  "url": "https://devopsdays.org/events/2020-guadalajara",
+  "startDate": "2020-02-20",
+  "endDate": "2020-02-21",
+  "city": "Guadalajara",
+  "country": "MX",
+  "lat": 20.67738,
+  "lng": -103.34749,
+  "topics": [
+    "DevOps"
+  ],
+  "source": "confs.tech"
+}

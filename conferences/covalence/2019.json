@@ -1,0 +1,16 @@
+{
+  "name": "Covalence 2019",
+  "year": 2019,
+  "url": "http://www.covalenceconf.com",
+  "startDate": "2019-01-16",
+  "endDate": "2019-01-16",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/covalenceconf",
+  "source": "confs.tech"
+}

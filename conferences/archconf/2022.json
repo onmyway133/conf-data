@@ -1,0 +1,16 @@
+{
+  "name": "ArchConf 2022",
+  "year": 2022,
+  "url": "https://archconf.com",
+  "startDate": "2022-12-12",
+  "endDate": "2022-12-15",
+  "city": "Clearwater, FL",
+  "country": "US",
+  "lat": 27.96585,
+  "lng": -82.8001,
+  "topics": [
+    "Java"
+  ],
+  "twitter": "https://x.com/nofluff",
+  "source": "confs.tech"
+}

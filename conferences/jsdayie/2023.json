@@ -1,0 +1,16 @@
+{
+  "name": "JSDayIE 2023",
+  "year": 2023,
+  "url": "https://www.jsday.ie",
+  "startDate": "2023-09-26",
+  "endDate": "2023-09-26",
+  "city": "Dublin",
+  "country": "IE",
+  "lat": 53.33306,
+  "lng": -6.24889,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/jsdayie",
+  "source": "confs.tech"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "droidcon Lagos 2020",
+  "year": 2020,
+  "url": "https://www.droidcon.com",
+  "startDate": "2020-09-04",
+  "endDate": "2020-09-05",
+  "city": "Lagos",
+  "country": "NG",
+  "lat": 6.45407,
+  "lng": 3.39467,
+  "topics": [
+    "Android"
+  ],
+  "source": "confs.tech"
+}

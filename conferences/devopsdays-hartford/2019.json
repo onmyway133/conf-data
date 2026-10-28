@@ -1,0 +1,21 @@
+{
+  "name": "DevOpsDays Hartford 2019",
+  "year": 2019,
+  "url": "https://devopsdays.org/events/2019-hartford/welcome",
+  "startDate": "2019-10-02",
+  "endDate": "2019-10-03",
+  "city": "Hartford, CT",
+  "country": "US",
+  "lat": 41.76371,
+  "lng": -72.68509,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://www.papercall.io/devopsdays-hartford-2019",
+    "deadline": "2019-08-05",
+    "open": false
+  },
+  "twitter": "https://x.com/devopsdayshfd",
+  "source": "confs.tech"
+}

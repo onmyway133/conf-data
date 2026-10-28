@@ -1,0 +1,20 @@
+{
+  "name": "Devopsdays Halifax 2025",
+  "year": 2025,
+  "url": "https://devopsdays.org/events/2025-halifax/welcome/",
+  "startDate": "2025-08-26",
+  "endDate": "2025-08-27",
+  "city": "Halifax",
+  "country": "CA",
+  "lat": 44.64269,
+  "lng": -63.57688,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://talks.devopsdays.org/devopsdays-halifax-2025/cfp",
+    "deadline": "2025-03-31",
+    "open": false
+  },
+  "source": "confs.tech"
+}

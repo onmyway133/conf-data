@@ -1,0 +1,16 @@
+{
+  "name": "SolidusConf 2019",
+  "year": 2019,
+  "url": "https://conf.solidus.io",
+  "startDate": "2019-10-21",
+  "endDate": "2019-10-24",
+  "city": "Salt Lake City, UT",
+  "country": "US",
+  "lat": 40.76078,
+  "lng": -111.89105,
+  "topics": [
+    "Ruby"
+  ],
+  "twitter": "https://x.com/solidusIO",
+  "source": "confs.tech"
+}

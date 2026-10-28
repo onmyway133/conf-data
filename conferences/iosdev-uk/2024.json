@@ -1,0 +1,20 @@
+{
+  "name": "iOS Dev UK 2024",
+  "year": 2024,
+  "url": "https://www.iosdevuk.com",
+  "startDate": "2024-09-02",
+  "endDate": "2024-09-05",
+  "city": "Aberystwyth",
+  "country": "GB",
+  "lat": 52.41548,
+  "lng": -4.08292,
+  "topics": [
+    "iOS"
+  ],
+  "cfp": {
+    "url": "https://www.iosdevuk.com/speakercall",
+    "deadline": "2024-02-05",
+    "open": false
+  },
+  "source": "cocoaconferences"
+}

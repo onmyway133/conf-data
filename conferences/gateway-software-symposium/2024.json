@@ -1,0 +1,17 @@
+{
+  "name": "Gateway Software Symposium 2024",
+  "year": 2024,
+  "url": "https://nofluffjuststuff.com/stlouis",
+  "startDate": "2024-04-05",
+  "endDate": "2024-04-06",
+  "city": "St. Louis, MO",
+  "country": "US",
+  "lat": 38.62727,
+  "lng": -90.19789,
+  "topics": [
+    "Data/AI",
+    "Java"
+  ],
+  "twitter": "https://x.com/nofluff",
+  "source": "confs.tech"
+}

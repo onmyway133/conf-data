@@ -1,0 +1,17 @@
+{
+  "name": "DevOpsDays Raleigh 2025",
+  "year": 2025,
+  "url": "https://devopsdays.org/events/2025-raleigh/welcome",
+  "startDate": "2025-04-16",
+  "endDate": "2025-04-17",
+  "city": "Raleigh, NC",
+  "country": "US",
+  "lat": 35.7721,
+  "lng": -78.63861,
+  "topics": [
+    "DevOps",
+    "Testing"
+  ],
+  "twitter": "https://x.com/DevOpsDaysRDU",
+  "source": "confs.tech"
+}

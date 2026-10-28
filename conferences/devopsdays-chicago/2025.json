@@ -1,0 +1,16 @@
+{
+  "name": "Devopsdays Chicago 2025",
+  "year": 2025,
+  "url": "https://devopsdays.org/events/2025-chicago/welcome/",
+  "startDate": "2025-03-18",
+  "endDate": "2025-03-18",
+  "city": "Chicago, IL",
+  "country": "US",
+  "lat": 41.85003,
+  "lng": -87.65005,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devopsdayschi",
+  "source": "confs.tech"
+}

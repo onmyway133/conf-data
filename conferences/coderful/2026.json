@@ -1,0 +1,15 @@
+{
+  "name": "Coderful 2026",
+  "year": 2026,
+  "url": "https://www.coderful.io",
+  "startDate": "2026-06-12",
+  "endDate": "2026-06-12",
+  "city": "Catania",
+  "country": "IT",
+  "lat": 37.49223,
+  "lng": 15.07041,
+  "topics": [
+    "Data/AI"
+  ],
+  "source": "confs.tech"
+}

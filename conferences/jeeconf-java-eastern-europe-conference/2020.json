@@ -1,0 +1,16 @@
+{
+  "name": "JEEConf/ Java Eastern Europe Conference 2020",
+  "year": 2020,
+  "url": "https://jeeconf.com",
+  "startDate": "2020-07-10",
+  "endDate": "2020-07-11",
+  "city": "Kyiv",
+  "country": "UA",
+  "lat": 50.45466,
+  "lng": 30.5238,
+  "topics": [
+    "Java"
+  ],
+  "twitter": "https://x.com/jeeconf",
+  "source": "confs.tech"
+}

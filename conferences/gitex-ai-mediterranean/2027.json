@@ -1,0 +1,15 @@
+{
+  "name": "GITEX AI MEDITERRANEAN 2027",
+  "year": 2027,
+  "url": "https://www.gitexitaly.com",
+  "startDate": "2027-04-21",
+  "endDate": "2027-04-22",
+  "city": "Rome",
+  "country": "IT",
+  "lat": 41.89193,
+  "lng": 12.51133,
+  "topics": [
+    "Data/AI"
+  ],
+  "source": "confs.tech"
+}

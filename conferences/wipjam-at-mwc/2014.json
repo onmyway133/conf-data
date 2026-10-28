@@ -1,0 +1,16 @@
+{
+  "name": "WIPJam at MWC 2014",
+  "year": 2014,
+  "url": "http://wip.org/wip-event/wipjam-mwc14/",
+  "startDate": "2014-02-24",
+  "endDate": "2014-02-27",
+  "city": "Barcelona",
+  "country": "ES",
+  "lat": 41.38879,
+  "lng": 2.15899,
+  "topics": [
+    "iOS",
+    "Mobile"
+  ],
+  "source": "cocoaconferences"
+}

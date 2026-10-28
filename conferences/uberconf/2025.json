@@ -1,0 +1,17 @@
+{
+  "name": "UberConf 2025",
+  "year": 2025,
+  "url": "https://uberconf.com",
+  "startDate": "2025-07-15",
+  "endDate": "2025-07-18",
+  "city": "Denver, CO",
+  "country": "US",
+  "lat": 39.73915,
+  "lng": -104.9847,
+  "topics": [
+    "APIs",
+    "Java"
+  ],
+  "twitter": "https://x.com/nofluff",
+  "source": "confs.tech"
+}

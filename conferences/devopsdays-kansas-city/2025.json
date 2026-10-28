@@ -1,0 +1,16 @@
+{
+  "name": "DevOpsDays Kansas City 2025",
+  "year": 2025,
+  "url": "https://devopsdayskc.org",
+  "startDate": "2025-08-13",
+  "endDate": "2025-08-13",
+  "city": "Kansas City, MO",
+  "country": "US",
+  "lat": 39.09973,
+  "lng": -94.57857,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devopsdayskc",
+  "source": "confs.tech"
+}

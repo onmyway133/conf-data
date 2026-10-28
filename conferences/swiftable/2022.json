@@ -1,0 +1,21 @@
+{
+  "name": "Swiftable 2022",
+  "year": 2022,
+  "url": "https://www.swiftable.co",
+  "startDate": "2022-12-01",
+  "endDate": "2022-12-02",
+  "city": "Buenos Aires",
+  "country": "AR",
+  "lat": -34.61315,
+  "lng": -58.37723,
+  "topics": [
+    "iOS"
+  ],
+  "cfp": {
+    "url": "https://www.papercall.io/swiftable2022",
+    "deadline": "2022-09-15",
+    "open": false
+  },
+  "twitter": "https://x.com/baswiftable",
+  "source": "confs.tech"
+}

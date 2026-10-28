@@ -1,0 +1,16 @@
+{
+  "name": "Devopsdays Paris 2021",
+  "year": 2021,
+  "url": "https://devopsdays.org/events/2021-paris/welcome",
+  "startDate": "2021-05-18",
+  "endDate": "2021-05-18",
+  "city": "Paris",
+  "country": "FR",
+  "lat": 48.85341,
+  "lng": 2.3488,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devopsdaysparis",
+  "source": "confs.tech"
+}

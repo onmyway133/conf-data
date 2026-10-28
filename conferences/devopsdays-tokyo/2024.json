@@ -1,0 +1,16 @@
+{
+  "name": "Devopsdays Tokyo 2024",
+  "year": 2024,
+  "url": "https://devopsdays.org/events/2024-tokyo/welcome",
+  "startDate": "2024-04-16",
+  "endDate": "2024-04-17",
+  "city": "Tokyo",
+  "country": "JP",
+  "lat": 35.6895,
+  "lng": 139.69171,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/DevOpsDaysTokyo",
+  "source": "confs.tech"
+}

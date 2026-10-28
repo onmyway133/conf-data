@@ -1,0 +1,13 @@
+{
+  "name": "TechHeads Conference 2024",
+  "year": 2024,
+  "url": "https://techheads.se",
+  "startDate": "2024-09-24",
+  "endDate": "2024-09-24",
+  "city": "Kalmar",
+  "country": "SE",
+  "lat": 56.66157,
+  "lng": 16.36163,
+  "topics": [],
+  "source": "confs.tech"
+}

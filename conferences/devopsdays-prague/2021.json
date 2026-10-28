@@ -1,0 +1,16 @@
+{
+  "name": "Devopsdays Prague 2021",
+  "year": 2021,
+  "url": "https://devopsdays.org/events/2021-prague/welcome",
+  "startDate": "2021-06-02",
+  "endDate": "2021-06-03",
+  "city": "Prague",
+  "country": "CZ",
+  "lat": 50.08804,
+  "lng": 14.42076,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devopsdaysprg",
+  "source": "confs.tech"
+}

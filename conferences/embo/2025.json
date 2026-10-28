@@ -1,0 +1,20 @@
+{
+  "name": "emBO++ 2025",
+  "year": 2025,
+  "url": "https://embo.io",
+  "startDate": "2025-03-06",
+  "endDate": "2025-03-07",
+  "city": "Bochum",
+  "country": "DE",
+  "lat": 51.48165,
+  "lng": 7.21648,
+  "topics": [
+    "C++"
+  ],
+  "cfp": {
+    "url": "https://embo.io/call-for-papers",
+    "deadline": "2025-02-21",
+    "open": false
+  },
+  "source": "confs.tech"
+}

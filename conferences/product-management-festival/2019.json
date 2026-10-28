@@ -1,0 +1,16 @@
+{
+  "name": "Product Management Festival 2019",
+  "year": 2019,
+  "url": "https://apac.productmanagementfestival.com",
+  "startDate": "2019-06-17",
+  "endDate": "2019-06-18",
+  "city": "Singapore",
+  "country": "SG",
+  "lat": 1.28967,
+  "lng": 103.85007,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/ProdMgmtF",
+  "source": "confs.tech"
+}

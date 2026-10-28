@@ -1,0 +1,21 @@
+{
+  "name": "Tokyo Test Fest 2026",
+  "year": 2026,
+  "url": "https://tokyotestfest.com",
+  "startDate": "2026-11-12",
+  "endDate": "2026-11-13",
+  "city": "Tokyo",
+  "country": "JP",
+  "lat": 35.6895,
+  "lng": 139.69171,
+  "topics": [
+    "Testing"
+  ],
+  "cfp": {
+    "url": "https://tokyotestfest.com/en/cfp_2026/",
+    "deadline": "2026-04-10",
+    "open": true
+  },
+  "twitter": "https://x.com/tokyotestfest",
+  "source": "confs.tech"
+}

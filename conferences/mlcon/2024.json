@@ -1,0 +1,18 @@
+{
+  "name": "MLCon 2024",
+  "year": 2024,
+  "url": "https://mlconference.ai/munich",
+  "startDate": "2024-06-25",
+  "endDate": "2024-06-28",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [
+    "Data/AI",
+    "IoT",
+    "Python"
+  ],
+  "twitter": "https://x.com/mlconference",
+  "source": "confs.tech"
+}

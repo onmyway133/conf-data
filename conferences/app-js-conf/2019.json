@@ -1,0 +1,21 @@
+{
+  "name": "App.js Conf 2019",
+  "year": 2019,
+  "url": "https://appjs.co",
+  "startDate": "2019-04-04",
+  "endDate": "2019-04-05",
+  "city": "Kraków",
+  "country": "PL",
+  "lat": 50.06143,
+  "lng": 19.93658,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://goo.gl/forms/Pn9LFBDuAGvWJyZf1",
+    "deadline": "2019-02-14",
+    "open": false
+  },
+  "twitter": "https://x.com/appjsconf",
+  "source": "confs.tech"
+}

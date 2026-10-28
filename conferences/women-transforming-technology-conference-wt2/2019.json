@@ -1,0 +1,16 @@
+{
+  "name": "Women Transforming Technology Conference (WT²) 2019",
+  "year": 2019,
+  "url": "http://www.womentransformingtechnology.com",
+  "startDate": "2019-04-23",
+  "endDate": "2019-04-23",
+  "city": "Palo Alto, CA",
+  "country": "US",
+  "lat": 37.44188,
+  "lng": -122.14302,
+  "topics": [
+    "Networking"
+  ],
+  "twitter": "https://x.com/WomenTransform2",
+  "source": "confs.tech"
+}

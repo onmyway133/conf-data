@@ -1,0 +1,16 @@
+{
+  "name": "GothamGo 2023",
+  "year": 2023,
+  "url": "http://gothamgo.com",
+  "startDate": "2023-06-09",
+  "endDate": "2023-06-09",
+  "city": "New York, NY",
+  "country": "US",
+  "lat": 40.71427,
+  "lng": -74.00597,
+  "topics": [
+    "Go"
+  ],
+  "twitter": "https://x.com/GothamGo",
+  "source": "confs.tech"
+}

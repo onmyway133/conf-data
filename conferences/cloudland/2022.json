@@ -1,0 +1,16 @@
+{
+  "name": "CloudLand 2022",
+  "year": 2022,
+  "url": "https://www.cloudland.org",
+  "startDate": "2022-06-29",
+  "endDate": "2022-07-02",
+  "city": "Brühl",
+  "country": "DE",
+  "lat": 50.82928,
+  "lng": 6.90499,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/Cloudlandorg",
+  "source": "confs.tech"
+}

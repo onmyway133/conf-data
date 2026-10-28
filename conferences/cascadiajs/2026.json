@@ -1,0 +1,24 @@
+{
+  "name": "CascadiaJS 2026",
+  "year": 2026,
+  "url": "https://cascadiajs.com/2026",
+  "startDate": "2026-06-01",
+  "endDate": "2026-06-02",
+  "city": "Seattle, WA",
+  "country": "US",
+  "lat": 47.60621,
+  "lng": -122.33207,
+  "topics": [
+    "Data/AI",
+    "JavaScript",
+    "TypeScript"
+  ],
+  "cfp": {
+    "url": "https://cascadiajs.com/2026/cfp",
+    "deadline": "2026-01-04",
+    "open": false
+  },
+  "twitter": "https://x.com/cascadiajs",
+  "bluesky": "https://bsky.app/profile/cascadiajs.com",
+  "source": "confs.tech"
+}

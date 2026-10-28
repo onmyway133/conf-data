@@ -1,0 +1,20 @@
+{
+  "name": "PGDay UK 2025",
+  "year": 2025,
+  "url": "https://2025.pgday.uk/",
+  "startDate": "2025-09-09",
+  "endDate": "2025-09-09",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://2025.pgday.uk/call-for-papers/",
+    "deadline": "2025-05-12",
+    "open": false
+  },
+  "source": "confs.tech"
+}

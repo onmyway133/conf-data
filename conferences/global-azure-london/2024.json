@@ -1,0 +1,20 @@
+{
+  "name": "Global Azure London 2024",
+  "year": 2024,
+  "url": "https://globalazure.net",
+  "startDate": "2024-04-19",
+  "endDate": "2024-04-19",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    ".NET"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/global-azure-london-2024",
+    "deadline": "2024-03-15",
+    "open": false
+  },
+  "source": "confs.tech"
+}

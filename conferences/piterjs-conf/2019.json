@@ -1,0 +1,16 @@
+{
+  "name": "PiterJS conf 2019",
+  "year": 2019,
+  "url": "https://conf.piterjs.org",
+  "startDate": "2019-09-07",
+  "endDate": "2019-09-07",
+  "city": "Saint Petersburg",
+  "country": "RU",
+  "lat": 59.93863,
+  "lng": 30.31413,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/piterjs",
+  "source": "confs.tech"
+}

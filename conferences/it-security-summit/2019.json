@@ -1,0 +1,16 @@
+{
+  "name": "IT Security Summit 2019",
+  "year": 2019,
+  "url": "https://it-security-summit.de",
+  "startDate": "2019-11-11",
+  "endDate": "2019-11-13",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "Security"
+  ],
+  "twitter": "https://x.com/ITSecSummit",
+  "source": "confs.tech"
+}

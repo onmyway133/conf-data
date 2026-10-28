@@ -1,0 +1,16 @@
+{
+  "name": "DEVit Web Conference 2017",
+  "year": 2017,
+  "url": "http://devitconf.org/",
+  "startDate": "2017-05-20",
+  "endDate": "2017-05-21",
+  "city": "Thessaloniki",
+  "country": "GR",
+  "lat": 40.64072,
+  "lng": 22.93493,
+  "topics": [
+    "iOS",
+    "Mobile"
+  ],
+  "source": "cocoaconferences"
+}

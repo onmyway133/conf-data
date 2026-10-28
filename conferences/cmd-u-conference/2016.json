@@ -1,0 +1,15 @@
+{
+  "name": "CMD+U Conference 2016",
+  "year": 2016,
+  "url": "http://cmduconf.com",
+  "startDate": "2016-07-08",
+  "endDate": "2016-07-08",
+  "city": "Barcelona",
+  "country": "ES",
+  "lat": 41.38879,
+  "lng": 2.15899,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences"
+}

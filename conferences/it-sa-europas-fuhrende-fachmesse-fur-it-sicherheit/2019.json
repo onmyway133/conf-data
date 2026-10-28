@@ -1,0 +1,16 @@
+{
+  "name": "it-sa - Europas führende Fachmesse für IT-Sicherheit 2019",
+  "year": 2019,
+  "url": "https://www.it-sa.de",
+  "startDate": "2019-10-08",
+  "endDate": "2019-10-10",
+  "city": "Nürnberg",
+  "country": "DE",
+  "lat": 49.45421,
+  "lng": 11.07752,
+  "topics": [
+    "Security"
+  ],
+  "twitter": "https://x.com/itsa_messe",
+  "source": "confs.tech"
+}

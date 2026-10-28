@@ -1,0 +1,23 @@
+{
+  "name": "Civo Navigate Europe 2024",
+  "year": 2024,
+  "url": "https://www.civo.com/navigate/europe",
+  "startDate": "2024-09-10",
+  "endDate": "2024-09-11",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "Data/AI",
+    "DevOps",
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/civo-navigate-europe-2024",
+    "deadline": "2024-05-07",
+    "open": false
+  },
+  "twitter": "https://x.com/CivoCloud",
+  "source": "confs.tech"
+}

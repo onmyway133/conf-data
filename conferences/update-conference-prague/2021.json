@@ -1,0 +1,16 @@
+{
+  "name": "Update Conference Prague 2021",
+  "year": 2021,
+  "url": "https://www.updateconference.net",
+  "startDate": "2021-11-18",
+  "endDate": "2021-11-19",
+  "city": "Prague",
+  "country": "CZ",
+  "lat": 50.08804,
+  "lng": 14.42076,
+  "topics": [
+    ".NET"
+  ],
+  "twitter": "https://x.com/update_conf",
+  "source": "confs.tech"
+}

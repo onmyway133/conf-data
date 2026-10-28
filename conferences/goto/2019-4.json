@@ -1,0 +1,17 @@
+{
+  "name": "GOTO 2019",
+  "year": 2019,
+  "url": "https://gotocph.com/2019",
+  "startDate": "2019-11-18",
+  "endDate": "2019-11-22",
+  "city": "Copenhagen",
+  "country": "DK",
+  "lat": 55.67594,
+  "lng": 12.56553,
+  "topics": [
+    "DevOps",
+    "Networking"
+  ],
+  "twitter": "https://x.com/gotocph",
+  "source": "confs.tech"
+}

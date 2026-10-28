@@ -1,0 +1,16 @@
+{
+  "name": "Kubernetes Community Days 2019",
+  "year": 2019,
+  "url": "https://www.cloudnative.amsterdam",
+  "startDate": "2019-09-13",
+  "endDate": "2019-09-13",
+  "city": "Amsterdam",
+  "country": "NL",
+  "lat": 52.37403,
+  "lng": 4.88969,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/cloudnativeams",
+  "source": "confs.tech"
+}

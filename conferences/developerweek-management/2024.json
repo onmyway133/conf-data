@@ -1,0 +1,19 @@
+{
+  "name": "DeveloperWeek Management 2024",
+  "year": 2024,
+  "url": "https://www.developerweek.com/management",
+  "startDate": "2024-05-29",
+  "endDate": "2024-06-06",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [],
+  "cfp": {
+    "url": "https://sessionize.com/developerweek-management-2024",
+    "deadline": "2024-03-22",
+    "open": false
+  },
+  "twitter": "https://x.com/developerweek",
+  "source": "confs.tech"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Berlin Buzzwords 2027",
+  "year": 2027,
+  "url": "https://2027.berlinbuzzwords.de/",
+  "startDate": "2027-06-13",
+  "endDate": "2027-06-15",
+  "city": "Berlin",
+  "country": "DE",
+  "topics": [
+    "Data/AI"
+  ]
+}

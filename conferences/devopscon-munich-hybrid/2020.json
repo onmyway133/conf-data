@@ -1,0 +1,20 @@
+{
+  "name": "DevOpsCon Munich Hybrid 2020",
+  "year": 2020,
+  "url": "https://devopscon.io/munich",
+  "startDate": "2020-11-30",
+  "endDate": "2020-12-03",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://callforpapers.sandsmedia.com",
+    "open": false
+  },
+  "twitter": "https://x.com/devops_con",
+  "source": "confs.tech"
+}

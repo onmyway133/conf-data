@@ -1,0 +1,15 @@
+{
+  "name": "MLcon Amsterdam 2026",
+  "year": 2026,
+  "url": "https://mlconference.ai/amsterdam",
+  "startDate": "2026-04-20",
+  "endDate": "2026-04-24",
+  "city": "Amsterdam",
+  "country": "NL",
+  "lat": 52.37403,
+  "lng": 4.88969,
+  "topics": [
+    "Data/AI"
+  ],
+  "source": "confs.tech"
+}

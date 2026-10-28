@@ -1,0 +1,15 @@
+{
+  "name": "The Things Conference 2020",
+  "year": 2020,
+  "url": "https://www.thethingsnetwork.org/conference",
+  "startDate": "2020-01-30",
+  "endDate": "2020-01-31",
+  "city": "Amsterdam",
+  "country": "NL",
+  "lat": 52.37403,
+  "lng": 4.88969,
+  "topics": [
+    "IoT"
+  ],
+  "source": "confs.tech"
+}

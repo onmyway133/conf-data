@@ -1,0 +1,16 @@
+{
+  "name": "Devopsdays Tampa Bay 2022",
+  "year": 2022,
+  "url": "https://devopsdays.org/events/2022-tampa/welcome",
+  "startDate": "2022-05-27",
+  "endDate": "2022-05-27",
+  "city": "Tampa, FL",
+  "country": "US",
+  "lat": 27.94752,
+  "lng": -82.45843,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devopsdaystb",
+  "source": "confs.tech"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Embedded Open Source Summit 2023",
+  "year": 2023,
+  "url": "https://events.linuxfoundation.org/embedded-open-source-summit",
+  "startDate": "2023-06-27",
+  "endDate": "2023-06-30",
+  "city": "Prague",
+  "country": "CZ",
+  "lat": 50.08804,
+  "lng": 14.42076,
+  "topics": [],
+  "cfp": {
+    "url": "https://events.linuxfoundation.org/embedded-open-source-summit/program/cfp",
+    "deadline": "2023-02-27",
+    "open": false
+  },
+  "twitter": "https://x.com/linuxfoundation",
+  "source": "confs.tech"
+}

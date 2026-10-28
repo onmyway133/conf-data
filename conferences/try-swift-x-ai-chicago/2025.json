@@ -1,0 +1,15 @@
+{
+  "name": "try! Swift x AI Chicago 2025",
+  "year": 2025,
+  "url": "https://www.tryswift.co/ai",
+  "startDate": "2025-02-06",
+  "endDate": "2025-02-07",
+  "city": "Chicago",
+  "country": "US",
+  "lat": 41.85003,
+  "lng": -87.65005,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences"
+}

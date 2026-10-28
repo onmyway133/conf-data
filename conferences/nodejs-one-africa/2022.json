@@ -1,0 +1,23 @@
+{
+  "name": "NodeJS One Africa 2022",
+  "year": 2022,
+  "url": "https://nodejsone.com",
+  "startDate": "2022-09-07",
+  "endDate": "2022-09-09",
+  "city": "Johannesburg",
+  "country": "ZA",
+  "lat": -26.20227,
+  "lng": 28.04363,
+  "topics": [
+    "Java",
+    "JavaScript",
+    "Networking"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSeyo0Du4V5FTGeR2_grPN6vkHUi_UVHBKerTmnh3tjolTUU1Q/viewform",
+    "deadline": "2022-08-01",
+    "open": false
+  },
+  "twitter": "https://x.com/nodejsone",
+  "source": "confs.tech"
+}

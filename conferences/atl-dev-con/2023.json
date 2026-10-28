@@ -1,0 +1,14 @@
+{
+  "name": "ATL Dev Con 2023",
+  "year": 2023,
+  "url": "https://www.atldevcon.com",
+  "startDate": "2023-09-16",
+  "endDate": "2023-09-16",
+  "city": "Atlanta, GA",
+  "country": "US",
+  "lat": 33.749,
+  "lng": -84.38798,
+  "topics": [],
+  "twitter": "https://x.com/atldevcon",
+  "source": "confs.tech"
+}

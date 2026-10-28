@@ -1,0 +1,18 @@
+{
+  "name": "Smashing Conference 2019",
+  "year": 2019,
+  "url": "https://smashingconf.com/toronto-2019",
+  "startDate": "2019-06-25",
+  "endDate": "2019-06-26",
+  "city": "Toronto",
+  "country": "CA",
+  "lat": 43.70643,
+  "lng": -79.39864,
+  "topics": [
+    "CSS",
+    "JavaScript",
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/smashingconf",
+  "source": "confs.tech"
+}

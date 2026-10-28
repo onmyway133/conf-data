@@ -1,0 +1,17 @@
+{
+  "name": "STARWEST 2026",
+  "year": 2026,
+  "url": "https://starwest.techwell.com",
+  "startDate": "2026-09-20",
+  "endDate": "2026-09-25",
+  "city": "Anaheim, CA",
+  "country": "US",
+  "lat": 33.83529,
+  "lng": -117.9145,
+  "topics": [
+    "DevOps",
+    "Testing"
+  ],
+  "twitter": "https://x.com/Coveros",
+  "source": "confs.tech"
+}

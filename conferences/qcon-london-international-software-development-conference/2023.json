@@ -1,0 +1,14 @@
+{
+  "name": "QCon London International Software Development Conference 2023",
+  "year": 2023,
+  "url": "https://qconlondon.com",
+  "startDate": "2023-03-27",
+  "endDate": "2023-03-29",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [],
+  "twitter": "https://x.com/QCon",
+  "source": "confs.tech"
+}

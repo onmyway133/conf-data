@@ -1,0 +1,17 @@
+{
+  "name": "Nx Conf 2022",
+  "year": 2022,
+  "url": "https://nx.dev/conf",
+  "startDate": "2022-10-17",
+  "endDate": "2022-10-17",
+  "city": "Tempe, AZ",
+  "country": "US",
+  "lat": 33.41477,
+  "lng": -111.90931,
+  "topics": [
+    "JavaScript",
+    "TypeScript"
+  ],
+  "twitter": "https://x.com/NxDevTools",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Open Source Days 2024",
+  "year": 2024,
+  "url": "https://events.linuxfoundation.org/open-source-days",
+  "startDate": "2024-07-28",
+  "endDate": "2024-07-28",
+  "city": "Denver, CO",
+  "country": "US",
+  "lat": 39.73915,
+  "lng": -104.9847,
+  "topics": [
+    "Open Source"
+  ],
+  "twitter": "https://x.com/AcademySwf",
+  "source": "confs.tech"
+}

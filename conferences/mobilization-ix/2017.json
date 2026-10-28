@@ -1,0 +1,596 @@
+{
+  "name": "Mobilization 2017",
+  "year": 2017,
+  "url": "http://2017.mobilization.pl/",
+  "startDate": "2017-10-21",
+  "endDate": "2017-10-21",
+  "city": "Łódź",
+  "country": "PL",
+  "lat": 51.77058,
+  "lng": 19.47395,
+  "topics": [
+    "iOS",
+    "Mobile"
+  ],
+  "source": "cocoaconferences",
+  "speakers": [
+    {
+      "speaker": "adam-zaczek",
+      "bio": "Adam is a front-end developer who would not stop talking about new technologies or skateboarding. He finds spending time on programming or reading science articles just as fun as jumping from stairs on a piece of wood with wheels attached (i.e. a skateboard). He once felt like his eyes were bleeding when seeing Javascript code. Nowadays JS is all he wants to code in. Adam has recently found out about GraphQL and he plays with it whenever he can. He is responsible for creating one of the best skateparks in Poland. He is the holder of skateboarding Guinness World Record for most skateboard backside shuvits in one minute.",
+      "photoUrl": "http://2017.mobilization.pl/images/speakers/adam_z.jpg",
+      "twitter": "https://twitter.com/ZaczekAdam",
+      "linkedin": "https://www.linkedin.com/in/adam-żaczek-a4a734110",
+      "website": "https://www.netguru.co/about-us/team/adam-4828293800"
+    },
+    {
+      "speaker": "aleksander-grzyb",
+      "bio": "I am software engineer living in Poznań, Poland. Currently I am working at Allegro on Allegro iOS application. Previously I worked at Clio (Vancouver, Canada) on Clio iOS application. In my free time I am exploring usage of computer vision in medical field and working on my own Bimba iOS application. Also I co-founded CandyRent startup with close friends.",
+      "photoUrl": "http://2017.mobilization.pl/images/speakers/aleksander_grzyb.png",
+      "twitter": "https://twitter.com/aleksandergrzyb",
+      "website": "http://aleksandergrzyb.com/"
+    },
+    {
+      "speaker": "aleksei-kliuev",
+      "bio": "Software Engineer, DeX Evangelist at Samsung R&D Institute Russia. Android and Java Developer since 2012.",
+      "photoUrl": "http://2017.mobilization.pl/images/speakers/aleksei_kliuev.png",
+      "linkedin": "https://www.linkedin.com/in/a-kliuev/"
+    },
+    {
+      "speaker": "aliaksandr-zhukovich",
+      "bio": "My name is Alex. I'm a software enthusiast with passion for technologies. I started from Web development and last few years I'm working on Android projects. I have a passion for well written and tested software products. I like to share knowledge with articles, meetups and conferences. Last few months I'm additionally working on education project about Android testing.",
+      "photoUrl": "http://2017.mobilization.pl/images/speakers/aliaksandr-zhukovich.png",
+      "twitter": "https://twitter.com/Alex_Zhukovich",
+      "website": "http://alexzh.com/"
+    },
+    {
+      "speaker": "bartosz-kraszewski",
+      "bio": "Software Engineer specialised in Mobile Applications development. Focused on code quality and standards, experienced working in fast paced, product-oriented environment - Silicon Valley startups. Co-founder of Mobile Bialystok - local mobile technology enthusiasts group. Also an amateur squash player.",
+      "photoUrl": "http://2017.mobilization.pl/images/speakers/bartosz-kraszewski.png",
+      "twitter": "https://twitter.com/BartoszKraszew1",
+      "linkedin": "https://www.linkedin.com/in/bkraszewski/",
+      "website": "https://about.me/bartoszk"
+    },
+    {
+      "speaker": "daniel-tull",
+      "bio": "Daniel has been a Cocoa developer since the Java Bridge existed when macOS was known as OS X. He has since made his way up from developing apps for Sky, Tesco, BBC, Nespresso and Danone to the heights of Gok Wan’s glorious fashion app.",
+      "photoUrl": "http://2017.mobilization.pl/images/speakers/daniel-tull.png",
+      "twitter": "https://twitter.com/danielctull",
+      "website": "https://danieltull.co.uk"
+    },
+    {
+      "speaker": "eliasz-sawicki",
+      "bio": "I'm developer at Bright Inventions, focused on providing great iOS experience. I’m constantly looking for new ways to improve my solutions which is also main topic of my blog. When my Mac is sleeping, I’m probably playing guitar or reading books.",
+      "photoUrl": "http://2017.mobilization.pl/images/speakers/eliasz-sawicki.png",
+      "twitter": "https://twitter.com/@elisawic",
+      "linkedin": "https://www.linkedin.com/in/eliasz-sawicki-499953a2",
+      "website": "http://eliaszsawicki.com/"
+    },
+    {
+      "speaker": "elviro-rocca",
+      "bio": "Elviro worked for some years as a Materials Engineer before focusing on his true passion: functional programming. He is the lead iOS Developer @Facile.it and his main field of interest is applying functional concepts and techniques to real-world programming problems related to iOS and mobile platforms in general.",
+      "photoUrl": "http://2017.mobilization.pl/images/speakers/rocca.jpg",
+      "twitter": "https://twitter.com/_logicist",
+      "linkedin": "https://www.linkedin.com/in/elviro-rocca-045b1279",
+      "website": "https://broomburgo.github.io/fun-ios/"
+    },
+    {
+      "speaker": "enrique-lopez-manas",
+      "bio": "EnriqueLopezManas GDE, Android and Mobile developer since 2007. Author of a few books and freelancer.",
+      "photoUrl": "http://2017.mobilization.pl/images/speakers/enrique-lopez-manas.jpg",
+      "twitter": "https://twitter.com/eenriquelopez",
+      "linkedin": "https://www.linkedin.com/in/eenriquelopez/?ppe=1",
+      "website": "http://lopez-manas.com"
+    },
+    {
+      "speaker": "ewa-ludwiczak",
+      "bio": "Ewa is software test engineer focused on mobile iOS app testing and development. In Allegro Group works in agile team where she continually improves her testing, programming and negotiation skills. Systematically shares her knowledge at local meetups like Geek Girls Carrots, PyLadies, PTAQ, WrotQA and conferences like Testwarez or Agile & Automation Days. Certified SCRUM devotee and dance lover.",
+      "photoUrl": "http://2017.mobilization.pl/images/speakers/ewaludwiczak.png",
+      "twitter": "https://twitter.com/@ewabielskapoz",
+      "linkedin": "https://www.linkedin.com/in/ewa-ludwiczak-25268b54"
+    },
+    {
+      "speaker": "gabor-wnuk",
+      "bio": "For the last 10 years bonded with o2.pl and later Grupa Wirtualna Polska. Currently Mobile Tech Lead at Grupa Wirtualna Polska, busy with implementing React Native wherever possible.",
+      "photoUrl": "http://2017.mobilization.pl/images/speakers/wnuk.jpg",
+      "website": "https://gabo.re/"
+    },
+    {
+      "speaker": "gautier-mechling",
+      "bio": "Software Developer",
+      "photoUrl": "http://2017.mobilization.pl/images/speakers/gautier-mechling.jpg",
+      "linkedin": "https://www.linkedin.com/in/gautier-mechling-9a0a7236/",
+      "website": "http://nilhcem.com"
+    },
+    {
+      "speaker": "jakub-mazur",
+      "bio": "iOS Developer @wingu. Works with iBeacons since very beginning.",
+      "photoUrl": "http://2017.mobilization.pl/images/speakers/jakub_mazur.png",
+      "twitter": "https://twitter.com/jkmazur",
+      "linkedin": "https://www.linkedin.com/in/jakub-mazur-8350b244",
+      "website": "https://www.wingu.de/"
+    },
+    {
+      "speaker": "jorge-castillo",
+      "bio": "Jorge is an experienced Android Engineer from Spain. He is currently working for GoMore, a danish company from CPH. He is very focused on applying Functional Programing over Kotlin, and he is one of the most active contributors of KΛTEGORY, a library to provide FP constructs, data types and operations over the language`",
+      "photoUrl": "http://2017.mobilization.pl/images/speakers/jorge-castillo.jpg",
+      "twitter": "https://twitter.com/jorgecastillopr",
+      "linkedin": "https://www.linkedin.com/in/jorgecastilloprz",
+      "website": "https://medium.com/@jorgecastillopr"
+    },
+    {
+      "speaker": "kamil-czopek",
+      "bio": "Kamil is a consultant, a manager and a seasoned iOS developer with JEE background. Strongly interested in internet and mobile marketing. Occasionally, Kamil likes to utilize the humanistic side of his nature by writing magazine articles, e-books or traditional book chapters, recording video training sessions or by conveying his message in some sort of the ATL media - like radio or TV show. A husband to the one and only :)) and a father of two. Always loves to grab a cup of a decent coffee and sometimes happens to act like a foodie…",
+      "photoUrl": "http://2017.mobilization.pl/images/speakers/czopek.jpg"
+    },
+    {
+      "speaker": "krzysztof-siejkowski",
+      "bio": "iOS developer at Polidea, a hardware-friendly software house in Warsaw. Co-organizer of Mobile Warsaw, a community for mobile developers. Swift enthusiast. A cultural anthropologist by training, happy to discuss the human side of programming techniques.",
+      "photoUrl": "http://2017.mobilization.pl/images/speakers/ksiejkowski.jpg",
+      "twitter": "https://twitter.com/@_siejkowski",
+      "linkedin": "https://www.linkedin.com/in/krzysztof-siejkowski-99828025",
+      "website": "https://siejkowski.net"
+    },
+    {
+      "speaker": "leandro-favarin",
+      "bio": "Leandro has been working as a software engineer for mobile devices and portable technology for 7+ years. His focus is on the Android platform and everything around it.",
+      "photoUrl": "http://2017.mobilization.pl/images/speakers/leandro-favarin.jpg",
+      "twitter": "https://twitter.com/leandrofavarin",
+      "linkedin": "https://www.linkedin.com/in/leandrofavarin",
+      "website": "http://leandrofavarin.com"
+    },
+    {
+      "speaker": "lorenzo-quiroli",
+      "bio": "Lorenzo is Android Developer who started from Java and then saw the light thanks to Kotlin, which he has already used in several production apps. He is currently working in London @busuu",
+      "photoUrl": "http://2017.mobilization.pl/images/speakers/lorenzo_quiroli.png",
+      "twitter": "https://twitter.com/lorenzoquiroli"
+    },
+    {
+      "speaker": "maciej-puchalski",
+      "bio": "Enthusiast of mobile programming, especially on Android platform. He also has knowledge about writing apps for multiple platforms at once. Excluding mobile stuff, he also developed some .NET technology web pages. Despite all these niuances in his mobile career, he always gets back to Android as his target platform. The best part of his job is not writing code itself, but its design and applying various good practices, including Clean Code. He likes Google ecosystem and he's a very active Google Keep notes app user. This usage has been increased to the extent, that he discovered that yes, there is a limit of note categories in the app. It gives an insight about how he likes his notes, and his code, to be well structured and clean. In private life he's an active player of tabletop Dungeons & Dragons with several years sank into it. What is more, his other passion is his bike and cycling in general.",
+      "photoUrl": "http://2017.mobilization.pl/images/speakers/maciej-puchalski.png",
+      "linkedin": "https://www.linkedin.com/in/maciej-puchalski-5ab71a133/"
+    },
+    {
+      "speaker": "marcin-moskala",
+      "bio": "Kotlin developer and passionate for over 2 years. Making open-source libraries (ActivityStarter, PreferenceHolder, KotlinDiscreteMathToolkit) and applications both for GameKit and as a freelancer. Also writing articles for programming magazines and making speeches on different events.",
+      "photoUrl": "http://2017.mobilization.pl/images/speakers/marcin-moskala.jpg",
+      "website": "http://marcinmoskala.com/"
+    },
+    {
+      "speaker": "marcin-zbijowski",
+      "bio": "I'm iOS developer since iPhone OS 3 and doing apps since then.",
+      "photoUrl": "http://2017.mobilization.pl/images/speakers/zbijowski.png",
+      "twitter": "https://twitter.com/zbiju",
+      "linkedin": "https://www.linkedin.com/in/marcinzbijowski/"
+    },
+    {
+      "speaker": "martin-mitrevski",
+      "bio": "Martin is working as a Technical Coordinator at Swiss Software Company Netcetera. He’s been working on mobile apps in the areas of virtual reality, transport, indoor navigation, insurance, weather, innovation tools and live event apps. Lately, he's been fascinated by the possibilities that conversational interfaces bring in simplifying the user experience and how they might change the way we think about apps.",
+      "photoUrl": "http://2017.mobilization.pl/images/speakers/mitrevski.png",
+      "twitter": "https://twitter.com/mitrevski",
+      "linkedin": "https://www.linkedin.com/in/martin-mitrevski-01134755/",
+      "website": "https://martinmitrevski.com/"
+    },
+    {
+      "speaker": "michal-kowalczyk",
+      "bio": "Michał has worked in various sectors of IT for last 12 years. He has created web applications as well as embedded systems. In his job, he likes to combine various technologies. For the last couple of years, he has used C++ with Java, Python and Swift mixed in. Currently, he works in TomTom developing a multiplatform engine for map visualisation.",
+      "photoUrl": "http://2017.mobilization.pl/images/speakers/mkowalczyk.jpg",
+      "linkedin": "https://www.linkedin.com/in/michalkowalczyk/"
+    },
+    {
+      "speaker": "miguel-quinones",
+      "bio": "Miguel is a control systems engineer who turned to iOS and Cocoa many years ago. Attracted by the simplicity and power of Apple’s ecosystem, he never looked back. He writes code for fun, generating profit as a nice side-effect. He's worked on apps with millions MAUs like Badoo, Bumble and currently, Peak Brain Training.",
+      "photoUrl": "http://2017.mobilization.pl/images/speakers/miguel-quinones.jpg",
+      "linkedin": "https://www.linkedin.com/in/miguelquinon",
+      "website": "https://miqu.me"
+    },
+    {
+      "speaker": "nikola-irinchev",
+      "bio": "Nick has extensive experience with everything .NET - from architecting highly performant web servers to shipping cross platform mobile apps, you name it. Now he resides at Realm, delivering the best database in the world to .NET developers. When he’s not doing that, he speaks about cloud infrastructure and occasionally blogs about the hard problems he faces.",
+      "photoUrl": "http://2017.mobilization.pl/images/speakers/nikola-irinchev.png",
+      "twitter": "https://twitter.comm/nirinchev",
+      "linkedin": "https://www.linkedin.com/in/nikola-irinchev-12443a80"
+    },
+    {
+      "speaker": "olivier-destrebecq",
+      "bio": "I provide mobile strategy & development for teams creating their first mobile app (particularly iOS).\nAfter working for very large companies in the US I'm taking all that I learned in software development and using this to help my clients build great apps.\nI also build apps for own business and co-organize the mobile development meetup for the french riviera.",
+      "photoUrl": "http://2017.mobilization.pl/images/speakers/olivier.png",
+      "twitter": "https://twitter.com/@otusweb",
+      "linkedin": "https://www.linkedin.com/in/olivierdestrebecq/",
+      "website": "http://www.mobdesignapps.fr"
+    },
+    {
+      "speaker": "pawel-gajda",
+      "bio": "Associated with Android since 2010, when platform was taking its first steps in the global market. Enthusiast of JetBrains products such as IntelliJ IDEA and Kotlin. Laureate of the national finals of Microsoft Imagine Cup 2013. Focuses on lifehacking and improving his productivity. Speaker at mobile conferences. After-hours open source contributor (author of KAndroid - a kotlin library for Android), amateur runner and guitar player.",
+      "photoUrl": "http://2017.mobilization.pl/images/speakers/pawel-gajda.jpg",
+      "twitter": "https://twitter.com/@pawegio",
+      "website": "http://www.pawegio.com/"
+    },
+    {
+      "speaker": "raul-portales",
+      "bio": "Raul Portales is a Software Engineer working on mobile since the early times. He switched from Symbian to Android in 2009 (before Android versions had tasty names) and never looked back. He loves public speaking and has presented at several DroidCons, Game Developer Conferences and many GDGs. After working a lot on the front end - especially building games - Raul has developed a special interest in UX and UI.",
+      "photoUrl": "http://2017.mobilization.pl/images/speakers/raulportales.jpg",
+      "linkedin": "https://www.linkedin.com/in/raulportales",
+      "website": "http://plattysoft.com"
+    },
+    {
+      "speaker": "rowdy-rabouw",
+      "bio": "Rowdy Rabouw is a webdeveloper with over 20 years’ experience in HTML, CSS, JavaScript and PHP. He's been working as a freelancer since 2004 and has been employed by the Dutch insurance company Nationale-Nederlanden since 1992. Currently he is working on various JavaScript and NativeScript projects as Senior Engineer. Rowdy started developing NativeScript apps with Angular in 2016 and running the NativeScript NL website; a curated list of courses, tools and tips to help people code awesome apps with NativeScript. Since 2017 he is a Telerik Developer Expert for NativeScript and spreading his love for {N}.",
+      "photoUrl": "http://2017.mobilization.pl/images/speakers/rowdy-rabouw.jpg",
+      "linkedin": "https://www.linkedin.com/in/rowdyrabouw",
+      "website": "http://double-r.nl"
+    },
+    {
+      "speaker": "salomon-brys",
+      "bio": "Passionate about Kotlin for the last three years, I am the developer and maintainer of the Kodein library.\nDeeply rooted in the Open-Source philosophy, I am dedicated to making tools and libraries to make programming easier, safer, and more exciting.\nI also love boardgaming and flying small planes (which I have a license for).",
+      "photoUrl": "http://2017.mobilization.pl/images/speakers/salomon_b.jpg",
+      "linkedin": "https://www.linkedin.com/in/salomonbrys"
+    },
+    {
+      "speaker": "sam-bellen",
+      "bio": "I'm a front-end developer at madewithlove, a small app development company based in Belgium, but with employees all over the world. For my day to day job I'm in charge of creating challenging user interfaces and make applications nice to work with. After office hours I like to play around with the web-audio API, and other \"exotic\" browser APIs. One of my side projects is a library to add audio effects to an audio input using JavaScript. When I'm not behind a computer, you can find me playing the guitar, having a beer at a concert, or trying to snap the next perfect picture.",
+      "photoUrl": "http://2017.mobilization.pl/images/speakers/sam-bellen.jpg",
+      "twitter": "https://twitter.com/sambego",
+      "website": "https://blog.sambego.be/"
+    },
+    {
+      "speaker": "saul-diaz",
+      "bio": "Saúl Díaz has been developing Android since 2010. Currently he is working on Chicisimo, and Android app selected as one of the best of 2015 on Spain, and featured on Google Play by the Google Play Team. Previously he has worked as Android Lead on Fever and Android Developer on Tuenti, two renowned companies of Spain. He is an active member of the Spanish Android Development community and regularly participates in events and conferences.",
+      "photoUrl": "http://2017.mobilization.pl/images/speakers/saul-diaz.jpg",
+      "twitter": "https://twitter.com/@sefford",
+      "linkedin": "https://www.linkedin.com/in/sefford/"
+    },
+    {
+      "speaker": "sergi-martinez",
+      "bio": "Working as Android dev at Schibsted and Google Developer Expert for Android. He loves to share, teach, discuss, learn with the community",
+      "photoUrl": "http://2017.mobilization.pl/images/speakers/sergi_m.jpg",
+      "twitter": "https://twitter.com/sergiandreplace",
+      "linkedin": "https://www.linkedin.com/in/sergiandreplace",
+      "website": "http://sergiandreplace.com"
+    },
+    {
+      "speaker": "stuart-kent",
+      "bio": "Hello! I'm a software developer with 3 years' mobile experience. I currently work at Detroit Labs creating native Android and iOS apps for national and international brands in the utilities, QSR, automotive, and pro audio industries. Before becoming a developer, I taught college and earned a Ph.D. in Applied Math. Likes: Enums. Dislikes: dogmatism.",
+      "photoUrl": "http://2017.mobilization.pl/images/speakers/stuart-kent.jpg",
+      "linkedin": "https://www.linkedin.com/in/skentphd",
+      "website": "http://www.stkent.com"
+    },
+    {
+      "speaker": "tomasz-gebarowski",
+      "bio": "Senior Software Engineer, currently at YND Consult. Working full time in Swift (iOS and macOS). Having background in C/C++, mobile banking and distributed VoIP servers. Experienced in maintaining large and long term projects. Privately father of two kids and LEGO enthusiast.",
+      "photoUrl": "http://2017.mobilization.pl/images/speakers/tomasz-gebarowski.jpg",
+      "twitter": "https://twitter.com/tgebarowski",
+      "linkedin": "https://www.linkedin.com/in/tomaszgebarowski",
+      "website": "http://www.codica.pl"
+    },
+    {
+      "speaker": "tomasz-pajak",
+      "bio": "Tomek is Software Engineering Manager at fintech company Seqr. It is the place where on daily basis he faces challenges of developing a disruptive product and takes repsonsibility for dealing with them. Tomek shares his experience as a speaker at multiple international conferences (eg. Agile Cambridge, Agile Lean Europe, DevOpsDays, Agile Management Congress, Agile By Example etc.) and as a contributor to InfoQ. He specializes in navigating in complex adaptive systems, organizational culture and building high-performance organizations by Agile transformations and DevOps transformations. As a consultant and coach Tomek witnesses other organizations trying to transform their businesses by adoption of Lean Product Development, DevOps and Agile mindsets and practices.",
+      "photoUrl": "http://2017.mobilization.pl/images/speakers/tomasz_pajak.png",
+      "twitter": "https://twitter.com/@tomekatwork",
+      "linkedin": "https://www.linkedin.com/in/tomekatwork/"
+    },
+    {
+      "speaker": "vasiliy-zukanov",
+      "bio": "Professional software engineer and blogger (www.techyourchance.com)",
+      "photoUrl": "http://2017.mobilization.pl/images/speakers/vasiliy-zukanov.jpg",
+      "twitter": "https://twitter.com/VasiliyZukanov",
+      "website": "http://www.techyourchance.com"
+    },
+    {
+      "speaker": "veselin-iliev",
+      "bio": "Veselin moved to London 2 years ago to join the Android team at ASOS. An Android developer since Froyo (long long time ago), he’s current focus is combining RxJava, Kotlin and MVP / MVVM patterns to provide smooth and seamless user experiences. Passionate about testing and writing clean code in general. Loves to spend his free time cycling, skiing or listening to podcasts.",
+      "photoUrl": "http://2017.mobilization.pl/images/speakers/veskoiliev.png",
+      "twitter": "https://twitter.com/@ilievvesselin",
+      "linkedin": "https://www.linkedin.com/in/vesseliniliev/",
+      "website": "http://veskoiliev.com/"
+    },
+    {
+      "speaker": "victor-okunev",
+      "bio": "With a successful more-than-20-year career in software development, Victor has extensive experience building enterprise solutions with the Java-based technology stack. Victor joined the devoted family of Android developers fairly early in the game, shipping his first app for the Android Donut release. As an experienced hands-on architect and educator, Victor now combines his expertise with his passion as a Samsung Developer Evangelist. Victor connects the worldwide developers community with the world of Samsung technologies for Android platform, namely Samsung Knox SDKs and lately Samsung DeX. When he's not travelling around the world to meet with developers, Victor bikes to work in his home-town Vancouver, two hours a day, rain or shine. He holds a Masters Degree in Computer Science from Moscow State Institute of Radio Engineering, Electronics and Automation.",
+      "photoUrl": "http://2017.mobilization.pl/images/speakers/victor_okunev.png",
+      "linkedin": "https://www.linkedin.com/in/victorokunev/"
+    },
+    {
+      "speaker": "yuliya-kaleda",
+      "bio": "Yuliya is an Android developer at Jet.com, leading a team of 4 developers whose main focus is to build performant, scalable and cutting-edge Android projects. For the last few months Yuliya has been collaborating with Google to build the first multi-feature Instant App.",
+      "photoUrl": "http://2017.mobilization.pl/images/speakers/yuliya_k.jpg",
+      "linkedin": "https://www.linkedin.com/in/yuliya-kaleda-b4525ab1"
+    },
+    {
+      "speaker": "yusei-nishiyama",
+      "bio": "Yusei Nishiyama is a senior iOS developer at Cookpad the largest recipe sharing service in the world with the aim of making everyday cooking fun! He majored in philosophy and aesthetics but the beauty of programming languages led him to become a programmer and he has now been working with iOS since 2012. When he isn’t coding, he is spending some time listening to and making music. You can find him playing jazz piano in a pub.",
+      "photoUrl": "http://2017.mobilization.pl/images/speakers/yuseinishiyama.png",
+      "twitter": "https://twitter.com/@yuseinishiyama",
+      "linkedin": "https://www.linkedin.com/in/yusei-nishiyama-6b45299b"
+    },
+    {
+      "speaker": "zachary-markin",
+      "bio": "Founding Partner at HTD - the leading innovation consultancy serving the health industry.",
+      "photoUrl": "http://2017.mobilization.pl/images/speakers/zachary-markin.png",
+      "website": "http://www.htdevelopers.com/"
+    }
+  ],
+  "talks": [
+    {
+      "slug": "advanced-retrofit",
+      "title": "Advanced Retrofit",
+      "speakers": [
+        "maciej-puchalski"
+      ]
+    },
+    {
+      "slug": "android-architecture-components-considered-harmful",
+      "title": "Android Architecture Components Considered Harmful",
+      "speakers": [
+        "vasiliy-zukanov"
+      ]
+    },
+    {
+      "slug": "android-things-101",
+      "title": "Android Things 101",
+      "speakers": [
+        "raul-portales"
+      ]
+    },
+    {
+      "slug": "augmented-reality-in-the-ios-world-what-s-in-there-for-us",
+      "title": "Augmented Reality in the iOS World. What's in there for us?",
+      "speakers": [
+        "kamil-czopek"
+      ]
+    },
+    {
+      "slug": "awesome-native-apps-with-nativescript-and-angular",
+      "title": "Awesome native apps with NativeScript and Angular!",
+      "speakers": [
+        "rowdy-rabouw"
+      ]
+    },
+    {
+      "slug": "bluetooth-low-energy-on-android-top-tips-for-the-tricky-bits",
+      "title": "Bluetooth Low Energy on Android: Top Tips for the Tricky Bits",
+      "speakers": [
+        "stuart-kent"
+      ]
+    },
+    {
+      "slug": "breaking-bug",
+      "title": "Breaking Bug",
+      "speakers": [
+        "saul-diaz"
+      ]
+    },
+    {
+      "slug": "building-ci-pipeline-based-on-teamcity-docker-in-android-team",
+      "title": "Building CI pipeline based on TeamCity & Docker in Android Team",
+      "speakers": [
+        "pawel-gajda"
+      ]
+    },
+    {
+      "slug": "building-ios-apps-at-scale",
+      "title": "Building iOS Apps at Scale",
+      "speakers": [
+        "yusei-nishiyama"
+      ]
+    },
+    {
+      "slug": "database-driven-ui-with-mvvm-realm",
+      "title": "Database driven UI with MVVM & Realm",
+      "speakers": [
+        "nikola-irinchev"
+      ]
+    },
+    {
+      "slug": "database-handling-with-room",
+      "title": "Database handling with Room",
+      "speakers": [
+        "sergi-martinez"
+      ]
+    },
+    {
+      "slug": "devops-in-mobile",
+      "title": "DevOps in mobile?",
+      "speakers": [
+        "tomasz-pajak"
+      ]
+    },
+    {
+      "slug": "don-t-fear-sql-a-better-way-to-store-and-handle-data-with-sqlbrite-sqldelight",
+      "title": "Don’t fear SQL: A better way to store and handle data with SQLBrite && SQLDelight",
+      "speakers": [
+        "leandro-favarin"
+      ]
+    },
+    {
+      "slug": "don-t-loose-your-users-because-of-endless-quality-issues",
+      "title": "Don't loose your users because of endless quality issues",
+      "speakers": [
+        "olivier-destrebecq"
+      ]
+    },
+    {
+      "slug": "drink-espresso-during-android-testing",
+      "title": "Drink Espresso during Android Testing",
+      "speakers": [
+        "aliaksandr-zhukovich"
+      ]
+    },
+    {
+      "slug": "functional-approach-to-android-architecture-using-kotlin",
+      "title": "Functional approach to Android architecture using Kotlin",
+      "speakers": [
+        "jorge-castillo"
+      ]
+    },
+    {
+      "slug": "graphql-vs-rest",
+      "title": "GraphQL vs REST",
+      "speakers": [
+        "adam-zaczek"
+      ]
+    },
+    {
+      "slug": "how-to-combine-swift-kotlin-with-c-c",
+      "title": "How to combine Swift/Kotlin with C/C++",
+      "speakers": [
+        "michal-kowalczyk"
+      ]
+    },
+    {
+      "slug": "i-didn-t-know-the-browser-could-do-that",
+      "title": "I didn’t know the browser could do that!",
+      "speakers": [
+        "sam-bellen"
+      ]
+    },
+    {
+      "slug": "introduction-to-react-native",
+      "title": "Introduction to React Native",
+      "speakers": [
+        "eliasz-sawicki"
+      ]
+    },
+    {
+      "slug": "kotlin-tools-of-the-trade",
+      "title": "kotlin.tools() of the trade",
+      "speakers": [
+        "lorenzo-quiroli"
+      ]
+    },
+    {
+      "slug": "lenses-and-prisms-in-swift",
+      "title": "Lenses and Prisms in Swift",
+      "speakers": [
+        "elviro-rocca"
+      ]
+    },
+    {
+      "slug": "let-s-framework-everything",
+      "title": "Let's framework everything!",
+      "speakers": [
+        "jakub-mazur"
+      ]
+    },
+    {
+      "slug": "machine-learning-for-a-healthy-society",
+      "title": "Machine learning for a healthy society",
+      "speakers": [
+        "zachary-markin"
+      ]
+    },
+    {
+      "slug": "make-your-app-instant",
+      "title": "Make your app instant",
+      "speakers": [
+        "yuliya-kaleda"
+      ]
+    },
+    {
+      "slug": "making-scriptable-ios-apps",
+      "title": "Making Scriptable iOS Apps",
+      "speakers": [
+        "daniel-tull"
+      ]
+    },
+    {
+      "slug": "mvc-vs-mvp-vs-mvvm-vs-mvi",
+      "title": "MVC vs MVP vs MVVM vs MVI",
+      "speakers": [
+        "marcin-moskala"
+      ]
+    },
+    {
+      "slug": "offline-first",
+      "title": "Offline-first",
+      "speakers": [
+        "miguel-quinones"
+      ]
+    },
+    {
+      "slug": "ogres-and-tests-are-like-onions",
+      "title": "Ogres and tests are like onions",
+      "speakers": [
+        "aleksander-grzyb"
+      ]
+    },
+    {
+      "slug": "optimizing-android-app-performance-with-at-t-video-optimizer",
+      "title": "Optimizing Android App performance with AT&T Video Optimizer",
+      "speakers": [
+        "bartosz-kraszewski"
+      ]
+    },
+    {
+      "slug": "optimizing-android-apps-for-desktop-experience",
+      "title": "Optimizing Android apps for desktop experience",
+      "speakers": [
+        "aleksei-kliuev"
+      ]
+    },
+    {
+      "slug": "predict-impending-doom-with-iot-and-reactnative",
+      "title": "Predict impending doom with IoT and ReactNative",
+      "speakers": [
+        "gabor-wnuk"
+      ]
+    },
+    {
+      "slug": "realm-database-in-real-life",
+      "title": "Realm database in real life",
+      "speakers": [
+        "marcin-zbijowski"
+      ]
+    },
+    {
+      "slug": "rxswift-deep-cuts",
+      "title": "RxSwift: Deep Cuts",
+      "speakers": [
+        "krzysztof-siejkowski"
+      ]
+    },
+    {
+      "slug": "speech-analysis-techniques",
+      "title": "Speech Analysis techniques",
+      "speakers": [
+        "martin-mitrevski"
+      ]
+    },
+    {
+      "slug": "tensorflow-for-mobile-developers",
+      "title": "Tensorflow for Mobile Developers",
+      "speakers": [
+        "enrique-lopez-manas"
+      ]
+    },
+    {
+      "slug": "the-kodein-kotlin-dependency-injection-library",
+      "title": "The Kodein KOtlin DEpendency INjection library",
+      "speakers": [
+        "salomon-brys"
+      ]
+    },
+    {
+      "slug": "unmaintainable-code-ios-developer-perspective",
+      "title": "Unmaintainable code - iOS developer perspective",
+      "speakers": [
+        "tomasz-gebarowski"
+      ]
+    },
+    {
+      "slug": "using-android-things-to-detect-exterminate-reptilians",
+      "title": "Using Android Things to detect & exterminate Reptilians",
+      "speakers": [
+        "gautier-mechling"
+      ]
+    },
+    {
+      "slug": "zero-to-hero-in-ui-testing",
+      "title": "Zero to hero in UI testing",
+      "speakers": [
+        "veselin-iliev"
+      ]
+    }
+  ]
+}

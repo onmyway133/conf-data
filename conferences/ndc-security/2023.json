@@ -1,0 +1,16 @@
+{
+  "name": "NDC Security 2023",
+  "year": 2023,
+  "url": "https://ndc-security.com",
+  "startDate": "2023-01-15",
+  "endDate": "2023-01-18",
+  "city": "Oslo",
+  "country": "NO",
+  "lat": 59.91273,
+  "lng": 10.74609,
+  "topics": [
+    "Security"
+  ],
+  "twitter": "https://x.com/NDC_Conferences",
+  "source": "confs.tech"
+}

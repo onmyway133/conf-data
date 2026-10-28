@@ -1,0 +1,17 @@
+{
+  "name": "BASTA! 2025",
+  "year": 2025,
+  "url": "https://basta.net/mainz-en",
+  "startDate": "2025-09-22",
+  "endDate": "2025-09-26",
+  "city": "Mainz",
+  "country": "DE",
+  "lat": 49.98185,
+  "lng": 8.28008,
+  "topics": [
+    ".NET"
+  ],
+  "twitter": "https://x.com/bastacon",
+  "bluesky": "https://bsky.app/profile/bastacon.bsky.social",
+  "source": "confs.tech"
+}

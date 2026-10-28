@@ -1,0 +1,16 @@
+{
+  "name": "Devopsdays Aarhus 2024",
+  "year": 2024,
+  "url": "https://devopsdays.org/events/2024-aarhus/welcome",
+  "startDate": "2024-04-16",
+  "endDate": "2024-04-17",
+  "city": "Aarhus",
+  "country": "DK",
+  "lat": 56.15674,
+  "lng": 10.21076,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/devopsdayscph",
+  "source": "confs.tech"
+}

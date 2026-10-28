@@ -1,0 +1,15 @@
+{
+  "name": "Devopsdays Raleigh 2021",
+  "year": 2021,
+  "url": "https://devopsdays.org/events/2021-raleigh/welcome",
+  "startDate": "2021-04-08",
+  "endDate": "2021-04-08",
+  "city": "Raleigh, NC",
+  "country": "US",
+  "lat": 35.7721,
+  "lng": -78.63861,
+  "topics": [
+    "DevOps"
+  ],
+  "source": "confs.tech"
+}

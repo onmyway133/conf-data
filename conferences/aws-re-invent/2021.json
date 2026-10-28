@@ -1,0 +1,16 @@
+{
+  "name": "AWS re:Invent 2021",
+  "year": 2021,
+  "url": "https://reinvent.awsevents.com",
+  "startDate": "2021-11-29",
+  "endDate": "2021-12-03",
+  "city": "Las Vegas, NV",
+  "country": "US",
+  "lat": 36.17497,
+  "lng": -115.13722,
+  "topics": [
+    "Networking"
+  ],
+  "twitter": "https://x.com/awsreinvent",
+  "source": "confs.tech"
+}

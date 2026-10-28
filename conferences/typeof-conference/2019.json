@@ -1,0 +1,16 @@
+{
+  "name": "Typeof Conference 2019",
+  "year": 2019,
+  "url": "https://typeofconf.com",
+  "startDate": "2019-03-27",
+  "endDate": "2019-03-29",
+  "city": "Porto",
+  "country": "PT",
+  "lat": 41.1485,
+  "lng": -8.61097,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/typeofconf",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Berlin Buzzwords 2019",
+  "year": 2019,
+  "url": "https://berlinbuzzwords.de",
+  "startDate": "2019-06-16",
+  "endDate": "2019-06-18",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/berlinbuzzwords",
+  "source": "confs.tech"
+}

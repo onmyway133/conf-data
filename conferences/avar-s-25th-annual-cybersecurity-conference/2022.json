@@ -1,0 +1,21 @@
+{
+  "name": "AVAR's 25th Annual Cybersecurity Conference 2022",
+  "year": 2022,
+  "url": "https://aavar.org/cybersecurity-conference",
+  "startDate": "2022-12-01",
+  "endDate": "2022-12-02",
+  "city": "Singapore",
+  "country": "SG",
+  "lat": 1.28967,
+  "lng": 103.85007,
+  "topics": [
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSdJealAuVztW-li5eAIeEJe_bTq-_qZF3Qy5umNQ7g0bd2PyQ/viewform",
+    "deadline": "2022-08-20",
+    "open": false
+  },
+  "twitter": "https://x.com/avar_asia",
+  "source": "confs.tech"
+}

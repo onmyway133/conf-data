@@ -1,0 +1,16 @@
+{
+  "name": "DEEP Startup Ecosystem Conference 2021",
+  "year": 2021,
+  "url": "https://www.startupheatmap.eu/conference",
+  "startDate": "2021-10-18",
+  "endDate": "2021-10-18",
+  "city": "Essen",
+  "country": "DE",
+  "lat": 51.45657,
+  "lng": 7.01228,
+  "topics": [
+    "Networking"
+  ],
+  "twitter": "https://x.com/eustartup",
+  "source": "confs.tech"
+}

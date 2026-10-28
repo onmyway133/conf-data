@@ -1,0 +1,17 @@
+{
+  "name": "Daytona Compute 2027",
+  "year": 2027,
+  "url": "https://compute.daytona.io",
+  "startDate": "2027-02-03",
+  "endDate": "2027-02-04",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [
+    "APIs",
+    "Data/AI",
+    "Security"
+  ],
+  "source": "confs.tech"
+}

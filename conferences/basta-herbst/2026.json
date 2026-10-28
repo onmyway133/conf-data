@@ -1,0 +1,16 @@
+{
+  "name": "BASTA! Herbst 2026",
+  "year": 2026,
+  "url": "https://basta.net/mainz",
+  "startDate": "2026-09-28",
+  "endDate": "2026-10-02",
+  "city": "Mainz",
+  "country": "DE",
+  "lat": 49.98185,
+  "lng": 8.28008,
+  "topics": [
+    ".NET"
+  ],
+  "twitter": "https://x.com/BastaConf",
+  "source": "confs.tech"
+}

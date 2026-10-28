@@ -1,0 +1,21 @@
+{
+  "name": "PG Day France 2023",
+  "year": 2023,
+  "url": "https://www.pgday.fr",
+  "startDate": "2023-06-19",
+  "endDate": "2023-06-20",
+  "city": "Strasbourg",
+  "country": "FR",
+  "lat": 48.58392,
+  "lng": 7.74553,
+  "topics": [
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://www.pgday.fr/appel",
+    "deadline": "2023-04-16",
+    "open": false
+  },
+  "twitter": "https://x.com/PGDAY_Fr",
+  "source": "confs.tech"
+}

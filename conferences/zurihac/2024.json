@@ -1,0 +1,15 @@
+{
+  "name": "ZuriHac 2024",
+  "year": 2024,
+  "url": "https://zfoh.ch/zurihac2024",
+  "startDate": "2024-06-08",
+  "endDate": "2024-06-10",
+  "city": "Rapperswil-Jona",
+  "country": "CH",
+  "topics": [
+    "Haskell",
+    "Networking"
+  ],
+  "twitter": "https://x.com/zurihac",
+  "source": "confs.tech"
+}

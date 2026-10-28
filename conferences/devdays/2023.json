@@ -1,0 +1,14 @@
+{
+  "name": "DevDays 2023",
+  "year": 2023,
+  "url": "https://devdays.lt",
+  "startDate": "2023-05-23",
+  "endDate": "2023-05-26",
+  "city": "Vilnius",
+  "country": "LT",
+  "lat": 54.68916,
+  "lng": 25.2798,
+  "topics": [],
+  "twitter": "https://x.com/DevDaysEurope",
+  "source": "confs.tech"
+}

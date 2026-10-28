@@ -1,0 +1,21 @@
+{
+  "name": "dotPy 2024",
+  "year": 2024,
+  "url": "https://www.dotpy.io",
+  "startDate": "2024-10-16",
+  "endDate": "2024-10-16",
+  "city": "Paris",
+  "country": "FR",
+  "lat": 48.85341,
+  "lng": 2.3488,
+  "topics": [
+    "Python"
+  ],
+  "cfp": {
+    "url": "https://www.dotpy.io/cfp",
+    "deadline": "2024-04-30",
+    "open": false
+  },
+  "twitter": "https://x.com/dotpy_io",
+  "source": "confs.tech"
+}

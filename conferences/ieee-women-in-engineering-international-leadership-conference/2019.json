@@ -1,0 +1,16 @@
+{
+  "name": "IEEE Women In Engineering International Leadership Conference 2019",
+  "year": 2019,
+  "url": "http://ieee-wie-ilc.org",
+  "startDate": "2019-05-23",
+  "endDate": "2019-05-24",
+  "city": "Austin, TX",
+  "country": "US",
+  "lat": 30.26715,
+  "lng": -97.74306,
+  "topics": [
+    "Networking"
+  ],
+  "twitter": "https://x.com/wieilc",
+  "source": "confs.tech"
+}

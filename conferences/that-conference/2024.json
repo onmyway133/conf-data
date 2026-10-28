@@ -1,0 +1,19 @@
+{
+  "name": "THAT Conference 2024",
+  "year": 2024,
+  "url": "https://thatconference.com/wi",
+  "startDate": "2024-07-29",
+  "endDate": "2024-08-01",
+  "city": "Wisconsin Dells, WI",
+  "country": "US",
+  "lat": 43.62748,
+  "lng": -89.77096,
+  "topics": [],
+  "cfp": {
+    "url": "https://thatconference.com/cfp",
+    "deadline": "2024-03-01",
+    "open": false
+  },
+  "twitter": "https://x.com/thatconference",
+  "source": "confs.tech"
+}

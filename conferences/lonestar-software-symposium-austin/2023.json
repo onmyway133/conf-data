@@ -1,0 +1,17 @@
+{
+  "name": "Lonestar Software Symposium : Austin 2023",
+  "year": 2023,
+  "url": "https://nofluffjuststuff.com/austin",
+  "startDate": "2023-07-14",
+  "endDate": "2023-07-15",
+  "city": "Austin, TX",
+  "country": "US",
+  "lat": 30.26715,
+  "lng": -97.74306,
+  "topics": [
+    "DevOps",
+    "Java"
+  ],
+  "twitter": "https://x.com/nofluff",
+  "source": "confs.tech"
+}

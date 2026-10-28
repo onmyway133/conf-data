@@ -1,0 +1,16 @@
+{
+  "name": "QCon 2024",
+  "year": 2024,
+  "url": "https://qconsf.com",
+  "startDate": "2024-11-18",
+  "endDate": "2024-11-22",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [
+    "Networking"
+  ],
+  "mastodon": "https://techhub.social/@qcon",
+  "source": "confs.tech"
+}

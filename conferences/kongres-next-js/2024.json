@@ -1,0 +1,20 @@
+{
+  "name": "Kongres Next.js 2024",
+  "year": 2024,
+  "url": "https://kongresnextjs.pl",
+  "startDate": "2024-02-02",
+  "endDate": "2024-02-02",
+  "city": "Warsaw",
+  "country": "PL",
+  "lat": 52.22977,
+  "lng": 21.01178,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://forms.gle/cVVXvVZC3zdRsWwG7",
+    "deadline": "2024-01-07",
+    "open": false
+  },
+  "source": "confs.tech"
+}

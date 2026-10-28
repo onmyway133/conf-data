@@ -1,0 +1,16 @@
+{
+  "name": "vuejs.de Conf 2022",
+  "year": 2022,
+  "url": "https://conf.vuejs.de",
+  "startDate": "2022-10-05",
+  "endDate": "2022-10-05",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/vue_js_de",
+  "source": "confs.tech"
+}

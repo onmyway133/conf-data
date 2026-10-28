@@ -1,0 +1,16 @@
+{
+  "name": "Adobe MAX 2019",
+  "year": 2019,
+  "url": "https://max.adobe.com",
+  "startDate": "2019-11-02",
+  "endDate": "2019-11-06",
+  "city": "Los Angeles, CA",
+  "country": "US",
+  "lat": 34.05223,
+  "lng": -118.24368,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/adobemax",
+  "source": "confs.tech"
+}

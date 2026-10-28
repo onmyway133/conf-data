@@ -1,0 +1,16 @@
+{
+  "name": "SREDay - Cologne 2025",
+  "year": 2025,
+  "url": "https://sreday.com/2025-cologne-q2",
+  "startDate": "2025-06-12",
+  "endDate": "2025-06-12",
+  "city": "Cologne",
+  "country": "DE",
+  "lat": 50.93333,
+  "lng": 6.95,
+  "topics": [
+    "SRE"
+  ],
+  "twitter": "https://x.com/sreday_com",
+  "source": "confs.tech"
+}

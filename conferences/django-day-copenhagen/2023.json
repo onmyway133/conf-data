@@ -1,0 +1,21 @@
+{
+  "name": "Django Day Copenhagen 2023",
+  "year": 2023,
+  "url": "https://2023.djangoday.dk",
+  "startDate": "2023-04-14",
+  "endDate": "2023-04-14",
+  "city": "Copenhagen",
+  "country": "DK",
+  "lat": 55.67594,
+  "lng": 12.56553,
+  "topics": [
+    "Python"
+  ],
+  "cfp": {
+    "url": "https://2023.djangoday.dk/cfp",
+    "deadline": "2023-02-28",
+    "open": false
+  },
+  "twitter": "https://x.com/djangodenmark",
+  "source": "confs.tech"
+}

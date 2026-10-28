@@ -1,0 +1,16 @@
+{
+  "name": "Toronto Design Offsite Festival 2019",
+  "year": 2019,
+  "url": "https://designto.org",
+  "startDate": "2019-01-18",
+  "endDate": "2019-01-27",
+  "city": "Toronto",
+  "country": "CA",
+  "lat": 43.70643,
+  "lng": -79.39864,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/DesignTOFest",
+  "source": "confs.tech"
+}

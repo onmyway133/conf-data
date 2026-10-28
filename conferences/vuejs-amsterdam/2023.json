@@ -1,0 +1,21 @@
+{
+  "name": "Vuejs Amsterdam 2023",
+  "year": 2023,
+  "url": "https://vuejs.amsterdam",
+  "startDate": "2023-02-09",
+  "endDate": "2023-02-10",
+  "city": "Amsterdam",
+  "country": "NL",
+  "lat": 52.37403,
+  "lng": 4.88969,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://docs.google.com/forms/u/6/d/e/1FAIpQLSfzVZWyEZADpAlD8xUrEXvnbpqrtL37050Nla6zrZVX_UhNxQ/viewform",
+    "deadline": "2022-12-01",
+    "open": false
+  },
+  "twitter": "https://x.com/vuejsamsterdam",
+  "source": "confs.tech"
+}

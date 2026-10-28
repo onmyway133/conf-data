@@ -1,0 +1,17 @@
+{
+  "name": "Greater Wisconsin Software Symposium 2024",
+  "year": 2024,
+  "url": "https://nofluffjuststuff.com/madison",
+  "startDate": "2024-05-17",
+  "endDate": "2024-05-18",
+  "city": "Madison, WI",
+  "country": "US",
+  "lat": 43.07305,
+  "lng": -89.40123,
+  "topics": [
+    "Data/AI",
+    "Java"
+  ],
+  "twitter": "https://x.com/nofluff",
+  "source": "confs.tech"
+}

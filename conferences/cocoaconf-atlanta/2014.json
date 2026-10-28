@@ -1,0 +1,15 @@
+{
+  "name": "CocoaConf Atlanta 2014",
+  "year": 2014,
+  "url": "http://cocoaconf.com/atlanta-2014/home",
+  "startDate": "2014-12-05",
+  "endDate": "2014-12-06",
+  "city": "Atlanta",
+  "country": "US",
+  "lat": 33.749,
+  "lng": -84.38798,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences"
+}

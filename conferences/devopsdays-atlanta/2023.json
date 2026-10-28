@@ -1,0 +1,21 @@
+{
+  "name": "DevOpsDays Atlanta 2023",
+  "year": 2023,
+  "url": "https://devopsdays.org/events/2023-atlanta/welcome",
+  "startDate": "2023-05-16",
+  "endDate": "2023-05-17",
+  "city": "Atlanta, GA",
+  "country": "US",
+  "lat": 33.749,
+  "lng": -84.38798,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://www.papercall.io/devopsdaysatl2023",
+    "deadline": "2023-04-03",
+    "open": false
+  },
+  "twitter": "https://x.com/devopsdaysatl",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "The DEVOPS Conference 2023",
+  "year": 2023,
+  "url": "https://www.thedevopsconference.com/copenhagen",
+  "startDate": "2023-10-25",
+  "endDate": "2023-10-25",
+  "city": "Copenhagen",
+  "country": "DK",
+  "lat": 55.67594,
+  "lng": 12.56553,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/eficode",
+  "source": "confs.tech"
+}

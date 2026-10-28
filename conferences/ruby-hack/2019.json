@@ -1,0 +1,20 @@
+{
+  "name": "Ruby Hack 2019",
+  "year": 2019,
+  "url": "https://rubyhack.com",
+  "startDate": "2019-04-04",
+  "endDate": "2019-04-05",
+  "city": "Sandy, UT",
+  "country": "US",
+  "lat": 40.59161,
+  "lng": -111.8841,
+  "topics": [
+    "Ruby"
+  ],
+  "cfp": {
+    "deadline": "2018-12-31",
+    "open": false
+  },
+  "twitter": "https://x.com/rubyhack",
+  "source": "confs.tech"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "enterJS 2022",
+  "year": 2022,
+  "url": "https://enterjs.de",
+  "startDate": "2022-06-22",
+  "endDate": "2022-06-23",
+  "city": "Darmstadt",
+  "country": "DE",
+  "lat": 49.87167,
+  "lng": 8.65027,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://enterjs.de/cfp_en.php",
+    "deadline": "2022-01-17",
+    "open": false
+  },
+  "twitter": "https://x.com/enterjsconf",
+  "source": "confs.tech"
+}

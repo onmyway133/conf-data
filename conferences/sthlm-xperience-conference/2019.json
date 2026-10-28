@@ -1,0 +1,21 @@
+{
+  "name": "STHLM XPERIENCE CONFERENCE 2019",
+  "year": 2019,
+  "url": "https://sthlm.xconf.co",
+  "startDate": "2019-11-14",
+  "endDate": "2019-11-14",
+  "city": "Stockholm",
+  "country": "SE",
+  "lat": 59.32938,
+  "lng": 18.06871,
+  "topics": [
+    "Design/UX"
+  ],
+  "cfp": {
+    "url": "https://sthlm.xconf.co/call-for-speakers",
+    "deadline": "2019-09-25",
+    "open": false
+  },
+  "twitter": "https://x.com/SthlmXperience",
+  "source": "confs.tech"
+}

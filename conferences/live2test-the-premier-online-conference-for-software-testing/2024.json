@@ -1,0 +1,15 @@
+{
+  "name": "Live2Test - The Premier Online Conference For Software Testing 2024",
+  "year": 2024,
+  "url": "https://live2test.com",
+  "startDate": "2024-05-21",
+  "endDate": "2024-05-22",
+  "city": "Istanbul",
+  "country": "TR",
+  "lat": 41.01384,
+  "lng": 28.94966,
+  "topics": [
+    "Testing"
+  ],
+  "source": "confs.tech"
+}

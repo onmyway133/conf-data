@@ -1,0 +1,14 @@
+{
+  "name": "Mini-DebConf Marseille 2019",
+  "year": 2019,
+  "url": "http://minidebconf-mrs.debian.net",
+  "startDate": "2019-05-25",
+  "endDate": "2019-05-26",
+  "city": "Marseille",
+  "country": "FR",
+  "lat": 43.29695,
+  "lng": 5.38107,
+  "topics": [],
+  "twitter": "https://x.com/MiniDebConf_MRS",
+  "source": "confs.tech"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "PGConf BE 2023",
+  "year": 2023,
+  "url": "https://pgconf.be",
+  "startDate": "2023-05-12",
+  "endDate": "2023-05-12",
+  "city": "Leuven",
+  "country": "BE",
+  "lat": 50.87959,
+  "lng": 4.70093,
+  "topics": [
+    "Data/AI"
+  ],
+  "source": "confs.tech"
+}

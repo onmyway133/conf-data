@@ -1,0 +1,17 @@
+{
+  "name": "JSCraftCamp 2025",
+  "year": 2025,
+  "url": "https://jscraftcamp.org",
+  "startDate": "2025-06-27",
+  "endDate": "2025-06-28",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [
+    "JavaScript",
+    "Networking"
+  ],
+  "twitter": "https://x.com/JSCraftCamp",
+  "source": "confs.tech"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Test Driven Conf 2022",
+  "year": 2022,
+  "url": "https://tdconf.ru",
+  "startDate": "2022-04-28",
+  "endDate": "2022-04-29",
+  "city": "Moscow",
+  "country": "RU",
+  "lat": 55.75204,
+  "lng": 37.61781,
+  "topics": [
+    "Performance",
+    "Testing"
+  ],
+  "cfp": {
+    "url": "https://cfp.tdconf.ru",
+    "deadline": "2021-12-25",
+    "open": false
+  },
+  "source": "confs.tech"
+}

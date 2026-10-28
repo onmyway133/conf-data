@@ -1,0 +1,16 @@
+{
+  "name": "performance.now() 2019",
+  "year": 2019,
+  "url": "https://perfnow.nl",
+  "startDate": "2019-11-21",
+  "endDate": "2019-11-22",
+  "city": "Amsterdam",
+  "country": "NL",
+  "lat": 52.37403,
+  "lng": 4.88969,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/perfnowconf",
+  "source": "confs.tech"
+}

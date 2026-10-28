@@ -1,0 +1,21 @@
+{
+  "name": "AI Conf Asia 2027",
+  "year": 2027,
+  "url": "https://aiconf.asia",
+  "startDate": "2027-01-09",
+  "endDate": "2027-01-10",
+  "city": "Kathmandu",
+  "country": "NP",
+  "lat": 27.70169,
+  "lng": 85.3206,
+  "topics": [
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://aiconf.asia/2027/#cfs",
+    "deadline": "2026-11-01",
+    "open": true
+  },
+  "twitter": "https://x.com/wwktm_com",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "HalfStack 2020",
+  "year": 2020,
+  "url": "https://halfstackconf.com/phoenix",
+  "startDate": "2020-01-17",
+  "endDate": "2020-01-17",
+  "city": "Phoenix, AZ",
+  "country": "US",
+  "lat": 33.44838,
+  "lng": -112.07404,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/halfstackconf",
+  "source": "confs.tech"
+}

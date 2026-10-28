@@ -1,0 +1,16 @@
+{
+  "name": "Gophercon Europe 2022",
+  "year": 2022,
+  "url": "https://gophercon.eu",
+  "startDate": "2022-07-28",
+  "endDate": "2022-07-31",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "Go"
+  ],
+  "twitter": "https://x.com/gopherconeu",
+  "source": "confs.tech"
+}

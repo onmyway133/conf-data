@@ -1,0 +1,16 @@
+{
+  "name": "AI DevWorld 2025",
+  "year": 2025,
+  "url": "https://aidevworld.com",
+  "startDate": "2025-02-11",
+  "endDate": "2025-02-20",
+  "city": "Santa Clara, CA",
+  "country": "US",
+  "lat": 37.35411,
+  "lng": -121.95524,
+  "topics": [
+    "Data/AI"
+  ],
+  "twitter": "https://x.com/AIDevWorld",
+  "source": "confs.tech"
+}

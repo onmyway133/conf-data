@@ -1,0 +1,21 @@
+{
+  "name": "phpday 2022",
+  "year": 2022,
+  "url": "https://www.phpday.it",
+  "startDate": "2022-05-19",
+  "endDate": "2022-05-20",
+  "city": "Verona",
+  "country": "IT",
+  "lat": 45.43854,
+  "lng": 10.9938,
+  "topics": [
+    "PHP"
+  ],
+  "cfp": {
+    "url": "https://grusp.org/CFPphpday",
+    "deadline": "2022-02-01",
+    "open": false
+  },
+  "twitter": "https://x.com/phpday",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Girls In Tech Summit 2020",
+  "year": 2020,
+  "url": "https://www.techgirlz.org/girls-in-tech-summit",
+  "startDate": "2020-11-04",
+  "endDate": "2020-11-04",
+  "city": "Philadelphia, PA",
+  "country": "US",
+  "lat": 39.95238,
+  "lng": -75.16362,
+  "topics": [
+    "Networking"
+  ],
+  "twitter": "https://x.com/TechGirlzorg",
+  "source": "confs.tech"
+}

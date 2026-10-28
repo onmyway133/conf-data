@@ -1,0 +1,16 @@
+{
+  "name": "Demuxed 2021",
+  "year": 2021,
+  "url": "https://2021.demuxed.com",
+  "startDate": "2021-10-05",
+  "endDate": "2021-10-07",
+  "city": "San Francisco, CA",
+  "country": "US",
+  "lat": 37.77493,
+  "lng": -122.41942,
+  "topics": [
+    "DevOps"
+  ],
+  "twitter": "https://x.com/demuxed",
+  "source": "confs.tech"
+}

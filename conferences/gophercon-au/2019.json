@@ -1,0 +1,16 @@
+{
+  "name": "GopherCon Au 2019",
+  "year": 2019,
+  "url": "http://gophercon.com.au",
+  "startDate": "2019-10-30",
+  "endDate": "2019-11-01",
+  "city": "Sydney",
+  "country": "AU",
+  "lat": -33.86785,
+  "lng": 151.20732,
+  "topics": [
+    "Go"
+  ],
+  "twitter": "https://x.com/gopherconaunz",
+  "source": "confs.tech"
+}

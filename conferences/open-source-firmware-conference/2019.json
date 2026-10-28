@@ -1,0 +1,16 @@
+{
+  "name": "Open Source Firmware Conference 2019",
+  "year": 2019,
+  "url": "http://www.osfc.io",
+  "startDate": "2019-09-03",
+  "endDate": "2019-09-06",
+  "city": "Mountain View, CA",
+  "country": "US",
+  "lat": 37.38605,
+  "lng": -122.08385,
+  "topics": [
+    "Security"
+  ],
+  "twitter": "https://x.com/osfc_io",
+  "source": "confs.tech"
+}

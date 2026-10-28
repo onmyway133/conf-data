@@ -1,0 +1,18 @@
+{
+  "name": "O’Reilly Software Architecture Conference 2019",
+  "year": 2019,
+  "url": "https://conferences.oreilly.com/software-architecture/sa-ca",
+  "startDate": "2019-06-10",
+  "endDate": "2019-06-13",
+  "city": "San Jose, CA",
+  "country": "US",
+  "lat": 37.33939,
+  "lng": -121.89496,
+  "topics": [],
+  "cfp": {
+    "deadline": "2018-12-18",
+    "open": false
+  },
+  "twitter": "https://x.com/oreillysacon",
+  "source": "confs.tech"
+}

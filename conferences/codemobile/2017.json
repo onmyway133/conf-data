@@ -1,0 +1,15 @@
+{
+  "name": "Code Mobile 2017",
+  "year": 2017,
+  "url": "http://www.codemobile.co.uk",
+  "startDate": "2017-04-17",
+  "endDate": "2017-04-20",
+  "city": "Chester",
+  "country": "GB",
+  "lat": 53.1905,
+  "lng": -2.89189,
+  "topics": [
+    "iOS"
+  ],
+  "source": "cocoaconferences"
+}

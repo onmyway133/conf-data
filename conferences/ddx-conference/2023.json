@@ -1,0 +1,16 @@
+{
+  "name": "DDX Conference 2023",
+  "year": 2023,
+  "url": "https://www.designdrives.org/conference",
+  "startDate": "2023-05-06",
+  "endDate": "2023-05-06",
+  "city": "Munich",
+  "country": "DE",
+  "lat": 48.13743,
+  "lng": 11.57549,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/design_drives",
+  "source": "confs.tech"
+}

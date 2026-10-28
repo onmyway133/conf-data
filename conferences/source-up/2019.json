@@ -1,0 +1,16 @@
+{
+  "name": "Source Up! 2019",
+  "year": 2019,
+  "url": "https://sourceup.co.za",
+  "startDate": "2019-03-11",
+  "endDate": "2019-03-12",
+  "city": "Cape Town",
+  "country": "ZA",
+  "lat": -33.92584,
+  "lng": 18.42322,
+  "topics": [
+    "CSS"
+  ],
+  "twitter": "https://x.com/letspixelup",
+  "source": "confs.tech"
+}

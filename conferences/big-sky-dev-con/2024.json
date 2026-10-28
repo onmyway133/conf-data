@@ -1,0 +1,19 @@
+{
+  "name": "Big Sky Dev Con 2024",
+  "year": 2024,
+  "url": "https://bigskydevcon.com",
+  "startDate": "2024-06-08",
+  "endDate": "2024-06-08",
+  "city": "Bozeman, MT",
+  "country": "US",
+  "lat": 45.67965,
+  "lng": -111.03856,
+  "topics": [],
+  "cfp": {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSeDNjPCp4iRPcs11xPIn6ikJ3QhliCspbN_5n0SsqIBP-tA8w/viewform",
+    "deadline": "2024-04-01",
+    "open": false
+  },
+  "twitter": "https://x.com/BigSkyDevCon",
+  "source": "confs.tech"
+}

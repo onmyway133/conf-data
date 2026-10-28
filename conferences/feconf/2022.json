@@ -1,0 +1,15 @@
+{
+  "name": "feconf 2022",
+  "year": 2022,
+  "url": "https://2022.feconf.kr",
+  "startDate": "2022-10-08",
+  "endDate": "2022-10-08",
+  "city": "Seoul",
+  "country": "KR",
+  "lat": 37.566,
+  "lng": 126.9784,
+  "topics": [
+    "JavaScript"
+  ],
+  "source": "confs.tech"
+}

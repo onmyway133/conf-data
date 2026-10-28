@@ -1,0 +1,18 @@
+{
+  "name": "Fest.dev Krakow JavaScript Conference 2024",
+  "year": 2024,
+  "url": "https://fest.dev/events/js/krakow-2024",
+  "startDate": "2024-03-22",
+  "endDate": "2024-03-22",
+  "city": "Kraków",
+  "country": "PL",
+  "lat": 50.06143,
+  "lng": 19.93658,
+  "topics": [
+    "JavaScript",
+    "Security",
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/devfestconf",
+  "source": "confs.tech"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Health Experience Design Conference 2019",
+  "year": 2019,
+  "url": "http://healthexperiencedesign.com",
+  "startDate": "2019-04-02",
+  "endDate": "2019-04-03",
+  "city": "Boston, MA",
+  "country": "US",
+  "lat": 42.35843,
+  "lng": -71.05977,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/hxdconf",
+  "source": "confs.tech"
+}

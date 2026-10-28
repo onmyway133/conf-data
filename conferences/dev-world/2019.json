@@ -1,0 +1,16 @@
+{
+  "name": "/dev/world 2019",
+  "year": 2019,
+  "url": "http://www.devworld.com.au",
+  "startDate": "2019-09-02",
+  "endDate": "2019-09-04",
+  "city": "Melbourne",
+  "country": "AU",
+  "lat": -37.814,
+  "lng": 144.96332,
+  "topics": [
+    "iOS"
+  ],
+  "twitter": "https://x.com/AUC_ANZ",
+  "source": "confs.tech"
+}

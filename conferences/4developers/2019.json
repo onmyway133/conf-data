@@ -1,0 +1,19 @@
+{
+  "name": "4Developers 2019",
+  "year": 2019,
+  "url": "https://4developers.org.pl",
+  "startDate": "2019-04-08",
+  "endDate": "2019-04-08",
+  "city": "Warsaw",
+  "country": "PL",
+  "lat": 52.22977,
+  "lng": 21.01178,
+  "topics": [],
+  "cfp": {
+    "url": "https://cfp.4developers.org.pl/warszawa",
+    "deadline": "2019-01-30",
+    "open": false
+  },
+  "twitter": "https://x.com/4developers",
+  "source": "confs.tech"
+}

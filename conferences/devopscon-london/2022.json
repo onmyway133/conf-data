@@ -1,0 +1,22 @@
+{
+  "name": "DevOpsCon London 2022",
+  "year": 2022,
+  "url": "https://devopscon.io/london",
+  "startDate": "2022-04-26",
+  "endDate": "2022-04-29",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "DevOps",
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://devopscon.io/call-for-papers",
+    "deadline": "2021-11-08",
+    "open": false
+  },
+  "twitter": "https://x.com/devops_con",
+  "source": "confs.tech"
+}

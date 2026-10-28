@@ -1,0 +1,21 @@
+{
+  "name": "dataMinds Connect 2020",
+  "year": 2020,
+  "url": "https://datamindsconnect.be",
+  "startDate": "2020-10-12",
+  "endDate": "2020-10-13",
+  "city": "Mechelen",
+  "country": "BE",
+  "lat": 51.02574,
+  "lng": 4.47762,
+  "topics": [
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://sessionize.com/dataminds-connect-2020",
+    "deadline": "2020-05-31",
+    "open": false
+  },
+  "twitter": "https://x.com/datamindsbe",
+  "source": "confs.tech"
+}

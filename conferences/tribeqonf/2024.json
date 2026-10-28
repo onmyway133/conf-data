@@ -1,0 +1,16 @@
+{
+  "name": "TribeQonf 2024",
+  "year": 2024,
+  "url": "https://www.thetesttribe.com/tribeqonf",
+  "startDate": "2024-07-12",
+  "endDate": "2024-07-13",
+  "city": "Bangalore",
+  "country": "IN",
+  "lat": 12.97194,
+  "lng": 77.59369,
+  "topics": [
+    "Testing"
+  ],
+  "twitter": "https://x.com/the_test_tribe",
+  "source": "confs.tech"
+}

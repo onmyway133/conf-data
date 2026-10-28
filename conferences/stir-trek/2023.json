@@ -1,0 +1,14 @@
+{
+  "name": "Stir Trek 2023",
+  "year": 2023,
+  "url": "https://stirtrek.com",
+  "startDate": "2023-05-05",
+  "endDate": "2023-05-05",
+  "city": "Columbus, OH",
+  "country": "US",
+  "lat": 39.96118,
+  "lng": -82.99879,
+  "topics": [],
+  "twitter": "https://x.com/stirtrek",
+  "source": "confs.tech"
+}

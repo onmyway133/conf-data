@@ -1,0 +1,17 @@
+{
+  "name": "CSSCamp Barcelona 2019",
+  "year": 2019,
+  "url": "https://csscamp.tech",
+  "startDate": "2019-07-17",
+  "endDate": "2019-07-17",
+  "city": "Barcelona",
+  "country": "ES",
+  "lat": 41.38879,
+  "lng": 2.15899,
+  "topics": [
+    "CSS",
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/csscamp",
+  "source": "confs.tech"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "BSides Prague 2027",
+  "year": 2027,
+  "url": "https://bsidesprg.cz",
+  "startDate": "2027-04-07",
+  "endDate": "2027-04-08",
+  "city": "Prague",
+  "country": "CZ",
+  "lat": 50.08804,
+  "lng": 14.42076,
+  "topics": [
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://cfp.bsidesprg.cz/2027/cfp",
+    "deadline": "2026-12-31",
+    "open": true
+  },
+  "twitter": "https://x.com/bsidesprg",
+  "mastodon": "https://infosec.exchange/@bsidesprg",
+  "source": "confs.tech"
+}

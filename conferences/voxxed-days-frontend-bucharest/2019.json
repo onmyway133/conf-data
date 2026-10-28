@@ -1,0 +1,16 @@
+{
+  "name": "Voxxed Days Frontend Bucharest 2019",
+  "year": 2019,
+  "url": "https://romania.voxxeddays.com/frontend",
+  "startDate": "2019-05-21",
+  "endDate": "2019-05-22",
+  "city": "Bucharest",
+  "country": "RO",
+  "lat": 44.43225,
+  "lng": 26.10626,
+  "topics": [
+    "JavaScript"
+  ],
+  "twitter": "https://x.com/VoxxedFrontend",
+  "source": "confs.tech"
+}

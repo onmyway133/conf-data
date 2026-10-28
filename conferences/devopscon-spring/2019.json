@@ -1,0 +1,21 @@
+{
+  "name": "DevOpsCon Spring 2019",
+  "year": 2019,
+  "url": "https://devopsconference.de",
+  "startDate": "2019-06-11",
+  "endDate": "2019-06-14",
+  "city": "Berlin",
+  "country": "DE",
+  "lat": 52.52437,
+  "lng": 13.41053,
+  "topics": [
+    "DevOps"
+  ],
+  "cfp": {
+    "url": "https://devopsconference.de/call-for-papers-en",
+    "deadline": "2018-12-13",
+    "open": false
+  },
+  "twitter": "https://x.com/devops_con",
+  "source": "confs.tech"
+}

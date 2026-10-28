@@ -1,0 +1,16 @@
+{
+  "name": "nullcon 2019",
+  "year": 2019,
+  "url": "https://nullcon.net",
+  "startDate": "2019-03-01",
+  "endDate": "2019-03-02",
+  "city": "Goa",
+  "country": "IN",
+  "lat": 15.38914,
+  "lng": 73.81491,
+  "topics": [
+    "Security"
+  ],
+  "twitter": "https://x.com/nullcon",
+  "source": "confs.tech"
+}

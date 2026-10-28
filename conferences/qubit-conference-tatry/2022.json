@@ -1,0 +1,19 @@
+{
+  "name": "Qubit Conference Tatry 2022",
+  "year": 2022,
+  "url": "https://tatry.qubitconference.com",
+  "startDate": "2022-11-09",
+  "endDate": "2022-11-10",
+  "city": "Tatras",
+  "country": "SK",
+  "topics": [
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://tatry.qubitconference.com/call-for-papers-svk/call-speakers-form",
+    "deadline": "2022-09-20",
+    "open": false
+  },
+  "twitter": "https://x.com/qubitcon",
+  "source": "confs.tech"
+}

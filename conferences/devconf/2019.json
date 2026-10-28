@@ -1,0 +1,14 @@
+{
+  "name": "DevConf 2019",
+  "year": 2019,
+  "url": "https://www.devconf.co.za",
+  "startDate": "2019-03-26",
+  "endDate": "2019-03-26",
+  "city": "Cape Town",
+  "country": "ZA",
+  "lat": -33.92584,
+  "lng": 18.42322,
+  "topics": [],
+  "twitter": "https://x.com/devconfza",
+  "source": "confs.tech"
+}

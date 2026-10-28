@@ -1,0 +1,21 @@
+{
+  "name": "JSConf Chile 2024",
+  "year": 2024,
+  "url": "https://www.jsconf.cl",
+  "startDate": "2024-09-05",
+  "endDate": "2024-09-07",
+  "city": "Santiago",
+  "country": "CL",
+  "lat": -33.45694,
+  "lng": -70.64827,
+  "topics": [
+    "JavaScript"
+  ],
+  "cfp": {
+    "url": "https://www.jsconf.cl/cfp",
+    "deadline": "2024-05-11",
+    "open": false
+  },
+  "twitter": "https://x.com/jsconfcl",
+  "source": "confs.tech"
+}

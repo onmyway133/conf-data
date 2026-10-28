@@ -1,0 +1,16 @@
+{
+  "name": "The Ecommerce Design Summit 2019",
+  "year": 2019,
+  "url": "http://ecommercedesignsummit.com",
+  "startDate": "2019-04-04",
+  "endDate": "2019-04-05",
+  "city": "London",
+  "country": "GB",
+  "lat": 51.50853,
+  "lng": -0.12574,
+  "topics": [
+    "Design/UX"
+  ],
+  "twitter": "https://x.com/fdsummit",
+  "source": "confs.tech"
+}

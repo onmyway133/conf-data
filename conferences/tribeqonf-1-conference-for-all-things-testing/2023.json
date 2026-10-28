@@ -1,0 +1,18 @@
+{
+  "name": "TribeQonf - 1 Conference For All things Testing 2023",
+  "year": 2023,
+  "url": "https://www.thetesttribe.com/tribeqonf",
+  "startDate": "2023-07-14",
+  "endDate": "2023-07-15",
+  "city": "Bangalore",
+  "country": "IN",
+  "lat": 12.97194,
+  "lng": 77.59369,
+  "topics": [
+    "APIs",
+    "Security",
+    "Testing"
+  ],
+  "twitter": "https://x.com/the_test_tribe",
+  "source": "confs.tech"
+}

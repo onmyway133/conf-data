@@ -1,0 +1,16 @@
+{
+  "name": "Rails Camp South 2019",
+  "year": 2019,
+  "url": "https://us-south.rails.camp",
+  "startDate": "2019-04-05",
+  "endDate": "2019-04-08",
+  "city": "Bandera, TX",
+  "country": "US",
+  "lat": 29.72661,
+  "lng": -99.07365,
+  "topics": [
+    "Ruby"
+  ],
+  "twitter": "https://x.com/railscampsouth",
+  "source": "confs.tech"
+}
