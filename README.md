@@ -24,9 +24,9 @@ year. File names are the slugs used in the site's links, so they never change.
 
 This data builds on the work of others. Thank you to:
 
-- [confs.tech](https://github.com/tech-conferences/conference-data) (MIT License, see
-  [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)): editions marked
-  `"source": "confs.tech"`.
+- [confs.tech](https://github.com/tech-conferences/conference-data): editions marked
+  `"source": "confs.tech"`, under the
+  [MIT License](https://github.com/tech-conferences/conference-data/blob/main/LICENSE.md).
 - [CocoaConferences](https://github.com/Lascorbe/CocoaConferences) by Luis Ascorbe:
   editions marked `"source": "cocoaconferences"`.
 
