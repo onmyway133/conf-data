@@ -46,5 +46,5 @@ body:
       options:
         - label: It's a tech conference, not a meetup, workshop or hackathon.
           required: true
-        - label: I agree that my contribution is licensed to Indie Goodies under the terms in LICENSE.
+        - label: I agree that my contribution is licensed to the maintainers under the terms in LICENSE.
           required: true

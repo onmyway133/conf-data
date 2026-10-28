@@ -15,7 +15,7 @@ small single-track events are out of scope, since there would be too many.
 ## Before you start
 
 - By contributing, you agree to the terms in [LICENSE](LICENSE): your
-  contribution may be used by Indie Goodies, and the data may not be reused
+  contribution may be used by the maintainers, and the data may not be reused
   elsewhere.
 - Use public, official sources (the conference website, its CFP page, its
   YouTube channel). Put the source link in the PR description.

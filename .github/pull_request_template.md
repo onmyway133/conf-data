@@ -13,4 +13,4 @@
 - [ ] It's a tech conference (not a meetup, workshop or hackathon).
 - [ ] Dates, city and country match the official website.
 - [ ] Slugs are lowercase-hyphenated, and I checked `speakers/` for existing speakers.
-- [ ] I agree that my contribution is licensed to Indie Goodies under the terms in [LICENSE](../LICENSE).
+- [ ] I agree that my contribution is licensed to the maintainers under the terms in [LICENSE](../LICENSE).

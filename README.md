@@ -1,6 +1,6 @@
 # conf-data
 
-The conference data behind Indie Goodies' tech conference tracker: conferences,
+Tech conference data: conferences,
 editions, speakers and talks, one JSON file each.
 
 Every merged pull request is published to the site automatically. Want to add a
