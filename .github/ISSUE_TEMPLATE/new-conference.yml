@@ -1,0 +1,50 @@
+name: Suggest a conference
+description: Suggest a conference or a new edition without editing JSON.
+title: "Add: "
+labels: ["new conference"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Conference name and year
+      placeholder: iOS Conf SG 2026
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Official website
+      placeholder: https://iosconf.sg
+    validations:
+      required: true
+  - type: input
+    id: dates
+    attributes:
+      label: Dates
+      placeholder: 2026-01-15 to 2026-01-16
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: City and country
+      placeholder: Singapore, SG
+    validations:
+      required: true
+  - type: input
+    id: cfp
+    attributes:
+      label: Call for papers link and deadline (if any)
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Terms
+      options:
+        - label: It's a tech conference, not a meetup, workshop or hackathon.
+          required: true
+        - label: I agree that my contribution is licensed to Indie Goodies under the terms in LICENSE.
+          required: true

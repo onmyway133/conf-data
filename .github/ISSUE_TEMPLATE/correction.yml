@@ -1,0 +1,22 @@
+name: Report a correction or removal
+description: Wrong dates, a dead link, a duplicate, or information about you that you want removed.
+title: "Fix: "
+labels: ["correction"]
+body:
+  - type: input
+    id: target
+    attributes:
+      label: Which conference, speaker or talk?
+      placeholder: conferences/ios-conf-sg/2026.json, or a link to the site
+    validations:
+      required: true
+  - type: textarea
+    id: change
+    attributes:
+      label: What is wrong, and what should it be?
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source link
