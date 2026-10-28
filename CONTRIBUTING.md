@@ -41,6 +41,13 @@ Leave out a field you don't know instead of writing `null` or `""`. Unknown
 fields are rejected, so check the spelling against the examples. Links must
 start with `https://` (or `http://`).
 
+To run the same check as the pull request locally (Node 24):
+
+```
+npm ci
+npm run validate
+```
+
 ### `topics.json`
 
 ```json
