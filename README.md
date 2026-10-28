@@ -20,6 +20,16 @@ schema/*.schema.json                 JSON Schema of each file (generated)
 `<edition>` is usually the year (`2026`), or `2026-2` for a second edition that
 year. File names are the slugs used in the site's links, so they never change.
 
+## Credits
+
+This data builds on the work of others. Thank you to:
+
+- [confs.tech](https://github.com/tech-conferences/conference-data) (MIT License, see
+  [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)): editions marked
+  `"source": "confs.tech"`.
+- [CocoaConferences](https://github.com/Lascorbe/CocoaConferences) by Luis Ascorbe:
+  editions marked `"source": "cocoaconferences"`.
+
 ## License
 
 This data is **not** open. It is public only so you can contribute. You may not
