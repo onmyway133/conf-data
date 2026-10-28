@@ -1,0 +1,14 @@
+{
+  "name": "PlatformCON Live day NYC 2027",
+  "year": 2027,
+  "url": "https://platformcon.com/",
+  "startDate": "2027-06-24",
+  "endDate": "2027-06-24",
+  "city": "New York",
+  "country": "US",
+  "topics": [
+    "DevOps",
+    "Cloud"
+  ],
+  "source": "site"
+}

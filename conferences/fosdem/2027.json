@@ -1,0 +1,16 @@
+{
+  "name": "Fosdem 2027",
+  "year": 2027,
+  "url": "https://fosdem.org/2027/",
+  "startDate": "2027-01-30",
+  "endDate": "2027-01-31",
+  "city": "Brussels",
+  "country": "BE",
+  "topics": [],
+  "cfp": {
+    "url": "https://fosdem.org/submit",
+    "deadline": "2026-11-16",
+    "open": true
+  },
+  "source": "site"
+}
