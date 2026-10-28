@@ -1,8 +1,8 @@
-Copyright (c) 2026 Indie Goodies. All rights reserved.
+Copyright (c) 2026 the conf-data maintainers. All rights reserved.
 
-This repository and everything in it (the data, its structure, selection and
-arrangement, and the documentation) is proprietary. It is public only so that
-people can contribute to it. No open source or open data license is granted.
+This repository (the data, its structure, selection and arrangement, and the
+documentation) is made public so that people can contribute to it. Except as
+stated below, no license is granted.
 
 1. What you may do
 
@@ -11,7 +11,7 @@ people can contribute to it. No open source or open data license is granted.
 
 2. What you may not do
 
-   Without prior written permission from Indie Goodies, you may not, in whole
+   Without prior written permission from the maintainers, you may not, in whole
    or in part, for commercial or non-commercial purposes:
 
    a. copy, download in bulk, scrape, mirror or archive the data;
@@ -24,11 +24,11 @@ people can contribute to it. No open source or open data license is granted.
 3. Contributions
 
    By submitting a pull request, issue or other contribution, you confirm that
-   you have the right to submit it, and you grant Indie Goodies a perpetual,
+   you have the right to submit it, and you grant the maintainers a perpetual,
    worldwide, irrevocable, royalty-free, non-exclusive license to use, copy,
-   modify, publish, sublicense and distribute your contribution as part of
-   this repository and Indie Goodies products. You keep any rights you have in
-   your contribution.
+   modify, publish, sublicense and distribute your contribution, as part of
+   this repository and in any product built from it. You keep any rights you
+   have in your contribution.
 
 4. Third-party names
 
@@ -42,8 +42,7 @@ people can contribute to it. No open source or open data license is granted.
 
 6. No warranty
 
-   The data is provided "as is", without warranty of any kind. Indie Goodies is
-   not liable for any claim or damages arising from it.
+   The data is provided "as is", without warranty of any kind. The maintainers
+   are not liable for any claim or damages arising from it.
 
-For permission to use the data, contact Indie Goodies via
-https://indiegoodies.com.
+To ask for permission to use the data, open an issue in this repository.

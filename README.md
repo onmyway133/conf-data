@@ -1,7 +1,7 @@
 # conf-data
 
-Tech conference data: conferences,
-editions, speakers and talks, one JSON file each.
+Tech conference data: conferences, editions, speakers and talks, one JSON file
+each.
 
 Every merged pull request is published to the site automatically. Want to add a
 conference, fix a date or add a lineup? See [CONTRIBUTING.md](CONTRIBUTING.md).
