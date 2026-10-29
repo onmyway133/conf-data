@@ -1,0 +1,19 @@
+{
+  "name": "Testcon 2027",
+  "year": 2027,
+  "url": "https://testconeurope.eu/",
+  "startDate": "2027-10-19",
+  "endDate": "2027-10-22",
+  "city": "Antwerp",
+  "country": "BE",
+  "topics": [
+    "DevOps",
+    "Data/AI",
+    "Security"
+  ],
+  "cfp": {
+    "url": "https://airtable.com/appA8aojV54jbFghr/pag6bCDEHgNxguykQ/form",
+    "open": true
+  },
+  "source": "site"
+}

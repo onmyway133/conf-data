@@ -1,0 +1,15 @@
+{
+  "name": "Webinale 2027",
+  "year": 2027,
+  "url": "https://webinale.com/",
+  "startDate": "2027-06-14",
+  "endDate": "2027-06-18",
+  "city": "Berlin",
+  "country": "DE",
+  "topics": [
+    "Web",
+    "Design/UX",
+    "Data/AI"
+  ],
+  "source": "site"
+}
