@@ -32,6 +32,4 @@ This data builds on the work of others. Thank you to:
 
 ## License
 
-This data is **not** open. It is public only so you can contribute. You may not
-copy, scrape, redistribute or use it in other products, or use it to train AI
-models. See [LICENSE](LICENSE).
+See [LICENSE](LICENSE).
