@@ -18,14 +18,8 @@
   },
   "source": "cocoaconferences",
   "speakers": [
-    {
-      "speaker": "donny-wals"
-    },
-    {
-      "speaker": "monika-sardjoska"
-    },
-    {
-      "speaker": "marcin-krzyzanowski"
-    }
+    "donny-wals",
+    "monika-sardjoska",
+    "marcin-krzyzanowski"
   ]
 }

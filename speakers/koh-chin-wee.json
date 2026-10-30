@@ -1,3 +1,7 @@
 {
-  "name": "Koh Chin Wee"
+  "name": "Koh Chin Wee",
+  "role": "Senior Software Engineer at GovTech",
+  "bio": "Chin Wee is a senior iOS software engineer with over ten years of experience building and delivering secure, scalable mobile applications. He has worked across government, banking, and enterprise sectors, leading the development of mission-critical products used by millions of users.\n\nHe played a pivotal role in the iOS Singpass app, delivering high-impact features such as SafeEntry, login authentication, and facial verification, while enhancing mobile security through secure enclave integrations and in-house SDKs. Widely regarded as a go-to engineer for complex problem-solving, Chin Wee thrives in ambiguous environments, leads teams effectively, and translates business requirements into robust technical solutions.\n\nHe holds a Bachelor of Computer Engineering and is driven by a passion for building reliable, secure technology with meaningful real-world impact.",
+  "photoUrl": "https://ik.imagekit.io/iosconfsg/speakers/chinwee.png",
+  "linkedin": "https://www.linkedin.com/in/chin-wee-koh-a7b16483"
 }

@@ -1,3 +1,8 @@
 {
-  "name": "Stefan Blos"
+  "name": "Stefan Blos",
+  "role": "iOS Developer Experience Engineer",
+  "bio": "Stefan works as a developer experience engineer at Stream (getstream.io). He loves building and experimenting with iOS animations using SwiftUI",
+  "photoUrl": "https://2023.pragmaconference.com/assets/speakers/stefan_blos.jpeg",
+  "twitter": "https://twitter.com/stefanjblos",
+  "website": "https://stefanblos.com/"
 }

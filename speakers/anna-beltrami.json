@@ -1,3 +1,9 @@
 {
-  "name": "Anna Beltrami"
+  "name": "Anna Beltrami",
+  "role": "Mad Scientist & Software Engineer",
+  "bio": "Mobile infrastructure engineer at Spotify. She has been an iOS engineer since 2017. When she is not tinkering with Swift or building untested apps on Swift Playgrounds, She love podcasting and she is an avid skier and climber!!.",
+  "photoUrl": "https://2024.pragmaconference.com/images/j/anna_beltrami-454.jpg",
+  "twitter": "https://twitter.com/acbdev",
+  "linkedin": "https://www.linkedin.com/in/anna-b-8b0134a9/",
+  "website": "https://bento.me/acbdev"
 }

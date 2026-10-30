@@ -1,3 +1,8 @@
 {
-  "name": "Veselin Iliev"
+  "name": "Veselin Iliev",
+  "bio": "Veselin moved to London 2 years ago to join the Android team at ASOS. An Android developer since Froyo (long long time ago), he’s current focus is combining RxJava, Kotlin and MVP / MVVM patterns to provide smooth and seamless user experiences. Passionate about testing and writing clean code in general. Loves to spend his free time cycling, skiing or listening to podcasts.",
+  "photoUrl": "http://2017.mobilization.pl/images/speakers/veskoiliev.png",
+  "twitter": "https://twitter.com/@ilievvesselin",
+  "linkedin": "https://www.linkedin.com/in/vesseliniliev/",
+  "website": "http://veskoiliev.com/"
 }

@@ -1,3 +1,7 @@
 {
-  "name": "David Okun"
+  "name": "David Okun",
+  "role": "Swift@IBM",
+  "bio": "David Okun is a mobile software developer turned developer advocate for IBM in Austin, Texas. David has been primarily focused on iOS mobile software, but is also interested in Swift on the Server, and other web technologies such as Node.js.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2019/speakers/david.jpg",
+  "twitter": "https://twitter.com/dokun24"
 }

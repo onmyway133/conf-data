@@ -14,38 +14,14 @@
   ],
   "source": "cocoaconferences",
   "speakers": [
-    {
-      "speaker": "loic-lecrenier",
-      "twitter": "https://twitter.com/loiclec"
-    },
-    {
-      "speaker": "peter-tomaselli",
-      "website": "https://github.com/peter-tomaselli"
-    },
-    {
-      "speaker": "jason-zurita",
-      "twitter": "https://twitter.com/jasonalexzurita"
-    },
-    {
-      "speaker": "ben-cohen",
-      "twitter": "https://twitter.com/airspeedswift"
-    },
-    {
-      "speaker": "danny-hertz",
-      "twitter": "https://twitter.com/dannyhertz"
-    },
-    {
-      "speaker": "brandon-kase",
-      "twitter": "https://twitter.com/bkase_"
-    },
-    {
-      "speaker": "stephen-celis",
-      "twitter": "https://twitter.com/stephencelis"
-    },
-    {
-      "speaker": "brandon-williams",
-      "twitter": "https://twitter.com/mbrandonw"
-    }
+    "loic-lecrenier",
+    "peter-tomaselli",
+    "jason-zurita",
+    "ben-cohen",
+    "danny-hertz",
+    "brandon-kase",
+    "stephen-celis",
+    "brandon-williams"
   ],
   "talks": [
     {

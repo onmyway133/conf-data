@@ -1,3 +1,9 @@
 {
-  "name": "Antoine van der Lee"
+  "name": "Antoine van der Lee",
+  "role": "RocketSim",
+  "bio": "Antoine is passionate about contributing to the Swift community. You might know him from his weekly blog posts on his personal blog, SwiftLee, his newsletter, SwiftLee Weekly, or RocketSim, an Xcode Simulator-enhancing app. His contributions to the Apple developer ecosystem have also been recognized by Apple, where he is featured as part of the Apple Developer Community recognition program. He particularly enjoys speaking on best practices for structuring code architecture in a way that creates sustainability, new Swift features, and how iOS developers can be more successful in their work.\n\nBefore going indie in 2024, he led the team at WeTransfer as a Staff iOS Engineer and developed several large-scale apps since 2009 (iOS 4!). His most recent work resulted in two brand-new courses: From Side Project to Going Indie at going-indie.com and a course focused on Swift 6 and Concurrency at swiftconcurrencycourse.com.",
+  "photoUrl": "https://do-ios.com/images/speakers/2026/antoine.jpeg",
+  "twitter": "https://x.com/twannl",
+  "linkedin": "https://linkedin.com/in/ajvanderlee",
+  "website": "https://www.avanderlee.com/"
 }

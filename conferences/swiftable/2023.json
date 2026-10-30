@@ -18,101 +18,25 @@
   },
   "source": "cocoaconferences",
   "speakers": [
-    {
-      "speaker": "antoine-van-der-lee",
-      "role": "Staff Engineer, WeTransfer",
-      "photoUrl": "https://www.swiftable.co/speaker/antoine-vanderlee.jpg"
-    },
-    {
-      "speaker": "pedro-pinera",
-      "role": "Creator of Tuist",
-      "photoUrl": "https://www.swiftable.co/speaker/pedro-pinera.jpg"
-    },
-    {
-      "speaker": "carola-nitz",
-      "role": "Software Engineer, Netflix",
-      "photoUrl": "https://www.swiftable.co/speaker/carola-nitz.jpg"
-    },
-    {
-      "speaker": "noah-martin",
-      "role": "Co-Founder, EmergeTools",
-      "photoUrl": "https://www.swiftable.co/speaker/noah-martin.jpg"
-    },
-    {
-      "speaker": "josh-holtz",
-      "role": "Software engineer, RevenueCat",
-      "photoUrl": "https://www.swiftable.co/speaker/josh-holtz.jpg"
-    },
-    {
-      "speaker": "dima-kalachniuk",
-      "role": "Software Engineer Leader, KLM",
-      "photoUrl": "https://www.swiftable.co/speaker/dima-kalachniuk.jpg"
-    },
-    {
-      "speaker": "rita-zerrizuela",
-      "role": "iOS engineer, Okta",
-      "photoUrl": "https://www.swiftable.co/speaker/rita-zerrizuela.jpg"
-    },
-    {
-      "speaker": "j-manuel-mosso",
-      "role": "iOS Software Architect, lululemon",
-      "photoUrl": "https://www.swiftable.co/speaker/manuel-mosso.jpg"
-    },
-    {
-      "speaker": "daniela-riesgo",
-      "role": "iOS engineer, Podcast App",
-      "photoUrl": "https://www.swiftable.co/speaker/danila-riesgo.jpg"
-    },
-    {
-      "speaker": "manuel-nakamurakare",
-      "role": "Engineering Manager, Pinterest",
-      "photoUrl": "https://www.swiftable.co/speaker/manuel-nakamurakare.jpg"
-    },
-    {
-      "speaker": "charles-pisciotta",
-      "role": "Software Engineer, Audible",
-      "photoUrl": "https://www.swiftable.co/speaker/charles-pisciotta.jpg"
-    },
-    {
-      "speaker": "ashli-rankin",
-      "role": "iOS Engineer, Lickability",
-      "photoUrl": "https://www.swiftable.co/speaker/ashli-rankin.jpg"
-    },
-    {
-      "speaker": "osamu-hiraoka",
-      "role": "iOS Engineer, Classmethod",
-      "photoUrl": "https://www.swiftable.co/speaker/osamu-hiraoka.jpg"
-    },
-    {
-      "speaker": "claudia-maciel",
-      "role": "iOS Engineer, Jack Henry & Associates",
-      "photoUrl": "https://www.swiftable.co/speaker/claudia-maciel.jpg"
-    },
-    {
-      "speaker": "itay-brenner",
-      "role": "Senior iOS Engineer, EmergeTools",
-      "photoUrl": "https://www.swiftable.co/speaker/itay-brenner.jpg"
-    },
-    {
-      "speaker": "petr-pavlik",
-      "role": "Staff Engineer, Perry Street Software",
-      "photoUrl": "https://www.swiftable.co/speaker/petr-pavlik.jpg"
-    },
-    {
-      "speaker": "mauricio-chirino",
-      "role": "Mobile Engineer, Bitso",
-      "photoUrl": "https://www.swiftable.co/speaker/mauricio-chirino.jpg"
-    },
-    {
-      "speaker": "nahuel-zapata",
-      "role": "Tech Lead, Taller",
-      "photoUrl": "https://www.swiftable.co/speaker/nahuel-zapata.jpg"
-    },
-    {
-      "speaker": "marcelo-busico",
-      "role": "iOS Tech Lead, Taller",
-      "photoUrl": "https://www.swiftable.co/speaker/marcelo-busico.jpg"
-    }
+    "antoine-van-der-lee",
+    "pedro-pinera",
+    "carola-nitz",
+    "noah-martin",
+    "josh-holtz",
+    "dima-kalachniuk",
+    "rita-zerrizuela",
+    "j-manuel-mosso",
+    "daniela-riesgo",
+    "manuel-nakamurakare",
+    "charles-pisciotta",
+    "ashli-rankin",
+    "osamu-hiraoka",
+    "claudia-maciel",
+    "itay-brenner",
+    "petr-pavlik",
+    "mauricio-chirino",
+    "nahuel-zapata",
+    "marcelo-busico"
   ],
   "talks": [
     {

@@ -1,3 +1,8 @@
 {
-  "name": "Betty Godier"
+  "name": "Betty Godier",
+  "role": "VanMoof",
+  "bio": "Betty works as a Senior iOS Engineer at VanMoof in Amsterdam. In her spare time, she enjoys sailing with her family.",
+  "photoUrl": "https://2023.iosconf.sg/images/speakers/betty.jpg",
+  "twitter": "https://twitter.com/bettygodier",
+  "website": "https://www.vanmoof.com/en"
 }

@@ -1,3 +1,7 @@
 {
-  "name": "Dolly Agarwal"
+  "name": "Dolly Agarwal",
+  "role": "AI / ML Developer",
+  "bio": "Dolly is an AI/ML engineer focused on applying AI for social good in climate tech. She has built production-grade AI agents, RAG pipelines, and LLM applications across sustainability, edtech, and consumer insights. With several peer-reviewed publications and hands-on experience deploying AI systems at scale, she’s passionate about designing AI that is safe, accessible, and truly useful for people.",
+  "photoUrl": "https://ik.imagekit.io/iosconfsg/speakers/dolly.jpg",
+  "linkedin": "https://www.linkedin.com/in/dolly-agarwal"
 }

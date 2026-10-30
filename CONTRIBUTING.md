@@ -91,9 +91,7 @@ The file name is the edition slug: usually the year (`2026.json`), or
   "topics": ["iOS"],
   "cfp": { "url": "https://iosconf.sg/cfp", "deadline": "2025-10-31", "open": true },
   "playlistUrl": "https://www.youtube.com/playlist?list=...",
-  "speakers": [
-    { "speaker": "jane-doe", "role": "iOS Engineer @ Example" }
-  ],
+  "speakers": ["jane-doe"],
   "talks": [
     {
       "slug": "shipping-swiftui-at-scale",
@@ -117,10 +115,9 @@ The file name is the edition slug: usually the year (`2026.json`), or
   accepts proposals; `url` and `deadline` are optional.
 - Other optional fields: `bannerUrl`, `playlistUrl`, `twitter`, `bluesky`,
   `mastodon`, `source` (where the data came from, set by import tools).
-- `speakers` is the lineup, in the order the conference shows it. Each entry
-  needs `speaker` (a slug with a file in `speakers/`) and can add `role`,
-  `bio`, `photoUrl`, `twitter`, `bluesky`, `mastodon`, `linkedin`, `website`
-  as this conference presented the speaker.
+- `speakers` is the lineup: speaker slugs in the order the conference shows
+  them, each with a file in `speakers/`. A speaker's role, bio, photo and
+  links go in that file, not here.
 - `talks` are in schedule order. A talk's `slug` is its page on the site and
   must be unique across the whole repository (all edition files and
   `talks/`). Every slug in its `speakers` needs a file in `speakers/`.
@@ -130,13 +127,18 @@ The file name is the edition slug: usually the year (`2026.json`), or
 ```json
 {
   "name": "Jane Doe",
+  "role": "iOS Engineer @ Example",
   "bio": "Builds iOS apps.",
+  "photoUrl": "https://janedoe.dev/me.jpg",
+  "twitter": "https://x.com/janedoe",
   "website": "https://janedoe.dev"
 }
 ```
 
-Optional: `bio`, `photoUrl`, `twitter`, `bluesky`, `mastodon`, `website`. Set
-them only to override what the speaker's latest conference lineup says.
+The speaker's profile, shown on their page and on every lineup they're in.
+Optional: `role` (current job title and company), `bio`, `photoUrl`,
+`twitter`, `bluesky`, `mastodon`, `linkedin`, `website`. Links are full
+`https://` URLs. Keep it to what the speaker has published themselves.
 
 Before creating a speaker, search `speakers/` to see if they already exist.
 

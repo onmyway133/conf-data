@@ -22,81 +22,18 @@
   "mastodon": "https://androiddev.social/@droidcon",
   "source": "confs.tech",
   "speakers": [
-    {
-      "speaker": "kseniia-shumelchyk",
-      "role": "Engineering Manager @ Google, Android Developer Relations",
-      "bio": "Kseniia is a Developer Relations Engineer on the Android team at Google, helping developers to design and build great apps for Wear OS.\n\nPrior to joining Google, Kseniia worked as a full-time Android engineer and was a Google Developer Expert for Android. Kseniia is a former leader of Women Techmakers Ukraine community and EMEA Google Anita Borg scholar.",
-      "photoUrl": "https://cdn.sessionize.com/image/857b-400o400o1-jnChnTurrj9fPZXSWF5Ud.jpg",
-      "twitter": "https://x.com/kseniiaS"
-    },
-    {
-      "speaker": "carmen-alvarez",
-      "role": "Developer at Genymobile",
-      "bio": "Having developed Android applications for 10 years, I now work on the Genymotion SaaS application, providing Android emulators in the cloud.",
-      "photoUrl": "https://cdn.sessionize.com/image/0705-400o400o1-VZfmdTgtkRhU3vGiVcjxLp.jpg"
-    },
-    {
-      "speaker": "ed-holloway-george",
-      "role": "Lead Android Developer @ Kraken | Android GDE",
-      "bio": "Ed Holloway-George is an Android Developer and Google Developer Expert originally from Oxford, UK but now currently residing in Nottingham, UK.\n\nAn Android developer for over 10 years; Ed now works for Kraken as a Lead Developer having previously worked on well-known applications such as ASOS, National Trust, My Oxfam, Snoop, Carling Tap and many more.\n\nIn his spare time, Ed can be found playing trading card games and posting pictures of his dog.",
-      "photoUrl": "https://cdn.sessionize.com/image/f620-400o400o1-Suu1CSFCXHg2BNnxnvBxHE.png",
-      "twitter": "https://twitter.com/Sp4ghettiCode"
-    },
-    {
-      "speaker": "john-o-reilly",
-      "role": "Staff Software Engineer @ Kraken Tech (Octopus Energy Group)",
-      "bio": "John is a Kotlin Google Developer Expert with over a decade of Android and iOS development experience. He has been actively exploring and advocating for all things Kotlin Multiplatform since 2018.",
-      "photoUrl": "https://cdn.sessionize.com/image/a075-400o400o1-TLqNe69nTw1RTsYoaYJyKz.jpg"
-    },
-    {
-      "speaker": "marton-braun",
-      "role": "Developer Advocate at JetBrains",
-      "bio": "Márton is a Kotlin Developer Advocate at JetBrains, working on making Kotlin Multiplatform awesome. Passionate about education, he's a guest lecturer at the Budapest University of Technology and Economics.\n\nHe’s been contributing to the community through writing, speaking, and open source libraries since his university days. He is a Google Developer Expert for Android, and a co-organizer of Android Budapest.",
-      "photoUrl": "https://cdn.sessionize.com/image/e76e-400o400o1-48Xecw4YZ8eXv2jhaMBiqP.png"
-    },
-    {
-      "speaker": "etienne-caron",
-      "role": "Tech Founder, Kanastruk Inc.",
-      "bio": "Etienne Caron is the technical founder of Kanastruk, an innovation lab specializing in software development, IoT, machine learning, and embedded systems. For the past few years, he has led the company, partnering with notable clients such as Bell Canada and Instacart.\n\nEtienne began his career as a back-end developer in the late nineties, pivoting to mobile development in the early 2010s. He has worked across all tiers of large-scale software platforms, including server, web, mobile, and embedded systems.\n\n• Staff developer for the e-commerce store management application at Shopify.\n• Senior Android developer on the Hatchful™ Logo Maker at Shopify.\n• Android team lead on the TrueKey™ password management app for Intel / McAfee.\n• Senior developer on the Nina™ Mobile speech recognition SDK at Nuance Communications.\n\nWith over 25 years of experience, Etienne remains a dedicated community member, actively mentoring startups, developers, and students. He lives in Montreal, Canada, with his wife and daughter and is fluent in both French and English.",
-      "photoUrl": "https://cdn.sessionize.com/image/666e-400o400o1-3XyABod1tzM94rrtZk4Mpg.png"
-    },
-    {
-      "speaker": "martin-bonnin",
-      "role": "Mobile Engineer at ApolloGraphQL",
-      "bio": "Martin is a maintainer of Apollo Kotlin. He has been writing Android applications since Cupcake and fell in love with Kotlin in 2017. Martin loves naming things and the sound of his laptop fan compiling all these type-safe programs. When not busy rewriting all his bash scripts in Kotlin, Martin loves to hike the Pyrénées or play a good game of Hearthstone.",
-      "photoUrl": "https://cdn.sessionize.com/image/00e1-400o400o1-UiWeCMZDxPejrFsozKmLYr.jpeg"
-    },
-    {
-      "speaker": "dinorah-tovar",
-      "role": "Google Developer Expert on Android",
-      "bio": "Dinorah is currently part of Arkham a Data and AI Company, In the past was Head of Mobile and Director of Engineering at Mexican Unicorn, Konfio.mx\nBefore that, she led the mobile engineering teams of Lonely Planet and the Boston Consulting Group. She’s also a speaker at many tech conferences for the community, like Women Who Code, Droidcon, and Kotlin Everywhere. \nTwitter: @ddinorahtovar",
-      "photoUrl": "https://cdn.sessionize.com/image/720d-400o400o1-MzyjqA4LBh4T34jkrjswT9.png",
-      "twitter": "https://twitter.com/DDinorahtovar"
-    },
-    {
-      "speaker": "cyril-mottier",
-      "role": "Engineering",
-      "photoUrl": "https://cdn.sessionize.com/image/c950-400o400o1-73JBssA5Jre6mP7v51kozh.jpg"
-    },
-    {
-      "speaker": "julien-salvi",
-      "role": "Lead Android Engineer @ Aircall",
-      "bio": "Into the Android world for more than 10 years, I experienced California the startup way of life before coming back to France. I am currently Lead Android Engineer at Aircall where we are building the best phone system for modern businesses. Alongside Android, I have a great interest in backend development with Kotlin and AR/VR technology. In 2021, I became an Android GDE to continue my journey to always share and learn with the Android community.\nIn my spare time, I am a world traveler and a beer lover always looking for the best IPAs!",
-      "photoUrl": "https://cdn.sessionize.com/image/c8ba-400o400o1-4NcyaNMS4awH1Zr87u5Gve.png"
-    },
-    {
-      "speaker": "adarsh-fernando",
-      "role": "Google",
-      "bio": "Adarsh is a Senior Product Manager on Android Studio, focusing on the code editor, debugger, device access, Google service integrations, and testing.",
-      "photoUrl": "https://cdn.sessionize.com/image/3dde-400o400o1-e7bdf209-26ed-4e56-bbc9-8fcd0b9b5eea.jpg"
-    },
-    {
-      "speaker": "ben-kadel",
-      "role": "Principal Platform Engineer for Android at Babbel",
-      "bio": "Developer, Presenter/Teacher, Open source advocate, Ultimate frisbee player & Board game hoarder.\nI love the fact that I get to code for a living, but I am also incredibly passionate about sharing, collaborating and helping others on their dev journey!\nI also have a growing YouTube channel (youtube.com/benkadel), where I try to make entertaining & educational content about programming, the tech industry and specific tutorials to breakdown complex topics.\nI adore presenting, story-telling and just generally engaging with an audience. If I am able to make life, even just a little brighter for someone then I have succeeded!",
-      "photoUrl": "https://cdn.sessionize.com/image/54f5-400o400o1-31mVG35BLhHT49izHuyZnY.jpg",
-      "twitter": "https://twitter.com/Ben_Kadel"
-    }
+    "kseniia-shumelchyk",
+    "carmen-alvarez",
+    "ed-holloway-george",
+    "john-o-reilly",
+    "marton-braun",
+    "etienne-caron",
+    "martin-bonnin",
+    "dinorah-tovar",
+    "cyril-mottier",
+    "julien-salvi",
+    "adarsh-fernando",
+    "ben-kadel"
   ],
   "talks": [
     {

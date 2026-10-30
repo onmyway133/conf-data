@@ -1,3 +1,6 @@
 {
-  "name": "Matt Gallagher"
+  "name": "Matt Gallagher",
+  "bio": "Matt Gallagher started his career writing embedded C at a printer company and computer vision research at a video games company. For the last decade, Matt has worked as a Mac and iOS developer and consultant across a range of fields from video server software to weather apps. His website, cocoawithlove.com, has offered in-depth articles on Mac and iOS development since 2008.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2017/speakers/matt.jpg",
+  "twitter": "https://twitter.com/cocoawithlove"
 }

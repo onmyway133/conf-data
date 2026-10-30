@@ -1,3 +1,8 @@
 {
-  "name": "Dave Verwer"
+  "name": "Dave Verwer",
+  "role": "iosdevweekly.com",
+  "bio": "Dave is an independent and freelance iOS developer and author of iOS Dev Weekly. He has been developing for the Mac and iOS since 2006 and is secretly quite proud that his first professional gig had him using a (real) vt100 green screen terminal. He's glad he doesn't have to use that any more though!",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2019/dave.jpg",
+  "twitter": "https://twitter.com/daveverwer",
+  "website": "https://daveverwer.com"
 }

@@ -1,3 +1,7 @@
 {
-  "name": "Brandon Kase"
+  "name": "Brandon Kase",
+  "role": "iOS Engineer at Pinterest",
+  "bio": "Brandon Kase brings typed functional programming to weird places. He has shipped production code on Android with Kotlin, iOS with Swift and React Native, and Web with JS/Flow/React. Brandon is currently building a new cryptocurrency at O(1) Labs. He came across functional programming while pursuing a B.S. in Computer Science from Carnegie Mellon University. Brandon is excited that strong static typing and functional programming are becoming mainstream, and believes that techniques once reserved for academia will help industry produce more reliable software.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2018/bkase.jpg",
+  "twitter": "https://twitter.com/bkase_"
 }

@@ -1,3 +1,9 @@
 {
-  "name": "Paul Hudson"
+  "name": "Paul Hudson",
+  "role": "Hacking with Swift · Author, educator",
+  "bio": "Creator of Hacking with Swift and author of books across Apple's platforms.\n\nOne of the Swift community's most widely used teachers.",
+  "photoUrl": "https://swiftsonicconf.com/Headliners/paul_hudson.webp",
+  "twitter": "https://x.com/twostraws",
+  "linkedin": "https://www.linkedin.com/in/twostraws",
+  "website": "https://hackingwithswift.com"
 }

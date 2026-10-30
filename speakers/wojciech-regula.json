@@ -1,3 +1,7 @@
 {
-  "name": "Wojciech Regula"
+  "name": "Wojciech Regula",
+  "role": "Principal Security Consultant - SecuRing",
+  "bio": "Wojciech Regula is a Principal IT Security Specialist working at SecuRing. He specializes in application security on Apple devices. He has created the iOS Security Suite - an open-source anti-tampering framework. Bugcrowd MVP, has found vulnerabilities in Apple, Facebook, Malwarebytes, Slack, Atlassian, and others.\n\nIn his free time, he runs an infosec blog - https://wojciechregula.blog. He has shared his research at, among others, Typhoon, Black Hat US & EU, DEF CON, Objective by the Sea, NULLCON, and CONFidence.",
+  "photoUrl": "https://macsysadmin.se/speakers/files/image-2207.png",
+  "website": "https://wojciechregula.blog"
 }

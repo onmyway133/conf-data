@@ -1,3 +1,7 @@
 {
-  "name": "Takeru Chuganji"
+  "name": "Takeru Chuganji",
+  "role": "iOS Tech Lead at Mercari, Swift Contributor, Dog Lover",
+  "bio": "Takeru a.k.a. Ganzy is the iOS Tech Lead at Mercari in the U.S. He loves to contribute to open source projects to make engineers happy and has contributed to Carthage, fastlane, Swift, and so on. Also he loves dogs so you can find him with a super cute Bulldog Puppy's profile picture on Twitter, GitHub, and some Slack channels.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/sanjose2018/takeru.jpg",
+  "twitter": "https://twitter.com/chuganzy"
 }

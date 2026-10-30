@@ -1,3 +1,6 @@
 {
-  "name": "Brian King"
+  "name": "Brian King",
+  "bio": "Brian King is a Tech Lead at Raizlabs where he gets to make awesome apps and support coworkers doing the same. In-between projects he likes to work on tools like the Swift compiler and Eject as well as libraries like RZBluetooth and BonMot. When not in front of a computer he tries to get his dog to take care of his son so he can spend some time with his wife. It has yet to work.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2017/instructors/brian.jpg",
+  "twitter": "https://twitter.com/KingOfBrian"
 }

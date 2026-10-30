@@ -1,3 +1,7 @@
 {
-  "name": "Ben Asher"
+  "name": "Ben Asher",
+  "role": "iOS engineer at Yelp",
+  "bio": "iOS engineer at Yelp. Contributor to CocoaPods.",
+  "photoUrl": "http://2016.iosconf.sg/images/speakers/ben.png",
+  "twitter": "https://twitter.com/benasher44"
 }

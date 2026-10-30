@@ -1,3 +1,7 @@
 {
-  "name": "Arun Sharma"
+  "name": "Arun Sharma",
+  "role": "Staff Engineer @ Swiggy",
+  "bio": "Arun Sharma leads the Instamart Apps team at Swiggy, focusing on platform performance and developer tooling for consumer-facing apps at scale. He has built tools and systems—including Swiggy Perf Kit, Perfetto trace analysis, JankStats, and Macrobenchmarking—that make Android apps faster, more reliable, and easier to debug across app shells and device classes. He is passionate about practical engineering, strong developer workflows, and building a lasting performance culture.",
+  "photoUrl": "https://cdn.sessionize.com/image/c492-400o400o1-LCHxbaD5w12aet1pPfsRsc.jpg",
+  "twitter": "https://twitter.com/droid_arun"
 }

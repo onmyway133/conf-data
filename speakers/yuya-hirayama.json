@@ -1,3 +1,7 @@
 {
-  "name": "Yuya Hirayama"
+  "name": "Yuya Hirayama",
+  "role": "iOS Engineer at VASILY Inc.",
+  "bio": "Yuya Hirayama is an iOS engineer at VASILY Inc. He likes the idea of protocol-oriented programming, and pursuing code that realizes type-safe operation with minimal local definition by protocol + protocol extension. Recently, he is pulled toward the strong appeal of server side Swift, focusing more on Swift itself rather than iOS development. Yuya Hirayama also develops a virtual currency service as a side project, including the iOS application and the back-end API using Swift. In addition, he actively speaks at 'iOS Discord' and organizes 'Discord Offline', the first offline event of the community.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2018/lt/hiragram.jpg",
+  "twitter": "https://twitter.com/hiragram"
 }

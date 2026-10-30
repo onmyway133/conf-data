@@ -1,3 +1,7 @@
 {
-  "name": "Mustafa Yusuf"
+  "name": "Mustafa Yusuf",
+  "role": "Indie Developer",
+  "bio": "The incredible indie developer who is making waves with his apps Tasks and Karo.\n\nBoth apps have been featured by Apple and have achieved an impressive total of over half a million downloads.\n\nMustafa has received several accolades, including \"The Shippies\" award for Karo. He also had the honour of being a keynote speaker at the grand opening of Apple’s Developer Center in Bangalore. As a pioneer in app development since the early days of Swift, he is at the forefront of innovation.\n\nHis journey is filled with insightful experiences that will inspire every Swift developer.",
+  "photoUrl": "https://ik.imagekit.io/iosconfsg/speakers/mustafa.jpeg?updatedAt=1730389798225",
+  "twitter": "https://x.com/mufasaYC"
 }

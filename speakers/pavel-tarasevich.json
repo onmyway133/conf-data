@@ -1,3 +1,8 @@
 {
-  "name": "Pavel Tarasevich"
+  "name": "Pavel Tarasevich",
+  "role": "foodpanda",
+  "bio": "Pavel Tarasevich is a senior iOS developer at Foodpanda, here in Singapore. He has 9+ years of iOS e...",
+  "photoUrl": "https://2021.iosconf.sg/speakers/pavel.jpg",
+  "linkedin": "https://www.linkedin.com/in/pavel-tarasevich",
+  "website": "https://www.foodpanda.com"
 }

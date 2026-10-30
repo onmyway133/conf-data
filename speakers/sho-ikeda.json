@@ -1,3 +1,6 @@
 {
-  "name": "Sho Ikeda"
+  "name": "Sho Ikeda",
+  "bio": "Sho is a Swift (corelibs-foundation) contributor. Also Creator/Maintainer of Himotoki, Carthage, ReactiveSwift, ... and so on! He is developing iOS/Android/React Native apps at Hatena in Kyoto.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2019/instructors/sho_ikeda.jpg",
+  "twitter": "https://twitter.com/ikesyo"
 }

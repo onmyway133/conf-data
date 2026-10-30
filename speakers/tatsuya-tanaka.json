@@ -1,3 +1,7 @@
 {
-  "name": "Tatsuya Tanaka"
+  "name": "Tatsuya Tanaka",
+  "role": "Engineer at Yahoo! JAPAN",
+  "bio": "Tatsuya Tanaka is an engineer at Yahoo! JAPAN, where he mainly develops transit iOS apps. When not coding, he shares iOS tips at meetups or on his blog. You can find him at Hackathons.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2018/lt/tattn.jpg",
+  "twitter": "https://twitter.com/tanakasan2525"
 }

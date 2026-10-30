@@ -1,3 +1,8 @@
 {
-  "name": "Kamil Borzym"
+  "name": "Kamil Borzym",
+  "role": "Senior Software Engineer, Allegro.pl",
+  "bio": "Kamil is an iOS software developer. He has been into mobile development long before iOS (can you remember Java ME?). Now he is working at Allegro - the biggest e-commerce company in his home country (Poland). Kamil is very curious of how things work internally, so he likes to decompile frameworks and apps. Currently he is planing to decompile an engine of his mx5.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2019/speakers/kamil.jpg",
+  "twitter": "https://www.twitter.com/kam800",
+  "linkedin": "https://www.linkedin.com/in/kamil-borzym-03763473/"
 }

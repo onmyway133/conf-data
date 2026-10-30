@@ -18,161 +18,31 @@
   },
   "source": "cocoaconferences",
   "speakers": [
-    {
-      "speaker": "betsy-langowski",
-      "role": "Opening keynote · Bitrig",
-      "bio": "Former Apple SwiftUI evangelist with 15 years in Cupertino.\n\nNow at Bitrig, known for pairing deep product craft with a human touch.",
-      "photoUrl": "https://swiftsonicconf.com/Headliners/betsy_langowski.webp"
-    },
-    {
-      "speaker": "paul-hudson",
-      "role": "Hacking with Swift · Author, educator",
-      "bio": "Creator of Hacking with Swift and author of books across Apple's platforms.\n\nOne of the Swift community's most widely used teachers.",
-      "photoUrl": "https://swiftsonicconf.com/Headliners/paul_hudson.webp"
-    },
-    {
-      "speaker": "kaya-thomas",
-      "role": "Mobile engineer · Indie app creator",
-      "bio": "Mobile developer with 10+ years across indie work, Slack, and Calm.\n\nCreator of Milk Diary, a privacy-first app inspired by her daughter's NICU journey.",
-      "photoUrl": "https://swiftsonicconf.com/Headliners/kaya_thomas.webp"
-    },
-    {
-      "speaker": "ellen-shapiro",
-      "role": "Figma · Designated Nerd Software",
-      "bio": "Engineer at Figma and founder of Designated Nerd Software.\n\nLongtime mobile engineer, open-source contributor, speaker, and builder across Apple's platforms.",
-      "photoUrl": "https://swiftsonicconf.com/Headliners/ellen_shapiro.webp"
-    },
-    {
-      "speaker": "daniel-steinberg",
-      "role": "Swift educator · Author & trainer",
-      "bio": "Longtime Apple-platform educator, author, and trainer.\n\nKnown for making Swift, SwiftUI, and software design concepts approachable for working developers.",
-      "photoUrl": "https://swiftsonicconf.com/Headliners/daniel_steinberg.webp"
-    },
-    {
-      "speaker": "james-dempsey",
-      "role": "Swift developer, trainer & musician",
-      "bio": "Swift, macOS, and iOS developer and trainer.\n\nFront man of James Dempsey and the Breakpoints, and member of Swift community workgroups.",
-      "photoUrl": "https://swiftsonicconf.com/Headliners/james_dempsey.webp"
-    },
-    {
-      "speaker": "klemens-strasser",
-      "role": "Indie iOS developer · Apple Design Award winner",
-      "bio": "Independent iOS developer and two-time Apple Design Award winner.\n\nCreator of Art of Fauna and Elementary Minute, with past work at Flexibits and Nuki.",
-      "photoUrl": "https://swiftsonicconf.com/Headliners/klemens_strasser.webp"
-    },
-    {
-      "speaker": "danijela-vrzan",
-      "role": "Indie iOS developer · Writer & speaker",
-      "bio": "Indie iOS developer building Nunch, a calorie tracking app.\n\nWrites and speaks about Swift, creativity, learning, and the human side of software.",
-      "photoUrl": "https://swiftsonicconf.com/Headliners/danijela_vrzan.webp"
-    },
-    {
-      "speaker": "maddie-mccarthy",
-      "role": "AltStore · Director of partnerships",
-      "bio": "Director of partnerships at AltStore.\n\nWorks where indie apps, alternative distribution, developer relationships, and the Apple-platform ecosystem all meet.",
-      "photoUrl": "https://swiftsonicconf.com/Headliners/maddie_McCarthy.webp"
-    },
-    {
-      "speaker": "malin-sundberg",
-      "role": "Orbit · Mercury Weather",
-      "bio": "App creator behind Orbit and Mercury Weather.\n\nBrings a design-minded, product-focused perspective on making small apps feel polished and personal.",
-      "photoUrl": "https://swiftsonicconf.com/Headliners/malin_sundberg.webp"
-    },
-    {
-      "speaker": "matt-heaney",
-      "role": "RevenueCat · Hacked Reality",
-      "bio": "Developer Support Engineer at RevenueCat and app maker behind Hacked Reality.\n\nBrings practical insight from indie development and helping developers ship subscriptions.",
-      "photoUrl": "https://swiftsonicconf.com/Headliners/matt_heaney.webp"
-    },
-    {
-      "speaker": "mikaela-caron",
-      "role": "Senior iOS engineer · Swift Ecosystem Steering Group",
-      "bio": "Senior iOS engineer at M1 Finance and Swift Ecosystem Steering Group member.\n\niOSDevHappyHour organizer who shares expertise through building in public.",
-      "photoUrl": "https://swiftsonicconf.com/Headliners/mikaela_caron.webp"
-    },
-    {
-      "speaker": "chris-wu",
-      "role": "Indie iOS developer · CommunityKit",
-      "bio": "Indie iOS developer since 2017, currently building Please Don't Rain.\n\nOrganizer behind iOSDevHappyHour and CommunityKit.",
-      "photoUrl": "https://swiftsonicconf.com/Headliners/chris_wu.webp"
-    },
-    {
-      "speaker": "ben-freiband",
-      "role": "Duo Mobile · Product-minded engineer",
-      "bio": "Software engineer on Duo Mobile.\n\nPassionate about building products people love and creating environments where people learn.",
-      "photoUrl": "https://swiftsonicconf.com/Headliners/ben_freiband.webp"
-    },
-    {
-      "speaker": "adam-lyttle",
-      "role": "Indie app developer",
-      "bio": "Indie developer behind Adam Lyttle Apps.\n\nBrings a maker's perspective on building and shipping for Apple's platforms.",
-      "photoUrl": "https://swiftsonicconf.com/Openers/Adam_Lyttle.webp"
-    },
-    {
-      "speaker": "john-haney",
-      "role": "Spatial tech lead · Apps From Outer Space",
-      "bio": "visionOS and iOS developer, author, and mentor.\n\nBuilds across Apple's platforms through Apps From Outer Space.",
-      "photoUrl": "https://swiftsonicconf.com/Openers/John_Haney.webp"
-    },
-    {
-      "speaker": "morris-richman",
-      "role": "SwiftUI + Vapor builder · Mcrich LLC",
-      "bio": "A prolific young developer who loves SwiftUI and Vapor.\n\nHas a public body of projects spanning apps, tooling, and experiments.",
-      "photoUrl": "https://swiftsonicconf.com/Openers/Morris_Richman.webp"
-    },
-    {
-      "speaker": "danielle-lewis",
-      "role": "Product leader · AI, cloud, cybersecurity",
-      "bio": "Principal product leader with deep experience across AI, cloud, and cybersecurity.\n\nBrings a systems-minded product perspective to the Swiftsonic stage.",
-      "photoUrl": "https://swiftsonicconf.com/Openers/Danielle_Lewis.webp"
-    },
-    {
-      "speaker": "frank-solleveld",
-      "role": "Software engineer · Serious App Company",
-      "bio": "Apple-platform engineer at Serious App Company.\n\nBuilds products and collaborates with teams to create polished apps.",
-      "photoUrl": "https://swiftsonicconf.com/Openers/Frank_Solleveld.webp"
-    },
-    {
-      "speaker": "montana-braswell",
-      "role": "Junior iOS developer",
-      "bio": "iOS developer bringing early-career perspective and curiosity.\n\nAdds hands-on app-building energy to the opener lineup.",
-      "photoUrl": "https://swiftsonicconf.com/Openers/Montana_Braswell.webp"
-    },
-    {
-      "speaker": "om-chachad",
-      "role": "iOS developer · Starlight Apps LLP",
-      "bio": "iOS developer, USC student, and founder of Starlight Apps LLP.\n\nCreator behind iTech Everything.",
-      "photoUrl": "https://swiftsonicconf.com/Openers/Om_Chachad.webp"
-    },
-    {
-      "speaker": "harshil-shah",
-      "role": "iOS engineer · Peak and Pause",
-      "bio": "iOS engineer who makes Peak, a personal fitness dashboard for iPhone, iPad, and Apple Watch.\n\nAlso creates Pause, a Mac rest-reminder app.",
-      "photoUrl": "https://swiftsonicconf.com/Openers/Harshil_Shah.webp"
-    },
-    {
-      "speaker": "laksh-chakraborty",
-      "role": "Developer · NYU CS",
-      "bio": "Developer and NYU computer science graduate.\n\nBrings a thoughtful builder's perspective to Swiftsonic.",
-      "photoUrl": "https://swiftsonicconf.com/Openers/Laksh_Chakraborty.webp"
-    },
-    {
-      "speaker": "tyler-hillsman",
-      "role": "Developer",
-      "bio": "Developer with a public portfolio of projects.\n\nBrings a practical perspective on building software people can actually use.",
-      "photoUrl": "https://swiftsonicconf.com/Openers/Tyler_Hillsman.webp"
-    },
-    {
-      "speaker": "abhigyan-jaiswal",
-      "role": "Computer science + AI/ML student",
-      "bio": "Computer science student focused on AI and machine learning.\n\nBrings a student-builder perspective to the Swiftsonic opener lineup.",
-      "photoUrl": "https://swiftsonicconf.com/Openers/Abhigyan_Jaiswal.webp"
-    },
-    {
-      "speaker": "paolo-villanueva",
-      "role": "Product designer · Creative technologist",
-      "bio": "Product designer and creative technologist.\n\nWorks across human-centered AI, spatial computing, multimodal products, and community building.",
-      "photoUrl": "https://swiftsonicconf.com/Openers/Paolo_Villanueva.webp"
-    }
+    "betsy-langowski",
+    "paul-hudson",
+    "kaya-thomas",
+    "ellen-shapiro",
+    "daniel-steinberg",
+    "james-dempsey",
+    "klemens-strasser",
+    "danijela-vrzan",
+    "maddie-mccarthy",
+    "malin-sundberg",
+    "matt-heaney",
+    "mikaela-caron",
+    "chris-wu",
+    "ben-freiband",
+    "adam-lyttle",
+    "john-haney",
+    "morris-richman",
+    "danielle-lewis",
+    "frank-solleveld",
+    "montana-braswell",
+    "om-chachad",
+    "harshil-shah",
+    "laksh-chakraborty",
+    "tyler-hillsman",
+    "abhigyan-jaiswal",
+    "paolo-villanueva"
   ]
 }

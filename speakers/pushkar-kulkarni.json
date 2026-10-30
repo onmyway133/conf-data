@@ -1,3 +1,7 @@
 {
-  "name": "Pushkar Kulkarni"
+  "name": "Pushkar Kulkarni",
+  "role": "Server-Side Swift at IBM, Swift Foundation Contributor",
+  "bio": "Pushkar Kulkarni is a server-side Swift developer working with IBM. Prior to Swift, he worked on IBM's Java runtime, working on the JIT compiler and the Java standard library. Over the last two years, he has been contributing to open source Swift Foundation, focussed on making URLSession fully functional on Linux. He thinks Swift is the coolest language ever and is excited about the opportunities it offers on the server side.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/bangalore2017/instructors/pushkar.jpg",
+  "twitter": "https://twitter.com/pushkar_nk"
 }

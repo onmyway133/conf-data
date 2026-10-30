@@ -1,3 +1,8 @@
 {
-  "name": "Hector Matos"
+  "name": "Hector Matos",
+  "role": "Twitter",
+  "bio": "Hector is a Sr. Design Technologist at Twitter where he works on reusable components, design systems, and prototypes upcoming features for both iOS and Android. He loves teaching others how to code on his Twitch stream and is the creator of the KrakenDev blog.\n\nHis favorite video game of all time is The Legend of Zelda: Ocarina of Time. So naturally, if you don't find him spending time with his two kids, you can probably catch him pursuing his love of video games during his Twitch streams.",
+  "photoUrl": "https://2018.nsspain.com/images/speakers/hector.jpeg",
+  "twitter": "https://twitter.com/allonsykraken",
+  "website": "https://krakendev.io"
 }

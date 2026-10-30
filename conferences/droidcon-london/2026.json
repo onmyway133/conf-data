@@ -17,119 +17,24 @@
   "mastodon": "https://androiddev.social/@droidcon",
   "source": "confs.tech",
   "speakers": [
-    {
-      "speaker": "jolanda-verhoef",
-      "role": "Developer Relations Engineer @ Google",
-      "bio": "Jolanda is exploring the intersection of AI and mobile. She's particularly excited about the potential of intelligent agents and empowering developers to create powerful on-device experiences with tools like Gemini.",
-      "photoUrl": "https://cdn.sessionize.com/image/9a6d-400o400o1-B2MZe5MYjqGJ4S9FFFkKQo.jpg"
-    },
-    {
-      "speaker": "francisco-aguilera",
-      "role": "Staff Android Engineer @ bitdrift",
-      "bio": "Hi there, \n\nI'm Fran, I've been working on Android for a bit now. I've been focused on performance, shipping reliable apps with massive scale and mobile observability",
-      "photoUrl": "https://cdn.sessionize.com/image/763f-400o400o1-G4GtXYqk9b8XzTh8rgMqPY.jpg"
-    },
-    {
-      "speaker": "jose-alcerreca",
-      "role": "Developer Relations Engineer @ Google",
-      "bio": "Jose is a Developer Relations engineer dedicated to boosting developer productivity using AI agents. With over a decade of DevRel experience in testing, Jetpack Compose, and architecture, he's currently focused on empowering Android Studio to act as an expert, Android-native code companion to streamline the app development process.",
-      "photoUrl": "https://cdn.sessionize.com/image/0fef-400o400o1-B8Qyy4FH1Zh2SoU9MrU3eL.jpg",
-      "linkedin": "https://www.linkedin.com/in/jose-alc%C3%A9rreca-01490bb/"
-    },
-    {
-      "speaker": "simona-milanovic",
-      "role": "Android Developer Relations Engineer @ Google",
-      "bio": "Simona Milanovic works at Google as an Android Developer Relations Engineer, on Jetpack Compose and Android Studio. Before joining Google, Simona worked as an Android Dev in a variety of different industries - retail, transportation, banking, automotive & online dating. Aside from work, she loves to travel, read, organise stuff (😬), play music & video games and spend time with her fluffy pets.",
-      "photoUrl": "https://cdn.sessionize.com/image/ffb6-400o400o1-J2sMoXmDyVkv2JJ6ka71hz.png",
-      "twitter": "https://twitter.com/anomisSi"
-    },
-    {
-      "speaker": "tom-colvin",
-      "role": "CTO @ Apptaura",
-      "bio": "I'm a Google Developer Expert in Android, available either as a freelancer or through Apptaura, the mobile app development agency I co-founded. I build great apps for people, helping them to build great app businesses. I have a commercial focus and a wide knowledge of many technologies (both back- and front-end).\n\nI'm a regular conference speaker on topics related to Android, and app startups more generally. I also provide mentorship to those looking to start app businesses.\n\nI have a proven entrepreneurial capability and enjoy the energy of startup culture.",
-      "photoUrl": "https://cdn.sessionize.com/image/e21e-400o400o1-UbVs97PLcfGWSoCh1JGpp5.jpg"
-    },
-    {
-      "speaker": "chris-banes",
-      "role": "Software Engineer @ The Trade Desk",
-      "bio": "Chris is an engineer who has worked on Android UIs for 10+ years, last working as the Technical Lead of the Client UI Android team at Twitter. He previously worked in the Android Developer Relations at Google, where he worked on libraries in Android Jetpack, most notably AppCompat, Design and Palette.",
-      "photoUrl": "https://cdn.sessionize.com/image/b880-400o400o1-NZuNuH7UMX9WgxoKEfbu5q.jpeg"
-    },
-    {
-      "speaker": "nicola-corti",
-      "role": "Staff Engineer @ Meta",
-      "bio": "Nicola Corti is a Google Developer Expert for Android. He is the maintainer of Detekt and several other open-source libraries and tools for mobile developers.\n\nHe's currently working in the React Native Core team at Meta, building one of the most popular cross-platform mobile framework. \n\nFurthermore, he is an active member of the developer community. \nHis involvement goes from speaking at international conferences to being a member of CFP committees and supporting developer communities across Europe.\n\nIn his free time, he also loves podcasting and running.",
-      "photoUrl": "https://cdn.sessionize.com/image/2c35-400o400o1-0b-3fb7-450d-ab71-08c9dd81a48a.14d46ff0-032b-4678-8d21-f712d4a97457.jpeg"
-    },
-    {
-      "speaker": "zac-sweers",
-      "role": "Metro Conductor @ OpenAI",
-      "bio": "Zac is a mobile engineer with primary focus areas in Kotlin, OSS, Android, metaprogramming, and avoiding sniffly APIs. He’s the creator of a few open source projects like Circuit, Metro, CatchUp, AutoDispose, and active contributor to several more. Previously @ Slack, Uber, Flipboard",
-      "photoUrl": "https://cdn.sessionize.com/image/6148-400o400o1-Hg7Cz4RYo6Nx34xgZgBUpG.jpg"
-    },
-    {
-      "speaker": "marina-coelho",
-      "role": "Developer Relations Engineer @ Google",
-      "bio": "Marina is a Developer Relations Engineer at Google, focused on building native Android apps. Her mission is to help developers excel in building and growing their apps using Firebase, GCP and our suite of AI tools! Before joining the Firebase team in 2022, Marina worked as a software engineer for 8 years, 5 of which were dedicated to Android app development. She loves all things Jetpack Compose, Firebase and AI!",
-      "photoUrl": "https://cdn.sessionize.com/image/edd0-400o400o1-HjLCTB9FzkvwdTs7Mnx4Df.jpg"
-    },
-    {
-      "speaker": "joe-birch",
-      "role": "Staff Engineer @ Buffer",
-      "bio": "Hi, my names Joe. I’m an Android Engineer and Google Developer Expert for Android, Google Pay and Flutter based in Brighton, UK working as a Staff Engineer at Buffer. I’m passionate about coding and love creating robust, polished and exciting projects for mobile, the web, TV, wearables and I’ll probably be toying with whatever the new thing is at the time you’re reading this – I love to be constantly learning. I’m also a keen writer as I love to share my learnings and experiences with others.",
-      "photoUrl": "https://cdn.sessionize.com/image/a1ad-400o400o1-aWiixxL9d6jXujg7urAeXP.jpg"
-    },
-    {
-      "speaker": "sebastiano-poggi",
-      "role": "Staff UX Engineer @ Google",
-      "bio": "Emerging from the foggy plains of northern Italy 🇮🇹 after working at a smartwatch startup, Sebastiano moved with his curls to London 🇬🇧 💂 to do great things at AKQA and then Novoda. After a few years at JetBrains, he's now joined Google and is in Italy once again 🇮🇹. He really wishes he had more time to write technical articles on his blog, but he's live coding on Twitch in the meantime on https://codewiththeitalians.it",
-      "photoUrl": "https://cdn.sessionize.com/image/ff9e-400o400o1-BPpvfRRxNbAKepJruufHDH.jpg"
-    },
-    {
-      "speaker": "sebastian-aigner",
-      "role": "Developer Advocate @ JetBrains",
-      "bio": "As a Kotlin and Compose Multiplatform Developer Advocate at JetBrains, Sebastian spends a lot of time thinking about how technology can advance and inspire people. When he first tried Kotlin, it was love at first sight. He is one of the hosts of the Talking Kotlin podcast, and creates videos for the official Kotlin YouTube channel. Sebastian loves to develop networked applications, uses Kotlin on a variety of platforms, and passionately tinkers on his programs until late into the night.",
-      "photoUrl": "https://cdn.sessionize.com/image/2ef9-400o400o1-XGxKBoqZvxxQxosrZHQHTT.png",
-      "twitter": "https://twitter.com/sebi_io"
-    },
-    {
-      "speaker": "erik-hellman",
-      "role": "Boss @ Hellsoft",
-      "bio": "Erik Hellman has been engineering scalable software systems since 1995. Through his independent consultancy, Hellsoft, his track record includes shaping critical features for Spotify, scaling Husqvarna Automower applications, architecting ICA’s self-scanning platform, and consulting for Google’s WebRTC team. Currently working with Eyedentity AI, Erik also maintains an active role in personal software projects, including indie games and developer tools. He is a regular speaker at international technical conferences, delivering practical insights and battle-tested engineering practices.",
-      "photoUrl": "https://cdn.sessionize.com/image/7b4d-400o400o1-7NAsH2vWJG71Ej1NW4HXEx.jpg",
-      "twitter": "https://twitter.com/ErikHellman"
-    },
-    {
-      "speaker": "tunji-dahunsi",
-      "role": "Software Engineer @ Airbnb",
-      "bio": "Tj is a software engineer on the infrastuctre team at AirBnb. He's previously spent time reasearching architecture and testing for Android apps in relation to jetpack compose on the Android Developer Relations team at Google where he wrote the Android Architecture guide. He's also an Android media and motion expert.",
-      "photoUrl": "https://cdn.sessionize.com/image/343d-400o400o1-RvSJp3tofZGgq8fq7Q84Aq.jpg",
-      "twitter": "https://twitter.com/Tunji_D"
-    },
-    {
-      "speaker": "manuel-vivo",
-      "role": "Senior Staff Mobile Engineer @ Super Technologies",
-      "bio": "Manuel Vivo is a Staff Mobile Architect and seasoned Android engineer with experience at leading companies including Capital One, Google,  Bumble Inc., and Super Technologies. Beyond his technical expertise, Manuel is a dedicated mentor, accomplished public speaker, and prolific writer whose work has reached and inspired millions around the world.",
-      "photoUrl": "https://cdn.sessionize.com/image/c568-400o400o1-pun5BjFshWsmNmcKhu66je.jpg"
-    },
-    {
-      "speaker": "anna-spysz",
-      "role": "Developer Advocate @ Stripe",
-      "bio": "Anna is a Developer Advocate at Stripe based in Portland, Oregon. Previously, she was a Frontend Engineer at AWS, where she helped build products simplifying serverless development. Before switching careers into tech, she also spent a decade working as a writer, translator, and tech journalist. She is passionate about making modern application development accessible to users at all levels, particularly beginners and those from non-traditional backgrounds.",
-      "photoUrl": "https://cdn.sessionize.com/image/caa3-400o400o1-SQBLJPR9sNifexQNsbwRyT.jpg"
-    },
-    {
-      "speaker": "chiara-chiappini",
-      "role": "Developer relation engineer @ Google",
-      "bio": "Chiara is is an Android Developer Relation Engineer at Google. She is passionate about Wearables. Outside of work she loves running.",
-      "photoUrl": "https://cdn.sessionize.com/image/1348-400o400o1-Tm6P4FNo9qFRpYzevaTgia.jpg"
-    },
-    {
-      "speaker": "yury-vlad",
-      "role": "Senior Engineer",
-      "bio": "I started Android development with Android 4.4 and Eclipse. Since then, I’ve worked on different kinds of Android projects.",
-      "photoUrl": "https://cdn.sessionize.com/image/18ef-400o400o1-NW9pu8zA6Y619vExZ27rre.jpg"
-    }
+    "jolanda-verhoef",
+    "francisco-aguilera",
+    "jose-alcerreca",
+    "simona-milanovic",
+    "tom-colvin",
+    "chris-banes",
+    "nicola-corti",
+    "zac-sweers",
+    "marina-coelho",
+    "joe-birch",
+    "sebastiano-poggi",
+    "sebastian-aigner",
+    "erik-hellman",
+    "tunji-dahunsi",
+    "manuel-vivo",
+    "anna-spysz",
+    "chiara-chiappini",
+    "yury-vlad"
   ],
   "talks": [
     {

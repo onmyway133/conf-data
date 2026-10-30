@@ -1,3 +1,7 @@
 {
-  "name": "Peter Friese"
+  "name": "Peter Friese",
+  "role": "Staff Developer Advocate on the Firebase team at Google",
+  "bio": "Peter is a Staff Developer Advocate on the Firebase team at Google, helping developers build amazing experiences and high quality apps using Firebase and AI.\n\nWith a passion for empowering developers and fostering innovation, Peter works tirelessly with the Firebase team to make his vision of “cutting short the time to magic” a reality.\n\nPeter is also the author of the book Asynchronous Programming with SwiftUI and Combine: Functional Programming to Build UIs on Apple Platforms and host of the YouTube show Firebase After Hours, in which he and his colleagues explore Firebase in a light-hearted and fun setting.\n\nHe has written code in BASIC, C, ObjectPascal, Java, Kotlin, Xtext, JavaScript, TypeScript, Objective-C, and a number of home-grown DSLs - but his all-time favourite is Swift.\n\nYou can follow Peter on Twitter, Mastodon, Threads, and YouTube.",
+  "photoUrl": "https://do-ios.com/images/speakers/2026/peter.webp",
+  "twitter": "https://x.com/peterfriese"
 }

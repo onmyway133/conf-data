@@ -1,3 +1,6 @@
 {
-  "name": "Ryo Tsuzukihashi"
+  "name": "Ryo Tsuzukihashi",
+  "role": "iOS App Developer at ZOZO",
+  "bio": "Ryo Tsuzukihashi started indie development in 2016. After joining Yahoo Japan as a new graduate in 2019, he worked on the PayPay Flea Market app and grew through LeanXP-style pair programming. In 2023 he joined DeNA and contributed to the development of the live communication app Pococha, including test-driven development practices and short video features. Since 2024 he has been working at ZOZO on the ZOZOTOWN iOS app, tackling large-scale refactoring and SwiftUI adoption. As an indie developer, he actively experiments with AI tools such as Claude Code and has worked on iOS, Android, and SaaS applications. He has extensive experience with Firebase as a BaaS and has released more than 50 apps so far.",
+  "photoUrl": "https://tryswift.jp/images/from_app/2026_RyoTsuzukihashi.jpg"
 }

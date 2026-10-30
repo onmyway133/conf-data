@@ -1,3 +1,8 @@
 {
-  "name": "Jordan Morgan"
+  "name": "Jordan Morgan",
+  "role": "iOS Engineer @ Buffer",
+  "bio": "Jordan is an iOS engineer from Ozark, Missouri where he lives with his wife and three kids. Currently, he works remotely at Buffer on the iOS team building a suite of social media tools. In addition, is the author of swiftjectivec.com where he writes about technical topics on iOS development and life as an indie developer",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2019/jordan.jpg",
+  "twitter": "https://twitter.com/JordanMorgan10",
+  "website": "https://www.swiftjectivec.com/"
 }

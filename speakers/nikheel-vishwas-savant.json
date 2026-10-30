@@ -1,3 +1,7 @@
 {
-  "name": "Nikheel Vishwas Savant"
+  "name": "Nikheel Vishwas Savant",
+  "role": "Senior Software Engineer, Meta",
+  "bio": "Nikheel V. Savant is a Senior Software Engineer at Meta, specializing in Android Bluetooth internals and embedded wireless systems for next-generation wearable devices. He brings over a decade of experience in connectivity engineering, including 10 years at Bosch where he worked on embedded systems for automotive and industrial applications. At Meta, he focuses on AOSP Bluetooth stack optimization, secure pairing flows, and scalable audio/video transport. His prior roles include working on Wi-Fi systems at Apple and vehicle connectivity at Tesla. Nikheel holds a Master’s in Embedded Systems from the University of Pennsylvania and a Bachelor’s in Electronics & Communication. He is an active contributor to research and development in wireless debugging and Android platform stability.",
+  "photoUrl": "https://it.droidcon.com/2025/wp-content/uploads/sites/6/sito_foto_Savant.png",
+  "linkedin": "https://www.linkedin.com/in/nikheel-savant/"
 }

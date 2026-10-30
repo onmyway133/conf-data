@@ -15,101 +15,21 @@
   "twitter": "https://x.com/droidconIN",
   "source": "confs.tech",
   "speakers": [
-    {
-      "speaker": "ayushi-gupta",
-      "role": "Lead Mobile Engineer @ Equiti Trade Group",
-      "bio": "With my coding skills, I specialize in crafting diverse application solutions for Android mobile and TV platforms. My goal is to innovate and overcome any obstacles in our fast-paced, ever-evolving world.\nDriven by a passion for problem-solving, I eagerly accept challenges and strive to deliver impactful solutions. Let's connect and collaborate to find innovative solutions together",
-      "photoUrl": "https://cdn.sessionize.com/image/961b-400o400o1-wob3DCgQ1sgwMkZDHMnoNG.jpeg",
-      "twitter": "https://twitter.com/DroidyAyu"
-    },
-    {
-      "speaker": "aman-kumar",
-      "role": "Software Development Engineer II @ Blinkit",
-      "bio": "Aman is an Android engineer at Blinkit, working on consumer-facing Android experiences at scale. He is passionate about Android performance, memory optimization, Jetpack Compose, and building reliable mobile experiences for millions of users. He enjoys solving complex production engineering problems and turning them into practical lessons for the Android community.",
-      "photoUrl": "https://cdn.sessionize.com/image/32e6-400o400o1-f9M7sS8sbS2q1T9E3KYQ7q.jpg"
-    },
-    {
-      "speaker": "aayush-chaudhary",
-      "role": "Software Engineer @ Google",
-      "bio": "Aayush is a Software Engineer at Google on the Jetpack Compose team, working on the drawing side of the toolkit. He cares deeply about graphics performance and what it takes to put pixels on screen efficiently.",
-      "photoUrl": "https://cdn.sessionize.com/image/925f-400o400o1-SEveE8BF5ofrXsKwzwzVFC.png"
-    },
-    {
-      "speaker": "abhay-sood",
-      "role": "Co-Founder @ measure.sh",
-      "bio": "Abhay is the co-founder of Measure, where he is building a new observability tool for mobile developers. He has built Android apps since 2011, and prior to Measure, he was a Principal Engineer at Gojek.",
-      "photoUrl": "https://cdn.sessionize.com/image/5934-400o400o1-T3SXfnqLNZH96kZNRRZC5y.jpg",
-      "twitter": "https://x.com/abhaysood_"
-    },
-    {
-      "speaker": "adit-lal",
-      "role": "Google Developer Expert, Android | Chief Technical Officer @ Travv World",
-      "bio": "Adit is the CTO and Co-Founder of Travv World, a global travel platform revolutionizing personalized travel experiences. With over 12 years of experience in Android development and system architecture, Adit has played a key role in designing and scaling mobile platforms. Previously, he contributed significantly to the development of large-scale streaming applications at Viacom18. His expertise spans Kotlin Multiplatform, Jetpack Compose, and mobile performance optimization. In his free time, Adit enjoys stargazing, travel, and landscape photography.",
-      "photoUrl": "https://cdn.sessionize.com/image/d53b-400o400o1-18-131f-4ff0-b644-43ba706b82e8.8d1b0d00-5caa-48bb-889d-94e931646e3c.jpg"
-    },
-    {
-      "speaker": "aditya-shinde",
-      "role": "Founder @ Ketoy",
-      "bio": "Founder at Ketoy. Android Developer with over 5 years of experience specializing in Android and Kotlin Multiplatform.\n\nDeeply in the Android community, having delivered 20+ speaker sessions and workshops across Android, FlutterFlow, and Kotlin Multiplatform to over 3,000 attendees.\n\nRuns the Android-focused YouTube channel @DeveloperChunk (1,000+ subscribers) and publishes technical deep-dives on Medium under the same handle.",
-      "photoUrl": "https://cdn.sessionize.com/image/d3c5-400o400o1-BFdXfEfCa1NPLWuAHxZN96.jpg",
-      "twitter": "https://x.com/adityashinde_"
-    },
-    {
-      "speaker": "ajesh-r-pai",
-      "role": "Developer Advocate (Android Performance) @ Google",
-      "bio": "Ajesh R is a Developer Advocate at Google, specializing in Android performance tools like R8 and Baseline Profiles. With 9 years of experience developing high-quality Android applications at top tech companies, he is passionate about helping developers build faster and more efficient apps.",
-      "photoUrl": "https://cdn.sessionize.com/image/bc10-400o400o1-RiuAdryQM7jNYbWdWahDJE.jpg"
-    },
-    {
-      "speaker": "aman-choudhary",
-      "role": "Developer Relations Engineer @ Google",
-      "bio": "I'm Aman and I currently work as a Developer Relations Engineer at Google. I'm truly passionate about teaching 🧑‍🏫 and content creation 🎬, and I run a YouTube channel alongside my full-time role at Google.",
-      "photoUrl": "https://cdn.sessionize.com/image/b69e-400o400o1-PnC53vXxuQcweFhBYuzYV3.jpg"
-    },
-    {
-      "speaker": "amol-pardeshi",
-      "role": "Senior Software Engineer @ Gojek",
-      "bio": "Amol Pardeshi is a Senior Android Engineer working at Gojek as a part of its Mobile Platform Team. Gojek is the largest super app in South East Asia boasting 100M+ users. Amol has over 6+ years of experience in Android development and for the past three years, he has been focused specifically on Android Performance Engineering.\nHis contributions include developing a custom ANR SDK from scratch for Gojek based on AppExitInfo, watchdog, and native SIGQUIT signal handling with proactive regression alerts. This along with other performance improvements including optimization of Dagger graphs, fixing of background processes, and implementation of AI-driven code guardrails led to a reduction of Gojek’s user perceived ANR rate by 80%. His areas of expertise include crash rate control, memory leaks avoidance, app size minimization, and app startup optimization with large multi-module Kotlin codebase.\nAmol has spoken at droidcon India 2025 on Gojek's ANR reduction path and is an organizer in Bangalore Android community (BLRDroid).\n\nCurated ANR and Leak patterns to avoid - https://mintlify.wiki/AmolPardeshi99/android-performance-skills\nAgentic skills to write ANRs and Leaks free code - \nhttps://www.skills.sh/amolpardeshi99/android-performance-skills/android-performance-anr-and-jank-prevention\nhttps://www.skills.sh/amolpardeshi99/android-performance-skills/android-performance-memory-leak-prevention\nANRLab – ANR Tooling: https://github.com/AmolPardeshi99/ANRLab/",
-      "photoUrl": "https://cdn.sessionize.com/image/fce5-400o400o1-Qw2dcgXkFjWzsFus6JxrYk.jpg"
-    },
-    {
-      "speaker": "amrit-sanjeev",
-      "role": "Staff Developer Advocate @ Google",
-      "bio": "Amrit Sanjeev is a Staff Developer Advocate at Google India and is a lead in the Android Developer Relations team. Previously, he held diverse roles (TLM, research engineer, lead architect) at Intuit, Philips Research, and IBM. Amrit was the first Android Google Developer Expert from India and also founded Blrdroid - an open Android developer community .",
-      "photoUrl": "https://cdn.sessionize.com/image/2c80-400o400o1-VhLceXK7idfGszHuEccHD8.png"
-    },
-    {
-      "speaker": "anand-gaur",
-      "role": "Mobile Tech Lead @ TCS",
-      "bio": "Anand Gaur is a Mobile Tech Lead at Tata Consultancy Services with 9+ years of experience building mobile applications across Android, iOS, Flutter, Kotlin Multiplatform (KMP), and React Native. His recent work focuses on integrating AI into mobile applications, developing AI-powered features, and helping developers adopt modern AI technologies in production.\n\nHe is an active contributor to the developer community, having authored 200+ technical articles on Medium with 5.7K+ followers. Anand regularly mentors developers, conducts mock interviews, provides career guidance, and speaks at community events and conferences.\n\nAnand is ranked among the top 0.1% of mentors globally on Topmate and received the Best Software IT Service Award 2025 for his contributions to the technology community.\n\nHe also leads a developer community of 3,300+ members focused on Mobile and AI, where he shares learning resources, job opportunities, and industry insights. Additionally, he is the author of six interview preparation and technical books covering Android, iOS, Flutter, React Native, Mobile System Design, and AI for Mobile Developers.",
-      "photoUrl": "https://cdn.sessionize.com/image/58bc-400o400o1-2MGJSrrs9PvXA4A8Bmyuy.png"
-    },
-    {
-      "speaker": "arun-sharma",
-      "role": "Staff Engineer @ Swiggy",
-      "bio": "Arun Sharma leads the Instamart Apps team at Swiggy, focusing on platform performance and developer tooling for consumer-facing apps at scale. He has built tools and systems—including Swiggy Perf Kit, Perfetto trace analysis, JankStats, and Macrobenchmarking—that make Android apps faster, more reliable, and easier to debug across app shells and device classes. He is passionate about practical engineering, strong developer workflows, and building a lasting performance culture.",
-      "photoUrl": "https://cdn.sessionize.com/image/c492-400o400o1-LCHxbaD5w12aet1pPfsRsc.jpg",
-      "twitter": "https://twitter.com/droid_arun"
-    },
-    {
-      "speaker": "arun-kr-aditya",
-      "role": "Android Application & Framework Developer @ Mercedes-Benz",
-      "bio": "I'm an Android Framework & Platform Engineer with 5.6 years of experience, currently at Mercedes-Benz Research & Development India — the largest R&D centre for the Mercedes-Benz Group AG outside Germany. I work on the infotainment platform and productivity apps (calendar, meetings, email) with deep expertise in AOSP, AIDL, Binder IPC, HAL, and system service development. On the side, I build independent hardware-to-UI projects on Raspberry Pi 5 and share everything I learn through technical articles on Medium (1M+ reads) and my YouTube channel Silicon to System. I have 18k+ followers on LinkedIn and believe in learning in public.",
-      "photoUrl": "https://cdn.sessionize.com/image/ebf2-400o400o1-DydGHD3WLGVQK44Yt1muHZ.png"
-    },
-    {
-      "speaker": "arvind-kumar-vartiya",
-      "role": "Computer Scientist @ KiKsAR Technologies",
-      "bio": "I’m an Computer Scientist (AI Engineer) focused on building practical AI systems and intelligent agents. An IIT Kanpur alumnus, I work across Generative AI, LLMs, RAG, voice AI, and agentic AI.\n\nI build AI-powered voice and WhatsApp agents, multi-agent systems, and automation solutions, with hands-on experience integrating LLMs, STT/TTS, LangGraph, MCP, and cloud AI platforms. I’m particularly interested in building reliable, production-ready AI systems that can interact naturally with users and take real-world actions.",
-      "photoUrl": "https://cdn.sessionize.com/image/f5e3-400o400o1-gDXDhitk1PSSukZUuCr8Y.png",
-      "twitter": "https://x.com/VartiyaKr"
-    },
-    {
-      "speaker": "avik-mukherjee",
-      "role": "Engineering Manager - Mobile Applications @ BookMyShow",
-      "bio": "Started as an an android developer a decade back, quickly grew a knack of solving complex business use cases agnostic of stack or technology. I love sharing what I learn. I believe technology exists to enable people and businesses.",
-      "photoUrl": "https://cdn.sessionize.com/image/4761-400o400o1-QuJX2znUnkJgE5KuRBoSst.jpg"
-    }
+    "ayushi-gupta",
+    "aman-kumar",
+    "aayush-chaudhary",
+    "abhay-sood",
+    "adit-lal",
+    "aditya-shinde",
+    "ajesh-r-pai",
+    "aman-choudhary",
+    "amol-pardeshi",
+    "amrit-sanjeev",
+    "anand-gaur",
+    "arun-sharma",
+    "arun-kr-aditya",
+    "arvind-kumar-vartiya",
+    "avik-mukherjee"
   ],
   "talks": [
     {

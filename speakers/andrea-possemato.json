@@ -1,3 +1,8 @@
 {
-  "name": "Andrea Possemato"
+  "name": "Andrea Possemato",
+  "role": "Security R&D Engineer at IDEMIA",
+  "bio": "Andrea is a Security R&D Engineer at IDEMIA and currently he is enroll as PhD student at the Software and System Security group of EURECOM (France). His main research interests are focusing on Android, where he is trying to solve some open research problems spanning from UI to System Security. When he is not focus on finding vulnerable components, he is messing up with fuzzing and reversing Android apps. CTF player/lover.",
+  "photoUrl": "http://2019.mobilization.pl/assets/images/speakers/andrea-posemato.png",
+  "twitter": "https://twitter.com/@_pox_",
+  "linkedin": "https://www.linkedin.com/in/andrea-possemato-93a8b1aa"
 }

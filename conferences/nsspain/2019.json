@@ -18,177 +18,31 @@
   },
   "source": "cocoaconferences",
   "speakers": [
-    {
-      "speaker": "eleni-papanikolopoul",
-      "role": "Workable",
-      "bio": "Eleni is an iOS Developer based in Athens, Greece. She has been working at Workable, the recruiting software company, for the past three years and holds a Master’s degree in Computer Science from University of Manchester, UK. She entered the iOS world by starting writing Objective-C when contributed in Pobuca, a contacts management app but later on converted to Swift and stayed in its (type) safety. She has co-authored ErrorHandler open source project and she is currently embracing TDD and ReactiveX concepts. When she doesn't work, she enjoys traveling more than anything, snowboarding, learning Spanish and watching Netflix series.",
-      "photoUrl": "https://2019.nsspain.com/images/speakers/eleni2.jpg",
-      "twitter": "https://twitter.com/elenipapanikolo"
-    },
-    {
-      "speaker": "ben-scheirman",
-      "role": "NSScreencast",
-      "bio": "Ben Scheirman is the creator of NSScreencast where he records regular screencasts on Swift, Mac, and iOS development. When not programming, he’s usually playing guitar or making award-winning Texas BBQ. Ben lives in Houston with his wife and five kids.",
-      "photoUrl": "https://2019.nsspain.com/images/speakers/ben2.jpg",
-      "twitter": "https://twitter.com/subdigital"
-    },
-    {
-      "speaker": "dominik-scherm",
-      "role": "Spacebrowser",
-      "bio": "Dominik is the founder of Space Browser, a mobile browser made for power users. Besides that he is running an agency business for web and app development (www.dnd.one) in Berlin. By the age of 15 he started developing iOS applications with Objective-C and founded his first own startup by the age of 17, where they have built an organising and communication platform for schools in Germany.",
-      "photoUrl": "https://2019.nsspain.com/images/speakers/dominik2.jpg",
-      "twitter": "https://twitter.com/dominik_scherm"
-    },
-    {
-      "speaker": "carola-nitz",
-      "role": "VLC",
-      "bio": "Carola is an iOS Developer with many years of experience working on various iOS Apps. She spent the last years working on big complex projects like Apple Maps and VLC for iOS where she learned to navigate matured projects with legacy code. She’s become known for her Debugging talks and tweets but her passion is Open Source, where she enjoys working in a diverse team and sharing her knowledge.",
-      "photoUrl": "https://2019.nsspain.com/images/speakers/caro2.jpg",
-      "twitter": "https://twitter.com/_Caro_N"
-    },
-    {
-      "speaker": "glenna-buford",
-      "role": "8fit",
-      "bio": "Glenna is an Engineering Manager at 8fit, your health and nutrition companion. She has expertise in both iOS and Android development, and loves shipping new content and features to users regularly. In her spare time, she’s a director of Women Who Code Berlin and co-founder/organizer of Girls’ Games Workshops. When she’s not computering, she’s usually trying new beers or travelling.",
-      "photoUrl": "https://2019.nsspain.com/images/speakers/glenna2.jpg",
-      "twitter": "https://twitter.com/glennersboofy"
-    },
-    {
-      "speaker": "yasuhiro-inami",
-      "role": "Babylon",
-      "bio": "Yasuhiro is an iOS developer at Babylon Health. He is enthusiastic about functional programming including Swift, Haskell, and any statically typed languages that compiler can check his bad code. Yet he also loves unpredictable, dynamic world he lives in now. You can find him at http://github.com/inamiy.",
-      "photoUrl": "https://2019.nsspain.com/images/speakers/inamiy2.jpg",
-      "twitter": "https://twitter.com/inamiy"
-    },
-    {
-      "speaker": "juan-jose-ramos-rodriguez",
-      "role": "Hudl",
-      "bio": "Juanjo is an Engineering Manager at Hudl where he builds features to help teams of various sports. He has spent most of his career focused on iOS but recently he has also explored React Native. Prior to Hudl, he worked at Thomson Reuters and before that he did research in Biomedical Engineering. He enjoys sharing knowledge and you can find some of it on his Medium page. If you can't pronounce his name don't worry, you're not alone. You can always call him JJ but if you like challenges follow the link.",
-      "photoUrl": "https://2019.nsspain.com/images/speakers/juanjo2.jpg",
-      "twitter": "https://twitter.com/JuanjoRamos82"
-    },
-    {
-      "speaker": "berta-devant",
-      "role": "Novoda",
-      "bio": "Berta is an IOS developer, swift ❤️ and director of Women Who Code Barcelona. She loves learning how things work, using technology to build products 🤖 and good ☕️.",
-      "photoUrl": "https://2019.nsspain.com/images/speakers/berta2.jpg",
-      "twitter": "https://twitter.com/bertadevant"
-    },
-    {
-      "speaker": "aleksandra-komagorkina",
-      "bio": "Aleksandra is a chemist technologist, who switched to UI/UX design a few years ago and was working on apps from various fields, from fintech to Augmented Reality (some of them are holding first positions in App Store for years). Since then she has worked for a London-based chemistry startup and recently decided to focus solely on making the world better through mobile development. When not coding, she plays the violin, mixes cocktails and writes in a blog about her developer's path.",
-      "photoUrl": "https://2019.nsspain.com/images/speakers/aleksandra2.jpg",
-      "twitter": "https://twitter.com/akomagorkina"
-    },
-    {
-      "speaker": "marina-gornostaeva",
-      "role": "Storytel",
-      "bio": "Marina works as a Lead iOS developer at Storytel, where she focuses on architecture, infrastructure and scaling the iOS team. Marina has been professionally building apps for iOS for 8 years, since before ARC. Throughout her career, she worked on dozens of apps of various sizes, both greenfield and legacy projects. These days she is most passionate about robust solutions, high-quality code and building the best user experience. In her spare time, Marina co-organizes CopenhagenCocoa meetups, mentors aspiring iOS developers and follows Swift Evolution. When not watching Netflix, she tries to find time to write and contribute to OSS. She likes cats, drinking wine and table tennis.",
-      "photoUrl": "https://2019.nsspain.com/images/speakers/marina2.jpg",
-      "twitter": "https://twitter.com/hybridcattt"
-    },
-    {
-      "speaker": "renaud-lienhart",
-      "role": "Itty Bitty Apps",
-      "bio": "Renaud is an ex-Apple engineer who worked on various frameworks and apps such as Home, before moving to Australia to see how life can be outside the Reality Distortion Field. He joined the talented bunch of people at Itty Bitty Apps to work on Reveal, and contract for companies around the Melbourne area. Nowadays he enjoys engaging with the greater community of Apple developers, and is a co-organiser of the Melbourne chapter of CocoaHeads.",
-      "photoUrl": "https://2019.nsspain.com/images/speakers/renaud2.jpg",
-      "twitter": "https://twitter.com/layoutSubviews"
-    },
-    {
-      "speaker": "ellie-shin",
-      "role": "Uber",
-      "bio": "Ellie is a senior iOS Engineer at Uber on the mobile platform team. She has worked on building Uber’s rider app and cares deeply about optimizing iOS apps and frameworks at scale. She has previously worked at Spotify and Microsoft among other companies, primarily on iOS.",
-      "photoUrl": "https://2019.nsspain.com/images/speakers/ellie2.jpg",
-      "twitter": "https://twitter.com/ellsk1"
-    },
-    {
-      "speaker": "alexey-gaponov",
-      "role": "Booking.com",
-      "bio": "I’m a Sr. iOS engineer at Booking.com working on the application infrastructure team. Before moving to Amsterdam was working in Russian startups (Replika, Leprosorium). Started my career by counting references. Programming is my hobby, for me code is art, I have a huge passion for low-level topics like compilers, kernels (*os mainly), security and reverse engineering. Besides the computer, I do mountain bike downhill and love traveling to hard reach destinations.",
-      "photoUrl": "https://2019.nsspain.com/images/speakers/alexey2.jpg",
-      "twitter": "https://twitter.com/0xfeedfad0"
-    },
-    {
-      "speaker": "oleksandr-kolodii",
-      "role": "Booking.com",
-      "bio": "Software engineer with interest in different parts of the industry. Last 7 years work with mobile applications. I build mobile apps, developer tools, distributed systems. I'm passionate about clear and beautiful code. In my free time, I like to travel, coding and contribute to open source projects.",
-      "photoUrl": "https://2019.nsspain.com/images/speakers/oleksandr2.jpg",
-      "twitter": "https://twitter.com/sgt_kowalski"
-    },
-    {
-      "speaker": "josh-garnham",
-      "role": "Monzo",
-      "bio": "A former Software Engineer within iCloud at Apple, Josh is now building a bank at Monzo. He’s a veteran of the company, seeing it grow from 15 people and just 2 mobile engineers to over 1000 and a mobile team of over 30. He has a passion for the technical; reverse-engineering and getting his hands dirty to understand how things work and to push technologies to their limits. That’s his kind of fun. In his spare time he enjoys exploring nature and is currently training to be a counsellor.",
-      "photoUrl": "https://2019.nsspain.com/images/speakers/josh2.jpg",
-      "twitter": "https://twitter.com/jgarnham"
-    },
-    {
-      "speaker": "novall-khan",
-      "role": "Lose It!",
-      "bio": "Novall is an iOS and Infrastructure Engineer at Lose It! in Boston, Massachusetts. Her experience in the tech industry ranges from mobile app agencies and startups — including her favorite app, Splitwise — to UX research at the Harvard School of Engineering & Applied Sciences. She is an advocate for improving diversity and inclusiveness in tech and is active in the Boston tech community including CocoaHeads and Women Who Code.",
-      "photoUrl": "https://2019.nsspain.com/images/speakers/novall2.jpg",
-      "twitter": "https://twitter.com/novallkhan"
-    },
-    {
-      "speaker": "vivian-rosa-santos",
-      "role": "Spotify",
-      "bio": "Vivian Santos is an iOS engineer on a mobile infrastructure team based out of Spotify’s New York City office. She previously worked at Intuit in Mountain View, CA as a developer on the Quickbooks iOS app. She spent two years working with Girls Who Code at a middle school in San Francisco. She graduated from the University of Central Florida with a B.S. in Computer Science.",
-      "photoUrl": "https://2019.nsspain.com/images/speakers/vivian2.jpg",
-      "linkedin": "https://www.linkedin.com/in/vivianrsantos/"
-    },
-    {
-      "speaker": "vincent-pradeilles",
-      "role": "Worldline",
-      "bio": "Vincent started working on iOS apps back in 2011. For the last years, he's been working at Worldline, where he contributes to building great apps for major French banks. He loves Swift and enjoys sharing about it on the Internet. Most notably, he built the framework KeyPathKit that implements a SQL-like syntax for data manipulation, and he also maintains a list useful tips.",
-      "photoUrl": "https://2019.nsspain.com/images/speakers/vincent2.jpg",
-      "twitter": "https://twitter.com/v_pradeilles"
-    },
-    {
-      "speaker": "alexander-shalamov",
-      "bio": "Alexander stumbled into IT back in high school by creating servers for Ragnarok Online. He wrote scripts for NPCs, rebuilt server engines, ran small projects. Then he switched to C++ and Qt, building software for spacecraft motion visualization. After graduation from the university, he tried himself in a startup, wrote in PHP, JavaScript, HTML, CSS. When the startup gloriously imploded, Alexander took up iOS development. Since then he worked in the Ministry of Education and Science, Sberbank and EPAM. During the time in EPAM, he switched to coding for macOS, but returned to iOS after joining a startup. In his free time, Alexander rides BMX, jumps on a trampoline and misses his motorcycle. Academically he is slowly crawling towards ML, reviving high school math along the way.",
-      "photoUrl": "https://2019.nsspain.com/images/speakers/alexander2.jpg",
-      "twitter": "https://twitter.com/bitemybyte"
-    },
-    {
-      "speaker": "daniel-steinberg",
-      "role": "Dim Sum Thinking",
-      "bio": "Daniel is the author of more than a dozen books including the best selling books A Swift Kickstart and Dear Elena. He has written apps for the iPhone and the iPad since the SDKs first appeared and has written programs for the Mac all the way back to System 7. Daniel presents SwiftUI, Functional Programming, and Swift training and consults through his company Dim Sum Thinking. When he's not coding or talking about coding for the Mac, the iPhone, and the iPad he's probably cooking, baking bread, or hanging out with friends.",
-      "photoUrl": "https://2019.nsspain.com/images/speakers/daniel2.jpg",
-      "twitter": "https://twitter.com/dimsumthinking"
-    },
-    {
-      "speaker": "sash-zats",
-      "role": "Facebook",
-      "bio": "Sash is a software engineer building the future of design tools at Facebook, previously worked on News Feed, and cross-platform animation tools. Sash loves intersection of art and computing - outside of work he is involved with creative coding and pen plotting, using Swift and Xcode Playgrounds to produce intricate generative artworks which you can find on his Instagram.",
-      "photoUrl": "https://2019.nsspain.com/images/speakers/sash2.jpg"
-    },
-    {
-      "speaker": "ethan-schatzline",
-      "role": "Facebook",
-      "bio": "Ethan is an iOS engineer at Facebook working on navigation and UI infrastructure. Most recently, he helped ship the Facebook mobile app redesign announced at F8 earlier this year. He is passionate about building high quality mobile experiences polished with fluid interactions. When not coding, you can find him playing video games or snowboarding in Lake Tahoe.",
-      "photoUrl": "https://2019.nsspain.com/images/speakers/ethan2.jpg",
-      "twitter": "https://twitter.com/_easy_e"
-    },
-    {
-      "speaker": "declan-mckenna",
-      "role": "Kindred Group",
-      "bio": "I’m a professional poker player turned iOS Developer which has been my profession for 5 years now. I’m a clean code enthusiast and in my spare time like to learn Spanish and to wear sandals with socks. I work at Kindred in Madrid as part of our iOS team making sportsbook and casino applications.",
-      "photoUrl": "https://2019.nsspain.com/images/speakers/declan2.jpg",
-      "twitter": "https://twitter.com/Dec_McK"
-    },
-    {
-      "speaker": "inigo-mato-ruiz",
-      "role": "Kindred Group",
-      "bio": "Inigo is from Madrid where he works as iOS Agile Lead at Kindred Group, developing gambling apps. He graduated in Electronics Engineering but soon realised he preferred software development over hardware design. His software developing journey has taken him to places such as a California based start-up or an Oxford University spin-off. In his spare time he plays table tennis and board games and enjoys making prank apps with friends.",
-      "photoUrl": "https://2019.nsspain.com/images/speakers/inigo2.jpg"
-    },
-    {
-      "speaker": "david-collado",
-      "role": "Wallapop",
-      "bio": "David is a senior iOS Engineer at Wallapop on the mobile team. He has worked on building games, websites and, for the last years, iOS apps. He loves traveling, learning new things, video games and good food. He has recently published an app to help his father (a chef) managing the chaos in a professional kitchen (https://kitchenorder.app). He also lives with a cool bunny named Susu. Lately he’s interested in Combine investigating and creating tools like CombineRealm, CombineDisposeBag or CombineExtensions to make using it easier.",
-      "photoUrl": "https://2019.nsspain.com/images/speakers/david2.jpg",
-      "twitter": "https://twitter.com/bitomule"
-    }
+    "eleni-papanikolopoul",
+    "ben-scheirman",
+    "dominik-scherm",
+    "carola-nitz",
+    "glenna-buford",
+    "yasuhiro-inami",
+    "juan-jose-ramos-rodriguez",
+    "berta-devant",
+    "aleksandra-komagorkina",
+    "marina-gornostaeva",
+    "renaud-lienhart",
+    "ellie-shin",
+    "alexey-gaponov",
+    "oleksandr-kolodii",
+    "josh-garnham",
+    "novall-khan",
+    "vivian-rosa-santos",
+    "vincent-pradeilles",
+    "alexander-shalamov",
+    "daniel-steinberg",
+    "sash-zats",
+    "ethan-schatzline",
+    "declan-mckenna",
+    "inigo-mato-ruiz",
+    "david-collado"
   ],
   "talks": [
     {

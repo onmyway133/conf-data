@@ -1,3 +1,7 @@
 {
-  "name": "Khanh LeViet"
+  "name": "Khanh LeViet",
+  "role": "TensorFlow Developer Advocate",
+  "bio": "Khanh is a TensorFlow Developer Advocate at Google, helping developers in APAC build smarter products with AI. He speaks at technology conferences, writes and publishes sample code on GitHub. Before his journey with AI, Khanh was a mobile developer working on both Android and iOS.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2020/khanhlvg.png",
+  "twitter": "https://twitter.com/khanhlvg"
 }

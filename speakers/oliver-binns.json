@@ -1,3 +1,8 @@
 {
-  "name": "Oliver Binns"
+  "name": "Oliver Binns",
+  "role": "Software Engineer @ Deloitte LLC",
+  "bio": "Oliver is an experienced software engineer based in London, but originally from Yorkshire. After attaining an IET accredited master’s degree in Computer Science from the University of York, he started his career building websites in PHP and JavaScript, before pivoting into native iOS development. He has worked on highly-rated mobile apps for airlines, healthcare organisations and even government departments. Oliver was shortlisted for British Computer Society's Engineer of the Year 2024.",
+  "photoUrl": "https://www.serversideswift.info/App/Images/speakers/oliver-binns.jpg",
+  "twitter": "https://x.com/Oliver_Binns",
+  "linkedin": "https://www.linkedin.com/in/obinns/"
 }

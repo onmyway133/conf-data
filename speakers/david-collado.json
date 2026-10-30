@@ -1,3 +1,7 @@
 {
-  "name": "David Collado"
+  "name": "David Collado",
+  "role": "Wallapop",
+  "bio": "David is a senior iOS Engineer at Wallapop on the mobile team. He has worked on building games, websites and, for the last years, iOS apps. He loves traveling, learning new things, video games and good food. He has recently published an app to help his father (a chef) managing the chaos in a professional kitchen (https://kitchenorder.app). He also lives with a cool bunny named Susu. Lately he’s interested in Combine investigating and creating tools like CombineRealm, CombineDisposeBag or CombineExtensions to make using it easier.",
+  "photoUrl": "https://2019.nsspain.com/images/speakers/david2.jpg",
+  "twitter": "https://twitter.com/bitomule"
 }

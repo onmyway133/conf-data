@@ -1,3 +1,7 @@
 {
-  "name": "Katsumi Kishikawa"
+  "name": "Katsumi Kishikawa",
+  "role": "Freelance Software Engineer",
+  "bio": "Katsumi Kishikawa is an iOS/macOS developer working at Realm. He’s a serial open source library developer, and has published some popular libraries on GitHub. He’s also made big contributions to the iOS developer community in Japan with his experience and knowledge.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/katsumi.jpg",
+  "twitter": "https://twitter.com/k_katsumi"
 }

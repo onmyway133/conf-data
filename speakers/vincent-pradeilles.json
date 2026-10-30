@@ -1,3 +1,8 @@
 {
-  "name": "Vincent Pradeilles"
+  "name": "Vincent Pradeilles",
+  "role": "PhotoRoom",
+  "bio": "Vincent works at PhotoRoom and contributes to building great apps. He also enjoys sharing about Swift and iOS on his YouTube channel.",
+  "photoUrl": "https://2023.iosconf.sg/images/speakers/vincent.jpg",
+  "twitter": "https://twitter.com/v_pradeilles",
+  "website": "https://www.photoroom.com"
 }

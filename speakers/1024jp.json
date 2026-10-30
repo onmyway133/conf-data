@@ -1,3 +1,7 @@
 {
-  "name": "1024jp"
+  "name": "1024jp",
+  "role": "Developer/Designer of CotEditor",
+  "bio": "1024jp is hobby macOS developer/designer. Besides working as a professional academic researcher in real life, 1024jp invests entire leisure time in developing macOS applications by doing every process from coding to drawing icons. The most active project is CotEditor, a native macOS plain-text editor. CotEditor is currently one of the largest open-sourced macOS application written in Swift but has been developed by 1024jp alone since CotEditor was officially taken over from the ex-developer five years ago. Besides, 1024jp organizes also “macOS native,” a community for sharing knowledge about native macOS app development in Japan.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2019/speakers/1024jp.png",
+  "twitter": "https://twitter.com/1024jp"
 }

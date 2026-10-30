@@ -13,90 +13,18 @@
   ],
   "source": "cocoaconferences",
   "speakers": [
-    {
-      "speaker": "dave-delong",
-      "role": "Product Experience at Snap Inc., Apple Veteran, Bowtie Collector",
-      "bio": "A seven-year veteran of Apple, Dave DeLong is an accomplished iOS engineer with a passion for teaching, and hacking the Objective-C runtime. During his time at Apple, he worked on the UIKit framework, Developer Evangelism, and Apple Maps. He currently works on the Product Experience team at Snap, Inc.\n\nDave, his family, and his large collection of bowties live near Salt Lake City, where he’s an active member of the local developer community. He can often be found on Twitter teaching developers about all the ways that calendrical calculations can go wrong and pontificating on the virtues of eating chocolate with peanut butter.",
-      "photoUrl": "https://www.tryswift.co/assets/images/speakers/sanjose2018/dave.jpg",
-      "twitter": "https://twitter.com/davedelong"
-    },
-    {
-      "speaker": "yusuke-kita",
-      "role": "iOS Engineering Lead at Mercari, Swift Contributor, Cycling Enthusiast",
-      "bio": "Yusuke Kita is an iOS developer at Mercari. He works on the internationalization of the Mercari app. He is passionate about learning new technology. When not coding, you can find him cycling.",
-      "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2018/lt/kita.jpg",
-      "twitter": "https://twitter.com/kitasuke"
-    },
-    {
-      "speaker": "fumiya-nakamura",
-      "role": "CTO at ookami, Swift Contributor, fastlane Core Contributor",
-      "bio": "Fumiya is CTO at ookami, a Japanese sports tech startup. He is currently working on an app called Player!, that is a service bringing new ways to enjoy sports in real time. He's been writing Swift since 2014, soon after Apple launched it. Player! has been fully written in Swift from start. He loves the open source community, is one of the core contributors to fastlane, and helps mobile developers focus their products.",
-      "photoUrl": "https://www.tryswift.co/assets/images/speakers/sanjose2018/fumiya.png",
-      "twitter": "https://twitter.com/nafu003"
-    },
-    {
-      "speaker": "kostiantyn-koval",
-      "role": "Author of Swift High Performance, Swift Package Manager Contributor",
-      "bio": "Kostiantyn started working as an iOS developer back in the days on iPhone 3G. He immediately knew that Swift is a revolution and jumped on it from day one! He has contributed to Swift Package Manager and is also the author of the Swift High Performance book. He is now pursuing his new passion - compilers.",
-      "photoUrl": "https://www.tryswift.co/assets/images/speakers/sanjose2018/kostia.jpg",
-      "twitter": "https://twitter.com/KostiaKoval"
-    },
-    {
-      "speaker": "takeru-chuganji",
-      "role": "iOS Tech Lead at Mercari, Swift Contributor, Dog Lover",
-      "bio": "Takeru a.k.a. Ganzy is the iOS Tech Lead at Mercari in the U.S. He loves to contribute to open source projects to make engineers happy and has contributed to Carthage, fastlane, Swift, and so on. Also he loves dogs so you can find him with a super cute Bulldog Puppy's profile picture on Twitter, GitHub, and some Slack channels.",
-      "photoUrl": "https://www.tryswift.co/assets/images/speakers/sanjose2018/takeru.jpg",
-      "twitter": "https://twitter.com/chuganzy"
-    },
-    {
-      "speaker": "harlan-haskins",
-      "role": "LLVMSwift Founder, Swift Contributor",
-      "bio": "Harlan is a student at Rochester Institute of Technology. He founded LLVMSwift, an organization that aims to provide Swift engineers with compiler-oriented tools. He has spent the past two summers at Apple working on Swift, and plans to return full time on the Swift compiler team.",
-      "photoUrl": "https://www.tryswift.co/assets/images/speakers/sanjose2018/harlan.jpg",
-      "twitter": "https://twitter.com/harlanhaskins"
-    },
-    {
-      "speaker": "hiroki-mizuno",
-      "role": "iOS Developer at Misoca, Swift Package Manager Contributor",
-      "bio": "Hiroki(a.k.a. mzp) is an iOS application developer working for fintech startup, Misoca. He is also an input method developer. He develops open source Japanese input method for macOS/iOS. He loves sushi and holds 🍣.gq domain. You can find many sushi images on it.",
-      "photoUrl": "https://www.tryswift.co/assets/images/speakers/sanjose2018/hiroki.jpg",
-      "twitter": "https://twitter.com/mzp"
-    },
-    {
-      "speaker": "naruki-chigira",
-      "role": "iOS Developer at Timers-inc., Swift Package Manager Contributor",
-      "bio": "Naruki is iOS application engineer and scrum master at Timers-inc. He has been involved in the development of applications Pairy and Famm since the early stages. He also develop application Liv arXiv personally. He was a LT speaker at try! Swift 2018 Tokyo.",
-      "photoUrl": "https://www.tryswift.co/assets/images/speakers/sanjose2018/naruki.jpg",
-      "twitter": "https://twitter.com/naruchigi"
-    },
-    {
-      "speaker": "bas-broek",
-      "role": "iOS and tooling developer at XING, Swift NIO Contributor",
-      "bio": "Bas is an iOS and tooling developer at XING. He is currently curating Swift Weekly Brief and contributing to frameworks, apps and tooling in open source. He likes Swift and experimenting with other programming languages.",
-      "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2018/speakers/bas.jpg",
-      "twitter": "https://twitter.com/BasThomas"
-    },
-    {
-      "speaker": "garric-g-nahapetian",
-      "role": "iOS Engineer at Tinder, SwiftCoders Podcast host, Swift Compiler Contributor",
-      "bio": "Garric is an iOS Engineer at Tinder as well as the host of The SwiftCoders Podcast and the founder of the Learn Swift {CITY} group of meet ups.",
-      "photoUrl": "https://www.tryswift.co/assets/images/speakers/sanjose2018//garric.jpg",
-      "twitter": "https://twitter.com/garricn"
-    },
-    {
-      "speaker": "david-hart",
-      "role": "Lead iOS Developer at Atipik, Swift Package Manager Contributor",
-      "bio": "David is the Lead iOS Developer at Atipik, a small mobile development shop in Geneva. He's shown his passion for Swift Open Source as a contributor to the Swift Package Manager and by pitching in on Swift Evolution.",
-      "photoUrl": "https://www.tryswift.co/assets/images/speakers/sanjose2018//david.jpg",
-      "twitter": "https://twitter.com/dhartbit"
-    },
-    {
-      "speaker": "pushkar-kulkarni",
-      "role": "Server-Side Swift at IBM, Swift Foundation Contributor",
-      "bio": "Pushkar Kulkarni is a server-side Swift developer working with IBM. Prior to Swift, he worked on IBM's Java runtime, working on the JIT compiler and the Java standard library. Over the last two years, he has been contributing to open source Swift Foundation, focussed on making URLSession fully functional on Linux. He thinks Swift is the coolest language ever and is excited about the opportunities it offers on the server side.",
-      "photoUrl": "https://www.tryswift.co/assets/images/speakers/bangalore2017/instructors/pushkar.jpg",
-      "twitter": "https://twitter.com/pushkar_nk"
-    }
+    "dave-delong",
+    "yusuke-kita",
+    "fumiya-nakamura",
+    "kostiantyn-koval",
+    "takeru-chuganji",
+    "harlan-haskins",
+    "hiroki-mizuno",
+    "naruki-chigira",
+    "bas-broek",
+    "garric-g-nahapetian",
+    "david-hart",
+    "pushkar-kulkarni"
   ],
   "talks": [
     {

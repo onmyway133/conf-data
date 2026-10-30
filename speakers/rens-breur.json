@@ -1,3 +1,6 @@
 {
-  "name": "Rens Breur"
+  "name": "Rens Breur",
+  "role": "SoundCloud",
+  "bio": "Rens learned to program making apps for iOS 5, and has always stayed faithful to iOS. For a year, he has been part of the iOS team at SoundCloud, working mainly on user-facing features of the app. He is passionate about SwiftUI and has also started a blog on SwiftUI’s inner workings. He has several musical instruments at home that he cannot play, even after many years of practice, so he has decided to listen to music and work with music as a developer instead.",
+  "photoUrl": "https://2022.nsspain.com/images/speakers/rens.jpg"
 }

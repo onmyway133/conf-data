@@ -1,3 +1,7 @@
 {
-  "name": "Arvind Kumar Vartiya"
+  "name": "Arvind Kumar Vartiya",
+  "role": "Computer Scientist @ KiKsAR Technologies",
+  "bio": "I’m an Computer Scientist (AI Engineer) focused on building practical AI systems and intelligent agents. An IIT Kanpur alumnus, I work across Generative AI, LLMs, RAG, voice AI, and agentic AI.\n\nI build AI-powered voice and WhatsApp agents, multi-agent systems, and automation solutions, with hands-on experience integrating LLMs, STT/TTS, LangGraph, MCP, and cloud AI platforms. I’m particularly interested in building reliable, production-ready AI systems that can interact naturally with users and take real-world actions.",
+  "photoUrl": "https://cdn.sessionize.com/image/f5e3-400o400o1-gDXDhitk1PSSukZUuCr8Y.png",
+  "twitter": "https://x.com/VartiyaKr"
 }

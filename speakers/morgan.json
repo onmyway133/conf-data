@@ -1,3 +1,5 @@
 {
-  "name": "Morgan"
+  "name": "Morgan",
+  "bio": "Morgan is a software engineer at Firebase, where he works on documentation, SDKs, and code samples. He first started using Swift just after Swift 1.2 was released in 2015. In his spare time, he enjoys climbing and eating fancy food.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2019/instructors/morgan_and_mike.jpg"
 }

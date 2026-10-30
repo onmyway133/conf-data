@@ -14,149 +14,24 @@
   "twitter": "https://x.com/iosconfsg",
   "source": "confs.tech",
   "speakers": [
-    {
-      "speaker": "paul-hudson",
-      "role": "Hacking with Swift",
-      "bio": "Paul is the author of Hacking with Swift, Pro Swift, Swift Design Patterns, Server-Side Swift, Hacki...",
-      "photoUrl": "https://2021.iosconf.sg/speakers/paul.jpg",
-      "twitter": "https://www.twitter.com/twostraws",
-      "website": "https://www.hackingwithswift.com/"
-    },
-    {
-      "speaker": "peter-steinberger",
-      "role": "PSPDFKit",
-      "bio": "Peter founded and bootstrapped PSPDFKit in 2011, and has since expanded the company with the goal of...",
-      "photoUrl": "https://2021.iosconf.sg/speakers/peter.jpg",
-      "twitter": "https://www.twitter.com/steipete",
-      "website": "https://pspdfkit.com"
-    },
-    {
-      "speaker": "ben-scheirman",
-      "role": "NSScreencast",
-      "bio": "Ben is an iOS, Mac, and Ruby on Rails developer from Houston, Texas. Under his company, Fickle Bits,...",
-      "photoUrl": "https://2021.iosconf.sg/speakers/ben.jpg",
-      "twitter": "https://www.twitter.com/subdigital",
-      "website": "https://nsscreencast.com"
-    },
-    {
-      "speaker": "mugunth-kumar",
-      "role": "Xero",
-      "bio": "Dad first, iOS next. Co-author: iOS Programming Pushing the Limits. Wrote MKStoreKit, MKNetworkKit....",
-      "photoUrl": "https://2021.iosconf.sg/speakers/mugunth.jpg",
-      "twitter": "https://www.twitter.com/mugunthkumar",
-      "website": "https://www.xero.com"
-    },
-    {
-      "speaker": "malin-sundberg",
-      "role": "Orbit",
-      "bio": "Malin is an indie developer working on an app called Orbit, and co-founder of Triple Glazed Studios....",
-      "photoUrl": "https://2021.iosconf.sg/speakers/malin.jpg",
-      "twitter": "https://www.twitter.com/malinsundberg",
-      "website": "https://timeinorbit.com"
-    },
-    {
-      "speaker": "patrick-balestra",
-      "role": "Spotify",
-      "bio": "Patrick is a Senior iOS Engineer at Spotify in Stockholm where he works on build systems and develop...",
-      "photoUrl": "https://2021.iosconf.sg/speakers/patrick.jpg",
-      "twitter": "https://www.twitter.com/BalestraPatrick",
-      "website": "https://www.spotify.com"
-    },
-    {
-      "speaker": "alexander-repty",
-      "role": "Sketch",
-      "bio": "Alexander is a veteran software engineer from Germany, specialises in creating awesome apps for macO...",
-      "photoUrl": "https://2021.iosconf.sg/speakers/alexander.jpg",
-      "twitter": "https://www.twitter.com/arepty",
-      "website": "https://www.sketch.com"
-    },
-    {
-      "speaker": "madushan-gamage",
-      "role": "Grab",
-      "bio": "Madushan is a lead software engineer at Grab working on the mobile platform team.",
-      "photoUrl": "https://2021.iosconf.sg/speakers/madushan.jpg",
-      "twitter": "https://www.twitter.com/itsmadnik",
-      "website": "https://www.grab.com/sg"
-    },
-    {
-      "speaker": "roxana-jula",
-      "role": "Nodes",
-      "bio": "Roxana is a Romanian mobile developer based in Dubai with a passion for augmented reality. She start...",
-      "photoUrl": "https://2021.iosconf.sg/speakers/roxana.jpg",
-      "twitter": "https://www.twitter.com/roxanajula",
-      "website": "https://www.nodesagency.com/"
-    },
-    {
-      "speaker": "maciej-piotrowski",
-      "role": "Allegro",
-      "bio": "Maciej is a passionate iOS developer that pays much attention to details and code quality. He likes...",
-      "photoUrl": "https://2021.iosconf.sg/speakers/maciej.jpg",
-      "twitter": "https://www.twitter.com/paciej00",
-      "website": "https://allegro.tech"
-    },
-    {
-      "speaker": "rongyan-zheng",
-      "role": "Shopee",
-      "photoUrl": "https://2021.iosconf.sg/speakers/rongyan.jpg",
-      "linkedin": "https://www.linkedin.com/in/rongyanzheng",
-      "website": "https://shopee.sg"
-    },
-    {
-      "speaker": "erick-camacho",
-      "role": "Spotify",
-      "bio": "Erick works as a Senior iOS infrastructure engineer at Spotify taking care of the iOS developer expe...",
-      "photoUrl": "https://2021.iosconf.sg/speakers/eric.jpg",
-      "twitter": "https://www.twitter.com/ecamacho",
-      "website": "https://www.spotify.com"
-    },
-    {
-      "speaker": "benoit-pasquier",
-      "role": "ShopBack",
-      "bio": "Benoit is a French iOS engineer working at ShopBack, here in Singapore. He has previously worked on...",
-      "photoUrl": "https://2021.iosconf.sg/speakers/benoit.jpg",
-      "twitter": "https://www.twitter.com/BenoitPasquier_",
-      "website": "https://www.shopback.sg"
-    },
-    {
-      "speaker": "jason-nam",
-      "role": "OOZOU",
-      "bio": "Jason is an iOS developer who is passionate about finding better software architecture and improving...",
-      "photoUrl": "https://2021.iosconf.sg/speakers/jason.jpg",
-      "twitter": "https://www.twitter.com/seokhyeoneee",
-      "website": "https://oozou.com/"
-    },
-    {
-      "speaker": "kenneth-poon",
-      "role": "SPDigital",
-      "bio": "Kenneth works as a Principal Software Engineer at SPDigital. He is passionate about TDD and BDD. He...",
-      "photoUrl": "https://2021.iosconf.sg/speakers/kenneth.jpg",
-      "linkedin": "https://www.linkedin.com/in/kenneth-poon-84217019",
-      "website": "https://www.spdigital.io"
-    },
-    {
-      "speaker": "pavel-tarasevich",
-      "role": "foodpanda",
-      "bio": "Pavel Tarasevich is a senior iOS developer at Foodpanda, here in Singapore. He has 9+ years of iOS e...",
-      "photoUrl": "https://2021.iosconf.sg/speakers/pavel.jpg",
-      "linkedin": "https://www.linkedin.com/in/pavel-tarasevich",
-      "website": "https://www.foodpanda.com"
-    },
-    {
-      "speaker": "daniel-h-steinberg",
-      "role": "Dim Sum Thinking",
-      "bio": "Daniel is the author of more than a dozen books including the best selling books A Functional Progra...",
-      "photoUrl": "https://2021.iosconf.sg/speakers/daniel.jpg",
-      "twitter": "https://www.twitter.com/dimsumthinking",
-      "website": "https://dimsumthinking.com"
-    },
-    {
-      "speaker": "vincent-pradeilles",
-      "role": "Worldline",
-      "bio": "Vincent is a lead iOS developer, at Worldline, Lyon 🇫🇷 He started doing iOS development back in 20...",
-      "photoUrl": "https://2021.iosconf.sg/speakers/vincent.jpg",
-      "twitter": "https://www.twitter.com/v_pradeilles",
-      "website": "https://worldline.com"
-    }
+    "paul-hudson",
+    "peter-steinberger",
+    "ben-scheirman",
+    "mugunth-kumar",
+    "malin-sundberg",
+    "patrick-balestra",
+    "alexander-repty",
+    "madushan-gamage",
+    "roxana-jula",
+    "maciej-piotrowski",
+    "rongyan-zheng",
+    "erick-camacho",
+    "benoit-pasquier",
+    "jason-nam",
+    "kenneth-poon",
+    "pavel-tarasevich",
+    "daniel-h-steinberg",
+    "vincent-pradeilles"
   ],
   "talks": [
     {

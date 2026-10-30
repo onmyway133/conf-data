@@ -1,3 +1,9 @@
 {
-  "name": "Eric Bariaux"
+  "name": "Eric Bariaux",
+  "role": "Nelcea, Founder",
+  "bio": "Eric, a Software Engineer by trade and a Geek at heart, has had numerous encounters with development in the Apple software ecosystem throughout his career, starting from his early professional days developing on a NeXTstation. Today he works on IoT and energy management backends but uses his many side projects to explore Swift's full potential, from embedded systems to server-side development and on all Apple platforms.",
+  "photoUrl": "https://swiftconnection.io/static/e4f0fa845abb0a527961d896670629a1/d92cd/photo.png",
+  "twitter": "https://twitter.com/ebariaux",
+  "linkedin": "https://linkedin.com/in/ebariaux",
+  "website": "https://www.ericbariaux.com"
 }

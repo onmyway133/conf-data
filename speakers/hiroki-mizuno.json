@@ -1,3 +1,7 @@
 {
-  "name": "Hiroki Mizuno"
+  "name": "Hiroki Mizuno",
+  "role": "iOS Developer at Misoca, Swift Package Manager Contributor",
+  "bio": "Hiroki(a.k.a. mzp) is an iOS application developer working for fintech startup, Misoca. He is also an input method developer. He develops open source Japanese input method for macOS/iOS. He loves sushi and holds 🍣.gq domain. You can find many sushi images on it.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/sanjose2018/hiroki.jpg",
+  "twitter": "https://twitter.com/mzp"
 }

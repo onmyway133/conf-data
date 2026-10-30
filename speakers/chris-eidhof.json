@@ -1,3 +1,8 @@
 {
-  "name": "Chris Eidhof"
+  "name": "Chris Eidhof",
+  "role": "objc.io / SwiftUI Field Guide",
+  "bio": "Chris is the founder of objc.io and creator of SwiftUI Field Guide. He wrote multiple books about Swift, runs the Swift Talk video series and organizes SwiftUI workshops.",
+  "photoUrl": "https://swiftconnection.io/static/043b1768105b7688ccea27e0a5ac8a92/1c565/photo.jpg",
+  "twitter": "https://twitter.com/chriseidhof",
+  "website": "https://chris.eidhof.nl/"
 }

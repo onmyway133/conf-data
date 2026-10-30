@@ -1,3 +1,7 @@
 {
-  "name": "Liz Marley"
+  "name": "Liz Marley",
+  "role": "iOS Engineer at Nordstrom",
+  "bio": "Liz is a 13-year veteran of the Omni Group, now an iOS engineer at Nordstrom. She has also organized App Camp for Girls in Seattle several times. She speaks at conferences as an excuse to learn new things and hang out with other macOS and iOS developers. She hasn't written any books or hosted any podcasts...yet.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2019/speakers/liz_marley.jpg",
+  "twitter": "https://twitter.com/emarley"
 }

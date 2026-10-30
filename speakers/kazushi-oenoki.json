@@ -1,3 +1,6 @@
 {
-  "name": "Kazushi Oenoki"
+  "name": "Kazushi Oenoki",
+  "role": "iOS and macOS App Developer",
+  "bio": "Kazushi Oenoki is an iOS and macOS app developer known for creating apps such as FirstSeed Calendar and FirstSeed Tasks for Apple platforms. His apps have been featured as App of the Day in more than 150 countries and regions on the App Store. He has deep experience integrating CloudKit, Core Data, AppKit, UIKit, and SwiftUI. Currently, he is developing a rich text note app built on CRDT, tackling advanced challenges such as multi-device editing, diff highlighting, and run-based formatting.",
+  "photoUrl": "https://tryswift.jp/images/from_app/2026_KazushiOenoki.png"
 }

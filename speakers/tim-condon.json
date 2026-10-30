@@ -1,3 +1,9 @@
 {
-  "name": "Tim Condon"
+  "name": "Tim Condon",
+  "role": "Vapor Core Team",
+  "bio": "Tim is a Swift developer from Manchester, UK. He's the server-side Swift team lead at raywenderlich.com and has written the unofficial-official book on Vapor with the founders of the framework. He founded Broken Hands a few years ago delivers talks and workshops on Vapor and server-side Swift around the world. He also co-organises the ServerSide.swift conference - the world’s first and only conference focused on server-side Swift.",
+  "photoUrl": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/5BBAC055-EDC1-496F-8276-A6375396147C-e429-0o0o0-DKLWBMRtgN6ED3KVDJDapN.jpg",
+  "twitter": "https://twitter.com/0xTim",
+  "linkedin": "https://linkedin.com/in/timjcondon",
+  "website": "https://www.timc.dev"
 }

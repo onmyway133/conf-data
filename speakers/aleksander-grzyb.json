@@ -1,3 +1,7 @@
 {
-  "name": "Aleksander Grzyb"
+  "name": "Aleksander Grzyb",
+  "bio": "I am software engineer living in Poznań, Poland. Currently I am working at Allegro on Allegro iOS application. Previously I worked at Clio (Vancouver, Canada) on Clio iOS application. In my free time I am exploring usage of computer vision in medical field and working on my own Bimba iOS application. Also I co-founded CandyRent startup with close friends.",
+  "photoUrl": "http://2017.mobilization.pl/images/speakers/aleksander_grzyb.png",
+  "twitter": "https://twitter.com/aleksandergrzyb",
+  "website": "http://aleksandergrzyb.com/"
 }

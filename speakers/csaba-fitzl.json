@@ -1,3 +1,6 @@
 {
-  "name": "Csaba Fitzl"
+  "name": "Csaba Fitzl",
+  "role": "Principal macOS Security Researcher - Iru",
+  "bio": "Csaba is a Principal macOS Security Researcher working at Iru, focusing on vulnerability research and EDR detection development. He currently has over 100 CVEs issued by Apple for vulnerabilities ranging from simple info leaks to full macOS exploit chains bypassing all security controls.\n\nHe frequently presents his findings on conferences, like BlackHat, Objective By The Sea, POC, and many others. Csaba is also the co-author of the \"macOS Vulnerability Researcher\" training, which he teaches a couple of times a year.",
+  "photoUrl": "https://macsysadmin.se/speakers/files/image-2212.png"
 }

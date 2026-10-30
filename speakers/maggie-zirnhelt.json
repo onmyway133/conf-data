@@ -1,3 +1,6 @@
 {
-  "name": "Maggie Zirnhelt"
+  "name": "Maggie Zirnhelt",
+  "role": "macOS Threat Researcher - Jamf",
+  "bio": "Maggie Zirnhelt is a threat researcher with a background in mobile device management at Jamf and 10 years of software engineering experience. Every step of her professional life has revolved around macOS security, with relevant tasks including researching and developing a symbolic execution engine, programming for an enterprise security extension, and pushing the limits of her reverse engineering skills.\n\nThe perspective of the macOS administrator has been a central one for her for the past 5 years. She currently lives in the US in Boulder, Colorado, and enjoys exploring the Rocky Mountains.",
+  "photoUrl": "https://macsysadmin.se/speakers/files/image-2190.png"
 }

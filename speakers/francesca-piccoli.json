@@ -1,3 +1,8 @@
 {
-  "name": "Francesca Piccoli"
+  "name": "Francesca Piccoli",
+  "role": "Frontend Engineer @ Musixmatch",
+  "bio": "Francesca is an experienced Frontend Engineer specializing in iOS development at Musixmatch, the world's leading music data company, working with clients like Spotify, Apple and Google. In her past experience she worked in the healthcare industry developing telemedicine software during the pandemic. Throughout her iOS engineering career, she has honed her skills in various programming languages, starting with Objective-C and Swift and later expanding her repertoire to include SwiftUI. Beyond her professional endeavors, she was actively engaged in mentoring students at the University of Rome Tor Vergata in Swift development. In her free time she like playing video games, which she has always been passionate about, even at a competitive level.",
+  "photoUrl": "https://2023.pragmaconference.com/assets/speakers/francesca_piccoli.jpg",
+  "linkedin": "https://www.linkedin.com/in/francesca-piccoli-031786151/",
+  "website": "https://medium.com/@francesca.piccoli"
 }

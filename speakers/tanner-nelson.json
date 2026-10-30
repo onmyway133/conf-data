@@ -1,3 +1,6 @@
 {
-  "name": "Tanner Nelson"
+  "name": "Tanner Nelson",
+  "bio": "Tanner is an American software engineer based in New York City. He studied Computer Science at New York University and has worked as a full stack, iOS, and embedded systems engineer. Tanner's current focus is developing Vapor, an open source Server-Side Swift framework that he created in 2016.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2017/speakers/tanner.jpg",
+  "twitter": "https://twitter.com/tanner0101"
 }

@@ -1,3 +1,6 @@
 {
-  "name": "Michał Kowalczyk"
+  "name": "Michał Kowalczyk",
+  "bio": "Michał has worked in various sectors of IT for last 12 years. He has created web applications as well as embedded systems. In his job, he likes to combine various technologies. For the last couple of years, he has used C++ with Java, Python and Swift mixed in. Currently, he works in TomTom developing a multiplatform engine for map visualisation.",
+  "photoUrl": "http://2017.mobilization.pl/images/speakers/mkowalczyk.jpg",
+  "linkedin": "https://www.linkedin.com/in/michalkowalczyk/"
 }

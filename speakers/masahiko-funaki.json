@@ -1,3 +1,8 @@
 {
-  "name": "Masahiko Funaki"
+  "name": "Masahiko Funaki",
+  "role": "CircleCI",
+  "bio": "Principal, Developer Advocate at CircleCI",
+  "photoUrl": "https://2023.iosconf.sg/images/speakers/masahiko-funaki.jpg",
+  "twitter": "https://twitter.com/mfunaki",
+  "website": "https://circleci.com/"
 }

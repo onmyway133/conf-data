@@ -19,192 +19,30 @@
   "twitter": "https://x.com/pragmamarkorg",
   "source": "confs.tech",
   "speakers": [
-    {
-      "speaker": "john-sundell",
-      "role": "Creator of SwiftBySundell.com, Co-host of Stacktrace podcast, Swift Developer",
-      "bio": "John is Swift developer and iOS freelancer who builds apps, games and developer tools. He also makes Swift by Sundell, a collection of articles and a podcast about Swift development, and co-hosts the Stacktrace podcast.",
-      "photoUrl": "https://2023.pragmaconference.com/assets/speakers/jonh_sundell.jpeg",
-      "twitter": "https://twitter.com/johnsundell",
-      "website": "https://www.swiftbysundell.com"
-    },
-    {
-      "speaker": "maxim-cramer",
-      "role": "Ceo | Coach | Design Technologist",
-      "bio": "Maxim Cramer is the founder and CEO of MENNENIA, a coaching and consulting business determined to empower 100,000 women founders to confidently create technology for a better world. She’s worked on apps that have seen over a million downloads on launch, won Emmys, been featured by Apple in retail stores around the globe, and now teaches TechLiteracy® so founders can build products with less headache and more confidence.",
-      "photoUrl": "https://2023.pragmaconference.com/assets/speakers/maxim_cramer.jpeg",
-      "twitter": "https://twitter.com/mennenia?lang=en",
-      "website": "http://maximcramer.com/"
-    },
-    {
-      "speaker": "manu-stuffmc-carrasco-molina",
-      "role": "JUNIOR VISIONOS DEVELOPER with Double-Digit Experience with iOS",
-      "bio": "Politically and ethically involved Apple-Platforms developer. Senior Vegan SwiftUI Developer, currently Junior visionOS Developer. Something Spacial, something special, with an eyeOS. No RocketScience here, only ARKit Science 🤪. Also, he once started the first iOS Dev Conference in continental Europe.",
-      "photoUrl": "https://2023.pragmaconference.com/assets/speakers/stuffmc.jpg",
-      "twitter": "https://twitter.com/stuffmc",
-      "website": "https://carrascomolina.com/speaking"
-    },
-    {
-      "speaker": "daniel-steinberg",
-      "role": "Storyteller at Dim Sum Thinking",
-      "bio": "Daniel loves to write about, teach and code for Apple platforms using Swift. Daniel is the author of more than a dozen books including the best-selling books A Functional Programming Kickstart, A SwiftUI Kickstart, A Swift Kickstart and Dear Elena. Daniel presents iOS, Functional Programming, SwiftUI, and Swift training and consults through his company Dim Sum Thinking.",
-      "photoUrl": "https://2023.pragmaconference.com/assets/speakers/daniel_steinberg.png",
-      "website": "https://www.dimsumthinking.com"
-    },
-    {
-      "speaker": "paul-hudson",
-      "role": "Learning and sharing at Hacking with Swift, author of Swift, SwiftUI, and iOS books",
-      "bio": "Paul is the author of Hacking with Swift, Pro Swift, Swift Design Patterns, Testing Swift, Server-Side Swift, Hacking with watchOS, Swift Coding Challenges, and more. Suffice it to say, he quite likes Swift. And coffee. (But mostly Swift.) (And coffee.)",
-      "photoUrl": "https://2023.pragmaconference.com/assets/speakers/paul_hudson_.jpeg",
-      "twitter": "https://twitter.com/twostraws",
-      "website": "https://www.hackingwithswift.com/"
-    },
-    {
-      "speaker": "anna-beltrami",
-      "role": "Mad scientist & software engineer @SpotifyEng",
-      "bio": "Mobile infrastructure engineer at Spotify. She has been an iOS engineer since 2017. When she is not tinkering with Swift or building untested apps on Swift Playgrounds, She love podcasting and she is an avid skier and climber!!.",
-      "photoUrl": "https://2023.pragmaconference.com/assets/speakers/anna_beltrami.jpeg",
-      "twitter": "https://twitter.com/acbdev",
-      "website": "https://bento.me/acbdev"
-    },
-    {
-      "speaker": "francesca-piccoli",
-      "role": "Frontend Engineer @ Musixmatch",
-      "bio": "Francesca is an experienced Frontend Engineer specializing in iOS development at Musixmatch, the world's leading music data company, working with clients like Spotify, Apple and Google. In her past experience she worked in the healthcare industry developing telemedicine software during the pandemic. Throughout her iOS engineering career, she has honed her skills in various programming languages, starting with Objective-C and Swift and later expanding her repertoire to include SwiftUI. Beyond her professional endeavors, she was actively engaged in mentoring students at the University of Rome Tor Vergata in Swift development. In her free time she like playing video games, which she has always been passionate about, even at a competitive level.",
-      "photoUrl": "https://2023.pragmaconference.com/assets/speakers/francesca_piccoli.jpg",
-      "linkedin": "https://www.linkedin.com/in/francesca-piccoli-031786151/",
-      "website": "https://medium.com/@francesca.piccoli"
-    },
-    {
-      "speaker": "amos-gyamfi",
-      "role": "iOS Developer Advocate",
-      "bio": "He is an iOS developer advocate and interaction designer living in Finland. He has a master's education in Human-Computer Interaction from Tampere University (Finland). He focus on Swift/SwiftUI, design, animation/motion, and micro-interactions.",
-      "photoUrl": "https://2023.pragmaconference.com/assets/speakers/amos_gyamfi.jpeg",
-      "twitter": "https://twitter.com/amos_gyamfi",
-      "website": "https://www.udemy.com/user/amos-gyamfi/"
-    },
-    {
-      "speaker": "valeria-farina",
-      "role": "Product Designer @ Telepass",
-      "bio": "Multidisciplinary designer with 10+ years of experience. Current strengths: finding inconsistencies, everything is auto-layout, being a nuisance, breeding shiny pokémons.",
-      "photoUrl": "https://2023.pragmaconference.com/assets/speakers/valeria_farina.jpeg",
-      "linkedin": "https://www.linkedin.com/in/valeriafarina/",
-      "website": "http://valeriafarina.com/"
-    },
-    {
-      "speaker": "beyza-i-nce",
-      "role": "iOS Developer @ TrendyolTech",
-      "bio": "Beyza İnce is a software engineer with over 3 years of experience in iOS and Mobile DevOps. Currently, she is working in the iOS platform team at Trendyol. Beyza focuses on developing interactive and user-friendly iOS applications. She specializes in Swift and leverages the latest technologies from Apple to deliver innovative solutions. Additionally, she has expertise in Mobile DevOps, managing the application lifecycle and implementing automated processes.",
-      "photoUrl": "https://2023.pragmaconference.com/assets/speakers/beyza_ince.jpeg",
-      "twitter": "https://twitter.com/beyzance2",
-      "website": "https://medium.com/@beyza.ince"
-    },
-    {
-      "speaker": "cyril-cermak",
-      "role": "iOS System Architect @ Porsche AG",
-      "bio": "Hi my name is Cyril, I have been doing iOS past ~9 years. I did couple of live speaking sessions and workshops about iOS security, modular architecture and reverse engineering of iOS apps.",
-      "photoUrl": "https://2023.pragmaconference.com/assets/speakers/cyril_cermak.jpeg",
-      "linkedin": "https://www.linkedin.com/in/cyril-cermak-210a8b6b/",
-      "website": "https://www.cyrilcermak.com/"
-    },
-    {
-      "speaker": "firas-safa",
-      "role": "Senior iOS Engineer",
-      "bio": "Firas is a Senior iOS Engineer in love with clean-code, architectures and design. | He goes by `TheInkedEngineer`.",
-      "photoUrl": "https://2023.pragmaconference.com/assets/speakers/firas_safa.jpeg",
-      "twitter": "https://twitter.com/inkedengineer",
-      "website": "https://theinkedengineer.com"
-    },
-    {
-      "speaker": "dominik-riegger",
-      "role": "Growth Engineer",
-      "bio": "Dominik, a Swift enthusiast since the first hour, is restless to use the latest language advances to (mostly) increasing team productivity. He is currently on a mission to make robotics accessible for everyone. At Wandelbots he is part of a team developing iPad apps to enable easy to use access to industrial robots.",
-      "photoUrl": "https://2023.pragmaconference.com/assets/speakers/dominik_riegger.jpeg",
-      "linkedin": "https://www.linkedin.com/in/driegger",
-      "website": "https://www.riegger.tech"
-    },
-    {
-      "speaker": "anum-mian",
-      "role": "iOS Developer",
-      "bio": "I have been an iOS developer for over 12 years and have worked on 30+ iOS apps. Some of the most notable ones are Chase UK (by J.P.Morgan) and Sky Q (by Sky UK). I have been an active member of Toastmasters International for over a year and have won \"Best Speaker\" award on 4 different occasions.",
-      "photoUrl": "https://2023.pragmaconference.com/assets/speakers/anum_mian.jpeg",
-      "twitter": "https://twitter.com/anumness",
-      "website": "https://www.anummian.co.uk"
-    },
-    {
-      "speaker": "muralidharan-kathiresan",
-      "role": "Senior iOS Developer and author of SwiftPublished.com",
-      "bio": "Murali is an experienced Senior iOS Developer with more than 10 years of expertise in Mobile App Development. He is also the co-creator and co-author of SwiftPublished.com, a weekly blog that focuses on iOS Development. Murali believes in writing clean and organized code and prioritizes testing as the first step. He enjoys collaborating and learning from the community to enhance his skills.",
-      "photoUrl": "https://2023.pragmaconference.com/assets/speakers/muralidharan_kathiresan.jpeg",
-      "twitter": "https://twitter.com/Muralidharan_K",
-      "website": "https://unknowndefault.com/"
-    },
-    {
-      "speaker": "audrey-sobgou-zebaze",
-      "role": "iOS/macOS Software Engineer",
-      "bio": "Audrey discovered iOS when she first bought an iPhone Edge in 2008. Since then, she is working passionately on Apple platforms, enjoying SwiftUI and even CoreData while building the macOS Proton Drive app. When she is not coding, watching/playing basketball and football are her favorite activities. As a huge movie addict, Audrey is avoiding trailers as much as possible.",
-      "photoUrl": "https://2023.pragmaconference.com/assets/speakers/Audrey_Zebaze.jpg",
-      "twitter": "https://twitter.com/mvpohhhdrey",
-      "linkedin": "https://www.linkedin.com/in/-audrey-sobgou-zebaze-0428a768/"
-    },
-    {
-      "speaker": "stefan-blos",
-      "role": "iOS Developer Experience Engineer",
-      "bio": "Stefan works as a developer experience engineer at Stream (getstream.io). He loves building and experimenting with iOS animations using SwiftUI",
-      "photoUrl": "https://2023.pragmaconference.com/assets/speakers/stefan_blos.jpeg",
-      "twitter": "https://twitter.com/stefanjblos",
-      "website": "https://stefanblos.com/"
-    },
-    {
-      "speaker": "duncan-wilcox",
-      "role": "Founder @ Sparkle",
-      "bio": "Co-developer of the Sparkle Website builder. Product-focused, full stack software developer before there were stacks.",
-      "photoUrl": "https://2023.pragmaconference.com/assets/speakers/duncan_wilcox.jpg",
-      "twitter": "https://twitter.com/duncanwilcox",
-      "linkedin": "https://www.linkedin.com/in/duncanwilcox/",
-      "website": "https://sparkleapp.com"
-    },
-    {
-      "speaker": "paolo-bianchi",
-      "role": "Application & New Technologies Manager @ EssilorLuxottica",
-      "bio": "I love Sketchnoting, and Tinkering with Technology. Passionate about mobile technologies since 2009. As an EssilorLuxottica App & New Tech I lead a small team of passionate, talented professionals. We work on Customer Data and innovative ways to improve our customer experiences.",
-      "photoUrl": "https://2023.pragmaconference.com/assets/speakers/paolo_bianchi.jpeg"
-    },
-    {
-      "speaker": "cristian-cascetta",
-      "role": "Innovation Solutions Manager @ EssilorLuxottica",
-      "bio": "As EssilorLuxottica Digital Innovation Solution Manager, I lead a small, multidisciplinary team working in the areas of Machine Learning, Computer Vision, 3D digital assets and Augmented Reality",
-      "photoUrl": "https://2023.pragmaconference.com/assets/speakers/cristian_cascetta.jpeg"
-    },
-    {
-      "speaker": "stefano-bodini",
-      "role": "Lead Solutions Architect @ EssilorLuxottica",
-      "bio": "I am a cloud architect with a passion for big data and microservices. I have been working in the tech industry in various roles, encompassing system integration and IT governance, and I am currently building solutions for multi channel customer engagement. In addition to my work in tech, I am also a passionate guitar player. I have been playing guitar for over 15 years, and I enjoy playing a variety of genres, rock and blues in particular.",
-      "photoUrl": "https://2023.pragmaconference.com/assets/speakers/stefano_bodini.jpeg",
-      "linkedin": "https://www.linkedin.com/in/stefano-bodini/"
-    },
-    {
-      "speaker": "grigory-markin",
-      "role": "CTO @ SCADE Inc.",
-      "bio": "I am Grigory Markin, a computer scientist, software engineer, and co-founder of SCADE, a pioneering platform for native app development with Swift for iOS and Android. As the CTO and co-founder of SCADE, I have dedicated over a decade to developing the platform since its inception. Since the release of Swift 2.0, our primary focus has been on bringing all the language's features to Android. Our main goal is to make native app development using Swift for both iOS and Android as seamless as possible.",
-      "photoUrl": "https://2023.pragmaconference.com/assets/speakers/grigory_marki.jpeg",
-      "linkedin": "https://www.linkedin.com/in/grigory-markin-1962b531/",
-      "website": "https://github.com/gr-markin"
-    },
-    {
-      "speaker": "richard-topchii",
-      "role": "Consultant / iOS Developer",
-      "bio": "Richard is an Apple Platforms Developer working as a consultant. He has more than 7 years of experience developing apps from scratch, improving existing apps or developing tools such as SDKs and libraries. In his free time he also creates open-source libraries, such as CalendarKit, speaks at local meetups or releases new videos about iOS development on his YouTube channel.",
-      "photoUrl": "https://2023.pragmaconference.com/assets/speakers/richard_topchii.jpeg",
-      "twitter": "https://twitter.com/richardtop_ios",
-      "website": "https://www.youtube.com/@richardtopchii"
-    },
-    {
-      "speaker": "salvatore-vitobello",
-      "role": "Mobile Architect Lead @Iriscube Reply",
-      "bio": "Salvatore is a Mobile Architect Lead @Iriscube Reply with over 7 years of experience in the mobile sector with a focus for the iOS platform. Salvatore has a curious mind, striving to be an innovator in his field, always looking for new and better ways to improve the mobile development process and build high-quality mobile applications. Always passionate about learning, he makes a strong effort to share his knowledge and expertise with others. He has also participated to numerous company events as a speaker, focusing his aim on the iOS architecture.",
-      "photoUrl": "https://2023.pragmaconference.com/assets/speakers/salvatore_vitobello.jpg",
-      "linkedin": "https://www.linkedin.com/in/salvatore-vitobello/"
-    }
+    "john-sundell",
+    "maxim-cramer",
+    "manu-stuffmc-carrasco-molina",
+    "daniel-steinberg",
+    "paul-hudson",
+    "anna-beltrami",
+    "francesca-piccoli",
+    "amos-gyamfi",
+    "valeria-farina",
+    "beyza-i-nce",
+    "cyril-cermak",
+    "firas-safa",
+    "dominik-riegger",
+    "anum-mian",
+    "muralidharan-kathiresan",
+    "audrey-sobgou-zebaze",
+    "stefan-blos",
+    "duncan-wilcox",
+    "paolo-bianchi",
+    "cristian-cascetta",
+    "stefano-bodini",
+    "grigory-markin",
+    "richard-topchii",
+    "salvatore-vitobello"
   ],
   "talks": [
     {

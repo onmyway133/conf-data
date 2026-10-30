@@ -21,60 +21,24 @@
   "twitter": "https://x.com/nullcon",
   "source": "confs.tech",
   "speakers": [
-    {
-      "speaker": "fred-raynal"
-    },
-    {
-      "speaker": "nolen-johnson"
-    },
-    {
-      "speaker": "jan-altensen"
-    },
-    {
-      "speaker": "hanno-bock"
-    },
-    {
-      "speaker": "dillon-franke"
-    },
-    {
-      "speaker": "jaden-furtado"
-    },
-    {
-      "speaker": "alex-devassy"
-    },
-    {
-      "speaker": "dennis-giese"
-    },
-    {
-      "speaker": "arpan-jati"
-    },
-    {
-      "speaker": "nicolas-gregoire"
-    },
-    {
-      "speaker": "axelle-apvrille"
-    },
-    {
-      "speaker": "marc-newlin"
-    },
-    {
-      "speaker": "nguyen-anh-quynh"
-    },
-    {
-      "speaker": "van-hoa"
-    },
-    {
-      "speaker": "stephan-gerling"
-    },
-    {
-      "speaker": "peter-geissler"
-    },
-    {
-      "speaker": "georgy-kucherin"
-    },
-    {
-      "speaker": "vivek-ramachandran"
-    }
+    "fred-raynal",
+    "nolen-johnson",
+    "jan-altensen",
+    "hanno-bock",
+    "dillon-franke",
+    "jaden-furtado",
+    "alex-devassy",
+    "dennis-giese",
+    "arpan-jati",
+    "nicolas-gregoire",
+    "axelle-apvrille",
+    "marc-newlin",
+    "nguyen-anh-quynh",
+    "van-hoa",
+    "stephan-gerling",
+    "peter-geissler",
+    "georgy-kucherin",
+    "vivek-ramachandran"
   ],
   "talks": [
     {

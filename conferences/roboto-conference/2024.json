@@ -20,42 +20,12 @@
   "mastodon": "https://mastodon.social/@robotoconference",
   "source": "confs.tech",
   "speakers": [
-    {
-      "speaker": "yevhen-pekutovskyi",
-      "role": "Lead Android developer @ Just Eat Takeaway.com",
-      "photoUrl": "https://www.robotoconference.com/images/r/yevhen-pekutovskyi-454.jpg",
-      "linkedin": "https://www.linkedin.com/in/eugenepekutovskyi"
-    },
-    {
-      "speaker": "diego-alvis",
-      "role": "Engineering Manager @ Delivery Hero",
-      "photoUrl": "https://www.robotoconference.com/images/v/diego-alvis-454.png",
-      "twitter": "https://twitter.com/sebaslogen",
-      "linkedin": "https://www.linkedin.com/in/diegoalvispal/"
-    },
-    {
-      "speaker": "manu-stuffmc-carrasco-molina",
-      "role": "Software Developer",
-      "photoUrl": "https://www.robotoconference.com/images/j/stuffmc-454.jpg",
-      "twitter": "https://twitter.com/stuffmc",
-      "website": "https://carrascomolina.com/speaking"
-    },
-    {
-      "speaker": "sarp-remzi-aksu",
-      "role": "Freelance Android Developer",
-      "photoUrl": "https://www.robotoconference.com/images/t/sarp-remzi-aksu-454.jpg",
-      "twitter": "https://x.com/sarpremziaksu",
-      "linkedin": "https://linkedin.com/in/sarpremziaksu"
-    },
-    {
-      "speaker": "jayakrishna-chittipolu",
-      "role": "Senior Specialist @ Rewe International AG",
-      "photoUrl": "https://www.robotoconference.com/images/n/jayakrishna-chittipolu-454.jpeg",
-      "linkedin": "https://www.linkedin.com/in/c-jayakrishna"
-    },
-    {
-      "speaker": "klaus-lanzarini"
-    }
+    "yevhen-pekutovskyi",
+    "diego-alvis",
+    "manu-stuffmc-carrasco-molina",
+    "sarp-remzi-aksu",
+    "jayakrishna-chittipolu",
+    "klaus-lanzarini"
   ],
   "talks": [
     {

@@ -147,7 +147,7 @@ for (const { slug: seriesSlug, editions } of series) {
       add(file, `endDate ${edition.endDate} is before startDate ${edition.startDate}`)
     }
     checkTopics(file, 'topics', edition.topics)
-    checkSpeakers(file, 'speakers', (edition.speakers ?? []).map((s) => s.speaker))
+    checkSpeakers(file, 'speakers', edition.speakers ?? [])
     for (const talk of edition.talks ?? []) {
       claimTalk(file, talk.slug)
       checkSpeakers(file, `talk "${talk.slug}"`, talk.speakers)

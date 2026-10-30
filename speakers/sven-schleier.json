@@ -1,3 +1,7 @@
 {
-  "name": "Sven Schleier"
+  "name": "Sven Schleier",
+  "role": "F-Secure",
+  "bio": "Sven is the Technical Director of F-Secure, Singapore and has hands-on experience in attacking and defending web and mobile apps for the last 10+ years. He will conduct a workshop on Finding vulnerabilities in iOS Apps.",
+  "photoUrl": "https://2022.iosconf.sg/speakers/sven.jpg",
+  "twitter": "https://www.twitter.com/bsd_daemon"
 }

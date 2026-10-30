@@ -1,3 +1,7 @@
 {
-  "name": "Fumiya Nakamura"
+  "name": "Fumiya Nakamura",
+  "role": "CTO at ookami, Swift Contributor, fastlane Core Contributor",
+  "bio": "Fumiya is CTO at ookami, a Japanese sports tech startup. He is currently working on an app called Player!, that is a service bringing new ways to enjoy sports in real time. He's been writing Swift since 2014, soon after Apple launched it. Player! has been fully written in Swift from start. He loves the open source community, is one of the core contributors to fastlane, and helps mobile developers focus their products.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/sanjose2018/fumiya.png",
+  "twitter": "https://twitter.com/nafu003"
 }

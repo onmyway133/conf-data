@@ -1,3 +1,7 @@
 {
-  "name": "Kohki Miki"
+  "name": "Kohki Miki",
+  "role": "Engineer at Cookpad",
+  "bio": "Kohki Miki (a.k.a @giginet) is a software engineer at Cookpad. He builds infrastructure for mobile development and works to improve productivity of mobile developers. Also, he builds fastlane tools, as a member of core contributors, and other useful development tools. He likes game development, so he creates some games and writes books about game development.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2017/giginet.png",
+  "twitter": "https://twitter.com/giginet"
 }

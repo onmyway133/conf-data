@@ -1,3 +1,7 @@
 {
-  "name": "Nikola Irinchev"
+  "name": "Nikola Irinchev",
+  "bio": "Nick has extensive experience with everything .NET - from architecting highly performant web servers to shipping cross platform mobile apps, you name it. Now he resides at Realm, delivering the best database in the world to .NET developers. When he’s not doing that, he speaks about cloud infrastructure and occasionally blogs about the hard problems he faces.",
+  "photoUrl": "http://2017.mobilization.pl/images/speakers/nikola-irinchev.png",
+  "twitter": "https://twitter.comm/nirinchev",
+  "linkedin": "https://www.linkedin.com/in/nikola-irinchev-12443a80"
 }

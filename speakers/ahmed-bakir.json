@@ -1,3 +1,6 @@
 {
-  "name": "Ahmed Bakir"
+  "name": "Ahmed Bakir",
+  "bio": "Ahmed Bakir is an iOS author, teacher, and entrepreneur. He has worked on over 30 mobile projects, ranging from advising startups to architecting apps for Fortune 500 companies. In 2014, he published his first book, Beginning iOS Media App Development, followed by the first edition of Program the Internet of Things with Swift in 2016. In 2015, he was invited to develop courses and teach iOS development at UCSD-Extension. He is currently building cool stuff in Tokyo! You can find him online at devatelier.com.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2019/instructors/abakir.jpg",
+  "twitter": "https://twitter.com/devatelier"
 }

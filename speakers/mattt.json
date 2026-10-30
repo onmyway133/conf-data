@@ -1,3 +1,7 @@
 {
-  "name": "Mattt"
+  "name": "Mattt",
+  "role": "Flight School | NSHipster",
+  "bio": "Mattt is the founder of Flight School a new book series about Swift, and NSHipster a journal of the overlooked bits in Objective-C, Swift, and Cocoa. Previously, he worked at Apple as a technical writer, contributing to The Swift Programming Language, Swift Package Manager, and Swift.org.",
+  "photoUrl": "https://2018.nsspain.com/images/speakers/mattt.jpeg",
+  "twitter": "https://twitter.com/mattt"
 }

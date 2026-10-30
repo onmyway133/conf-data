@@ -1,3 +1,8 @@
 {
-  "name": "Daiki Matsudate"
+  "name": "Daiki Matsudate",
+  "role": "Software Engineer",
+  "bio": "Daiki Matsudate is an iOS engineer based in Tokyo, focusing on autonomous driving research & development and digital identity projects. He leads engineering initiatives that bridge public services and modern mobile technologies, including work related to mobile identity. Daiki is also an active member of the global iOS community, organizing try! Swift Tokyo, speaking internationally, and supporting developer communities across Asia.",
+  "photoUrl": "https://ik.imagekit.io/iosconfsg/speakers/daiki.jpeg",
+  "twitter": "https://x.com/d_date",
+  "linkedin": "https://www.linkedin.com/in/d-date"
 }

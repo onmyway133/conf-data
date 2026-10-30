@@ -1,3 +1,7 @@
 {
-  "name": "Todd Burner"
+  "name": "Todd Burner",
+  "role": "Google",
+  "bio": "Todd Burner is a Developer Advocate on the Firebase team. He previously worked on other teams in Google Cloud Platform, at Twitter, and a few mobile-first startups. He spends his time helping developers get up and running with open source and Google projects on GitHub and Stack Overflow, as well as meeting developers in person across the world.",
+  "twitter": "https://twitter.com/toddlovesthis",
+  "website": "https://github.com/tkburner"
 }

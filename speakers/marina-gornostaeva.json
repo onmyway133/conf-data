@@ -1,3 +1,7 @@
 {
-  "name": "Marina Gornostaeva"
+  "name": "Marina Gornostaeva",
+  "role": "Storytel",
+  "bio": "Marina works as a Lead iOS developer at Storytel, where she focuses on architecture, infrastructure and scaling the iOS team. Marina has been professionally building apps for iOS for 8 years, since before ARC. Throughout her career, she worked on dozens of apps of various sizes, both greenfield and legacy projects. These days she is most passionate about robust solutions, high-quality code and building the best user experience. In her spare time, Marina co-organizes CopenhagenCocoa meetups, mentors aspiring iOS developers and follows Swift Evolution. When not watching Netflix, she tries to find time to write and contribute to OSS. She likes cats, drinking wine and table tennis.",
+  "photoUrl": "https://2019.nsspain.com/images/speakers/marina2.jpg",
+  "twitter": "https://twitter.com/hybridcattt"
 }

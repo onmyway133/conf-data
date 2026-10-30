@@ -1,3 +1,7 @@
 {
-  "name": "Tom Harrington"
+  "name": "Tom Harrington",
+  "role": "iOS and Mac Developer, Co-Author, Radio DJ",
+  "bio": "Tom is a veteran iOS and Mac developer and a radio DJ at 91.5 FM KRCC in Colorado Springs. He organizes iOSDevCamp Colorado Springs, an annual software developer conference. Tom has co-authored several books for iOS developers as well as the 'Text from Xcode' blog. Originally from New York, Tom has made his home in Colorado Springs for many years. When not at work or on the radio Tom can be found bicycling Colorado or playing didgeridoo music.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2018/speakers/tom.jpg",
+  "twitter": "https://twitter.com/atomicbird"
 }

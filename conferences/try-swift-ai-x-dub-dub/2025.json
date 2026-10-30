@@ -13,12 +13,7 @@
   ],
   "source": "cocoaconferences",
   "speakers": [
-    {
-      "speaker": "natasha-murashev",
-      "bio": "Natasha is an iOS developer by day and a robot by night. She organizes the try! Swift Conference around the world (including this one!). She's currently living in India developing AI-based apps for reading Sanskrit texts.",
-      "photoUrl": "https://www.tryswift.co/assets/images/speakers/swiftai/sanjose3.jpg",
-      "twitter": "https://twitter.com/natashatherobot"
-    }
+    "natasha-murashev"
   ],
   "talks": [
     {

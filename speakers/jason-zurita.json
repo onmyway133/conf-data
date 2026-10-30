@@ -1,3 +1,9 @@
 {
-  "name": "Jason Zurita"
+  "name": "Jason Zurita",
+  "role": "Core Mobile Team @ Squarespace",
+  "bio": "Jason Zurita is a self-taught software engineer working on shared libraries and infrastructure as a member of the Core Mobile Team at Squarespace. Having begun his career as an Electrical Engineer, he understands the challenge in changing careers, which is what drives him to try and give back to the tech community (contributing to open source, teaching, blogging, giving talks, etc.).\n\nHe enjoys learning different tech stacks and how they can be put together to create new and interesting projects, the Swift language, tinkering with electronic projects, and going for a walk with his wife, kids, and dog.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2020/jason.jpg",
+  "twitter": "https://twitter.com/jasonalexzurita",
+  "linkedin": "http://linkedin.com/in/jasonzurita",
+  "website": "https://jasonzurita.com/blog"
 }

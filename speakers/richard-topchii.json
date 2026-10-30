@@ -1,3 +1,8 @@
 {
-  "name": "Richard Topchii"
+  "name": "Richard Topchii",
+  "role": "Consultant / iOS Developer",
+  "bio": "Richard is an Apple Platforms Developer working as a consultant. He has more than 7 years of experience developing apps from scratch, improving existing apps or developing tools such as SDKs and libraries. In his free time he also creates open-source libraries, such as CalendarKit, speaks at local meetups or releases new videos about iOS development on his YouTube channel.",
+  "photoUrl": "https://2023.pragmaconference.com/assets/speakers/richard_topchii.jpeg",
+  "twitter": "https://twitter.com/richardtop_ios",
+  "website": "https://www.youtube.com/@richardtopchii"
 }

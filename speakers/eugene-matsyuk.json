@@ -1,3 +1,6 @@
 {
-  "name": "Eugene Matsyuk"
+  "name": "Eugene Matsyuk",
+  "bio": "I have been an android developer since 2012 and engaged at a lot of different projects like LinguaLeo, SberbankBusinessOnline (famous apps in Russia). My current project is Kaspersky Internet Security for Android. Also, there are my personal development blogs in Russian and in English. Welcome to my GitHub page, where you may find out different opensource projects starting with small examples for articles and ending with frameworks(Kaspresso), libraries(AdbServer) and even architectural CookBook. My current passion is autotests. I believe that autotests can make our lives easier. Yes, we need to complete a lot of preparing work to reach the mentioned dream. But the dream is even closer than it had been not so long ago.",
+  "photoUrl": "http://2019.mobilization.pl/assets/images/speakers/eugene-matsyuk.png",
+  "website": "https://medium.com/@eugenematsyuk"
 }

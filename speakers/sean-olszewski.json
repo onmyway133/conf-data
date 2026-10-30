@@ -1,3 +1,7 @@
 {
-  "name": "Sean Olszewski"
+  "name": "Sean Olszewski",
+  "role": "Engineering Practice Lead, Pivotal",
+  "bio": "Sean Olszewski is the author of Muter, a mutation testing tool for Swift code. Currently an engineering practice lead at Pivotal, he focuses on the practice of test driven development and the design of effective test suites in his day-to-day work. Previously, he has worked on code bases for intelligent hydroponic gardens, connected vehicles, and audio synthesizers. He can be found at meet ups in the Boston area, or organizing his meetup Learn Swift Boston.",
+  "twitter": "https://twitter.com/__chefski__",
+  "website": "https://github.com/seanrolszewski/muter"
 }

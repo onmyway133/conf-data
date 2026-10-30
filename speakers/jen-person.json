@@ -1,3 +1,7 @@
 {
-  "name": "Jen Person"
+  "name": "Jen Person",
+  "role": "Developer Advocate for Firebase",
+  "bio": "Jen is a Developer Advocate for Firebase at Google. She loves building iOS apps with Swift and planning the ideal data structures for various apps using Cloud Firestore. Jen is currently co-starring with JavaScript in a buddy cop comedy where the two don't see eye to eye but are forced to work together, eventually forming a strong loving bond through a series of hilarious misadventures.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2018/speakers/jen.jpg",
+  "twitter": "https://twitter.com/ThatJenPerson"
 }

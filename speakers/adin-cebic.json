@@ -1,3 +1,7 @@
 {
-  "name": "Adin Ćebić"
+  "name": "Adin Ćebić",
+  "role": "Lead iOS developer @ Klika",
+  "bio": "Adin is an iOS developer who built a number of iOS and macOS apps since the introduction of Swift. Most notably, he built a video player for the mac that reads subtitles for those who are visually impaired or suffer from dysleksia. Also, Adin is lead iOS developer at Klika, an amazing company based in Sarajevo.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2020/adin.jpg",
+  "twitter": "https://twitter.com/adincebic"
 }

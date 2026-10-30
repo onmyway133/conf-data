@@ -1,3 +1,8 @@
 {
-  "name": "Mayuko Inoue"
+  "name": "Mayuko Inoue",
+  "role": "iOS Engineer and YouTuber",
+  "bio": "Mayuko is an iOS Engineer and the founder of helloMayuko, a youtube channel with over 200,000 subscribers aimed at helping make the tech industry feel more accessible to those trying to enter. She creates vlog-style videos about software development and other topics to demystify the life and career path of a Software Engineer. She is passionate about the creating products that help people, the creative arts, and boppin music.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2019/speakers/mayuko_inoue.jpg",
+  "twitter": "https://twitter.com/hellomayuko",
+  "website": "https://www.youtube.com/helloMayuko"
 }

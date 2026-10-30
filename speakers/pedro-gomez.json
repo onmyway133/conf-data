@@ -1,3 +1,7 @@
 {
-  "name": "Pedro Gómez"
+  "name": "Pedro Gómez",
+  "role": "GoodNotes",
+  "bio": "Pedro is a developer focused on new technologies, open-source, clean code, and testing. Right now he's working as a Senior Software Engineer at GoodNotes. Karumi, Tuenti, and Droiders alumni! After more than 10 years of developing software, he tries to write the best possible code every day to build excellent tech products.",
+  "photoUrl": "https://2022.nsspain.com/images/speakers/pedro.jpg",
+  "twitter": "https://twitter.com/pedro_g_s"
 }

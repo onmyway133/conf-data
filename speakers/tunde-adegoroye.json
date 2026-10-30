@@ -1,3 +1,8 @@
 {
-  "name": "Tunde Adegoroye"
+  "name": "Tunde Adegoroye",
+  "role": "Bally's Corporation",
+  "bio": "SwiftUI and all things related to iOS development on YouTube @tundsdev",
+  "photoUrl": "https://2023.iosconf.sg/images/speakers/tunde.jpg",
+  "twitter": "https://twitter.com/tundsdev",
+  "website": "https://ballys.com"
 }

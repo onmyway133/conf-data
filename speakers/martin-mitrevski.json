@@ -1,3 +1,9 @@
 {
-  "name": "Martin Mitrevski"
+  "name": "Martin Mitrevski",
+  "role": "Stream",
+  "bio": "Martin is leading the iOS team at Stream. He has over 10 years of experience, working on apps and sdks in digital payments, chats, healthcare, transport, augmented reality, conversational interfaces, insurance etc.",
+  "photoUrl": "https://2023.iosconf.sg/images/speakers/martin.jpg",
+  "twitter": "https://twitter.com/mitrevski",
+  "linkedin": "https://www.linkedin.com/in/martin-mitrevski-01134755/",
+  "website": "https://getstream.io/"
 }

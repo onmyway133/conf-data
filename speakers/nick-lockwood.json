@@ -1,3 +1,8 @@
 {
-  "name": "Nick Lockwood"
+  "name": "Nick Lockwood",
+  "role": "Senior iOS engineer @ Bloomberg",
+  "bio": "Nick is a Software Engineer at Schibsted Product and Technology. He has opensourced a lot of popular iOS libraries like iCarousel, FXForms, Layout to name few. He is also the autor of iOS Core Animation: Advanced Techniques",
+  "photoUrl": "https://2024.pragmaconference.com/images/v/nick_lockwood-454.jpeg",
+  "twitter": "https://twitter.com/nicklockwood",
+  "website": "https://www.charcoaldesign.co.uk/"
 }

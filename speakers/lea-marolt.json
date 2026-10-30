@@ -1,3 +1,7 @@
 {
-  "name": "Lea Marolt"
+  "name": "Lea Marolt",
+  "role": "Raywenderlich.com Contributor",
+  "bio": "Lea spent three years in New York, working on the iOS application for Rent the Runway and teaching Swift at General Assembly. Now, she's getting a masters in Innovation Design Engineering in London, and spends most of her time playing with sensors and microcontrollers. She still Swifts, though, by writing tutorials and creating video courses for raywenderlich.com.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2019/lea.jpg",
+  "twitter": "https://twitter.com/hellosunschein"
 }

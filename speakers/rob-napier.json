@@ -1,3 +1,9 @@
 {
-  "name": "Rob Napier"
+  "name": "Rob Napier",
+  "role": "Audible",
+  "bio": "Rob has been a Cocoa developer since 2003, and began developing for iPhone when the first public SDK came out. Before coming to Cocoa, he made his living sneaking into Chinese facilities in broad daylight, among other InfoSec risk assessment duties. He's given dozens of talks internationally on software development, information security, and cryptography. Today he's a senior developer for Audible's iOS team.",
+  "photoUrl": "https://2022.nsspain.com/images/speakers/rob.jpg",
+  "twitter": "https://twitter.com/cocoaphony",
+  "linkedin": "https://www.linkedin.com/in/rnapier/",
+  "website": "http://robnapier.net/"
 }

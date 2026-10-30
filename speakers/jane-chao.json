@@ -1,3 +1,7 @@
 {
-  "name": "Jane Chao"
+  "name": "Jane Chao",
+  "role": "iOS Educator and Content Creator",
+  "bio": "Jane is making coding accessible and engaging for Swift developers, with over 9,000 subscribers on her growing YouTube channel 🎬 ChaoCode.\n\nShe’s currently building Simple LLM, a macOS chatbot designed for iOS enthusiasts, integrating OpenAI and open-source models with advanced Retrieval-Augmented Generation for smarter responses 🤯.\n\nA fan of SwiftUI and experienced in backend development on Google Cloud Platform, Jane’s bilingual tutorials in Chinese are inspiring a new generation of coders to dive into iOS development and tech 💻.",
+  "photoUrl": "https://ik.imagekit.io/iosconfsg/volunteers/jane.png?updatedAt=1706187774798",
+  "twitter": "https://x.com/janechao_dev"
 }

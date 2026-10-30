@@ -1,3 +1,7 @@
 {
-  "name": "Harlan Haskins"
+  "name": "Harlan Haskins",
+  "role": "LLVMSwift Founder, Swift Contributor",
+  "bio": "Harlan is a student at Rochester Institute of Technology. He founded LLVMSwift, an organization that aims to provide Swift engineers with compiler-oriented tools. He has spent the past two summers at Apple working on Swift, and plans to return full time on the Swift compiler team.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/sanjose2018/harlan.jpg",
+  "twitter": "https://twitter.com/harlanhaskins"
 }

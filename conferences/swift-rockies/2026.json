@@ -13,66 +13,26 @@
   ],
   "source": "confs.tech",
   "speakers": [
-    {
-      "speaker": "dave-delong"
-    },
-    {
-      "speaker": "francis-chary"
-    },
-    {
-      "speaker": "mahmood-tahir"
-    },
-    {
-      "speaker": "joannis-orlandos"
-    },
-    {
-      "speaker": "adrian-eves"
-    },
-    {
-      "speaker": "ines-rosales"
-    },
-    {
-      "speaker": "krishna-satya"
-    },
-    {
-      "speaker": "robleh-jama"
-    },
-    {
-      "speaker": "matt-massicotte"
-    },
-    {
-      "speaker": "stewart-lynch"
-    },
-    {
-      "speaker": "danijela-vrzan"
-    },
-    {
-      "speaker": "james-dempsey"
-    },
-    {
-      "speaker": "daniel-steinberg"
-    },
-    {
-      "speaker": "ash-furrow"
-    },
-    {
-      "speaker": "abbey-jackson"
-    },
-    {
-      "speaker": "philippe-casgrain"
-    },
-    {
-      "speaker": "marek-fort"
-    },
-    {
-      "speaker": "mikaela-caron"
-    },
-    {
-      "speaker": "ellen-shapiro"
-    },
-    {
-      "speaker": "charlie-chapman"
-    }
+    "dave-delong",
+    "francis-chary",
+    "mahmood-tahir",
+    "joannis-orlandos",
+    "adrian-eves",
+    "ines-rosales",
+    "krishna-satya",
+    "robleh-jama",
+    "matt-massicotte",
+    "stewart-lynch",
+    "danijela-vrzan",
+    "james-dempsey",
+    "daniel-steinberg",
+    "ash-furrow",
+    "abbey-jackson",
+    "philippe-casgrain",
+    "marek-fort",
+    "mikaela-caron",
+    "ellen-shapiro",
+    "charlie-chapman"
   ],
   "talks": [
     {

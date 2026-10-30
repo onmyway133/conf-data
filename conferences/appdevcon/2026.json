@@ -16,219 +16,73 @@
   "mastodon": "https://mastodon.social/@appdevcon",
   "source": "confs.tech",
   "speakers": [
-    {
-      "speaker": "jeff-watkins",
-      "role": "Engineering Manager, Mentor, and Coach at Thoughtful Apes"
-    },
-    {
-      "speaker": "daniel-steinberg",
-      "role": "Storyteller at Dim Sum Thinking"
-    },
-    {
-      "speaker": "mathijs-kadijk",
-      "role": "Indie Developer at Nonstrict B.V."
-    },
-    {
-      "speaker": "michael-gerasymenko",
-      "role": "Mobile Engineer at ElevenLabs, Berlin at ElevenLabs"
-    },
-    {
-      "speaker": "tom-lokhorst",
-      "role": "Indie Developer at Nonstrict B.V."
-    },
-    {
-      "speaker": "lianne-potter",
-      "role": "Award-Winning Digital and Cyber Anthropologist, Cybersecurity Operations and Technology Leader, Podcast Host @ Compromising Positions at Compromising Positions"
-    },
-    {
-      "speaker": "bruno-scheele",
-      "role": "Senior iOS developer and accessibility advocate at Noodlewerk Apps"
-    },
-    {
-      "speaker": "vicky-pirker",
-      "role": "Vicky Pirker UX Consulting - UX strategic consultant at Vicky Pirker UX Consulting"
-    },
-    {
-      "speaker": "elvira-leveque",
-      "role": "Mobile developer at ING"
-    },
-    {
-      "speaker": "richard-chirino",
-      "role": "Senior iOS Developer / AI Implementation Advisor at Dawn Technology"
-    },
-    {
-      "speaker": "sarp-remzi-aksu",
-      "role": "MSc. Student @ Mersin University at Mersin University"
-    },
-    {
-      "speaker": "angga-dwi-arifandi",
-      "role": "Mobile Engineer @ ING | Google Developer Expert Flutter - Indonesia at ING"
-    },
-    {
-      "speaker": "muralidharan-kathiresan"
-    },
-    {
-      "speaker": "gerard-van-engelen"
-    },
-    {
-      "speaker": "maartje-keulen"
-    },
-    {
-      "speaker": "henning-schwentner"
-    },
-    {
-      "speaker": "sam-morrow"
-    },
-    {
-      "speaker": "bernardus-peters"
-    },
-    {
-      "speaker": "glenn-reyes"
-    },
-    {
-      "speaker": "krasimir-tsonev"
-    },
-    {
-      "speaker": "soumaya-erradi"
-    },
-    {
-      "speaker": "jeroen-keppens"
-    },
-    {
-      "speaker": "marcin-samsonowski"
-    },
-    {
-      "speaker": "tom-colvin"
-    },
-    {
-      "speaker": "simon-painter"
-    },
-    {
-      "speaker": "vadym-pinchuk"
-    },
-    {
-      "speaker": "murat-menzilci"
-    },
-    {
-      "speaker": "dennie-declercq"
-    },
-    {
-      "speaker": "florian-vogtle"
-    },
-    {
-      "speaker": "maxim-malisciuc"
-    },
-    {
-      "speaker": "marius-obert"
-    },
-    {
-      "speaker": "sander-ten-brinke"
-    },
-    {
-      "speaker": "heather-thacker"
-    },
-    {
-      "speaker": "wim-godden"
-    },
-    {
-      "speaker": "stefan-sinca"
-    },
-    {
-      "speaker": "balazs-gerlei"
-    },
-    {
-      "speaker": "josu-vergara-lecue"
-    },
-    {
-      "speaker": "ievgen-umanets"
-    },
-    {
-      "speaker": "klaudia-kozaroczy"
-    },
-    {
-      "speaker": "julien-salvi"
-    },
-    {
-      "speaker": "chrystian-vieyra-cortes"
-    },
-    {
-      "speaker": "jan-seredynski"
-    },
-    {
-      "speaker": "sebastian-hagedorn"
-    },
-    {
-      "speaker": "dan-wood"
-    },
-    {
-      "speaker": "itay-brenner"
-    },
-    {
-      "speaker": "jeroen-leenarts"
-    },
-    {
-      "speaker": "antoine-van-der-lee"
-    },
-    {
-      "speaker": "jason-viljoen"
-    },
-    {
-      "speaker": "peter-van-vliet"
-    },
-    {
-      "speaker": "pieter-jordaan"
-    },
-    {
-      "speaker": "jessica-smith"
-    },
-    {
-      "speaker": "mike-lehan"
-    },
-    {
-      "speaker": "susanne-bach-ladefoged-hou"
-    },
-    {
-      "speaker": "thomas-kunneth"
-    },
-    {
-      "speaker": "iulia-stana"
-    },
-    {
-      "speaker": "andrea-della-porta"
-    },
-    {
-      "speaker": "pierluigi-cifani"
-    },
-    {
-      "speaker": "joannis-orlandos"
-    },
-    {
-      "speaker": "bert-lobbezoo"
-    },
-    {
-      "speaker": "serges-goma"
-    },
-    {
-      "speaker": "melinda-seckington"
-    },
-    {
-      "speaker": "stefan-koopmanschap"
-    },
-    {
-      "speaker": "helvira-goma"
-    },
-    {
-      "speaker": "johan-janssens"
-    },
-    {
-      "speaker": "frank-prins"
-    },
-    {
-      "speaker": "matthias-zieger"
-    },
-    {
-      "speaker": "tamas-bazsonyi"
-    }
+    "jeff-watkins",
+    "daniel-steinberg",
+    "mathijs-kadijk",
+    "michael-gerasymenko",
+    "tom-lokhorst",
+    "lianne-potter",
+    "bruno-scheele",
+    "vicky-pirker",
+    "elvira-leveque",
+    "richard-chirino",
+    "sarp-remzi-aksu",
+    "angga-dwi-arifandi",
+    "muralidharan-kathiresan",
+    "gerard-van-engelen",
+    "maartje-keulen",
+    "henning-schwentner",
+    "sam-morrow",
+    "bernardus-peters",
+    "glenn-reyes",
+    "krasimir-tsonev",
+    "soumaya-erradi",
+    "jeroen-keppens",
+    "marcin-samsonowski",
+    "tom-colvin",
+    "simon-painter",
+    "vadym-pinchuk",
+    "murat-menzilci",
+    "dennie-declercq",
+    "florian-vogtle",
+    "maxim-malisciuc",
+    "marius-obert",
+    "sander-ten-brinke",
+    "heather-thacker",
+    "wim-godden",
+    "stefan-sinca",
+    "balazs-gerlei",
+    "josu-vergara-lecue",
+    "ievgen-umanets",
+    "klaudia-kozaroczy",
+    "julien-salvi",
+    "chrystian-vieyra-cortes",
+    "jan-seredynski",
+    "sebastian-hagedorn",
+    "dan-wood",
+    "itay-brenner",
+    "jeroen-leenarts",
+    "antoine-van-der-lee",
+    "jason-viljoen",
+    "peter-van-vliet",
+    "pieter-jordaan",
+    "jessica-smith",
+    "mike-lehan",
+    "susanne-bach-ladefoged-hou",
+    "thomas-kunneth",
+    "iulia-stana",
+    "andrea-della-porta",
+    "pierluigi-cifani",
+    "joannis-orlandos",
+    "bert-lobbezoo",
+    "serges-goma",
+    "melinda-seckington",
+    "stefan-koopmanschap",
+    "helvira-goma",
+    "johan-janssens",
+    "frank-prins",
+    "matthias-zieger",
+    "tamas-bazsonyi"
   ],
   "talks": [
     {

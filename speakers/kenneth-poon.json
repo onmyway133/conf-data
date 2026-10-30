@@ -1,3 +1,8 @@
 {
-  "name": "Kenneth Poon"
+  "name": "Kenneth Poon",
+  "role": "SPDigital",
+  "bio": "Kenneth works as a Principal Software Engineer at SPDigital. He is passionate about TDD and BDD. He...",
+  "photoUrl": "https://2021.iosconf.sg/speakers/kenneth.jpg",
+  "linkedin": "https://www.linkedin.com/in/kenneth-poon-84217019",
+  "website": "https://www.spdigital.io"
 }

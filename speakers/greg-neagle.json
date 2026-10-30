@@ -1,3 +1,6 @@
 {
-  "name": "Greg Neagle"
+  "name": "Greg Neagle",
+  "role": "Staff Systems Engineer - Walt Disney Animation Studios",
+  "bio": "Greg has been deploying and managing macOS machines for over two decades at Walt Disney Animation Studios, a studio with a long history of family entertainment reaching back to \"Snow White and the Seven Dwarfs\" and forward to our latest film, “Hexed\".\n\nTo make his job easier, Greg has written many macOS management and deployment tools. Some have been released as open source by Disney Animation. Among those are Munki, a software deployment system, and Reposado, a platform-agnostic replacement for Apple's Software Update service. He is also a maintainer of the popular AutoPkg tool. Greg has presented on various aspects of macOS management at conferences in Europe and North America. He is very happy to return to Gothenburg for another exciting conference!",
+  "photoUrl": "https://macsysadmin.se/speakers/files/image-2175.png"
 }

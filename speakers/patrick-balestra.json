@@ -1,3 +1,8 @@
 {
-  "name": "Patrick Balestra"
+  "name": "Patrick Balestra",
+  "role": "Spotify",
+  "bio": "Patrick is a Senior iOS Engineer at Spotify in Stockholm where he works on build systems and develop...",
+  "photoUrl": "https://2021.iosconf.sg/speakers/patrick.jpg",
+  "twitter": "https://www.twitter.com/BalestraPatrick",
+  "website": "https://www.spotify.com"
 }

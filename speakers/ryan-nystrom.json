@@ -1,3 +1,7 @@
 {
-  "name": "Ryan Nystrom"
+  "name": "Ryan Nystrom",
+  "role": "iOS developer at Facebook",
+  "bio": "iOS developer at Facebook. Writer at raywenderlich.com",
+  "photoUrl": "http://2016.iosconf.sg/images/speakers/ryan.png",
+  "twitter": "https://twitter.com/_ryannystrom"
 }

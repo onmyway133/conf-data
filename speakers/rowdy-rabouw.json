@@ -1,3 +1,7 @@
 {
-  "name": "Rowdy Rabouw"
+  "name": "Rowdy Rabouw",
+  "bio": "Rowdy Rabouw is a webdeveloper with over 20 years’ experience in HTML, CSS, JavaScript and PHP. He's been working as a freelancer since 2004 and has been employed by the Dutch insurance company Nationale-Nederlanden since 1992. Currently he is working on various JavaScript and NativeScript projects as Senior Engineer. Rowdy started developing NativeScript apps with Angular in 2016 and running the NativeScript NL website; a curated list of courses, tools and tips to help people code awesome apps with NativeScript. Since 2017 he is a Telerik Developer Expert for NativeScript and spreading his love for {N}.",
+  "photoUrl": "http://2017.mobilization.pl/images/speakers/rowdy-rabouw.jpg",
+  "linkedin": "https://www.linkedin.com/in/rowdyrabouw",
+  "website": "http://double-r.nl"
 }

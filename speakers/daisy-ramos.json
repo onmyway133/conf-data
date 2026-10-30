@@ -1,3 +1,7 @@
 {
-  "name": "Daisy Ramos"
+  "name": "Daisy Ramos",
+  "role": "iOS Developer",
+  "bio": "Daisy is an avid iOS developer and lover of all that is tech. Most recently working on the iOS team at Citi FinTech building data-driven solutions and new features for their consumer banking app. She also actively consults for early stage companies looking to build the next big thing. Daisy holds a B.S in Computer Science from Queens College in NYC, the same college where the try! Swift NYC meetup originated. She now organizes the meetup and hosts a wide variety of technical Swift talks. She can be found on twitter as @daisyr317.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2018/daisy.jpg",
+  "twitter": "https://twitter.com/daisyr317"
 }

@@ -1,3 +1,7 @@
 {
-  "name": "Ian Partridge"
+  "name": "Ian Partridge",
+  "role": "Swift@IBM Lead",
+  "bio": "Ian Partridge is the technical lead of the Swift@IBM development team, working in open source to bring Swift to the cloud. A committer to the core Swift libraries and a developer of Kitura, one of the leading Swift web frameworks, he comes from a background in virtual machine performance and debugging. Ian regularly speaks at conferences including AltConf, iOSCon, dotSwift, SwiftConf and more.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2018/instructors/ian.jpg",
+  "twitter": "https://twitter.com/alfa"
 }

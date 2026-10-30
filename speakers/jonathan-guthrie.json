@@ -1,3 +1,7 @@
 {
-  "name": "Jonathan Guthrie"
+  "name": "Jonathan Guthrie",
+  "role": "Sr. Software Engineer at Perfect.org",
+  "bio": "Jonathan (or Jono) is an experienced software engineer who is building Perfect roadmap features and enhancements and supporting developers who are using Perfect. Jono has been developing server-side applications and API’s using a number of different languages for nearly 20 years. He moved to Canada from New Zealand in 2010 to help architect the next generation of server-side development, and he's now part of the Perfect team bringing Swift to the server. In his spare time he’s a session musician, sound engineer, gamer, and loves writing API’s for all sorts of obscure things.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/bangalore2017/jono.jpg",
+  "twitter": "https://twitter.com/iamjono"
 }

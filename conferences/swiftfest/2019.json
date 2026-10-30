@@ -19,222 +19,37 @@
   "twitter": "https://x.com/theSwiftFest",
   "source": "confs.tech",
   "speakers": [
-    {
-      "speaker": "robert-c-martin",
-      "role": "Owner, Uncle Bob Consulting LLC",
-      "bio": "Robert C. Martin (Uncle Bob) has been a programmer since 1970. He is the Master Craftsman at 8th Light inc, a Chicago based Software Consulting firm. Co-founder of cleancoders.com , offering on-line video training for software developers. And founder of Uncle Bob Consulting LLC, offering software consulting, training, and skill development services to major corporations worldwide. Mr. Martin has published dozens of articles in various trade journals, and is a regular speaker at international conferences and trade shows. He is also the creator of the acclaimed educational video series at cleancoders.com. Mr. Martin has authored and edited many books including: Designing Object Oriented C++ Applications using the Booch Method Patterns Langauages of Program Design 3 More C++ Gems Extreme Programming in Practice Agile Software Development: Principles, Patterns, and Practices. UML for Java Programmers Clean Code The Clean Coder. A leader in the industry of software development, Mr. Martin served three years as the editor-in-chief of the C++ Report, and he served as the first chairman of the Agile Alliance.",
-      "twitter": "https://twitter.com/unclebobmartin",
-      "linkedin": "https://www.linkedin.com/in/robert-martin-7395b0/",
-      "website": "https://cleancoders.com"
-    },
-    {
-      "speaker": "diana-rodriguez",
-      "role": "Chief DevOps Architect, VoiceThread",
-      "bio": "Diana Rodriguez is a Full Stack Developer/DevOps & Google Developer Expert. With 18 years' experience and a strong background in back end and infrastructure, Diana likes to bring together the best of both worlds, spreading DevOps culture. She's super enthusiastic about everything to encourage people to start a career in development and a fan of female devs and DevOps. In her spare time she likes to play videogames, also a huge fan of sports, Diana is a rugby player and taekwondo black belt.",
-      "twitter": "https://twitter.com/cotufa82",
-      "linkedin": "https://linkedin.com/in/nerdattack82",
-      "website": "https://beingadev.rocks"
-    },
-    {
-      "speaker": "ish-shabazz",
-      "role": "iOS Developer, Illuminated Bits",
-      "bio": "Ish has been an independent iOS App Developer since 2010. He works full time as a network engineer and spends practically every moment outside of that developing apps or working on something app-related. His apps have been featured by Apple, Starbucks, App Advice, iMore, and Daring Fireball. Ish’s story was featured in the documentary App: The Human Story. He is currently working on Capsicum, a daily planner and notebook.",
-      "twitter": "https://twitter.com/ishabazz",
-      "linkedin": "https://www.linkedin.com/in/ishmael-shabazz-9651749/"
-    },
-    {
-      "speaker": "sean-olszewski",
-      "role": "Engineering Practice Lead, Pivotal",
-      "bio": "Sean Olszewski is the author of Muter, a mutation testing tool for Swift code. Currently an engineering practice lead at Pivotal, he focuses on the practice of test driven development and the design of effective test suites in his day-to-day work. Previously, he has worked on code bases for intelligent hydroponic gardens, connected vehicles, and audio synthesizers. He can be found at meet ups in the Boston area, or organizing his meetup Learn Swift Boston.",
-      "twitter": "https://twitter.com/__chefski__",
-      "website": "https://github.com/seanrolszewski/muter"
-    },
-    {
-      "speaker": "alicia-carr",
-      "role": "iOS Engineer",
-      "bio": "Alicia is the first woman of color self taught mobile developer to create a domestic violence app Purple Evolution, Inc(PEVO) dedicated to helping victims escape abuse. She used her acquired skills as a developer to make a difference. Alicia also dedicated her time to empowering women in tech with Women Who Code, she has received several major acknowledgment from Apple at WWDC15 and WWDC16 being the first black woman to be in an Apple 2016 new beginnings video and GitHub in there I am a developer video.",
-      "twitter": "https://twitter.com/Fineblkwoman"
-    },
-    {
-      "speaker": "rob-napier",
-      "role": "Jaybird",
-      "bio": "Rob is co-author of iOS Programming Pushing the Limits, and maintainer of the RNCryptor encryption format. Before coming to Cocoa, he made his living sneaking into Chinese facilities in broad daylight. Today, he shapes music over Bluetooth for Logitech, explores old ideas in new languages, and tries to figure out how all of this applies to Swift.",
-      "twitter": "https://twitter.com/cocoaphony",
-      "linkedin": "https://www.linkedin.com/in/rnapier/",
-      "website": "http://robnapier.net/"
-    },
-    {
-      "speaker": "lou-franco",
-      "role": "Trello",
-      "bio": "Lou Franco is on the Trello iOS Team at Atlassian and is a contributor to Smashing Magazine. In his spare time, he runs, volunteers as a Big Brother, and writes about iOS on App-o-Mat. He lives with his wife in Northampton, MA.",
-      "twitter": "https://twitter.com/loufranco",
-      "website": "https://app-o-mat.com/"
-    },
-    {
-      "speaker": "miriam-friedel",
-      "role": "Head of Data Science, Skafos.ai",
-      "bio": "Dr. Miriam Friedel has spent over fifteen years in scientific and technical fields spanning theoretical physics, software engineering, transportation, neuroscience, and machine learning. She currently leads the data science team at Skafos, a start up in Charlottesville, VA. Skafos.ai is the ML platform for iOS developers, offering push-button deployment to the edge. Prior to her current role, Miriam was a Director and Senior Scientist at Elder Research, where she lead the commercial business unit and helped clients in a range of industries achieve ROI from machine learning. Her unique background helps her bridge the gap from technical details to strategic insights, increasing collaboration across disparate functional teams. Miriam received her ScB in physics from Brown University and her PhD in Physics from the University of California, Santa Barbara. She is a co-author on over fifteen peer reviewed articles, and outside of work, spends as much time as possible practicing yoga and being with her two daughters.",
-      "linkedin": "https://www.linkedin.com/in/miriam-friedel-aa2b0611/",
-      "website": "https://skafos.ai"
-    },
-    {
-      "speaker": "neem-serra",
-      "role": "Slalom",
-      "bio": "Neem Serra is a mobile developer at Slalom in St. Louis. She teaches and mentors at a variety of non-profit organizations such as Software Carpentry. As the lead of the Google Women Techmakers group in St. Louis, she started the St. Louis Techies Project to highlight the diversity of technical people in St. Louis. Neem loves to bake, read comics, and host craft nights.",
-      "twitter": "https://twitter.com/TeamNeem"
-    },
-    {
-      "speaker": "todd-burner",
-      "role": "Google",
-      "bio": "Todd Burner is a Developer Advocate on the Firebase team. He previously worked on other teams in Google Cloud Platform, at Twitter, and a few mobile-first startups. He spends his time helping developers get up and running with open source and Google projects on GitHub and Stack Overflow, as well as meeting developers in person across the world.",
-      "twitter": "https://twitter.com/toddlovesthis",
-      "website": "https://github.com/tkburner"
-    },
-    {
-      "speaker": "meng-to",
-      "role": "Founder, Design+Code",
-      "bio": "Meng To is the author of Design+Code. Meng started off his career as a self-taught designer from Montreal and eventually traveled around the world for 2 years as his US VISA was denied. During his travels, he wrote a book which now has 40,000 readers. Today, he focuses on helping designers and developers master design and coding via design-focused video tutorials, articles, talks, and workshops.",
-      "twitter": "https://twitter.com/mengto",
-      "linkedin": "https://www.linkedin.com/in/mengto/",
-      "website": "https://designcode.io/"
-    },
-    {
-      "speaker": "daniel-steinberg",
-      "role": "Storyteller, Dim Sum Thinking",
-      "bio": "Daniel presents iPhone, Cocoa, and Swift training and consults through his company Dim Sum Thinking. He has written apps for the iPhone and the iPad since the SDKs first appeared and has written programs for the Mac all the way back to System 7. You can also find his best-selling books “A Swift Kickstart” and “Dear Elena” on the Editors Cut website. When he's not coding or talking about coding for the Mac, the iPhone, and the iPad he's probably cooking or hanging out with friends.",
-      "twitter": "http://twitter.com/dimsumthinking",
-      "website": "http://dimsumthinking.com/"
-    },
-    {
-      "speaker": "jeff-kelley",
-      "role": "Detroit Labs",
-      "bio": "Jeff Kelley is a developer at Detroit Labs, where he builds apps in Swift but still has a soft spot for Objective-C. Author of Developing Apps for Apple Watch and Learn Cocoa Touch for iOS, he’s been working with iOS since its infancy in 2008. Jeff is passionate about building usable apps, the open-source community around Apple platforms, and will talk your ear off about electric cars and clean energy. Jeff loves raising his two kids and two dogs, Detroit, and organizing the Motor City CocoaHeads group.",
-      "twitter": "https://twitter.com/slaunchaman"
-    },
-    {
-      "speaker": "kaitlin-mahar",
-      "role": "Software Engineer, MongoDB",
-      "bio": "Kaitlin is a software engineer living in NYC. She works at MongoDB, where she leads development of the official MongoDB driver for Swift. Outside of work she enjoys doing crossword puzzles, playing with her cats, and trying all of the amazing food and drinks NYC has to offer.",
-      "twitter": "https://twitter.com/k__mahar",
-      "linkedin": "https://www.linkedin.com/in/kaitlinmahar/",
-      "website": "https://kaitlin.dev/"
-    },
-    {
-      "speaker": "jason-zurita",
-      "role": "iOS Software Engineer, Warby Parker",
-      "bio": "Jason Zurita is a self-taught software engineer working on internal and external iOS apps at Warby Parker. Having begun his career as an Electrical Engineer, he understands the challenge in changing careers, which is what drives him to try and give back to the tech community (contributing to open source, teaching, blogging, giving talks, etc.). He enjoys learning different tech stacks and how they can be put together to create new and interesting projects, the Swift language, tinkering with electronic projects, and going for a walk with his wife, son, and dog.",
-      "twitter": "https://twitter.com/jasonalexzurita",
-      "linkedin": "http://linkedin.com/in/jasonzurita",
-      "website": "https://jasonzurita.com/blog"
-    },
-    {
-      "speaker": "leena-mansour",
-      "role": "Engineering Manager, PagerDuty",
-      "bio": "Leena has been building iOS apps for 8 years and is now an Engineering Manager at Pagerduty where she does a lot more talking than development. She's passionate about inclusion, accessibility and helping people grow. When she's not at work, she's probably playing Call of Duty, playing dodgeball or playing with her dogs.",
-      "twitter": "https://twitter.com/_LeenaM",
-      "website": "https://github.com/LeenaMansour"
-    },
-    {
-      "speaker": "namrata-bandekar",
-      "role": "iOS Software Engineer, Ray Wenderlich",
-      "bio": "Namrata has been building mobile apps for seven years. She is a member of the Ray Wenderlich Tutorial Team and the co-author of ARKit by Tutorials. Apart from making apps, she is passionate about travelling, scuba diving and hiking with her dog.",
-      "twitter": "https://twitter.com/namratacodes",
-      "linkedin": "https://www.linkedin.com/in/namratabandekar/",
-      "website": "https://github.com/namratabandekar"
-    },
-    {
-      "speaker": "cavelle-benjamin",
-      "role": "Director, Technical Risk, GE",
-      "bio": "Lover of technology. Busy bee at a large company. Husband . Father. Coder. Engineer by degree, but learned to code while in undergrad. Leveraged coding to get my job done in almost all of my roles Released first iOS app in 2012 (Babble Ball, sold it) Active in open source (command-line utilities, APIs) Currently working on more iOS apps.",
-      "twitter": "https://twitter.com/_thecb4",
-      "linkedin": "https://www.linkedin.com/in/cavellebenjamin/",
-      "website": "https://thecb4.io"
-    },
-    {
-      "speaker": "thomas-yoon",
-      "role": "iOS Engineer, Tinder",
-      "bio": "Thomas has worked as an iOS Engineer at Tinder past 3 years. His recent projects include SuperBoost and upgrading Tinder Gold experiences. He is a core member of Tinder's revenue team that achieved top grossing app in the app store, driving millions of dollars each month. Previously, he has worked on Tinder Places with many location tracking technologies and beautiful animations, introduced Tinder Feed, revamped chat experience, and incorporated Spotify to Tinder profiles. He is passionate about creating the most aesthetically pleasing user experiences and building tools for the team members.",
-      "linkedin": "https://www.linkedin.com/in/thomasyoonsw/"
-    },
-    {
-      "speaker": "sam-marshall",
-      "role": "Senior iOS Engineer, Tinder",
-      "bio": "Sam has over 6 years experience as a professional iOS software developer and has been working at Tinder for 2 years. He is passionate about all things Swift, iOS and writing clean code. Sam co-founded the app Rapchat straight out of college and was the Lead Developer on the project. The app achieved viral success that resulted in over 400,000 downloads in a period of only a few months with no funding whatsoever. Since Rapchat, Sam worked on a 3 man iOS team at Whisper, an app that boasted over 30 million active users. During his time at Tinder, he's been the sole developer responsible for ads on the iOS platform. Driving millions of dollars in revenue each month.",
-      "linkedin": "https://www.linkedin.com/in/sam-marshall-1312a8139/"
-    },
-    {
-      "speaker": "nelida-velazquez",
-      "role": "Senior iOS Engineer, Detroit Labs",
-      "bio": "Nelida Velazquez is an Application developer at Detroit Labs who has a passion for tacos and reading code. She’s been a mobile developer for over 10 years, working with major brands both in the United States and in her home country of Mexico. When not coding, she likes to travel and attend conferences around the world.",
-      "twitter": "https://www.twitter.com/tolkiana",
-      "linkedin": "https://www.linkedin.com/in/nelida-velazquez-56967014/"
-    },
-    {
-      "speaker": "jackson-mackenzie",
-      "role": "Analyst, Akamai Technologies",
-      "bio": "Jackson MacKenzie is an analyst at Akamai and author with Penguin Random House. With half a million followers on social media, his books have sold hundreds of thousands of copies worldwide in thirteen languages. He is passionate about exploring human psychology and releasing the things that hold us back.",
-      "linkedin": "https://www.linkedin.com/in/jackson-mackenzie-602532166/"
-    },
-    {
-      "speaker": "dani-devesa",
-      "role": "Mobile Software Engineer, Skyscanner",
-      "bio": "I am an iOS developer since I had the chance to, when I had to choose the topic for my Master’s Thesis. I enjoyed the experience so much that that’s what I've been doing for a living ever since. It's been more than seven years now and I am lucky I've been able to learn from a great variety of experiences including working for the BBC helping to build the News and BBC+ apps. Now I am having a great time as a Mobile Software Engineer at Skyscanner, helping millions of users to plan and book their trips with their iOS devices.",
-      "twitter": "https://www.twitter.com/dadederk"
-    },
-    {
-      "speaker": "calvin-chestnut",
-      "role": "Senior iOS Engineer, WeedMaps",
-      "bio": "Calvin is an Apple enthusiast turned engineer who has been developing iOS apps in the Boston area for five years. After his college start-up was acquired he launched Drink Keeper, a HealthKit app for calculating Blood Alcohol Content. Today he is a Senior Software Engineer with WeedMaps, manages a Vapor and Swift backed server stack, and hosts the CastKit podcast on iOS Development and related tech topics. When not developing he can be found skateboarding to a meetup around Boston, playing Dungeons & Dragons with his college friends, or watching scary movies with his wife and cat at their home in Salem.",
-      "twitter": "https://www.twitter.com/iCalvin"
-    },
-    {
-      "speaker": "marc-prud-hommeaux",
-      "role": "Principal Developer, Glimpse I/O",
-      "bio": "Marc Prud'hommeaux is the founder and principal developer at Glimpse I/O, which makes database and data visualization apps for the Mac, iPhone, and iPad. He has been a professional software developer for over two decades and has been developing for iOS since 2008, when he released the first ebook reader \"Stanza\" on the opening day of the Apple App Store. Since then, Marc has worked on various world-class apps such as Amazon Kindle and New York Times Cooking, as well as his own line of macOS and iOS apps. In his spare time he enjoys teaching his daughter Beatrix to fly small airplanes.",
-      "linkedin": "https://www.linkedin.com/in/marcprux/"
-    },
-    {
-      "speaker": "kamil-borzym",
-      "role": "Senior Software Engineer, Allegro.pl",
-      "bio": "Kamil is an iOS software developer. He has been into mobile development long before iOS (can you remember Java ME?). Now he is working at Allegro - the biggest e-commerce company in his home country (Poland). Kamil is very curious of how things work internally, so he likes to decompile frameworks and apps. Currently he is planing to decompile an engine of his mx5.",
-      "twitter": "https://www.twitter.com/kam800",
-      "linkedin": "https://www.linkedin.com/in/kamil-borzym-03763473/"
-    },
-    {
-      "speaker": "kathleen-chung",
-      "role": "iOS Engineer, MetaLab",
-      "bio": "I'm an iOS engineer based in Toronto, building beautiful interfaces working remotely for MetaLab. I have a special interest in developing effective teams through improving process and building relationships. Outside of workf32, I'm usually consuming cooking- and cosmetics-related content, or climbing (mostly) plastic rocks.",
-      "twitter": "https://www.twitter.com/kathleenchung",
-      "linkedin": "https://www.linkedin.com/in/kathleen-chung/"
-    },
-    {
-      "speaker": "arnaud-lucas",
-      "role": "Engineering Director, Wayfair",
-      "bio": "Arnaud Lucas is an engineering director at Wayfair. He received his MS in computer science from Université de Technologie de Compiègne in France. After graduating from university and completing his mandatory military service, he lived in Houston, TX working for early startups in web security and e-commerce. He then moved to Boston twelve years ago. With 20 years of software development experience, Arnaud now focuses on scaling the native app organization and two new initiatives at Wayfair: Design Services and Home Services. He is also helping create the first physical permanent store of Wayfair. All of them are amazing challenges that he enjoys working on every day. Wayfair is the largest online home retailer in the US, growing at over 40% YoY, and its native app usage is growing even faster. When not working, he likes traveling with his two kids, gardening, and making beer (currently a Barley Wine.) Arnaud is always looking for strong Software Engineers and Leaders that can partner with him in scaling up his engineering teams, web, iOS and Android.",
-      "linkedin": "https://www.linkedin.com/in/lucasarn/"
-    },
-    {
-      "speaker": "soojin-ro",
-      "role": "iOS developer, WEBTOON",
-      "bio": "Soojin is an iOS developer based in South Korea, building a comics app WEBTOON for 55M+ global users. He is passionate about Swift and ARKit, and believes AR glasses will one day replace smartphones. Once a business major in university, he learned to code in his spare time, and the first iOS app he crafted was awarded Best of 2015, 2016, and 2017(Yes, three years in a row!) Top Paid Apps in South Korea. He writes about Swift, programming, and mobile apps in his Korean blog.",
-      "twitter": "https://www.twitter.com/soojinro/",
-      "linkedin": "https://www.linkedin.com/in/soojinro/",
-      "website": "https://soojin.ro/about"
-    },
-    {
-      "speaker": "michael-helmbrecht",
-      "role": "Lead Designer, Archipelago Analytics",
-      "bio": "Michael is a designer/engineer who enjoys bringing ideas to life & solving any kind of puzzle. He works at Archipelago, designing insurance software. He had a great time at SwiftFest 2018! He never recycles a joke.",
-      "twitter": "https://twitter.com/mrh_is",
-      "linkedin": "https://www.linkedin.com/in/michaelhelmbrecht/"
-    },
-    {
-      "speaker": "ian-thomas",
-      "role": "Lead Developer, WeCroak",
-      "bio": "Ian Thomas is the developer of the WeCroak app, a mindfulness product that was covered in the Atlantic and New York Times and reached a peak rating of #1 in Health and Fitness apps. He co-founded his first app startup in 2009 and created one of the first 3000 iPad apps. Working in the mobile health sector since 2010, his flagship healthcare app, FH Diagnosis, was acquired in 2017. He works on the iOS team at Visva, a social media company in Cupertino CA. He has a BA in Political Science from Middlebury College and a Master’s in Innovation Management and Entrepreneurship from Brown University.",
-      "twitter": "https://twitter.com/iangthomas",
-      "linkedin": "https://www.linkedin.com/in/iangthomas/"
-    }
+    "robert-c-martin",
+    "diana-rodriguez",
+    "ish-shabazz",
+    "sean-olszewski",
+    "alicia-carr",
+    "rob-napier",
+    "lou-franco",
+    "miriam-friedel",
+    "neem-serra",
+    "todd-burner",
+    "meng-to",
+    "daniel-steinberg",
+    "jeff-kelley",
+    "kaitlin-mahar",
+    "jason-zurita",
+    "leena-mansour",
+    "namrata-bandekar",
+    "cavelle-benjamin",
+    "thomas-yoon",
+    "sam-marshall",
+    "nelida-velazquez",
+    "jackson-mackenzie",
+    "dani-devesa",
+    "calvin-chestnut",
+    "marc-prud-hommeaux",
+    "kamil-borzym",
+    "kathleen-chung",
+    "arnaud-lucas",
+    "soojin-ro",
+    "michael-helmbrecht",
+    "ian-thomas"
   ],
   "talks": [
     {

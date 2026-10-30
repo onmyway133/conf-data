@@ -1,3 +1,9 @@
 {
-  "name": "Natalia Panferova"
+  "name": "Natalia Panferova",
+  "role": "iOS Developer, Tech Blogger, Book Author",
+  "bio": "Natalia has been working in tech for over ten years, and most of her career has been dedicated to iOS development. She’s worked in both small startups and large companies, and now she’s focusing on her own projects at Nil Coalescing, a company she founded with her partner back in 2022. Right before that, she was part of the SwiftUI team at Apple, designing and building SwiftUI APIs.\n\nShe’s very passionate about creating apps for Apple platforms and sharing her knowledge through her blog and books for Swift and SwiftUI developers. She lives in the South Island of New Zealand, and when she’s not coding or writing, she loves going on nature walks with her partner and their two dogs.",
+  "photoUrl": "https://tryswift.jp/images/from_app/2026_NataliaPanferova.png",
+  "twitter": "https://x.com/natpanferova",
+  "linkedin": "https://www.linkedin.com/in/nataliapanferova",
+  "website": "https://nilcoalescing.com"
 }

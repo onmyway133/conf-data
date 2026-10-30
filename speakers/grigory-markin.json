@@ -1,3 +1,8 @@
 {
-  "name": "Grigory Markin"
+  "name": "Grigory Markin",
+  "role": "CTO @ SCADE Inc.",
+  "bio": "I am Grigory Markin, a computer scientist, software engineer, and co-founder of SCADE, a pioneering platform for native app development with Swift for iOS and Android. As the CTO and co-founder of SCADE, I have dedicated over a decade to developing the platform since its inception. Since the release of Swift 2.0, our primary focus has been on bringing all the language's features to Android. Our main goal is to make native app development using Swift for both iOS and Android as seamless as possible.",
+  "photoUrl": "https://2023.pragmaconference.com/assets/speakers/grigory_marki.jpeg",
+  "linkedin": "https://www.linkedin.com/in/grigory-markin-1962b531/",
+  "website": "https://github.com/gr-markin"
 }

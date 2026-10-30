@@ -1,3 +1,7 @@
 {
-  "name": "Chris Bailey"
+  "name": "Chris Bailey",
+  "role": "Runtime Technologies @ IBM",
+  "bio": "Chris Bailey is a developer and technical leader in the Runtime Technologies team at IBM. Chris has spent over 15 years working on open source runtimes including Java, Node.js and Swift. Chris is a contributor and committor to the Swift Language, Foundation and Dispatch projects, and is on steering committee for the Swift Server APIs project aimed at making new networking, security and HTTP APIs available to the community. He is also the Chief Architect for the Swift@IBM, providing the open source Kitura server framework.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/bangalore2017/chris.jpg",
+  "twitter": "https://twitter.com/Chris__Bailey"
 }

@@ -18,121 +18,29 @@
   },
   "source": "cocoaconferences",
   "speakers": [
-    {
-      "speaker": "daniel-steinberg",
-      "role": "Author, Speaker and Trainer @ Dim Sum Thinking",
-      "photoUrl": "https://www.serversideswift.info/App/Images/speakers/daniel-steinberg.png"
-    },
-    {
-      "speaker": "matt-massicotte",
-      "role": "Apple Platforms Developer",
-      "photoUrl": "https://www.serversideswift.info/App/Images/speakers/matt-massicotte.jpg"
-    },
-    {
-      "speaker": "frank-lefebvre",
-      "role": "Trainer",
-      "photoUrl": "https://www.serversideswift.info/App/Images/speakers/frank-lefebvre.jpg"
-    },
-    {
-      "speaker": "agam-dua",
-      "role": "Technical Lead on the Swift Server Ecosystem & Education team @ Apple",
-      "photoUrl": "https://www.serversideswift.info/App/Images/speakers/agam-dua.png"
-    },
-    {
-      "speaker": "emma-gaubert",
-      "role": "iOS Developer @ Decathlon",
-      "photoUrl": "https://www.serversideswift.info/App/Images/speakers/emma-gaubert.jpg"
-    },
-    {
-      "speaker": "joannis-orlandos",
-      "role": "OpenSource Developer",
-      "photoUrl": "https://www.serversideswift.info/App/Images/speakers/joannis-orlandos.jpg"
-    },
-    {
-      "speaker": "honza-dvorsky",
-      "role": "Engineer on the Swift Server Ecosystem team @ Apple",
-      "photoUrl": "https://www.serversideswift.info/App/Images/speakers/honza-dvorsky.jpg"
-    },
-    {
-      "speaker": "george-barnett",
-      "role": "Software Engineer @ Apple",
-      "photoUrl": "https://www.serversideswift.info/App/Images/speakers/george-barnett.jpg"
-    },
-    {
-      "speaker": "moritz-lang",
-      "role": "Senior iOS Engineer @ Blinkist",
-      "photoUrl": "https://www.serversideswift.info/App/Images/speakers/moritz-lang.jpg"
-    },
-    {
-      "speaker": "adam-fowler",
-      "role": "Open Source Developer",
-      "photoUrl": "https://www.serversideswift.info/App/Images/speakers/adam-fowler.jpg"
-    },
-    {
-      "speaker": "ben-rosen",
-      "role": "Founder @ SongShift",
-      "photoUrl": "https://www.serversideswift.info/App/Images/speakers/ben-rosen.jpg"
-    },
-    {
-      "speaker": "mona-dierickx",
-      "role": "Applied Informatics graduate",
-      "photoUrl": "https://www.serversideswift.info/App/Images/speakers/mona-dierickx.jpg"
-    },
-    {
-      "speaker": "georg-tuparev",
-      "role": "Founder @ Tuparev Software",
-      "photoUrl": "https://www.serversideswift.info/App/Images/speakers/georg-tuparev.jpg"
-    },
-    {
-      "speaker": "oliver-binns",
-      "role": "Software Engineer @ Deloitte LLC",
-      "photoUrl": "https://www.serversideswift.info/App/Images/speakers/oliver-binns.jpg"
-    },
-    {
-      "speaker": "franz-busch",
-      "role": "Software Engineer @ Apple",
-      "photoUrl": "https://www.serversideswift.info/App/Images/speakers/franz-busch.jpg"
-    },
-    {
-      "speaker": "mads-odgaard",
-      "role": "Software Engineer",
-      "photoUrl": "https://www.serversideswift.info/App/Images/speakers/mads-odgaard.jpg"
-    },
-    {
-      "speaker": "eric-ernst",
-      "role": "Software Engineering Leader @ Apple",
-      "photoUrl": "https://www.serversideswift.info/App/Images/speakers/eric-ernst.png"
-    },
-    {
-      "speaker": "eric-bariaux",
-      "role": "Software Engineer @ Nelcea",
-      "photoUrl": "https://www.serversideswift.info/App/Images/speakers/eric-bariaux.png"
-    },
-    {
-      "speaker": "mikaela-caron",
-      "role": "Independent iOS Engineer @ Icy App Studio LLC",
-      "photoUrl": "https://www.serversideswift.info/App/Images/speakers/mikaela-caron.jpg"
-    },
-    {
-      "speaker": "daniel-jilg",
-      "role": "CTO @ TelemetryDeck",
-      "photoUrl": "https://www.serversideswift.info/App/Images/speakers/daniel-jilg.jpg"
-    },
-    {
-      "speaker": "si-beaumont",
-      "role": "Software Engineer @ Apple",
-      "photoUrl": "https://www.serversideswift.info/App/Images/speakers/si-beaumont.png"
-    },
-    {
-      "speaker": "simon-pilkington",
-      "role": "Principle Engineer @ Atlassian",
-      "photoUrl": "https://www.serversideswift.info/App/Images/speakers/simon-pilkington.jpg"
-    },
-    {
-      "speaker": "ben-cohen",
-      "role": "Manager @ Swift Core Team",
-      "photoUrl": "https://www.serversideswift.info/App/Images/speakers/ben-cohen.jpg"
-    }
+    "daniel-steinberg",
+    "matt-massicotte",
+    "frank-lefebvre",
+    "agam-dua",
+    "emma-gaubert",
+    "joannis-orlandos",
+    "honza-dvorsky",
+    "george-barnett",
+    "moritz-lang",
+    "adam-fowler",
+    "ben-rosen",
+    "mona-dierickx",
+    "georg-tuparev",
+    "oliver-binns",
+    "franz-busch",
+    "mads-odgaard",
+    "eric-ernst",
+    "eric-bariaux",
+    "mikaela-caron",
+    "daniel-jilg",
+    "si-beaumont",
+    "simon-pilkington",
+    "ben-cohen"
   ],
   "talks": [
     {

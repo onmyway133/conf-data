@@ -1,3 +1,7 @@
 {
-  "name": "Audrey Tam"
+  "name": "Audrey Tam",
+  "role": "Writer for Raywenderlich.com",
+  "bio": "Audrey Tam retired at the end of 2012 from a 25-year career as a computer science academic. Before moving to Australia, she worked on simulation software at IBM's development lab in Silicon Valley. Audrey now teaches short courses in iOS app development to non-programmers and writes/records content for raywenderlich.com.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2018/speakers/audrey.png",
+  "twitter": "https://twitter.com/mataharimau"
 }

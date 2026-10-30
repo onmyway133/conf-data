@@ -1,3 +1,7 @@
 {
-  "name": "Tiago Martinho"
+  "name": "Tiago Martinho",
+  "role": "Developer at ThoughtWorks",
+  "bio": "Tiago Martinho is a Developer at ThoughtWorks in Barcelona - he created Swift Peer Labs in Barcelona. He loves to create apps, mainly for iOS (he already built more than 15 projects). Tiago is currently studying Machine Learning. He started iOS development professionally with Swift 1.0 in 2014.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2018/lt/tiago.jpg",
+  "twitter": "https://twitter.com/martinho_t"
 }

@@ -1,3 +1,6 @@
 {
-  "name": "Rob Amos"
+  "name": "Rob Amos",
+  "role": "ANZ",
+  "bio": "Rob started with Objective-C by trying to write an XMLParserDelegate with manual memory management in 2009. After releasing the first tramTRACKER™ app 6 months later he was hooked on iOS development and is mortified to realise he has now been building iOS apps for 15 years. These days he is a Principal Software Engineer at ANZ and is the iOS Platform Lead for the ANZ Plus app, working on a much more modern app stack with a much larger and more talented team.",
+  "photoUrl": "https://auc.edu.au/media/dw25/ramos.jpg"
 }

@@ -1,3 +1,7 @@
 {
-  "name": "Sam Bellen"
+  "name": "Sam Bellen",
+  "bio": "I'm a front-end developer at madewithlove, a small app development company based in Belgium, but with employees all over the world. For my day to day job I'm in charge of creating challenging user interfaces and make applications nice to work with. After office hours I like to play around with the web-audio API, and other \"exotic\" browser APIs. One of my side projects is a library to add audio effects to an audio input using JavaScript. When I'm not behind a computer, you can find me playing the guitar, having a beer at a concert, or trying to snap the next perfect picture.",
+  "photoUrl": "http://2017.mobilization.pl/images/speakers/sam-bellen.jpg",
+  "twitter": "https://twitter.com/sambego",
+  "website": "https://blog.sambego.be/"
 }

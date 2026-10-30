@@ -1,3 +1,9 @@
 {
-  "name": "Yuki Aki"
+  "name": "Yuki Aki",
+  "role": "Software Engineer at Yappli",
+  "bio": "Yuki is an iOS engineer at LINE Fukuoka. He tries to understand Swift's language specifications better every day to improve his code. He likes to draw cat illustration on his iPad, which he uses to expresses his feelings in everyday life.",
+  "photoUrl": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/5847-400o400o1-7zgTRiX57XEbWSuxwB5Bz9.jpg",
+  "twitter": "https://twitter.com/___freddi___",
+  "linkedin": "https://linkedin.com/in/%F0%9F%8D%A3yuki-aki-9a7279158",
+  "website": "https://yapp.li/"
 }

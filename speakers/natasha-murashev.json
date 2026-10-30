@@ -1,3 +1,7 @@
 {
-  "name": "Natasha Murashev"
+  "name": "Natasha Murashev",
+  "role": "Swift robot. Blogs at natashatherobot.com. Organizer of try! Swift conf",
+  "bio": "Natasha is an iOS developer by day and a robot by night. She organizes the try! Swift Conference around the world (including this one!). She's currently living in India developing AI-based apps for reading Sanskrit texts.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/swiftai/sanjose3.jpg",
+  "twitter": "https://twitter.com/natashatherobot"
 }

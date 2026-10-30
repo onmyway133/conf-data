@@ -19,186 +19,42 @@
   },
   "source": "cocoaconferences",
   "speakers": [
-    {
-      "speaker": "marton-braun",
-      "role": "JetBrains",
-      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/695cc58aedff1ee361b846c0_Ma%CC%81rton%20Braun.png"
-    },
-    {
-      "speaker": "sebastian-aigner",
-      "role": "JetBrains",
-      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/695cc4e0daf14feb3d836d8a_Sebastian%20Aigner.png"
-    },
-    {
-      "speaker": "arkadii-ivanov",
-      "role": "xAI",
-      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/697877eca2a84df0582ab4a9_Arkadii_Ivanov.jpg"
-    },
-    {
-      "speaker": "enrique-lopez-manas",
-      "role": "Snapp Technology",
-      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/69787ea306497598b5ea13dd_Enrique%20Lopez_Manas.jpg"
-    },
-    {
-      "speaker": "daco-harkes",
-      "role": "Google",
-      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/69ccee9b4fe2acd762a363e3_fotoshoot%20square%20(1).jpg"
-    },
-    {
-      "speaker": "cyril-cermak",
-      "role": "Porsche AG",
-      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/695cc7ca3316497e8f35a01d_me%20-%20Cyril%20Cermak%20(1).jpeg"
-    },
-    {
-      "speaker": "ben-freiband",
-      "role": "Duo Security (Cisco Systems)",
-      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/697878d638c5cbe4c9d659c2_Ben_Freiband.JPG"
-    },
-    {
-      "speaker": "filip-dolnik",
-      "role": "Touchlab",
-      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/69787f3c0615b899f4b1ab18_Filip_Dolnik.jpeg"
-    },
-    {
-      "speaker": "sergio-castell",
-      "role": "Guardsquare",
-      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/6981cc750f8bcf10462ea7e5_pfp%20-%20Sergio%20Castell%20(1).jpg"
-    },
-    {
-      "speaker": "martin-duris",
-      "role": "Macaly",
-      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/6a105cc6e6959470c210766f_Martin_Duris_smile_photo%20(1).jpg"
-    },
-    {
-      "speaker": "sinasamaki",
-      "role": "Individual developer",
-      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/695cc990c8f6cd2ad41c3d32_my_%26heart_1440_1440%20-%20Leshan%20(1).png"
-    },
-    {
-      "speaker": "michal-klement",
-      "role": "Livesport",
-      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/69b8024c2549eb271a10453b_miso_workshop.png"
-    },
-    {
-      "speaker": "anna-bohonek",
-      "role": "Fameplay",
-      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/69fae33b2f5f1de5b19a3dd3_Anna%20Bohonek%20Business%20Lead%20at%20Fameplay.jpg"
-    },
-    {
-      "speaker": "vadym-pinchuk",
-      "role": "VP DEV LTD",
-      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/697887987555eae156e3a6c9_Vadym_Pinchuk.jpg"
-    },
-    {
-      "speaker": "agnieszka-forajter",
-      "role": "LeanCode",
-      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/697e184c9c772cffed0eb896_67aeead824cee1b0673e2250_Zrzut_ekranu_2022_09_20_o_11_21_18_ffa19f9c5f.png"
-    },
-    {
-      "speaker": "julien-salvi",
-      "role": "Aircall",
-      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/6982ffed474b08287d004b9e_Julien_Salvi.jpeg"
-    },
-    {
-      "speaker": "patrik-mucha",
-      "role": "Livesport",
-      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/69b802e48d1d381177d005b1_patrik_workhop.jpg"
-    },
-    {
-      "speaker": "ondrej-platek",
-      "role": "BottleCapAI",
-      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/69fae2e7414e3410cb9e85c1_Ondrej-Platek-BottleCapAI_1.png"
-    },
-    {
-      "speaker": "klaudia-kozaroczy",
-      "role": "BlueSpot Kft.",
-      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/6978835019fac3dc920ee9e8_Klaudia_Demjen.jpg"
-    },
-    {
-      "speaker": "roman-liukevich",
-      "role": "Ringier Axel Springer",
-      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/6978865566550c6a44a4acc3_Roman_Liukevich.jpg"
-    },
-    {
-      "speaker": "jitka-pfeiferova",
-      "role": "Netglade",
-      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/69b7f7150e66e1a8f303eeb0_Jitka%20Pfeiferova%CC%81.jpeg"
-    },
-    {
-      "speaker": "michal-freriks",
-      "role": "NetGlade",
-      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/69cbbf0995efc728a9914fe6_054C4A33-1DA0-403D-9237-511FC751361D_1_105_c.webp"
-    },
-    {
-      "speaker": "eeva-jonna-panula",
-      "role": "Eevis Codes",
-      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/69787dd5117bec96e91545f7_Eeva-Jonna_Panula.jpg"
-    },
-    {
-      "speaker": "kamil-sztandur",
-      "role": "LeanCode",
-      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/69788204aa7f10cf1142d2a4_Kamil_Sztandur.jpg"
-    },
-    {
-      "speaker": "jaroslav-novotny",
-      "role": "Talsec",
-      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/69b7f9e4488a7b0f8bc74bcf_Jaroslav%20Novotny%CC%81.jpg"
-    },
-    {
-      "speaker": "branislav-bily",
-      "role": "Livesport",
-      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/69b7ff9a6d9cd966dce6ffe2_Branislav%20Bily%CC%81.jpg"
-    },
-    {
-      "speaker": "soheyla-mirshahi",
-      "role": "Neurogenou",
-      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/69fae1c2278c153966035d0a_Soheyla-Mirshahi_1.jpg"
-    },
-    {
-      "speaker": "leopold-podmolik",
-      "role": "Sky",
-      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/699832286560f69d69ba0a1c_Podmolik-Leopold-foto%202.jpg"
-    },
-    {
-      "speaker": "michal-jenicek",
-      "role": "STRV",
-      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/697884b065831ad70f626302_Michal_Jenicek.jpg"
-    },
-    {
-      "speaker": "yauheni-slizh",
-      "role": "Umain",
-      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/6978884f2bf96c79bfeebfc1_Yauhen_Slizh.jpg"
-    },
-    {
-      "speaker": "oskar-korzonek",
-      "role": "Dyson",
-      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/6981c08319c97ffe8af43101_Oskar_K_1x1_plSwift_03%20-%20Oskar%20Korzonek.jpg"
-    },
-    {
-      "speaker": "jackson-ferreira-de-andrade-mafra",
-      "role": "Umain",
-      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/697880b9602129d01369aab3_Jackson_Mafra.jpg"
-    },
-    {
-      "speaker": "andrii-zinoviev",
-      "role": "Lightway Technologies",
-      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/697876c139041ffdff0433eb_Andrii_Zinoviev.jpg"
-    },
-    {
-      "speaker": "david-petrina",
-      "role": "MeguMethod",
-      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/69787a1c29335a4e5f2d5dad_david_petrina.jpeg"
-    },
-    {
-      "speaker": "david-vavra",
-      "role": "Settle Up",
-      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/69787abd366010a2716c9f9b_David_Vavra.jpg"
-    },
-    {
-      "speaker": "ipek-erten",
-      "role": "Indie developer",
-      "photoUrl": "https://cdn.prod.website-files.com/6909f779569078fd081b7ea7/6a16f7af9f26e0be24608dbe_1779889083042%20(1).png"
-    }
+    "marton-braun",
+    "sebastian-aigner",
+    "arkadii-ivanov",
+    "enrique-lopez-manas",
+    "daco-harkes",
+    "cyril-cermak",
+    "ben-freiband",
+    "filip-dolnik",
+    "sergio-castell",
+    "martin-duris",
+    "sinasamaki",
+    "michal-klement",
+    "anna-bohonek",
+    "vadym-pinchuk",
+    "agnieszka-forajter",
+    "julien-salvi",
+    "patrik-mucha",
+    "ondrej-platek",
+    "klaudia-kozaroczy",
+    "roman-liukevich",
+    "jitka-pfeiferova",
+    "michal-freriks",
+    "eeva-jonna-panula",
+    "kamil-sztandur",
+    "jaroslav-novotny",
+    "branislav-bily",
+    "soheyla-mirshahi",
+    "leopold-podmolik",
+    "michal-jenicek",
+    "yauheni-slizh",
+    "oskar-korzonek",
+    "jackson-ferreira-de-andrade-mafra",
+    "andrii-zinoviev",
+    "david-petrina",
+    "david-vavra",
+    "ipek-erten"
   ],
   "talks": [
     {

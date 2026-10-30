@@ -1,3 +1,9 @@
 {
-  "name": "Johannes Fahrenkrug"
+  "name": "Johannes Fahrenkrug",
+  "role": "Full-Stack Senior Software Developer with 22+ Years of Experience | AI Tech Specialist",
+  "bio": "Johannes has been developing for iOS (well, \"iPhone OS\") since the very first SDK was released back in 2008. He’s the co-author of the book “Objective-C Fundamentals” that nobody bought, let alone read. He somehow managed to get a Stump the Experts t-shirt at one WWDC. A good day at work for him consists of finding an elegant solution to a particularly gnarly and esoteric bug. He’s an avid homebrewer and has recently moved to Berlin with his lovely wife. He has been freelancing since 2007 and regularly works on projects with The Smyth Group. He'd love to hear from you if you are dealing with bugs in your iOS app that make you question your sanity.",
+  "photoUrl": "https://pragmaconference.com/images/h/johannes-fahrenkrug-456.jpg",
+  "twitter": "https://twitter.com/jfahrenkrug",
+  "linkedin": "https://www.linkedin.com/in/jfahrenkrug/",
+  "website": "https://springenwerk.com/"
 }

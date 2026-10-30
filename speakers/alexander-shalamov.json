@@ -1,3 +1,6 @@
 {
-  "name": "Alexander Shalamov"
+  "name": "Alexander Shalamov",
+  "bio": "Alexander stumbled into IT back in high school by creating servers for Ragnarok Online. He wrote scripts for NPCs, rebuilt server engines, ran small projects. Then he switched to C++ and Qt, building software for spacecraft motion visualization. After graduation from the university, he tried himself in a startup, wrote in PHP, JavaScript, HTML, CSS. When the startup gloriously imploded, Alexander took up iOS development. Since then he worked in the Ministry of Education and Science, Sberbank and EPAM. During the time in EPAM, he switched to coding for macOS, but returned to iOS after joining a startup. In his free time, Alexander rides BMX, jumps on a trampoline and misses his motorcycle. Academically he is slowly crawling towards ML, reviving high school math along the way.",
+  "photoUrl": "https://2019.nsspain.com/images/speakers/alexander2.jpg",
+  "twitter": "https://twitter.com/bitemybyte"
 }

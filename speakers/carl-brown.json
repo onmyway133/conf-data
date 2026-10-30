@@ -1,3 +1,6 @@
 {
-  "name": "Carl Brown"
+  "name": "Carl Brown",
+  "bio": "Carl Brown is currently working with Swift on the Server at Swift@IBM. He's been writing iOS apps since 2008 and has done consulting work on several major app projects. He organizes the SwiftAustin and CocoaCoder meetup groups in Austin Texas, and has spoken at conferences including 360iDev and CocoaConf.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2017/speakers/carl.png",
+  "twitter": "https://twitter.com/CarlBrwn"
 }

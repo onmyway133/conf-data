@@ -1,3 +1,8 @@
 {
-  "name": "Elviro Rocca"
+  "name": "Elviro Rocca",
+  "bio": "Elviro worked for some years as a Materials Engineer before focusing on his true passion: functional programming. He is the lead iOS Developer @Facile.it and his main field of interest is applying functional concepts and techniques to real-world programming problems related to iOS and mobile platforms in general.",
+  "photoUrl": "http://2017.mobilization.pl/images/speakers/rocca.jpg",
+  "twitter": "https://twitter.com/_logicist",
+  "linkedin": "https://www.linkedin.com/in/elviro-rocca-045b1279",
+  "website": "https://broomburgo.github.io/fun-ios/"
 }

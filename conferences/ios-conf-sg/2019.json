@@ -14,108 +14,23 @@
   "twitter": "https://x.com/iosconfsg",
   "source": "confs.tech",
   "speakers": [
-    {
-      "speaker": "paul-hudson",
-      "role": "Hacking with Swift",
-      "bio": "Paul is the author of Hacking with Swift, Pro Swift, Swift Design Patterns, Server-Side Swift, Hacking with macOS, Hacking with watchOS, Hacking with tvOS, Swift Coding Challenges, and more. Suffice it to say, he quite likes Swift. And coffee. (But mostly Swift.) (And coffee.)",
-      "twitter": "https://twitter.com/twostraws"
-    },
-    {
-      "speaker": "daniel-steinberg",
-      "role": "Dim Sum Thinking",
-      "bio": "Daniel is the author of more than a dozen books including the best selling books A Swift Kickstart and Developing iOS 7 Apps for iPad and iPhone (the official companion book to the popular iTunes U series from Stanford University). He has written apps for the iPhone and the iPad since the SDKs first appeared and has written programs for the Mac all the way back to System 7. Daniel presents iPhone, Cocoa, and Swift training and consults through his company Dim Sum Thinking. When he's not coding or talking about coding for the Mac, the iPhone, and the iPad he's probably cooking or hanging out with friends.",
-      "twitter": "https://twitter.com/dimsumthinking"
-    },
-    {
-      "speaker": "yasuhiro-inami",
-      "role": "CyberAgent, Inc",
-      "bio": "While creating iPhone apps such as messenger, camera, news app in his work, he also spends time on making open source projects using Swift and Haskell. You can find him at GitHub: https://github.com/inamiy",
-      "twitter": "https://twitter.com/inamiy"
-    },
-    {
-      "speaker": "soroush-khanlou",
-      "role": "khanlou.com",
-      "bio": "Soroush Khanlou is a New York-based iOS developer. He blogs about programming at khanlou.com, mostly about making view controllers really short. He wants to make writing apps easier with an open-source framework he made called Instant Cocoa. In his free time, he runs, bakes bread and pastries, and collects suitcases.",
-      "twitter": "https://twitter.com/khanlou"
-    },
-    {
-      "speaker": "agnes-vasarhelyi",
-      "role": "plangrid.com",
-      "bio": "Agnes is a Hungarian iOS developer living in San Francisco, hard at work bringing the high tech revolution to the construction industry at PlanGrid. Occasional tech blogger and event organizer, preferably outside hiking the mountains of California in her free time.\n\nAgnes has worked at several startups before PlanGrid, like Prezi, and Topology Eyewear, helping them build great user experiences. She’s all about Auto Layout, and lldb these days, or whatever comes her way worth diving deep into. 🤓",
-      "twitter": "https://twitter.com/vasarhelyia"
-    },
-    {
-      "speaker": "steven-hepting",
-      "role": "airbnb.com",
-      "bio": "Steven Hepting is an iOS Engineer at Airbnb where he works on build systems, continuous integration, and optimizing the mobile app. Previously he did iOS work at Twitter and Microsoft for the TwitterKit SDK and the Yammer iOS app.\n\nOriginally from the frigid wasteland of the Canadian praries, he now lives in sunny foggy San Francisco with his wife and two children. He loves jogging (slowly, with a stroller), eating burritos, and tinkering with microcontrollers when he's not at work.",
-      "twitter": "https://twitter.com/stevenhepting"
-    },
-    {
-      "speaker": "kenneth-poon",
-      "role": "spgroup.com.sg",
-      "bio": "Kenneth works as a Principal Software Engineer at SPGroup. He is passionate about TDD and BDD. He likes to bring agile software practices into agile development space. He is also a prominent speaker at iOS Dev Scout, especially on iOS topics like Testing and IPA Code Injection. He enjoys running and playing the piano while not thinking about failed tests.",
-      "linkedin": "https://www.linkedin.com/in/kenneth-poon-84217019"
-    },
-    {
-      "speaker": "jeffrey-bergier",
-      "role": "mercari.com",
-      "bio": "Jeffrey is an iOS Developer at Mercari in Tokyo. At university he studied industrial design and he was a UX designer for 4 years. He taught himself iOS development during that time. He tries to bring his design background into the design of his apps as well as the structure of his code.",
-      "twitter": "https://www.twitter.com/jeffburg"
-    },
-    {
-      "speaker": "oscar-swanros",
-      "role": "pspdfkit.com",
-      "bio": "Oscar has 8 years of experience working with iOS technologies — most of that time, remotely from México. He is currently working on the most advanced PDF SDK for iOS, Android and the Web.\n\nOscar is passionate about teaching and music, as well as programming topics.",
-      "twitter": "https://twitter.com/Swanros"
-    },
-    {
-      "speaker": "esteban-torres",
-      "role": "soundcloud.com",
-      "bio": "Core Clients Engineer @ SoundCloud; working as a liaison between the mobile clients and the backend services the Core Clients team @ SoundCloud helps both sides by developing tools, abstracting implementations and maintaining BFFs to help encapsulate bits of code from the org into smaller and more manageable parts.",
-      "twitter": "https://twitter.com/esttorhe"
-    },
-    {
-      "speaker": "mischa-hildebrand",
-      "role": "intive.com",
-      "bio": "Mischa has always been passionate about two things that don’t seem to have much in common: logic and creativity. He graduated in physics to discover the first and worked as a radio reporter for a couple of years to try out the latter. Later, he combined both his passions as an iOS developer and team lead at intive in Munich and then headed off to travel the world. Mischa tries to learn something new about Swift everyday and loves creating modular, adaptive user interfaces with Auto Layout. His favorite question: “Why?”",
-      "twitter": "https://twitter.com/DerHildebrand"
-    },
-    {
-      "speaker": "vincent-pradeilles",
-      "role": "worldline.com",
-      "bio": "Vincent is a french iOS software engineer. He works for Worldline, in Lyon.",
-      "twitter": "https://twitter.com/v_pradeilles"
-    },
-    {
-      "speaker": "heng-hong-lee",
-      "role": "Indie Developer",
-      "bio": "Heng hong is a former Facebook software engineer who has spent 4+ years working on iOS Core Infrastructure at Messenger.",
-      "linkedin": "https://www.linkedin.com/in/heng-hong-lee-8938373b"
-    },
-    {
-      "speaker": "sasmito-adibowo",
-      "role": "sap.com",
-      "bio": "Sasmito has deep understanding in both iOS (Cocoa-touch) and macOS (Cocoa) software ecosystems – including design patterns, code practices, and human interface guidelines. He has good knowledge of graphics, custom controls, persistence, and multi-processing frameworks in these platforms which contributes to developing end-user applications with superior user experience.",
-      "twitter": "https://twitter.com/SasmitoAdibowo"
-    },
-    {
-      "speaker": "omer-iqbal",
-      "role": "seagroup.com",
-      "bio": "Omer is an iOS Engineer at Sea with a passion for using lldb to dig into private frameworks, and proselytising functional programming. These days he’s been writing some media code and has developed a paranoia for data races.",
-      "twitter": "https://twitter.com/olenhad"
-    },
-    {
-      "speaker": "christian-grail",
-      "role": "sap.com",
-      "bio": "Christian is a Development Architect at SAP in Germany. With the SAP Design team he works on frontrunner projects in the Enterprise space.",
-      "twitter": "https://twitter.com/cgrail"
-    },
-    {
-      "speaker": "priscilla-nu",
-      "role": "spgroup.com.sg",
-      "bio": "Priscilla is a Data-Driven Experience Designer, Design Leader and Coach. As the Head of Design in SP Group, Priscilla works with internal teams to create products that satisfy users and drive business goals. She coaches internal teams to answer two important questions – 'Why should we build this?' and 'How would this affect our users, business and the nation?' SP Design uses Lean Startup methodology to develop products in EnergyTech, guided by an overarching purpose towards sustainability.",
-      "linkedin": "https://www.linkedin.com/in/prisc/"
-    }
+    "paul-hudson",
+    "daniel-steinberg",
+    "yasuhiro-inami",
+    "soroush-khanlou",
+    "agnes-vasarhelyi",
+    "steven-hepting",
+    "kenneth-poon",
+    "jeffrey-bergier",
+    "oscar-swanros",
+    "esteban-torres",
+    "mischa-hildebrand",
+    "vincent-pradeilles",
+    "heng-hong-lee",
+    "sasmito-adibowo",
+    "omer-iqbal",
+    "christian-grail",
+    "priscilla-nu"
   ],
   "talks": [
     {

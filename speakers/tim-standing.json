@@ -1,3 +1,6 @@
 {
-  "name": "Tim Standing"
+  "name": "Tim Standing",
+  "role": "let self = Programmer(company: nil, position: nil)",
+  "bio": "Tim standing has been writing software and drivers for macOS for many decades. After 25 years of working on SoftRAID for Mac, and 10 years with Other World Computing, he is starting work on a new product which will ship early in 2026.\n\nWhen he’s not writing code, or helping others write code, he is perfecting sourdough pizzas or figuring out how many truffles can be made from a 5 kg bar of Belgian chocolate.",
+  "photoUrl": "https://macsysadmin.se/speakers/files/image-2145.png"
 }

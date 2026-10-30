@@ -1,3 +1,7 @@
 {
-  "name": "JP Simard"
+  "name": "JP Simard",
+  "role": "Lyft",
+  "bio": "JP started writing iOS apps in 2011, and has since been involved in projects like Realm, Jazzy, SwiftLint, Yams and Swift Unwrapped. At Lyft, JP worked on introducing public transit, bikes and scooters into the apps, recently transitioning to the Envoy Mobile project, a powerful open source networking library.",
+  "photoUrl": "https://2022.nsspain.com/images/speakers/jp.jpg",
+  "twitter": "https://twitter.com/simjp"
 }

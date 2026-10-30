@@ -20,273 +20,41 @@
   "twitter": "https://x.com/mobilizationpl",
   "source": "confs.tech",
   "speakers": [
-    {
-      "speaker": "abizer-nasir",
-      "role": "Lead/Contract iOS Developer in London",
-      "bio": "Lead/Contract iOS Developer in London. I've worked in different fields of iOS Development, except for Games.",
-      "photoUrl": "http://2019.mobilization.pl/assets/images/speakers/abizer-nasir.png",
-      "twitter": "https://twitter.com/abizern",
-      "linkedin": "https://www.linkedin.com/in/Abizern",
-      "website": "https://abizern.org"
-    },
-    {
-      "speaker": "alex-zhukovich",
-      "bio": "Alex Zhukovich has been developing Android since 2011. Currently, he is working for Takeaway.com. He is a public speaker in Europe and software enthusiast with a passion for technologies, which share thoughts & experiences on the private technical blog and YouTube channel",
-      "photoUrl": "http://2019.mobilization.pl/assets/images/speakers/aliaksandr-zhukovich.png",
-      "twitter": "https://twitter.com/Alex_Zhukovich",
-      "linkedin": "https://www.linkedin.com/in/alex-zhukovich",
-      "website": "https://alexzh.com"
-    },
-    {
-      "speaker": "alexandre-genet",
-      "bio": "Alexandre is Android developer for more than 5 years. He passionate about Kotlin, MotionLayout and Framework created by Google. His current goal is to craft more intuitive and more usable applications. In addition, Alexandre enjoys to share his knowledge to the Android community. Currently working for Xebia in Paris.",
-      "photoUrl": "http://2019.mobilization.pl/assets/images/speakers/alexandre-genet.png",
-      "twitter": "https://twitter.com/@AlexAlexandreG",
-      "linkedin": "https://www.linkedin.com/in/alexandre-genet-25298042",
-      "website": "https://medium.com/@agenet_34672"
-    },
-    {
-      "speaker": "andrea-possemato",
-      "role": "Security R&D Engineer at IDEMIA",
-      "bio": "Andrea is a Security R&D Engineer at IDEMIA and currently he is enroll as PhD student at the Software and System Security group of EURECOM (France). His main research interests are focusing on Android, where he is trying to solve some open research problems spanning from UI to System Security. When he is not focus on finding vulnerable components, he is messing up with fuzzing and reversing Android apps. CTF player/lover.",
-      "photoUrl": "http://2019.mobilization.pl/assets/images/speakers/andrea-posemato.png",
-      "twitter": "https://twitter.com/@_pox_",
-      "linkedin": "https://www.linkedin.com/in/andrea-possemato-93a8b1aa"
-    },
-    {
-      "speaker": "andrii-rakhimov",
-      "role": "Lead Android Engineer at Lalafo",
-      "bio": "Lead Android Engineer at Lalafo. More than 6 years working with mobile. Have experience of scaling apps from several thousand to millions of users. Passionate about mobile and technology as well as about giving back to the community.",
-      "photoUrl": "http://2019.mobilization.pl/assets/images/speakers/andrii-rakhimov.png"
-    },
-    {
-      "speaker": "dylan-drost",
-      "role": "Freelance Android and Flutter Developer",
-      "bio": "Freelance Android and Flutter Developer working on projects like Schiphol, SnappCar and Karify. As the resident geek at home I do the occasional web development/server admin for a food blog which is run by my wife with over a 1300 post and around 100/150k visitors per month.",
-      "photoUrl": "http://2019.mobilization.pl/assets/images/speakers/dylan-drost.png",
-      "twitter": "https://twitter.com/@aegis321",
-      "linkedin": "https://www.linkedin.com/in/dylandrost/",
-      "website": "https://dynadroid.nl"
-    },
-    {
-      "speaker": "eugene-matsyuk",
-      "bio": "I have been an android developer since 2012 and engaged at a lot of different projects like LinguaLeo, SberbankBusinessOnline (famous apps in Russia). My current project is Kaspersky Internet Security for Android. Also, there are my personal development blogs in Russian and in English. Welcome to my GitHub page, where you may find out different opensource projects starting with small examples for articles and ending with frameworks(Kaspresso), libraries(AdbServer) and even architectural CookBook. My current passion is autotests. I believe that autotests can make our lives easier. Yes, we need to complete a lot of preparing work to reach the mentioned dream. But the dream is even closer than it had been not so long ago.",
-      "photoUrl": "http://2019.mobilization.pl/assets/images/speakers/eugene-matsyuk.png",
-      "website": "https://medium.com/@eugenematsyuk"
-    },
-    {
-      "speaker": "filip-babic",
-      "bio": "Professional developer with extensive knowledge of Android, Kotlin, and Java. Developing since 2015, I’ve amassed a great deal of experience and finished projects using only best practices, building high-quality products. Huge Kotlin lover and preacher, mostly focusing on Kotlin Coroutines and other low-level concurrency mechanisms. Gaming when not coding, writing about coding or speaking about coding at various events, meetups, and conferences. Dungeon master in spare time.",
-      "photoUrl": "http://2019.mobilization.pl/assets/images/speakers/filip-babic.png",
-      "twitter": "https://twitter.com/filbabic",
-      "linkedin": "https://www.linkedin.com/in/filip-babić-52b73a130"
-    },
-    {
-      "speaker": "jacek-rondio",
-      "role": "Software engineer at HARMAN Connected Services",
-      "bio": "A software engineer currently working at HARMAN Connected Services mainly focused on Android applications development, however not afraid of deeper layers of the system. Passionate about mobile and technology as well as understanding his 2 y.o. son",
-      "photoUrl": "http://2019.mobilization.pl/assets/images/speakers/jacek-rondio.png"
-    },
-    {
-      "speaker": "jayesh-kawli",
-      "role": "Senior iOS developer at Wayfair",
-      "bio": "Jayesh Kawli is a Senior iOS developer working at Wayfair in Boston, Massachusetts. He has been writing iOS applications for more than 5 years and currently works as a Mobile Engineering Manager for cart and checkout team for the Wayfair iOS application. He has previously worked as a tech lead for this team and mentored at multiple occasions in current and previous organizations. As a senior developer, he likes to share his knowledge and experience with other people. He has presented a variety of topics at his company's internal Lunch and learn meetings, local meetups as well as several other international platforms. He also writes a blog which touches active topics in iOS development along with occasional off-topics such as food, travel and web development.",
-      "photoUrl": "http://2019.mobilization.pl/assets/images/speakers/jayesh-kawli.png",
-      "twitter": "https://twitter.com/jayeshkawli",
-      "linkedin": "https://www.linkedin.com/in/jayesh-kawli-8aa22633",
-      "website": "https://jayeshkawli.ghost.io"
-    },
-    {
-      "speaker": "kassem-wridan",
-      "role": "Software engineer at Bloomberg London",
-      "bio": "Kassem Wridan is a software engineer at Bloomberg London, working in the iOS Platform team. He is passionate about UI navigation paradigms, testing and as of late, Xcode project tooling!\n\nFrom time to time Kassem blogs about his technical findings, and in his spare time is learning partner dancing and experimenting with filmography.",
-      "photoUrl": "http://2019.mobilization.pl/assets/images/speakers/kassem-wridan.png",
-      "twitter": "https://twitter.com/kwridan",
-      "website": "https://www.matrixprojects.net"
-    },
-    {
-      "speaker": "kaushik-gopal",
-      "role": "Senior Staff Mobile Engineer at Instacart",
-      "bio": "I've been a developer for about 12 years now, and an Android developer for about half of those.\nI'm also known in some circles of the internet for starting one of the most popular development podcasts - Fragmented. We talk about building better software and becoming better Android developers.\nI currently work as a Senior Staff Mobile Engineer at Instacart. In the past, I've worked for a bunch of startups and companies always tinkering with computers and software. I believe in open source and you can find most my open source stuff on github.\nGoogle was gracious to recognize some of my contributions to the community and has me listed as a Google Developer Expert for Android.\nkaush.co",
-      "photoUrl": "http://2019.mobilization.pl/assets/images/speakers/kaushik-gopal.png",
-      "twitter": "https://twitter.com/kaushikgopal",
-      "linkedin": "https://www.linkedin.com/in/gopalkaushik",
-      "website": "https://kaush.co/"
-    },
-    {
-      "speaker": "krzysztof-pawski",
-      "bio": "iOS developer with 6 years of experience. He started his career in a small software house mostly dealing with machine translation tools. Then he proceeded through shopping startup, big aerospace and pharmaceutical corporations. Currently working in one of Allegro teams where he is doing his best to use knowledge acquired over these years to keep high quality code. Apart from iOS he loves his wife and various sports likes bike, snowboard, longboard or capoeira.",
-      "photoUrl": "http://2019.mobilization.pl/assets/images/speakers/krzysztof-pawski.png"
-    },
-    {
-      "speaker": "luca-nicoletti",
-      "bio": "Android Developer since 4.0.3, always wanted to become a speaker. Always seeking knowledge (and new challenges) and want to share what I learn with others. Shared knowledge is the best knowledge. Recently moved in London. Love reading books, blog posts, documentation.",
-      "photoUrl": "http://2019.mobilization.pl/assets/images/speakers/luca-nicoletti.png",
-      "twitter": "https://twitter.com/luca_nicolett",
-      "linkedin": "https://www.linkedin.com/in/luca-nicoletti-7171b1ab/"
-    },
-    {
-      "speaker": "lukasz-wisniewski",
-      "role": "Lead Mobile Architect at EyeEm",
-      "bio": "Lead Mobile Architect at EyeEm",
-      "photoUrl": "http://2019.mobilization.pl/assets/images/speakers/lukasz-wisniewski.png",
-      "twitter": "https://twitter.com/vishna"
-    },
-    {
-      "speaker": "marcin-moskala-2",
-      "role": "Founder of Kt. Academy",
-      "bio": "Marcin Moskala is an experienced developer, speaker and technology evangelist, founder of Kt. Academy, an official JetBrains partner, author of the book \"Android Development with Kotlin\", active programming community member.",
-      "photoUrl": "http://2019.mobilization.pl/assets/images/speakers/marcin-moskala.png",
-      "website": "https://marcinmoskala.com"
-    },
-    {
-      "speaker": "martin-petrulak",
-      "bio": "Martin is an Android enthusiast currently living in Munich, Germany. He had worked as an independent (indie) developer, full-time employee, and freelancer since 2011. Currently working as a contractor for large companies helping with digital transformation projects. He likes to travel, do sport and of course, to drink beer-s :)",
-      "photoUrl": "http://2019.mobilization.pl/assets/images/speakers/martin-petrulak.png",
-      "twitter": "https://twitter.com/@martin_petrulak",
-      "linkedin": "https://www.linkedin.com/in/petrulak",
-      "website": "https://www.petrulak.com"
-    },
-    {
-      "speaker": "mateusz-szklarek",
-      "role": "Senior iOS developer at EL Passion",
-      "bio": "I work as an Senior iOS developer at EL Passion (Warsaw) for more than 4 years. I created several mobile applications in Objective-C & Swift from scratch. I’m big fan of unit testing in PRACTICE and believe that “each line of code matters”. Lately worked as Flutter developer.",
-      "photoUrl": "http://2019.mobilization.pl/assets/images/speakers/mateusz-szklarek.png",
-      "twitter": "https://twitter.com/SzklarekMateusz",
-      "linkedin": "https://linkedin.com/in/mateuszszklarek"
-    },
-    {
-      "speaker": "mateusz-duc",
-      "bio": "Mateusz is a legally blind person specialising in accessibility-related training.",
-      "photoUrl": "http://2019.mobilization.pl/assets/images/speakers/mateusz-duc.png"
-    },
-    {
-      "speaker": "mateusz-figlewicz",
-      "role": "Mobile Solution Architect at Intive",
-      "bio": "IT professional with 10 years experience mainly in mobile development area. Currently for about a year acts as a Mobile Solution Architect in Intive company working together with both mobile engineers and business stakeholders to find the solutions for eCommerce projects.",
-      "photoUrl": "http://2019.mobilization.pl/assets/images/speakers/mateusz-figlewicz.png",
-      "linkedin": "https://www.linkedin.com/in/mateuszfiglewicz"
-    },
-    {
-      "speaker": "michal-baran",
-      "role": "Android developer at Miquido",
-      "bio": "Michal is an Android developer, loving Flutter. With 3 years of mobile development. Technical articles writer. Passionate about scalable, lasting solutions.\nHe is working in Miquido in Cracow.",
-      "photoUrl": "http://2019.mobilization.pl/assets/images/speakers/michal-baran.png",
-      "twitter": "https://twitter.com/@baranmichal25",
-      "linkedin": "https://www.linkedin.com/in/baranmichal"
-    },
-    {
-      "speaker": "milos-marinkovic",
-      "bio": "Milos is a software enthusiast, software product developer, tech event organizer in Berlin's GDG, and an active open-source contributor. His interests are Android, modern web, connected devices and Internet Of Things. As an active tech community member and software professional, he likes reading about innovation, programming, and (of course) organizational skills; but loves skiing.\nYears ago he founded GDG Novi Sad in Serbia and he worked there as a community lead, hosted some very interesting workshops with GDEs from all over the world, attended many meetups and hackathons, gave talks for the community on conferences and meetups, and hosted many dev-jams on open-source projects - so he is no stranger to our tech community.\nToday, Milos is based in Berlin, working on building amazing software products - primarily for the Android platform.",
-      "photoUrl": "http://2019.mobilization.pl/assets/images/speakers/milos-marinkovic.png",
-      "twitter": "https://twitter.com/milosmns",
-      "linkedin": "https://www.linkedin.com/in/milosmns",
-      "website": "https://angrybyte.me/"
-    },
-    {
-      "speaker": "milosz-staszewski",
-      "role": "Apple Certified Trainer",
-      "bio": "Milosz is an Apple Certified Trainer for App Development with Swift 4 course.",
-      "photoUrl": "http://2019.mobilization.pl/assets/images/speakers/milosz-staszewski.png",
-      "twitter": "https://twitter.com/@sofcik",
-      "linkedin": "https://www.linkedin.com/in/milosz-staszewski-243b6735",
-      "website": "https://k7.eu"
-    },
-    {
-      "speaker": "neem-serra",
-      "role": "Mobile developer at Slalom",
-      "bio": "Neem Serra is a mobile developer at Slalom in the United States. She teaches and mentors at a variety of non-profit organizations such as Software Carpentry. As the lead of the Google Women Techmakers group in St. Louis, she started the St. Louis Techies Project to highlight the diversity of technical people in St. Louis. Neem loves to bake, read comics, and host craft nights.",
-      "photoUrl": "http://2019.mobilization.pl/assets/images/speakers/neem-serra.png",
-      "twitter": "https://twitter.com/@teamneem",
-      "linkedin": "https://www.linkedin.com/in/teamneem/",
-      "website": "https://neemserra.com"
-    },
-    {
-      "speaker": "nishant-srivastava",
-      "role": "Sr.Android Engineer at Soundbrenner",
-      "bio": "Nishant is a Sr.Android Engineer at Soundbrenner in Berlin, Germany and an open source enthusiast who spends his time doodling when not hacking on Android. He is a caffeine-dependent life-form and can be found either talking about android libraries or advocating that coffee is the elixir of life at community gatherings.\nHe has been part of 2 startups in the past (Founding Team Member at\nOmniLabs, Inc. and one of the first employees at Silverpush) with experience in Android SDK Engineering and Audio Digital Signal Processing(DSP) on Android.\nWhile working at his past company (Silverpush), he developed the company’s patented UAB (Unique Audio Beacon) Technology.",
-      "photoUrl": "http://2019.mobilization.pl/assets/images/speakers/nishant-srivastava.png",
-      "twitter": "https://twitter.com/@nisrulz",
-      "linkedin": "https://www.linkedin.com/in/nisrulz",
-      "website": "https://nisrulz.com/"
-    },
-    {
-      "speaker": "pawel-urbanowicz",
-      "bio": "Pawel spent last 5 years working as an iOS Developer and contributed to multiple projects during that period. He's constantly trying to master how to deliver a product which is good enough to ship and advanced, but at the same time ensures good quality in reasonable amount of time. At his spare time he likes to watch motorsport due to its nature focused on technological advancement and performance, which matters both in code and on the racetrack.",
-      "photoUrl": "http://2019.mobilization.pl/assets/images/speakers/pawel-urbanowicz.png",
-      "twitter": "https://twitter.com/pawelurbanowicz",
-      "linkedin": "https://www.linkedin.com/in/pawelurbanowicz"
-    },
-    {
-      "speaker": "peter-john-welcome",
-      "role": "Mobile Engineering Lead at DVT",
-      "bio": "P-J, who is based in Johannesburg, South Africa, is the Mobile Engineering Lead at DVT where he develops iOS and Android app and teaches these technologies to graduates.He is the organiser for GDG Johannesburg, speaks at meetups and conferences and blogs about development technologies on Medium.",
-      "photoUrl": "http://2019.mobilization.pl/assets/images/speakers/peter-john-welcome.png",
-      "twitter": "https://twitter.com/pjapplez",
-      "linkedin": "https://www.linkedin.com/in/peter-john-welcome-33b74185/",
-      "website": "https://medium.com/@pjwelcome"
-    },
-    {
-      "speaker": "piotr-madry",
-      "role": "Android Developer at AppUnite",
-      "bio": "Android Developer at AppUnite, a functional programming and rx-based solutions lover, inspired by back-end technologies like Elixir/Phoenix.\nA huge fan of coding challenges, fascinated in inventing and creating completely new things.",
-      "photoUrl": "http://2019.mobilization.pl/assets/images/speakers/piotr-madry.png",
-      "twitter": "https://twitter.com/coala_beers",
-      "linkedin": "https://www.linkedin.com/in/piotr-mądry-40281610b"
-    },
-    {
-      "speaker": "rafal-wachol",
-      "bio": "Rafal has over 9 years of experience in software development. Programming Flutter from its early stages. Active member of London Flutter Community. Passionate about reactive programming and open source.",
-      "photoUrl": "http://2019.mobilization.pl/assets/images/speakers/rafal-wachol.png",
-      "twitter": "https://twitter.com/@RafalWachol",
-      "linkedin": "https://www.linkedin.com/in/rafal-wachol-857a2ab5"
-    },
-    {
-      "speaker": "raul-portales",
-      "bio": "Raul is a Software Engineer with a love for computers, electronics and gadgets in general since as long as he remembers. He jumped into Android as soon as it was released. Raul has worked on social networks, education, healthcare and even founded a gaming studio and a consultancy company. Specialized on mobile and UX, he speaks frequently at conferences and meetups.",
-      "photoUrl": "http://2019.mobilization.pl/assets/images/speakers/raul-portales.png",
-      "twitter": "https://twitter.com/sla_shalafi",
-      "linkedin": "https://www.linkedin.com/in/raulportales",
-      "website": "http://plattysoft.com"
-    },
-    {
-      "speaker": "timirah-james",
-      "role": "Developer advocate at Cloudinary",
-      "bio": "Timirah James is a developer advocate at Cloudinary and an influencer in the evangelism space, creating awareness around STEM and diversity in tech as well as helping others build great technical skills and become great developers. She’s best known for being a leader in the Los Angeles and Silicon Beach tech community, her active roles in the hackathon realm, and mentoring through TechniGal LA, her meetup for women exploring the world of STEM. Previously, she spent several years as a full-time iOS engineer.\nFun fact: She’s also a noted singer-songwriter and recently released “Coderitis,” a song about her love for technology and innovation, which can be found on SoundCloud and Spotify.",
-      "photoUrl": "http://2019.mobilization.pl/assets/images/speakers/timirah-james.png",
-      "twitter": "https://twitter.com/@TimirahJ",
-      "linkedin": "https://www.linkedin.com/in/timirahjames/"
-    },
-    {
-      "speaker": "tomasz-gebarowski",
-      "role": "Senior Mobile Software Engineer and Team Leader at Allegro",
-      "bio": "Senior Mobile Software Engineer and Team Leader at Allegro. Currently focused on iOS platform, interested in scaling things and improving the process. Having background in e-commerce, mobile banking and distributed VoIP servers. Experienced in maintaining large codebases and long term projects. Privately father of two kids and LEGO builder.",
-      "photoUrl": "http://2019.mobilization.pl/assets/images/speakers/tomasz-gebarowski.png",
-      "twitter": "https://twitter.com/@tgebarowski",
-      "website": "http://www.tomaszgebarowski.pl"
-    },
-    {
-      "speaker": "tomasz-grynfelder-renk",
-      "bio": "iOS Developer by heart and practice.",
-      "photoUrl": "http://2019.mobilization.pl/assets/images/speakers/tomasz-grynfelder-renk.png",
-      "twitter": "https://twitter.com/tgrynfelder",
-      "linkedin": "https://www.linkedin.com/in/tgrynfelder/",
-      "website": "https://grynfelder.pl"
-    },
-    {
-      "speaker": "vipul-shah",
-      "role": "Android & iOS Developer at Backbase",
-      "bio": "I’m a Android/iOS developer, currently working for a Backbase as an Android & iOS Developer. I love public speaking and presenting talks. I regularly give talks at GDG events & Local meetups, and blog at Medium. Before joining Backbase I was working with awesome product teams @Microsoft. I have been developing Android & iOS applications since last 7 years and have worked for few notable clients like FirstData, BMW, Wallmart labs. During my tenure in Microsoft I was part core Outlook team and worked on couple of Office apps. I regularly speak at technical events like GDG & Developer meetups.",
-      "photoUrl": "http://2019.mobilization.pl/assets/images/speakers/vipul-shah.png",
-      "twitter": "https://twitter.com/_vipuls",
-      "linkedin": "https://in.linkedin.com/in/vipulshah123"
-    },
-    {
-      "speaker": "xi-chen",
-      "role": "Software engineer at ePassi Oy",
-      "bio": "I am a passionate software engineer, currently working in ePassi Oy. I have been working on android and iOS app development for six years, besides that I'm also very interested in backend development. I'm keen on better quality of software, in my spare time I work on my hobby projects as a software craftman.",
-      "photoUrl": "http://2019.mobilization.pl/assets/images/speakers/xi-chen.png"
-    }
+    "abizer-nasir",
+    "alex-zhukovich",
+    "alexandre-genet",
+    "andrea-possemato",
+    "andrii-rakhimov",
+    "dylan-drost",
+    "eugene-matsyuk",
+    "filip-babic",
+    "jacek-rondio",
+    "jayesh-kawli",
+    "kassem-wridan",
+    "kaushik-gopal",
+    "krzysztof-pawski",
+    "luca-nicoletti",
+    "lukasz-wisniewski",
+    "marcin-moskala-2",
+    "martin-petrulak",
+    "mateusz-szklarek",
+    "mateusz-duc",
+    "mateusz-figlewicz",
+    "michal-baran",
+    "milos-marinkovic",
+    "milosz-staszewski",
+    "neem-serra",
+    "nishant-srivastava",
+    "pawel-urbanowicz",
+    "peter-john-welcome",
+    "piotr-madry",
+    "rafal-wachol",
+    "raul-portales",
+    "timirah-james",
+    "tomasz-gebarowski",
+    "tomasz-grynfelder-renk",
+    "vipul-shah",
+    "xi-chen"
   ],
   "talks": [
     {
