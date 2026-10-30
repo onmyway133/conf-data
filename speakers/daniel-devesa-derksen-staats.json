@@ -1,3 +1,7 @@
 {
-  "name": "Daniel Devesa Derksen-Staats"
+  "name": "Daniel Devesa Derksen-Staats",
+  "role": "Spotify",
+  "bio": "Dani has his dream job as an iOS Engineer on Spotify’s Accessibility team. He has previously loved working at Skyscanner or the BBC, where he learned a ton about how to make iOS apps more accessible. Sometimes he lets Xcode have a break and spreads the love for accessibility at conferences. Author of the “Developing Accessible iOS Apps” book, he keeps himself busy by writing a daily tweet about accessibility and iOS with the hashtag #365DaysIOSAccessibility. He’s about to cross one off his bucket list by, not just attending, but also speaking at NSSpain!",
+  "photoUrl": "https://2022.nsspain.com/images/speakers/daniel.jpg",
+  "twitter": "https://twitter.com/dadederk"
 }

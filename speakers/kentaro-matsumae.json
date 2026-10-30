@@ -1,3 +1,7 @@
 {
-  "name": "Kentaro Matsumae"
+  "name": "Kentaro Matsumae",
+  "role": "Software Engineer at Mercari, Studies Machine Learning",
+  "bio": "Kentaro Matsumae (@kenmaz) is an software engineer at Mercari, a selling app. He works on Merpay, the FinTech service of the app. Previously, he worked on several other apps including ‘Manga Box’, a Japanese online manga service, and ‘niconico’, a Japanese video sharing service. When not coding, he studies machine learning, especially interested in image super resolution technique.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2018/speakers/kentaro.jpg",
+  "twitter": "https://twitter.com/kenmaz"
 }

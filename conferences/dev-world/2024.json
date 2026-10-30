@@ -19,88 +19,21 @@
   "twitter": "https://x.com/AUC_ANZ",
   "source": "confs.tech",
   "speakers": [
-    {
-      "speaker": "adam-shaw",
-      "role": "Bonobo Labs",
-      "bio": "Adam has presented at /dev/world numerous times in the past – most recently in 2017 at the tenth anniversary /dev/world event. We’re thrilled to bring him back to Australia as a keynote speaker this year. Adam has been developing iOS apps since the dawn of time (aka 2008). An Apple nerd through and through, he loves sharing his knowledge and enthusiasm for app development with others. He currently works at Bonobo Labs, developer of the Apple Design Award winning app Flow. In his spare time he makes music, plays video games, and (surprise!) develops even more apps.",
-      "photoUrl": "https://auc.edu.au/auc/wp-content/uploads/2024/03/adamshaw.jpg"
-    },
-    {
-      "speaker": "gareth-lloyd",
-      "role": "Kogan.com",
-      "bio": "Meet Gareth, a passionate iOS developer and current mobile tech lead at Kogan.com. With over seven years of expertise, he brings a wealth of experience to the table. Originally from Scotland, Gareth embarked on a new chapter by moving to Australia in January 2023. His professional journey has predominantly focused on retail apps, where he has left his mark working with a number of major UK brands such as Selfridges, River Island, and Wetherspoons before joining Kogan.com.",
-      "photoUrl": "https://auc.edu.au/media/dw24/glloyd.jpg"
-    },
-    {
-      "speaker": "james-warren",
-      "role": "Mantel Group",
-      "bio": "James is an iOS developer, guess now visionOS developer too, working at Mantel Group in Melbourne. James is a self-confessed tech junkie and largely got into programming as an excuse to be able to play with tech all day. The Vision Pro is out and he wasn’t going to miss the chance to work with the latest bit of tech. James has been working with Mantel Group to show off what the Vision Pro can do for different clients. And in his spare time building an app for the headset. When not sitting at, or strapped to a computer James is off in a 4WDing to take landscape photos or painting minis for a D&D game."
-    },
-    {
-      "speaker": "joel-rennich",
-      "bio": "Joel is the Vice President of Product Strategy at JumpCloud residing in the greater Minneapolis, MN area. He focuses primarily on the intersection of identity, users and the devices that they use. While Joel has spent most of his professional career focused on Apple products, at JumpCloud he works with a team focused on bolding going where no devs have gone before across all platforms. Prior to JumpCloud Joel was a director at Jamf helping to make Jamf Connect and other authentication products. In 2018 Jamf acquired Joel’s startup, Orchard & Grove, which is where Joel developed the widely-used open source software NoMAD. Installed on over one million Macs across the globe, NoMAD allows macOS users to get all the benefits of Active Directory without having to be bound to them. Joel also developed other open source software at Orchard & Grove such as DEPNotify and NoMAD Login. Over the years Joel has been a frequent speaker at a number of conferences including WWDC, MacSysAdmin, MacADUK, Penn State MacAdmins Conference, Objective by the Sea, FIDO Authenticate and others in addition to user groups everywhere. Joel spent over a decade working at Apple in Enterprise Sales and started the website afp548.com which was the mainstay of Apple system administrator education during the early years of macOS X.",
-      "photoUrl": "https://auc.edu.au/media/xw24/jrennich.jpg"
-    },
-    {
-      "speaker": "josh-deprez",
-      "role": "Buildkite",
-      "bio": "Josh's hobbies include the care and feeding of vintage Mac computers, recreational sysadmin, and ranked competitive computer touching^W programming. Josh is a Staff Software Engineer at Buildkite, where they work mostly on software written in Go. Previously, Josh was a Site Reliabilty Engineer at Google, in which they learned a lot about scaling enterprise networks and crawling the web. Josh is also a regular presenter at /dev/world and might give up the vintage Apple schtick one day...but not today!",
-      "photoUrl": "https://auc.edu.au/media/dw23/jdeprez.jpg"
-    },
-    {
-      "speaker": "louis-cremen",
-      "role": "Lumify",
-      "bio": "Louis has written one of these for every /dev/world that has ever run (is that 16 now? Feels like it). He is a recovering developer who fell into security over a decade ago and loves the community and Apple products. Now he the lead Cyber Security Instructor for Lumify (formally DDLS) the #1 Cyber/IT/Process certification training organisation in Australia/New Zealand/Phillipines. He reguarly talks about development, security, brains, AI and whatever else comes to mind. He talks for a living. The trick is getting him to stop 😛.",
-      "photoUrl": "https://auc.edu.au/media/dw25/lcremen.jpg"
-    },
-    {
-      "speaker": "quentin-zervaas",
-      "role": "Crunchy Bagel",
-      "bio": "Quentin is the developer of Streaks, which has been on the App Store since 2015 and won a coveted Apple Design Award in 2016."
-    },
-    {
-      "speaker": "rob-amos",
-      "role": "ANZ",
-      "bio": "Rob started with Objective-C by trying to write an XMLParserDelegate with manual memory management in 2009. After releasing the first tramTRACKER™ app 6 months later he was hooked on iOS development and is mortified to realise he has now been building iOS apps for 15 years. These days he is a Principal Software Engineer at ANZ and is the iOS Platform Lead for the ANZ Plus app, working on a much more modern app stack with a much larger and more talented team.",
-      "photoUrl": "https://auc.edu.au/media/dw25/ramos.jpg"
-    },
-    {
-      "speaker": "sam-jarman",
-      "role": "Cochlear",
-      "bio": "Hi I’m Sam Jarman, a kiwi living in Sydney, Australia. I’ve been a software developer for over 10 years and I am currently a principal software engineer and manager at Cochlear. Over my career I’ve have the pleasure of working at companies big and small and I’ve enjoy sharing the lessons I've learned along the way. Other than that, I am a proud husband, dog dad and iOS development fanboy.",
-      "photoUrl": "https://auc.edu.au/media/dw23/sjarman.jpg"
-    },
-    {
-      "speaker": "stuart-varrall",
-      "bio": "Stuart Varrall likes to solve problems and bring ideas to life through the use of technology. He’s originally from the UK, where he studied Computer Animation at Uni and worked on AAA console games before running his own mobile development studio. He did this for 10 years, starting out working on games for Nokia phones and ultimately developing for all mobile platforms working with companies like Adobe, Blackberry and the FIGC. Stuart transitioned to consultancy since moving to Australia 7 years ago and is now equally as happy working as a solutions architect at Google enabling AI for an Australian Telco, as he is making apps to keep his kids entertained on a car journey from his base in Rockhampton, QLD."
-    },
-    {
-      "speaker": "sushant-verma",
-      "role": "Bilue Pty Ltd",
-      "bio": "With almost 15 years of experience in software development - Sushant Verma started a journey in iOS/Mac development in the early days of the iPhone. Over the years he has worked in a varierty of industries from ranging from the more rigid like banking, finance and insurance to the exhilarating like sports, social media and personal training."
-    },
-    {
-      "speaker": "thomas-karpiniec",
-      "role": "Ditto",
-      "bio": "Thomas Karpiniec is a software developer specialising in cross-platform native applications. He has worked on Ditto’s edge sync platform for five years, building the peer-to-peer network infrastructure and integrating the communication capabilities of iPhones, Macs, and other hardware to create meshes that work with or without the internet. Tom lives in Tasmania and has previously presented at /dev/world, including running a workshop on Rust and Swift interop in 2019."
-    },
-    {
-      "speaker": "tim-oliver",
-      "role": "Instagram",
-      "bio": "Tim’s been a fanboy of iOS since the iPhone 3G and a fanboy of /dev/world/ since 2010. He currently works as an iOS engineer at Instagram, and before that, at Drivemode, both in Tokyo. In his free time, he enjoys contributing to the open source iOS community, attempting karaoke and playing video games.",
-      "photoUrl": "https://auc.edu.au/media/dw23/toliver.jpg"
-    },
-    {
-      "speaker": "will-laws",
-      "role": "Senior Solution Architect, Amazon Web Services (AWS)",
-      "bio": "Will is a Senior Solutions Architect at AWS, working with FSI FinTech customers. Since beginning his career on AWS in 2009, Will has never put his iPhone in a case. In 2018, he co-founded Rovercode, an initiative aimed at enhancing STEM education through robotics. His extensive experience with AWS took him on a global journey, leading to his relocation in 2020 from the Midwest of the US to Sydney. He now lives there with his wife, enjoying his collection of vinyl records and various Mac keyboards. While his professional focus is designing scalable, event-driven architectures for customers, Will also has a deep passion for all things Apple.",
-      "photoUrl": "https://auc.edu.au/media/dw24/wlaws.jpg"
-    },
-    {
-      "speaker": "alex-apriamashvili",
-      "role": "SafetyCulture Pty Ltd",
-      "bio": "Alex is a mobile engineer at SafetyCulture, bringing experience from roles in corporate applications at leading banks and contributions to mobile core teams at companies like Grab and SafetyCulture. With a passion for optimizing developer experience and exploring new technologies, Alex aims to drive positive change within the team and the organization."
-    }
+    "adam-shaw",
+    "gareth-lloyd",
+    "james-warren",
+    "joel-rennich",
+    "josh-deprez",
+    "louis-cremen",
+    "quentin-zervaas",
+    "rob-amos",
+    "sam-jarman",
+    "stuart-varrall",
+    "sushant-verma",
+    "thomas-karpiniec",
+    "tim-oliver",
+    "will-laws",
+    "alex-apriamashvili"
   ],
   "talks": [
     {

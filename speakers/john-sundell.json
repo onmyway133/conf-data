@@ -1,3 +1,8 @@
 {
-  "name": "John Sundell"
+  "name": "John Sundell",
+  "role": "Creator of SwiftBySundell.com, Co-host of Stacktrace podcast, Swift Developer",
+  "bio": "John is Swift developer and iOS freelancer who builds apps, games and developer tools. He also makes Swift by Sundell, a collection of articles and a podcast about Swift development, and co-hosts the Stacktrace podcast.",
+  "photoUrl": "https://2023.pragmaconference.com/assets/speakers/jonh_sundell.jpeg",
+  "twitter": "https://twitter.com/johnsundell",
+  "website": "https://www.swiftbysundell.com"
 }

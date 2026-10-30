@@ -14,154 +14,27 @@
   "twitter": "https://x.com/iosconfsg",
   "source": "confs.tech",
   "speakers": [
-    {
-      "speaker": "paul-hudson",
-      "role": "Hacking with Swift",
-      "bio": "Paul is the author of Hacking with Swift. He quite likes Swift. And coffee. (But mostly Swift.) (And coffee.)",
-      "photoUrl": "https://2022.iosconf.sg/speakers/paul.jpg",
-      "twitter": "https://www.twitter.com/twostraws"
-    },
-    {
-      "speaker": "vivian-phung",
-      "role": "Instagram",
-      "bio": "Vivian is an iOS engineer at Instagram. In her free time, she likes baking desserts, trying new foods, and organizing events!",
-      "photoUrl": "https://2022.iosconf.sg/speakers/vivian.jpg",
-      "twitter": "https://www.twitter.com/vivianphung",
-      "linkedin": "https://www.linkedin.com/in/vivphung/"
-    },
-    {
-      "speaker": "marin-todorov",
-      "role": "Indie iOS Dev",
-      "bio": "Marin Todorov is a developer, speaker. Besides crafting code, he enjoys blogging, writing books, teaching.",
-      "photoUrl": "https://2022.iosconf.sg/speakers/marin.jpg",
-      "twitter": "https://www.twitter.com/icanzilb"
-    },
-    {
-      "speaker": "tunde-adegoroye",
-      "role": "iOS Educator",
-      "bio": "Tunde is an iOS content creator on YouTube, he loves to explore and discuss solutions to complex problems.",
-      "photoUrl": "https://2022.iosconf.sg/speakers/tunde.jpg",
-      "twitter": "https://www.twitter.com/tundsdev"
-    },
-    {
-      "speaker": "federico-zanetello",
-      "role": "OOZOU",
-      "bio": "Federico Zanetello has strong passion for Swift, minimalism, and design. He can be often found writing at fivestars.blog",
-      "photoUrl": "https://2022.iosconf.sg/speakers/federico.jpg",
-      "twitter": "https://www.twitter.com/zntfdr"
-    },
-    {
-      "speaker": "daniel-h-steinberg",
-      "role": "Dim Sum Thinking",
-      "bio": "Daniel is the author of more than a dozen books, including the best selling books A Functional Programming Kickstart, A SwiftUI Kickstart, A Swift Kickstart and Dear Elena.",
-      "photoUrl": "https://2022.iosconf.sg/speakers/daniel.jpg",
-      "twitter": "https://www.twitter.com/dimsumthinking"
-    },
-    {
-      "speaker": "frank-courville",
-      "role": "School of Swift",
-      "bio": "Frank is the chief instructor and content creator at School of Swift, helping teams skill up their iOS development.",
-      "photoUrl": "https://2022.iosconf.sg/speakers/frank.jpg",
-      "twitter": "https://www.twitter.com/Frankacy"
-    },
-    {
-      "speaker": "bas-broek",
-      "role": "WeTransfer",
-      "bio": "Bas is an iOS and macOS developer with a passion for testability, accessibility and user-centric apps. He cares about communication and collaboration. He likes coffee and watches (a lot).",
-      "photoUrl": "https://2022.iosconf.sg/speakers/bas.jpg",
-      "twitter": "https://www.twitter.com/basthomas"
-    },
-    {
-      "speaker": "ting-becker",
-      "role": "Rocket Mortgage",
-      "bio": "Tee is a self taught iOS developer who started in accounting but landed in tech. In her freetime, you can find her boxing, practicing muay thai, working on new jumprope tricks or just working out.",
-      "photoUrl": "https://2022.iosconf.sg/speakers/ting.jpg",
-      "twitter": "https://www.twitter.com/Teekachu1"
-    },
-    {
-      "speaker": "vincent-pradeilles",
-      "role": "Worldline",
-      "bio": "Vincent works at Worldline and contributes to building great apps for major French banks. He also enjoys sharing about Swift and iOS on his YouTube channel.",
-      "photoUrl": "https://2022.iosconf.sg/speakers/vincent.jpg",
-      "twitter": "https://www.twitter.com/v_pradeilles"
-    },
-    {
-      "speaker": "pradnya-nikam",
-      "role": "Rakuten Viki",
-      "bio": "Pradnya is an iOS engineer at Rakuten Viki. She loves all things coding, enjoys writing blog posts and reading classic novels.",
-      "photoUrl": "https://2022.iosconf.sg/speakers/pradnya.jpg",
-      "twitter": "https://www.twitter.com/pradnya_nikam"
-    },
-    {
-      "speaker": "maciej-piotrowski",
-      "role": "Allegro",
-      "bio": "Maciej is a passionate iOS developer who pays much attention to details and code quality. He likes improving things, always looking for better solutions because he's amazed that in the programming world.",
-      "photoUrl": "https://2022.iosconf.sg/speakers/maciej.jpg",
-      "twitter": "https://www.twitter.com/macpiotrowski89"
-    },
-    {
-      "speaker": "an-tran",
-      "role": "Grab",
-      "bio": "An is currently helping to build a digital Bank App at Grab. He loves sharing Swift contents on SwiftVietnam.com, and reading rocket/space science books.",
-      "photoUrl": "https://2022.iosconf.sg/speakers/antran.jpg",
-      "twitter": "https://www.twitter.com/antranapp"
-    },
-    {
-      "speaker": "danijela-vrzan",
-      "role": "Deloitte Canada",
-      "bio": "Danijela is an iOS Developer and an article author for raywenderlich.com. In her free time, you can find her hiking or lifting heavy weights at the gym.",
-      "photoUrl": "https://2022.iosconf.sg/speakers/danijela.jpg",
-      "twitter": "https://www.twitter.com/dvrzan"
-    },
-    {
-      "speaker": "moataz-nabil",
-      "role": "Bitrise",
-      "bio": "Moataz is a developer advocate at Bitrise and has more than 12 years of experience across development and testing roles across industries including agriculture, telecom, healthcare, fashion, and more.",
-      "photoUrl": "https://2022.iosconf.sg/speakers/moataz.jpg",
-      "twitter": "https://www.twitter.com/Moatazeldebsy"
-    },
-    {
-      "speaker": "omer-iqbal",
-      "role": "Sea",
-      "bio": "Omer is an iOS Engineer at Sea with a passion for using lldb to dig into private frameworks, and proselytising functional programming.",
-      "photoUrl": "https://2022.iosconf.sg/speakers/omer.jpg",
-      "twitter": "https://www.twitter.com/olenhad"
-    },
-    {
-      "speaker": "jeroen-leenarts",
-      "role": "Stream",
-      "bio": "Jeroen is the iOS Developer Relations Lead at Stream. He is a software developer with 20 years of experience and has focussed on iOS development for over a decade. He also runs a podcast with a focus on iOS developers called AppForce1",
-      "photoUrl": "https://2022.iosconf.sg/speakers/jeroen.jpg",
-      "twitter": "https://www.twitter.com/AppForce1"
-    },
-    {
-      "speaker": "martin-mitrevski",
-      "role": "Stream",
-      "bio": "Martin is working at Stream, where he enjoys building a cool new SwiftUI chat SDK, in the open. In his spare time, he blogs at martinmitrevski.com about iOS-related tech, builds indie apps and occasionally speaks at mobile conferences.",
-      "photoUrl": "https://2022.iosconf.sg/speakers/martin.jpg",
-      "twitter": "https://www.twitter.com/mitrevski"
-    },
-    {
-      "speaker": "manuel-carrasco-molina",
-      "role": "Developer, Activist",
-      "bio": "Manuel has been programming since he got his C64 in 1987. He also has been a local politician in Germany and an activist for many years. Whether for the cause of the environment or helping Refugees on the road, Manuel is eager to make an impact. He loves giving ethical talks at technical conferences.",
-      "photoUrl": "https://2022.iosconf.sg/speakers/manuel.jpg",
-      "twitter": "https://www.twitter.com/StuFFmc"
-    },
-    {
-      "speaker": "malin-sundberg",
-      "role": "Orbit",
-      "bio": "Malin is an iOS and macOS developer who decided to go full in on SwiftUI when creating her app Orbit for the Mac, iPhone, and iPad. She will conduct a workshop on Multi-platform Development with SwiftUI.",
-      "photoUrl": "https://2022.iosconf.sg/speakers/malin.jpg",
-      "twitter": "https://www.twitter.com/malinsundberg"
-    },
-    {
-      "speaker": "sven-schleier",
-      "role": "F-Secure",
-      "bio": "Sven is the Technical Director of F-Secure, Singapore and has hands-on experience in attacking and defending web and mobile apps for the last 10+ years. He will conduct a workshop on Finding vulnerabilities in iOS Apps.",
-      "photoUrl": "https://2022.iosconf.sg/speakers/sven.jpg",
-      "twitter": "https://www.twitter.com/bsd_daemon"
-    }
+    "paul-hudson",
+    "vivian-phung",
+    "marin-todorov",
+    "tunde-adegoroye",
+    "federico-zanetello",
+    "daniel-h-steinberg",
+    "frank-courville",
+    "bas-broek",
+    "ting-becker",
+    "vincent-pradeilles",
+    "pradnya-nikam",
+    "maciej-piotrowski",
+    "an-tran",
+    "danijela-vrzan",
+    "moataz-nabil",
+    "omer-iqbal",
+    "jeroen-leenarts",
+    "martin-mitrevski",
+    "manuel-carrasco-molina",
+    "malin-sundberg",
+    "sven-schleier"
   ],
   "talks": [
     {

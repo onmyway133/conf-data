@@ -13,41 +13,14 @@
   ],
   "source": "cocoaconferences",
   "speakers": [
-    {
-      "speaker": "chris-eidhof",
-      "twitter": "https://www.twitter.com/chriseidhof"
-    },
-    {
-      "speaker": "gina-binetti",
-      "twitter": "https://www.twitter.com/theginbin"
-    },
-    {
-      "speaker": "lisa-luo",
-      "twitter": "https://www.twitter.com/luoser"
-    },
-    {
-      "speaker": "viktor-belenyesi",
-      "twitter": "https://www.twitter.com/bvic23"
-    },
-    {
-      "speaker": "yasuhiro-inami",
-      "twitter": "https://www.twitter.com/inamiy"
-    },
-    {
-      "speaker": "karoly-lorentey",
-      "twitter": "https://www.twitter.com/lorentey"
-    },
-    {
-      "speaker": "daniel-haight",
-      "twitter": "https://www.twitter.com/Daniel1of1"
-    },
-    {
-      "speaker": "rheese-burgess",
-      "twitter": "https://www.twitter.com/RheeseyB"
-    },
-    {
-      "speaker": "brandon-williams",
-      "twitter": "https://www.twitter.com/mbrandonw"
-    }
+    "chris-eidhof",
+    "gina-binetti",
+    "lisa-luo",
+    "viktor-belenyesi",
+    "yasuhiro-inami",
+    "karoly-lorentey",
+    "daniel-haight",
+    "rheese-burgess",
+    "brandon-williams"
   ]
 }

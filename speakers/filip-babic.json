@@ -1,3 +1,7 @@
 {
-  "name": "Filip Babić"
+  "name": "Filip Babić",
+  "bio": "Professional developer with extensive knowledge of Android, Kotlin, and Java. Developing since 2015, I’ve amassed a great deal of experience and finished projects using only best practices, building high-quality products. Huge Kotlin lover and preacher, mostly focusing on Kotlin Coroutines and other low-level concurrency mechanisms. Gaming when not coding, writing about coding or speaking about coding at various events, meetups, and conferences. Dungeon master in spare time.",
+  "photoUrl": "http://2019.mobilization.pl/assets/images/speakers/filip-babic.png",
+  "twitter": "https://twitter.com/filbabic",
+  "linkedin": "https://www.linkedin.com/in/filip-babić-52b73a130"
 }

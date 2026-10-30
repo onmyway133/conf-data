@@ -1,3 +1,7 @@
 {
-  "name": "Shinichiro Oba"
+  "name": "Shinichiro Oba",
+  "role": "Programmer",
+  "bio": "Shinichiro Oba is a programmer who loves Apple and LEGO. At work, he develops large-scale applications using The Composable Architecture (TCA). In his spare time, he enjoys exploring low-level technologies such as Embedded Swift and FPGA. He is also the author of books including “Introduction to LEGO MINDSTORMS NXT.”",
+  "photoUrl": "https://tryswift.jp/images/from_app/2026_ShinichiroOba.png",
+  "twitter": "https://x.com/ooba"
 }

@@ -19,34 +19,10 @@
   "twitter": "https://x.com/swiftheroes_it",
   "source": "confs.tech",
   "speakers": [
-    {
-      "speaker": "leigha-jarett",
-      "role": "Product Manager for Flutter, Google",
-      "bio": "Leigha is a Product Manager at Google working on Flutter. She focuses on helping Apple developers and UX designers create beautiful digital experiences. She previously worked in data, on both data analytics and machine learning products.",
-      "photoUrl": "https://swiftheroes.com/2023/wp-content/uploads/sites/3/leigha-jarett.gif",
-      "twitter": "https://twitter.com/leighajarett"
-    },
-    {
-      "speaker": "marin-todorov",
-      "role": "Software Engineer, Apple Platforms",
-      "bio": "Marin Todorov is a developer, author and speaker. He worked on products for companies like Apple, Realm and more. Authored 10+ tech books, spoke at 40+ tech events, built many open-source projects. All the info at: www.underplot.com",
-      "photoUrl": "https://swiftheroes.com/2023/wp-content/uploads/sites/3/marin-todorov.jpg",
-      "twitter": "https://twitter.com/icanzilb"
-    },
-    {
-      "speaker": "elina-semenko",
-      "role": "Software Engineer, EPAM Systems",
-      "bio": "I am a Software Engineer and tech enthusiast. Passionate about writing code and building great products for people. I always try to learn something new and dig into specific topics.\nI also post some interesting stuff at my Medium page, and work on my SwiftMathExpression framework updates.",
-      "photoUrl": "https://swiftheroes.com/2023/wp-content/uploads/sites/3/elina-semenko.jpeg",
-      "website": "https://sessionize.com/elina-semenko"
-    },
-    {
-      "speaker": "krzysztof-zablocki-2",
-      "role": "Engineering, The Browser Company",
-      "bio": "Krzysztof is currently building a better way to use internet @ The Browser Company.\nPreviously was leading iOS @ The New York Times and many other award winning apps.\nPassionate about writing quality code and helping others do the same, he created many free and well known community tools like Sourcery, Objective-C Playgrounds, LifetimeTracker.\nHe blogs on merowing.info and open sources tools/libraries at github.com/krzysztofzablocki",
-      "photoUrl": "https://swiftheroes.com/2023/wp-content/uploads/sites/3/krzysztof-zablocki.jpg",
-      "twitter": "http://twitter.com/merowing_"
-    }
+    "leigha-jarett",
+    "marin-todorov",
+    "elina-semenko",
+    "krzysztof-zablocki-2"
   ],
   "talks": [
     {

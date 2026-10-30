@@ -1,3 +1,8 @@
 {
-  "name": "John O'Reilly"
+  "name": "John O'Reilly",
+  "role": "Software Engineer @ Neat",
+  "bio": "John is an Android Google Developer Expert with over 15 years of Android and iOS development experience. He has been actively exploring and advocating for all things Kotlin Multiplatform since 2018.",
+  "photoUrl": "https://cdn.sessionize.com/image/a075-400o400o1-TLqNe69nTw1RTsYoaYJyKz.jpg",
+  "twitter": "https://x.com/joreilly",
+  "linkedin": "https://www.linkedin.com/in/johnoreilly/"
 }

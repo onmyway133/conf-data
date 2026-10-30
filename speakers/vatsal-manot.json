@@ -1,3 +1,7 @@
 {
-  "name": "Vatsal Manot"
+  "name": "Vatsal Manot",
+  "role": "Framework Designer",
+  "bio": "Vatsal is a Swift programmer with interest in compilers, runtimes and metaprogramming. He has written numerous runtime extensions (“tweaks”) for the jailbroken iPhone, and is currently writing a computer algebra system targeting iOS and macOS. He also enjoys eating and sleeping, as most humans do.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/bangalore2017/vatsal.jpeg",
+  "twitter": "https://twitter.com/vatsal_manot"
 }

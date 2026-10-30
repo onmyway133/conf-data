@@ -1,3 +1,7 @@
 {
-  "name": "Alexey Gaponov"
+  "name": "Alexey Gaponov",
+  "role": "Booking.com",
+  "bio": "I’m a Sr. iOS engineer at Booking.com working on the application infrastructure team. Before moving to Amsterdam was working in Russian startups (Replika, Leprosorium). Started my career by counting references. Programming is my hobby, for me code is art, I have a huge passion for low-level topics like compilers, kernels (*os mainly), security and reverse engineering. Besides the computer, I do mountain bike downhill and love traveling to hard reach destinations.",
+  "photoUrl": "https://2019.nsspain.com/images/speakers/alexey2.jpg",
+  "twitter": "https://twitter.com/0xfeedfad0"
 }

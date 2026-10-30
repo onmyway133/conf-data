@@ -1,3 +1,7 @@
 {
-  "name": "Eleni Papanikolopoul"
+  "name": "Eleni Papanikolopoul",
+  "role": "Workable",
+  "bio": "Eleni is an iOS Developer based in Athens, Greece. She has been working at Workable, the recruiting software company, for the past three years and holds a Master’s degree in Computer Science from University of Manchester, UK. She entered the iOS world by starting writing Objective-C when contributed in Pobuca, a contacts management app but later on converted to Swift and stayed in its (type) safety. She has co-authored ErrorHandler open source project and she is currently embracing TDD and ReactiveX concepts. When she doesn't work, she enjoys traveling more than anything, snowboarding, learning Spanish and watching Netflix series.",
+  "photoUrl": "https://2019.nsspain.com/images/speakers/eleni2.jpg",
+  "twitter": "https://twitter.com/elenipapanikolo"
 }

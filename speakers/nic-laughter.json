@@ -1,3 +1,7 @@
 {
-  "name": "Nic Laughter"
+  "name": "Nic Laughter",
+  "role": "Software engineer at Jane.com",
+  "bio": "Nic Laughter is a technophile currently living in Utah. He has been writing code since 2015 and currently works as a software engineer generalist at Jane.com, primarily working on the main iOS app and occasionally contributing to the website and React Native seller app. He sometimes blogs on Medium, and in his spare time you can find him making music, playing video games, or hanging out with his family.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2019/speakers/nic_laughter.jpg",
+  "twitter": "https://twitter.com/nictheawesome"
 }

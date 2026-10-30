@@ -1,3 +1,7 @@
 {
-  "name": "Yusuke Hosonuma"
+  "name": "Yusuke Hosonuma",
+  "role": "Software Engineer at DeNA",
+  "bio": "Yusuke is working at DeNA SWET group. He recognizes how beautiful of Functional Programming and study Haskell now. He likes to solve algorithm problems with Haskell, with automated testing.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2019/speakers/yusuke.jpg",
+  "twitter": "https://twitter.com/tobi462"
 }

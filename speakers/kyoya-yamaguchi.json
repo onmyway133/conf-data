@@ -1,3 +1,8 @@
 {
-  "name": "Kyoya Yamaguchi"
+  "name": "Kyoya Yamaguchi",
+  "bio": "Started programming in Swift during junior high school and won first place in an app development competition.\nBegan working as an iOS engineering intern while in high school, alongside developing applications independently.\nSwift Student Challenge Winner (2023, 2024).\nCurrently working as an iOS App Developer at CoeFont",
+  "photoUrl": "https://tryswift.jp/images/from_app/kyoya.jpg",
+  "twitter": "https://x.com/kyoya1123",
+  "linkedin": "https://www.linkedin.com/in/kyoya-yamaguchi",
+  "website": "https://kyoya.me"
 }

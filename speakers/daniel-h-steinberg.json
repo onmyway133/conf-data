@@ -1,3 +1,8 @@
 {
-  "name": "Daniel H Steinberg"
+  "name": "Daniel H Steinberg",
+  "role": "Dim Sum Thinking",
+  "bio": "Daniel is the author of more than a dozen books, including the best selling books A Functional Programming Kickstart, A SwiftUI Kickstart, A Swift Kickstart and Dear Elena.",
+  "photoUrl": "https://2022.iosconf.sg/speakers/daniel.jpg",
+  "twitter": "https://www.twitter.com/dimsumthinking",
+  "website": "https://dimsumthinking.com"
 }

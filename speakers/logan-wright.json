@@ -1,3 +1,7 @@
 {
-  "name": "Logan Wright"
+  "name": "Logan Wright",
+  "role": "Vapor, Open Source Contributor",
+  "bio": "Originally planning on working his way up the ranks of Panera Bread Company, Logan was unexpectedly thrust into the high octane world of iOS App Development. Passionate about open source, he eventually found his way to Vapor where he currently works developing open source web tools in swift. He still makes sandwiches in his spare time.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2018/speakers/logan.jpg",
+  "twitter": "https://twitter.com/LogMaestro"
 }

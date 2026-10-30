@@ -1,3 +1,6 @@
 {
-  "name": "Josh Deprez"
+  "name": "Josh Deprez",
+  "role": "Buildkite",
+  "bio": "Josh's hobbies include the care and feeding of vintage Mac computers, recreational sysadmin, and ranked competitive computer touching^W programming. Josh is a Staff Software Engineer at Buildkite, where they work mostly on software written in Go. Previously, Josh was a Site Reliabilty Engineer at Google, in which they learned a lot about scaling enterprise networks and crawling the web. Josh is also a regular presenter at /dev/world and might give up the vintage Apple schtick one day...but not today!",
+  "photoUrl": "https://auc.edu.au/media/dw23/jdeprez.jpg"
 }

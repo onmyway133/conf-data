@@ -1,3 +1,7 @@
 {
-  "name": "Kristina Fox"
+  "name": "Kristina Fox",
+  "role": "Senior iOS Engineer at Intuit",
+  "bio": "Kristina Fox is a Senior iOS Engineer at Intuit. She writes tutorials and technical commentary on iOS and watchOS development on her website kristina.io. As an international speaker, she has presented on topics ranging from Apple Watch development to using technical writing to advance engineering skills. Her past speaking events include talks at AltConf, NSSpain, iOSDevUK and many more. Kristina’s main goal in life is to consume as much avocado toast as she can. She also enjoys watching cat videos and Twittering. Find her on Twitter @krstnfx.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2019/speakers/krstnfx.png",
+  "twitter": "https://twitter.com/krstnfx"
 }

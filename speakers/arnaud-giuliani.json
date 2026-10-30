@@ -1,3 +1,6 @@
 {
-  "name": "Arnaud Giuliani"
+  "name": "Arnaud Giuliani",
+  "role": "CEO Product/Tech, Kotzilla",
+  "bio": "Arnaud has over 18 years of experience in software engineering, spanning roles in developing Java/JVM systems and leading Android application projects for startups. He has served as both a Senior Developer and Tech Lead, applying his expertise across various sectors.\nSince 2016, he has been an active speaker on topics such as Kotlin, Android Architecture, and Koin, and in 2020, he was recognized as a Google Developer Expert for Kotlin.\nIn 2017, Arnaud initiated the development of Koin (https://insert-koin.io/), a lightweight dependency injection framework that has become well-known in the Kotlin ecosystem.\nBy late 2022, he co-founded Kotzilla (https://kotzilla.io/), a company focused on building developer tools and SaaS platforms for Kotlin and mobile developers.",
+  "photoUrl": "https://it.droidcon.com/2025/wp-content/uploads/sites/6/sito_foto_giuliani.png"
 }

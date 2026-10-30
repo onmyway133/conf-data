@@ -1,3 +1,9 @@
 {
-  "name": "Soojin Ro"
+  "name": "Soojin Ro",
+  "role": "iOS developer @ WEBTOON",
+  "bio": "Soojin is an iOS developer based in South Korea, making the comics app WEBTOON for 55M+ global users. He is passionate about Swift and ARKit, and believes everyone will have their own AR glasses one day. Once a business major in university, he started coding in spare time and the first iOS app he crafted was awarded the Best of 2015, 2016, and 2017 (Yes, three years in a row!) Top Paid Apps in South Korea. He writes about Swift, programming, and mobile apps on his blog.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2019/soojinro.jpg",
+  "twitter": "https://twitter.com/soojinro",
+  "linkedin": "https://www.linkedin.com/in/soojinro/",
+  "website": "https://soojin.ro/about"
 }

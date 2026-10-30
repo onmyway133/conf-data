@@ -1,3 +1,6 @@
 {
-  "name": "Baptiste Dajon"
+  "name": "Baptiste Dajon",
+  "role": "Decathlon",
+  "bio": "Baptiste is an Apple Platforms Engineer at Decathlon, where he works at the intersection of native Apple development, retail innovation, product strategy, and spatial computing. He has been building for Apple platforms since 2008, from Objective-C to Swift, SwiftUI, and visionOS.\n\nAt Decathlon, he contributes to Apple platform strategy and has worked on customer-facing apps, internal retail tools, and immersive experiences exploring how iOS, iPadOS, tvOS, and visionOS can support new retail and sport journeys.\n\nHe is also an independent app maker behind several Apple-focused projects, including 9:41, DubDub!, WishKit, SkillKit, and Showroom Studio, and is active in the Apple developer community through talks, community initiatives, and knowledge sharing.",
+  "photoUrl": "https://swiftconnection.io/static/634714ae51ce1fab474d420dea10ab09/a3f46/photo.png"
 }

@@ -1,3 +1,8 @@
 {
-  "name": "Jeroen Leenarts"
+  "name": "Jeroen Leenarts",
+  "role": "Senior iOS Engineer at Dawn Technology",
+  "bio": "Jeroen is a Senior iOS Engineer at Dawn Technology and the organizer of Do iOS. He has been building software since 2002, and iOS has been his main focus since 2012.\n\nHe previously led iOS developer relations at Stream, where the job was to make a complex product feel simple for other developers. Before that he led iOS work at Achmea and consulted at Xebia. Across that path he has moved between Python, Java, Objective-C, and Swift — and between writing code and talking with the people who have to live with it.\n\nOutside the day job he runs AppForce1, a podcast and writing practice about real iOS work rather than polished demos, and he has chaired CocoaHeadsNL since 2013. He is the author of Lead Developer.\n\nYou can follow Jeroen on X and at appforce1.net.",
+  "photoUrl": "https://do-ios.com/images/speakers/2026/jeroen.webp",
+  "twitter": "https://x.com/appforce1",
+  "website": "https://appforce1.net"
 }

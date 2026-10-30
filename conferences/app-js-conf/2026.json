@@ -16,18 +16,10 @@
   "twitter": "https://x.com/appjsconf",
   "source": "confs.tech",
   "speakers": [
-    {
-      "speaker": "norbert-klockiewicz"
-    },
-    {
-      "speaker": "kiryl-ziusko"
-    },
-    {
-      "speaker": "iwo-plaza"
-    },
-    {
-      "speaker": "britta-evans-fenton"
-    }
+    "norbert-klockiewicz",
+    "kiryl-ziusko",
+    "iwo-plaza",
+    "britta-evans-fenton"
   ],
   "talks": [
     {

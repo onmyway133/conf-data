@@ -1,3 +1,6 @@
 {
-  "name": "Bob Lee"
+  "name": "Bob Lee",
+  "bio": "Bob Lee is known as Bob the Developer. After having failed at running an app startup in college, He has been sharing what he has learned since last year. He focuses on the Swift fundamentals for those who want to get started with iOS Development at blog.bobthedeveloper.io . Besides teaching, He enjoys playing basketball, interacting with his readers, and finding shortcuts.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/bangalore2017/instructors/bob.png",
+  "twitter": "https://twitter.com/bobleesj"
 }

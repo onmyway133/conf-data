@@ -1,3 +1,7 @@
 {
-  "name": "Alessandro Finocchiaro"
+  "name": "Alessandro Finocchiaro",
+  "role": "Senior Mobile Architect, Almaviva",
+  "bio": "My Android story began with a green UI and a gingerbread man: Gingerbread. I’ve been writing Android code since before Fragments existed. From there, I’ve ridden every wave of innovation: from the rigidity of Eclipse to the power of Gradle, from the verbosity of Java to the elegance of Kotlin. Today, I bring this unique perspective into the new era of mobile development, building bridges between platforms with Kotlin Multiplatform..",
+  "photoUrl": "https://it.droidcon.com/2025/wp-content/uploads/sites/6/sito_foto2_finocchiaro.png",
+  "twitter": "https://x.com/swaix/"
 }

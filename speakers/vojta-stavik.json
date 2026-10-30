@@ -1,3 +1,6 @@
 {
-  "name": "Vojta Stavik"
+  "name": "Vojta Stavik",
+  "role": "industrial-binaries.co",
+  "bio": "Vojta is the lead iOS engineer and founder of Industrial Binaries. He spends most of his day giving second chances to legacy codebases no one wants to touch. He started the Prague branch of CocoaHeads, and writes articles about Swift and iOS development at VojtaStavik.com.",
+  "twitter": "https://twitter.com/VojtaStavik"
 }

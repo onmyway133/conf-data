@@ -1,3 +1,7 @@
 {
-  "name": "Hikaru Yoshimura"
+  "name": "Hikaru Yoshimura",
+  "role": "Developer at Recruit Marketing Partners",
+  "bio": "Hikaru Yoshimura works as a Scala engineer. He used to study type systems when he was in the university so he can program using some functional languages a little bit. He sometimes brings the good parts of languages like Scala, Haskell or OCaml to Swift.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2019/speakers/yu_yoshimura.jpg",
+  "twitter": "https://twitter.com/_yyu_"
 }

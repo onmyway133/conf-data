@@ -1,3 +1,8 @@
 {
-  "name": "Yuta Saito"
+  "name": "Yuta Saito",
+  "role": "Compiler Toolchain Engineer at Goodnotes",
+  "bio": "Yuta is a Compiler Toolchain Engineer at Goodnotes, working on everything needed to make Swift available on the Web at production quality. He is a committer for WebAssembly support in Swift and Ruby.",
+  "photoUrl": "https://ik.imagekit.io/iosconfsg/speakers/yuta.jpeg",
+  "twitter": "https://x.com/kateinoigakukun",
+  "linkedin": "https://www.linkedin.com/in/kateinoigakukun"
 }

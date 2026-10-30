@@ -1,3 +1,7 @@
 {
-  "name": "Brandon Williams"
+  "name": "Brandon Williams",
+  "role": "Point-Free",
+  "bio": "Brandon spent a long time doing mathematics, but now likes to teach programming with a nod towards math. He co-hosts a video series called Point-Free, which focuses on the Swift language and how to best make use of its type system and features.",
+  "photoUrl": "https://2022.nsspain.com/images/speakers/brandon.jpg",
+  "twitter": "https://twitter.com/mbrandonw"
 }

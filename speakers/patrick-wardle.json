@@ -1,3 +1,6 @@
 {
-  "name": "Patrick Wardle"
+  "name": "Patrick Wardle",
+  "role": "Founder - Objective-See Foundation",
+  "bio": "Patrick Wardle is the Cofounder of the Objective-See Foundation, the CEO/Cofounder of DoubleYou, and the author of The Art of Mac Malware book series. Having worked at NASA and the NSA, as well as presenting at countless security conferences, he is intimately familiar with aliens, spies, and talking nerdy.\n\nPassionate about macOS security, Patrick spends his days discovering Apple 0-days, studying macOS malware, and releasing free open-source security tools to protect Mac users.",
+  "photoUrl": "https://macsysadmin.se/speakers/files/image-2150.png"
 }

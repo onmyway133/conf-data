@@ -1,3 +1,7 @@
 {
-  "name": "Samuel Giddins"
+  "name": "Samuel Giddins",
+  "role": "Bundler & CocoaPods Core Team, Developer at Square",
+  "bio": "Samuel is a developer well-versed in the rituals of writing developer tools that occasionally work. By day, Samuel works on making the mobile developer experience at Square less arduous; by night he can be found breaking Bundler and CocoaPods. Before this whole 'developer' thing, Samuel studied in the highly impractical Mathematics & Economics departments at University of Chicago, learning subjects such as 'numbers', 'social theory', and 'memes'. When not coding, Samuel is often in the kitchen, marveling at the fact that dinner smells better than it looks.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2018/sam.jpg",
+  "twitter": "https://twitter.com/segiddins"
 }

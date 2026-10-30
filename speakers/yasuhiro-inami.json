@@ -1,3 +1,7 @@
 {
-  "name": "Yasuhiro Inami"
+  "name": "Yasuhiro Inami",
+  "role": "Software Engineer at Goodnotes",
+  "bio": "Inamiy is an iOS developer at Goodnotes, focusing on mobile app development and AI-powered features.\nHe is a big fan of functional programming including Swift, Haskell, and any statically typed languages that can check his bad code.\nNowadays, he has shifted toward compiler-like work that helps detect and correct poor code produced by AI.",
+  "photoUrl": "https://tryswift.jp/images/from_app/2026_YasuhiroInami.png",
+  "twitter": "https://twitter.com/inamiy"
 }

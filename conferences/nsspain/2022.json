@@ -14,171 +14,32 @@
   "twitter": "https://x.com/nsspain",
   "source": "confs.tech",
   "speakers": [
-    {
-      "speaker": "josefina-bustamante",
-      "role": "Cofounder @Bel & @Swiftable",
-      "bio": "Josefina is an iOS software engineer. She has been developing iOS stuff for more than 7 years, although she never gets tired of learning. Since the pandemic, she jumped into the adventure of building her startup to make an impact in education, Bel Community. At Bel she is co-founder, developer, PO and leads the tech team. She is also co-founder of the largest iOS conference in LATAM, BA:Swiftable =)",
-      "photoUrl": "https://2022.nsspain.com/images/speakers/josefina.jpg",
-      "twitter": "https://twitter.com/jowinst"
-    },
-    {
-      "speaker": "michael-flarup",
-      "role": "Northplay & Pixelresort",
-      "bio": "Michael Flarup is a designer from Denmark. He lives on the island of Zealand in the medieval city of Køge with his wife and two children. He started making things on his computer in his teens in the late 90s and hasn't stopped since. Michael’s career of pursuing fun in what he does has led him to run companies and initiatives that have produced products, apps, services, events and games that have been experienced by millions of people. ‘Just making things that make me happy’ is usually how Michael explains his multidisciplinary career. His signature visual style is best described as vibrant and playful. Today you’ll find him running his game studio Northplay, freelancing as a graphic designer or speaking at conferences around the world while getting involved in as many side projects he can manage while being a dad.",
-      "photoUrl": "https://2022.nsspain.com/images/speakers/michael.jpg",
-      "twitter": "https://twitter.com/flarup"
-    },
-    {
-      "speaker": "betty-godier",
-      "role": "VanMoof",
-      "bio": "Betty Godier is a Software Engineer who builds beautiful and user-friendly iOS apps with diverse and inclusive teams for VanMoof in Amsterdam. She has worked in Engineering roles from Entrepreneur to Engineer, and in disciplines from electronic systems to mobile applications. As a lead volunteer at Women Who Code Mobile, she helps provide members with the skills and confidence needed to advance their technical careers.",
-      "photoUrl": "https://2022.nsspain.com/images/speakers/betty.jpg"
-    },
-    {
-      "speaker": "brandon-williams",
-      "role": "Point-Free",
-      "bio": "Brandon spent a long time doing mathematics, but now likes to teach programming with a nod towards math. He co-hosts a video series called Point-Free, which focuses on the Swift language and how to best make use of its type system and features.",
-      "photoUrl": "https://2022.nsspain.com/images/speakers/brandon.jpg",
-      "twitter": "https://twitter.com/mbrandonw"
-    },
-    {
-      "speaker": "bas-broek",
-      "role": "WeTransfer",
-      "bio": "Bas is an iOS and macOS developer with a passion for testability, accessibility and user-centric apps. He cares about communication and collaboration.\n\nLikes coffee and watches (a lot).",
-      "photoUrl": "https://2022.nsspain.com/images/speakers/bas.jpg",
-      "twitter": "https://twitter.com/basthomas"
-    },
-    {
-      "speaker": "alaina-kafkes",
-      "role": "Calm",
-      "bio": "Alaina is a senior software engineer at Calm where she works on making and maintaining their mindfulness haven of an iOS app. Before that, she built up her iOS engineering chops on the mobile team at Medium. Outside of work, you can find her IRL and on the Internet defending cabbage and other underappreciated vegetables.",
-      "photoUrl": "https://2022.nsspain.com/images/speakers/alaina.jpg",
-      "twitter": "https://twitter.com/alainakafkes"
-    },
-    {
-      "speaker": "sash-zats",
-      "role": "Instagram",
-      "bio": "Sash has been a software engineer at Meta for 6 years, working on a broad range of projects from Facebook NewsFeed, Origami design macOS app, to android OS, <redacted> hardware, prototyping for brain-computer interfaces, and now blockchain on Instagram. Some say Sash has commitment issues, to which Sash says you are not my therapist. He values curiosity, strong opinions weakly held, and life-long learning.",
-      "photoUrl": "https://2022.nsspain.com/images/speakers/sash.jpg",
-      "twitter": "https://twitter.com/zats"
-    },
-    {
-      "speaker": "jp-simard",
-      "role": "Lyft",
-      "bio": "JP started writing iOS apps in 2011, and has since been involved in projects like Realm, Jazzy, SwiftLint, Yams and Swift Unwrapped. At Lyft, JP worked on introducing public transit, bikes and scooters into the apps, recently transitioning to the Envoy Mobile project, a powerful open source networking library.",
-      "photoUrl": "https://2022.nsspain.com/images/speakers/jp.jpg",
-      "twitter": "https://twitter.com/simjp"
-    },
-    {
-      "speaker": "jessica-hernandez-velarde",
-      "role": "Wallapop",
-      "bio": "Jessica is a Senior iOS Engineer at Wallapop, where she works building tools for improving performance and facilitating other developers tasks. She is an enthusiastic technology and innovation lover with a background in Communication, Gamification and Marketing where she enjoys experimenting with content creation to bring new ideas to life. Naturally curious, she enjoys looking for different ways to collaborate and build something cool and useful!",
-      "photoUrl": "https://2022.nsspain.com/images/speakers/jessica.jpg"
-    },
-    {
-      "speaker": "hiralee-malaviya",
-      "role": "N26",
-      "bio": "Hiralee Malaviya is a Senior iOS Engineer at N26, helping to build a banking experience the world loves to use. Hiralee has over a decade of experience in iOS development starting with 3GS iPhone model and making her way through manual reference counting. Hiralee has experience developing iOS apps for various domains from banking to aviation and from real estate to electronic communications. She loves writing about iOS on Medium (https://hiralee.medium.com/). When not programming in Swift, Hiralee loves to read non-fiction books, gardening and traveling to experience different cultures around the world.",
-      "photoUrl": "https://2022.nsspain.com/images/speakers/hiralee.jpg"
-    },
-    {
-      "speaker": "subhransu-behera",
-      "role": "SP Group",
-      "bio": "Subh is a software developer and creative writer. He has released a music album, founded a startup, organised an international programming conference and now writing his memoir. Subh believes the knowledge he has acquired through various fields is interconnected, and the expertise in one area is an unfair advantage in another. He will share more about it in his talk \"Cross Connection\".",
-      "photoUrl": "https://2022.nsspain.com/images/speakers/subh.jpg",
-      "twitter": "https://twitter.com/subhransu"
-    },
-    {
-      "speaker": "marcin-krzyzanowski",
-      "role": "Judo.app",
-      "bio": "Marcin is passionate about the Open Source & Developer Productivity. Most known for CryptoSwift.io, OnlineSwiftPlayground.com and SwiftStudio.app. Text fragment wrangler. IDE enthusiast. Snarky tweeter. The person with the pink background profile photo on Twitter (@krzyzanowskim) and the surname that you probably can't spell correctly. Works on Swift Studio. Has been working on Swift Studio. Will continue to work on Swift Studio.",
-      "photoUrl": "https://2022.nsspain.com/images/speakers/marcin.jpg",
-      "twitter": "https://twitter.com/krzyzanowskim"
-    },
-    {
-      "speaker": "krzysztof-zablocki",
-      "role": "The Browser Company",
-      "bio": "Krzysztof is a Principal Swift Engineer\n\nCurrently he is building the Browser of the future, previous he led The New York Times.\n\nHe's known for creating Sourcery, Inject, Objective-C Playgrounds, and Apple's Essential Apps like Foldify and 3D Game Engines.\n\nPassionate about writing quality code and helping others do the same. He blogs on https://www.merowing.info and open sources tools/libraries at github.com/krzysztofzablocki",
-      "photoUrl": "https://2022.nsspain.com/images/speakers/krzysztof.jpg",
-      "twitter": "https://twitter.com/merowing_"
-    },
-    {
-      "speaker": "adam-bell",
-      "role": "Netflix",
-      "bio": "Adam is a software engineer specializing in audio, animations, interactions, and gestures, currently working at Netflix. He is the creator of a highly performant animation and gestural interaction library called Motion (https://github.com/b3ll/Motion) and in his spare time he enjoys racing cars, messing with synthesizers, listening to records, and dabbling with the internals of Apple products.",
-      "photoUrl": "https://2022.nsspain.com/images/speakers/adam.jpg",
-      "twitter": "https://twitter.com/b3ll"
-    },
-    {
-      "speaker": "pedro-gomez",
-      "role": "GoodNotes",
-      "bio": "Pedro is a developer focused on new technologies, open-source, clean code, and testing. Right now he's working as a Senior Software Engineer at GoodNotes. Karumi, Tuenti, and Droiders alumni! After more than 10 years of developing software, he tries to write the best possible code every day to build excellent tech products.",
-      "photoUrl": "https://2022.nsspain.com/images/speakers/pedro.jpg",
-      "twitter": "https://twitter.com/pedro_g_s"
-    },
-    {
-      "speaker": "elena-stepanova",
-      "role": "Scalable Capital",
-      "bio": "Lena is an Android developer with curiosity for iOS. She is currently inspired by Kotlin Multiplatform Mobile and enjoys sharing her experience with it.\n\nWhen she's not programming, Lena loves going on adventures, hiking around Europe, surfing, skiing, freediving and regaining strength with the best local cuisine she can find.",
-      "photoUrl": "https://2022.nsspain.com/images/speakers/elena.jpg",
-      "twitter": "https://twitter.com/hlnstep"
-    },
-    {
-      "speaker": "daniel-devesa-derksen-staats",
-      "role": "Spotify",
-      "bio": "Dani has his dream job as an iOS Engineer on Spotify’s Accessibility team. He has previously loved working at Skyscanner or the BBC, where he learned a ton about how to make iOS apps more accessible. Sometimes he lets Xcode have a break and spreads the love for accessibility at conferences. Author of the “Developing Accessible iOS Apps” book, he keeps himself busy by writing a daily tweet about accessibility and iOS with the hashtag #365DaysIOSAccessibility. He’s about to cross one off his bucket list by, not just attending, but also speaking at NSSpain!",
-      "photoUrl": "https://2022.nsspain.com/images/speakers/daniel.jpg",
-      "twitter": "https://twitter.com/dadederk"
-    },
-    {
-      "speaker": "isabel-barrera",
-      "role": "Runway",
-      "bio": "Isabel co-founded Runway – the first control center for mobile app releases – after spending nearly a decade building iOS apps at companies like Rent the Runway, ClassPass, and Kickstarter. She’s passionate about mobile architecture, improving and innovating on team processes, and helping make developer’s lives easier with better tooling. Originally from Mexico, she spent most of her childhood in Canada and is currently living in Brooklyn, New York where you’ll find her in a perpetual search for the best slice of pizza.",
-      "photoUrl": "https://2022.nsspain.com/images/speakers/isabel.jpg",
-      "twitter": "https://twitter.com/ifbarrera"
-    },
-    {
-      "speaker": "rens-breur",
-      "role": "SoundCloud",
-      "bio": "Rens learned to program making apps for iOS 5, and has always stayed faithful to iOS. For a year, he has been part of the iOS team at SoundCloud, working mainly on user-facing features of the app. He is passionate about SwiftUI and has also started a blog on SwiftUI’s inner workings. He has several musical instruments at home that he cannot play, even after many years of practice, so he has decided to listen to music and work with music as a developer instead.",
-      "photoUrl": "https://2022.nsspain.com/images/speakers/rens.jpg"
-    },
-    {
-      "speaker": "matias-villaverde",
-      "role": "SoundCloud",
-      "bio": "Matias is a Senior iOS Engineer at SoundCloud. He builds tools that enable teams to ship faster and more confidently. He has been working for the past eight years writing bugs for startups and big companies. When not programming, you can find him sailing or making BBQs.",
-      "photoUrl": "https://2022.nsspain.com/images/speakers/matias.jpg"
-    },
-    {
-      "speaker": "johannes-fahrenkrug",
-      "role": "Freelance",
-      "bio": "Johannes has been developing for iOS (well, \"iPhone OS\") since the very first SDK was released back in 2008. He’s the co-author of the book “Objective-C Fundamentals” that nobody bought, let alone read. He somehow managed to get a Stump the Experts t-shirt at one WWDC. A good day at work for him consists of finding an elegant solution to a particularly gnarly and esoteric bug. He’s an avid homebrewer and has recently moved to Berlin with his lovely wife. He has been freelancing since 2007 and regularly works on projects with The Smyth Group. He'd love to hear from you if you are dealing with bugs in your iOS app that make you question your sanity.",
-      "photoUrl": "https://2022.nsspain.com/images/speakers/johannes.jpg",
-      "twitter": "https://twitter.com/jfahrenkrug"
-    },
-    {
-      "speaker": "rob-napier",
-      "role": "Audible",
-      "bio": "Rob has been a Cocoa developer since 2003, and began developing for iPhone when the first public SDK came out. Before coming to Cocoa, he made his living sneaking into Chinese facilities in broad daylight, among other InfoSec risk assessment duties. He's given dozens of talks internationally on software development, information security, and cryptography. Today he's a senior developer for Audible's iOS team.",
-      "photoUrl": "https://2022.nsspain.com/images/speakers/rob.jpg",
-      "twitter": "https://twitter.com/cocoaphony"
-    },
-    {
-      "speaker": "eleni-papanikolopoulou",
-      "photoUrl": "https://2022.nsspain.com/images/speakers/eleni.jpg"
-    },
-    {
-      "speaker": "pablo-balduz",
-      "photoUrl": "https://2022.nsspain.com/images/speakers/pablo.jpg"
-    },
-    {
-      "speaker": "aleksandar-ninevski",
-      "photoUrl": "https://2022.nsspain.com/images/speakers/aleks.jpg"
-    },
-    {
-      "speaker": "orta-therox",
-      "photoUrl": "https://2022.nsspain.com/images/speakers/orta.jpg"
-    }
+    "josefina-bustamante",
+    "michael-flarup",
+    "betty-godier",
+    "brandon-williams",
+    "bas-broek",
+    "alaina-kafkes",
+    "sash-zats",
+    "jp-simard",
+    "jessica-hernandez-velarde",
+    "hiralee-malaviya",
+    "subhransu-behera",
+    "marcin-krzyzanowski",
+    "krzysztof-zablocki",
+    "adam-bell",
+    "pedro-gomez",
+    "elena-stepanova",
+    "daniel-devesa-derksen-staats",
+    "isabel-barrera",
+    "rens-breur",
+    "matias-villaverde",
+    "johannes-fahrenkrug",
+    "rob-napier",
+    "eleni-papanikolopoulou",
+    "pablo-balduz",
+    "aleksandar-ninevski",
+    "orta-therox"
   ],
   "talks": [
     {

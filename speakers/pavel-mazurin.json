@@ -1,3 +1,7 @@
 {
-  "name": "Pavel Mazurin"
+  "name": "Pavel Mazurin",
+  "role": "Uber",
+  "bio": "Pavel is an iOS engineer at Uber. He is working in the Payments team in Amsterdam. Throughout two years he participated in re-writing Uber's rider and driver apps, which was a combined effort of 200+ mobile engineers. Pavel started to write apps for iPhone back in 2008, when the first SDK was released. Before that he was writing for Mac OS X for 3 years. In his spare time he likes to follow his passion in uncovering different flavors coffee.",
+  "photoUrl": "https://2018.nsspain.com/images/speakers/pavel.jpeg",
+  "twitter": "https://twitter.com/pmazurin"
 }

@@ -1,3 +1,8 @@
 {
-  "name": "Jorge Castillo"
+  "name": "Jorge Castillo",
+  "bio": "Jorge is an experienced Android Engineer from Spain. He is currently working for GoMore, a danish company from CPH. He is very focused on applying Functional Programing over Kotlin, and he is one of the most active contributors of KΛTEGORY, a library to provide FP constructs, data types and operations over the language`",
+  "photoUrl": "http://2017.mobilization.pl/images/speakers/jorge-castillo.jpg",
+  "twitter": "https://twitter.com/jorgecastillopr",
+  "linkedin": "https://www.linkedin.com/in/jorgecastilloprz",
+  "website": "https://medium.com/@jorgecastillopr"
 }

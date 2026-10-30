@@ -1,3 +1,9 @@
 {
-  "name": "Adam Bell"
+  "name": "Adam Bell",
+  "role": "Netflix",
+  "bio": "Adam is a software engineer specialising in audio, animations, interactions, and gestures, currently working at Netflix.",
+  "photoUrl": "https://2023.iosconf.sg/images/speakers/bell.jpg",
+  "twitter": "https://twitter.com/b3ll",
+  "linkedin": "https://www.linkedin.com/in/b3ll",
+  "website": "https://www.netflix.com/"
 }

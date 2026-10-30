@@ -1,3 +1,7 @@
 {
-  "name": "Ellie Shin"
+  "name": "Ellie Shin",
+  "role": "Sr. iOS Engineer @Uber",
+  "bio": "Ellie is a senior iOS Engineer at Uber on the mobile platform team. She has worked on building Uber’s rider app and tools including a code generator and a duplicate code detector. She cares deeply about optimizing iOS apps and frameworks at scale. She has previously worked at Spotify and Microsoft among other companies, primarily on iOS. She has given talks at UIKonf, NSSpain, and other conferences, on iOS app binary size optimization, efficient code generation, and Swift String performance.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2020/ellie.png",
+  "twitter": "https://twitter.com/ellsk1"
 }

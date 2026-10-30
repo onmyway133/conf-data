@@ -1,3 +1,8 @@
 {
-  "name": "Ben Scheirman"
+  "name": "Ben Scheirman",
+  "role": "NSScreencast",
+  "bio": "Ben is an iOS, Mac, and Ruby on Rails developer from Houston, Texas. Under his company, Fickle Bits,...",
+  "photoUrl": "https://2021.iosconf.sg/speakers/ben.jpg",
+  "twitter": "https://www.twitter.com/subdigital",
+  "website": "https://nsscreencast.com"
 }

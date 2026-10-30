@@ -1,3 +1,9 @@
 {
-  "name": "Kaitlin Mahar"
+  "name": "Kaitlin Mahar",
+  "role": "Software Engineer @ MongoDB",
+  "bio": "Kaitlin is a software engineer living in NYC. She works at MongoDB, where she leads development of the official MongoDB driver for Swift. Outside of work she enjoys doing crossword puzzles, playing with her cats, and trying all of the amazing food and drinks NYC has to offer.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2019/kaitlin.jpg",
+  "twitter": "https://twitter.com/k__mahar",
+  "linkedin": "https://www.linkedin.com/in/kaitlinmahar/",
+  "website": "https://kaitlin.dev/"
 }

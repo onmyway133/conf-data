@@ -1,3 +1,7 @@
 {
-  "name": "Frank Courville"
+  "name": "Frank Courville",
+  "role": "School of Swift",
+  "bio": "Frank is the chief instructor and content creator at School of Swift, helping teams skill up their iOS development.",
+  "photoUrl": "https://2022.iosconf.sg/speakers/frank.jpg",
+  "twitter": "https://www.twitter.com/Frankacy"
 }

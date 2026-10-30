@@ -1,3 +1,7 @@
 {
-  "name": "Yuta Koshizawa"
+  "name": "Yuta Koshizawa",
+  "role": "Chief Engineer at Qoncept",
+  "bio": "Yuta is a software engineer specializing in iOS, Swift, and real-time image recognition. He is the author of ‘Heart of Swift,’ a widely read online Swift book in Japan. He also regularly hosts an online study group called ‘Swift Zoomin’’.",
+  "photoUrl": "https://tryswift.jp/images/from_app/2026_YutaKoshizawa.png",
+  "twitter": "https://x.com/koher"
 }

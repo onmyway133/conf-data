@@ -1,3 +1,8 @@
 {
-  "name": "Piotr Mądry"
+  "name": "Piotr Mądry",
+  "role": "Android Developer at AppUnite",
+  "bio": "Android Developer at AppUnite, a functional programming and rx-based solutions lover, inspired by back-end technologies like Elixir/Phoenix.\nA huge fan of coding challenges, fascinated in inventing and creating completely new things.",
+  "photoUrl": "http://2019.mobilization.pl/assets/images/speakers/piotr-madry.png",
+  "twitter": "https://twitter.com/coala_beers",
+  "linkedin": "https://www.linkedin.com/in/piotr-mądry-40281610b"
 }

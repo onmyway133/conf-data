@@ -1,3 +1,7 @@
 {
-  "name": "Omer Iqbal"
+  "name": "Omer Iqbal",
+  "role": "Sea",
+  "bio": "Omer is an iOS Engineer at Sea with a passion for using lldb to dig into private frameworks, and proselytising functional programming.",
+  "photoUrl": "https://2022.iosconf.sg/speakers/omer.jpg",
+  "twitter": "https://www.twitter.com/olenhad"
 }

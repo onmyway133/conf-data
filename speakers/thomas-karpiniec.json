@@ -1,3 +1,5 @@
 {
-  "name": "Thomas Karpiniec"
+  "name": "Thomas Karpiniec",
+  "role": "Ditto",
+  "bio": "Thomas Karpiniec is a software developer specialising in cross-platform native applications. He has worked on Ditto’s edge sync platform for five years, building the peer-to-peer network infrastructure and integrating the communication capabilities of iPhones, Macs, and other hardware to create meshes that work with or without the internet. Tom lives in Tasmania and has previously presented at /dev/world, including running a workshop on Rust and Swift interop in 2019."
 }

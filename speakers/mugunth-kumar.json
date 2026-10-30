@@ -1,3 +1,8 @@
 {
-  "name": "Mugunth Kumar"
+  "name": "Mugunth Kumar",
+  "role": "Xero",
+  "bio": "Dad first, iOS next. Co-author: iOS Programming Pushing the Limits. Wrote MKStoreKit, MKNetworkKit....",
+  "photoUrl": "https://2021.iosconf.sg/speakers/mugunth.jpg",
+  "twitter": "https://www.twitter.com/mugunthkumar",
+  "website": "https://www.xero.com"
 }

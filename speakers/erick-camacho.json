@@ -1,3 +1,8 @@
 {
-  "name": "Erick Camacho"
+  "name": "Erick Camacho",
+  "role": "Spotify",
+  "bio": "Erick works as a Senior iOS infrastructure engineer at Spotify taking care of the iOS developer expe...",
+  "photoUrl": "https://2021.iosconf.sg/speakers/eric.jpg",
+  "twitter": "https://www.twitter.com/ecamacho",
+  "website": "https://www.spotify.com"
 }

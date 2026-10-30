@@ -1,3 +1,7 @@
 {
-  "name": "Leah Culver"
+  "name": "Leah Culver",
+  "role": "Co-founder and CTO of Breaker",
+  "bio": "Leah Culver is the co-founder and CTO of Breaker, the top social podcast app for iOS. Breaker launched in March 2017 and was Y Combinator class of Winter 2017. Leah also previously founded Pownce, an early social networking site and Convore/Grove, a group messaging service. Leah is also a co-author of both the OAuth and oEmbed open API specifications. She loves Swift, especially powerful enums and fun extensions.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2018/speakers/leah.jpg",
+  "twitter": "https://twitter.com/leahculver"
 }

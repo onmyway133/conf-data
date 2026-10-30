@@ -1,3 +1,7 @@
 {
-  "name": "Erik Hellman"
+  "name": "Erik Hellman",
+  "role": "Boss @ Hellsoft",
+  "bio": "Erik Hellman has been engineering scalable software systems since 1995. Through his independent consultancy, Hellsoft, his track record includes shaping critical features for Spotify, scaling Husqvarna Automower applications, architecting ICA’s self-scanning platform, and consulting for Google’s WebRTC team. Currently working with Eyedentity AI, Erik also maintains an active role in personal software projects, including indie games and developer tools. He is a regular speaker at international technical conferences, delivering practical insights and battle-tested engineering practices.",
+  "photoUrl": "https://cdn.sessionize.com/image/7b4d-400o400o1-7NAsH2vWJG71Ej1NW4HXEx.jpg",
+  "twitter": "https://twitter.com/ErikHellman"
 }

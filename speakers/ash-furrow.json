@@ -1,3 +1,7 @@
 {
-  "name": "Ash Furrow"
+  "name": "Ash Furrow",
+  "role": "Compassionate Engineer at Artsy, Author",
+  "bio": "Ash Furrow is a compassionate software developer from Canada, currently working at Artsy in New York. He has published a number of books, built many apps, and is a prolific contributor to open source software. On his blog, he writes about a range of topics, from interesting programming to explorations of analogue film photography and music.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2018/speakers/ash.jpg",
+  "twitter": "https://twitter.com/ashfurrow"
 }

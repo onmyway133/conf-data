@@ -1,3 +1,7 @@
 {
-  "name": "Andrew Madsen"
+  "name": "Andrew Madsen",
+  "role": "Director of iOS at Lambda School, iPhreaks Co-host",
+  "bio": "Andrew is director of the iOS program at Lambda School. He has been doing Cocoa development for the last 14 years, with a particular focus on audio and video apps for creative people. A full time iOS teacher for the past three years, he loves sharing the wonderful world of Swift and iOS with new programmers. Andrew is also co-host of the iPhreaks iOS development podcast, and enjoys being a part of the developer community. Despite embracing Swift starting in 2014, Objective-C will always be his first love.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2019/speakers/andrew.jpg",
+  "twitter": "https://twitter.com/armadsen"
 }

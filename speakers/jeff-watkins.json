@@ -1,3 +1,9 @@
 {
-  "name": "Jeff Watkins"
+  "name": "Jeff Watkins",
+  "role": "Engineering Manager, Mentor, and Coach at Thoughtful Apes",
+  "bio": "Fleeing the land of Starbucks Coffee and ridiculously-hopped beer (Seattle) with his wife and five cats, Jeff Watkins has found tranquility beside the Water of Leith in Stockbridge, Edinburgh. There he spends his time coaching folks through career transitions, mentoring developers, and teaching public speaking workshops. Somehow he still finds time for roleplaying and killing robot dinosaurs.\n\nJeff has been building software for more than three decades and is currently an engineering manager for Goodnotes. He is a ten year veteran of Apple and has worked on core iOS frameworks and apps delivered via the App Store. It’s not his fault Game Center had either green felt or “those bubbles”.",
+  "photoUrl": "https://pragmaconference.com/images/v/jeff-456.jpg",
+  "twitter": "https://twitter.com/jeffwatkins",
+  "linkedin": "https://www.linkedin.com/in/metrocat/",
+  "website": "https://jeffwatkins.dev"
 }

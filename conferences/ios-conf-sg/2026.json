@@ -12,156 +12,26 @@
     "iOS"
   ],
   "speakers": [
-    {
-      "speaker": "daniel-steinberg",
-      "role": "Author and Trainer",
-      "bio": "Author of A SwiftUI Kickstart and founder of Dim Sum Thinking has guided developers in iOS and Mac programming since the earliest days of the platform. Known for his clear, practical approach to Swift, SwiftUI, and Functional Programming, Daniel’s sessions are a must for developers looking to deepen their skills.\n\nWhen not coding or teaching, he indulges in his passion for cooking and baking, particularly bread making.",
-      "photoUrl": "https://ik.imagekit.io/iosconfsg/speakers/daniel.jpg?updatedAt=1704332547664",
-      "twitter": "https://x.com/danielsteinberg",
-      "linkedin": "https://www.linkedin.com/in/dimsumthinking"
-    },
-    {
-      "speaker": "peter-wong",
-      "role": "Software Architect at Thales CDI",
-      "bio": "Peter is an iOS developer with over 13 years of experience, currently working at Thales CDI PAY, where he develops SDK for banking and payment services. He is adept at designing both new and existing SDKs, while reducing technical debt and enhancing code quality. Notable project include introducing industry-first SDK for third-party mobile contactless payment on iOS.\n\nCurrently proficient in development tools and Swift concurrency, he has also designed DevOps automation for mobile SDKs, where it could enforce the rule and provide the feedback to developer, e.g. validation coverage, static analysis, app integration.",
-      "photoUrl": "https://ik.imagekit.io/iosconfsg/speakers/peter-wong.jpg",
-      "linkedin": "https://www.linkedin.com/in/peter-wong-03145789"
-    },
-    {
-      "speaker": "paul-hudson",
-      "role": "Author & Educator at Hacking with Swift",
-      "bio": "Paul Hudson has taught thousands of developers Swift through Hacking with Swift, a go-to platform for coders worldwide. 📚\n\nFrom tech journalism to building apps, Paul has written over 20 books and developed tools for companies like Apple and Fender. When he’s not coding, you’ll find him solving Rubik’s cubes or spending time with his dogs. 🐕",
-      "photoUrl": "https://ik.imagekit.io/iosconfsg/speakers/PaulHudson.jpg?updatedAt=1704119998179",
-      "twitter": "https://x.com/twostraws",
-      "linkedin": "https://www.linkedin.com/in/twostraws",
-      "website": "https://hackingwithswift.com"
-    },
-    {
-      "speaker": "adam-lyttle",
-      "role": "Indie Developer",
-      "bio": "Adam creates apps for fun and profit. With 8 successful business exits, and dozens of apps created, his mission is to build a million dollar app portfolio in public.",
-      "photoUrl": "https://ik.imagekit.io/iosconfsg/speakers/adam.jpeg?updatedAt=1757170541915",
-      "twitter": "https://x.com/adamlyttleapps"
-    },
-    {
-      "speaker": "charlie-chapman",
-      "role": "Dev Advocate at RevenueCat",
-      "bio": "When I’m not doing my day job as Developer Advocate at RevenueCat, I develop an indie iOS app called Dark Noise and podcasting at LaunchedFM.",
-      "photoUrl": "https://ik.imagekit.io/iosconfsg/speakers/charlie.jpeg?updatedAt=1732435972536",
-      "twitter": "https://x.com/_chuckyc"
-    },
-    {
-      "speaker": "daiki-matsudate",
-      "role": "Software Engineer",
-      "bio": "Daiki Matsudate is an iOS engineer based in Tokyo, focusing on autonomous driving research & development and digital identity projects. He leads engineering initiatives that bridge public services and modern mobile technologies, including work related to mobile identity. Daiki is also an active member of the global iOS community, organizing try! Swift Tokyo, speaking internationally, and supporting developer communities across Asia.",
-      "photoUrl": "https://ik.imagekit.io/iosconfsg/speakers/daiki.jpeg",
-      "twitter": "https://x.com/d_date",
-      "linkedin": "https://www.linkedin.com/in/d-date"
-    },
-    {
-      "speaker": "dolly-agarwal",
-      "role": "AI / ML Developer",
-      "bio": "Dolly is an AI/ML engineer focused on applying AI for social good in climate tech. She has built production-grade AI agents, RAG pipelines, and LLM applications across sustainability, edtech, and consumer insights. With several peer-reviewed publications and hands-on experience deploying AI systems at scale, she’s passionate about designing AI that is safe, accessible, and truly useful for people.",
-      "photoUrl": "https://ik.imagekit.io/iosconfsg/speakers/dolly.jpg",
-      "linkedin": "https://www.linkedin.com/in/dolly-agarwal"
-    },
-    {
-      "speaker": "fiachra-macfadden",
-      "role": "Product Designer",
-      "bio": "Fiachra (Fiki) MacFadden is a Product Designer at a stealth-mode startup, designing AI-powered property related applications. On evenings and weekends, he’s designing, developing and distributing Zhiyin, an iOS app that helps users learn Mandarin through music. As a non-technical designer, Fiachra leverages AI tools like Claude Code to build this application. He has built this app in public, filming videos every day on his progress and learnings. The app accumulated over 4 million views on TikTok, led to over 1,300 TestFlight users, and officially launched on the App Store in early January 2026.",
-      "photoUrl": "https://ik.imagekit.io/iosconfsg/speakers/fiki.jpeg",
-      "linkedin": "https://www.linkedin.com/in/fiachramacfadden"
-    },
-    {
-      "speaker": "hidde-van-der-ploeg",
-      "role": "Indie Developer",
-      "bio": "Hidde is a designer who taught himself how to code and make apps. As an indie developer he is the creator of popular apps like Helm for App Store Connect, NowPlaying and Gola.",
-      "photoUrl": "https://ik.imagekit.io/iosconfsg/speakers/hidde.png?updatedAt=1757426925276",
-      "twitter": "https://x.com/hiddevdploeg"
-    },
-    {
-      "speaker": "jessi-febria",
-      "role": "Tech Lead at PetaNetra & Mentor at the Apple Developer Academy",
-      "bio": "Tech Lead at PetaNetra & Mentor at the Apple Developer Academy.\nBuilding PetaNetra, an AR navigation app for visually impaired users, and mentoring aspiring world-class developers at Apple Developer Academy @BINUS Indonesia.",
-      "photoUrl": "https://ik.imagekit.io/iosconfsg/speakers/jessi.jpeg?updatedAt=1758243938821",
-      "twitter": "https://x.com/jessifebria",
-      "linkedin": "https://www.linkedin.com/in/jessifebria"
-    },
-    {
-      "speaker": "kaylee-calderolla",
-      "role": "Indie Developer",
-      "bio": "Kaylee has been making indie apps for iOS and Mac since 2010, most notably the ad blocker Wipr 2. Occasionally, she makes games too! When not coding or designing, she plays video games and bass.\n\nFind her on Mastodon as Kaylee's Apps",
-      "photoUrl": "https://ik.imagekit.io/iosconfsg/speakers/kaylee.png?updatedAt=1762562866981",
-      "website": "https://mas.to/@mipstian"
-    },
-    {
-      "speaker": "koh-chin-wee",
-      "role": "Senior Software Engineer at GovTech",
-      "bio": "Chin Wee is a senior iOS software engineer with over ten years of experience building and delivering secure, scalable mobile applications. He has worked across government, banking, and enterprise sectors, leading the development of mission-critical products used by millions of users.\n\nHe played a pivotal role in the iOS Singpass app, delivering high-impact features such as SafeEntry, login authentication, and facial verification, while enhancing mobile security through secure enclave integrations and in-house SDKs. Widely regarded as a go-to engineer for complex problem-solving, Chin Wee thrives in ambiguous environments, leads teams effectively, and translates business requirements into robust technical solutions.\n\nHe holds a Bachelor of Computer Engineering and is driven by a passion for building reliable, secure technology with meaningful real-world impact.",
-      "photoUrl": "https://ik.imagekit.io/iosconfsg/speakers/chinwee.png",
-      "linkedin": "https://www.linkedin.com/in/chin-wee-koh-a7b16483"
-    },
-    {
-      "speaker": "mai-anh-vu",
-      "role": "Senior Software Engineer at Padlet",
-      "bio": "At Padlet, Vu leads a team that builds beautiful educational software for millions of users worldwide on iOS and Android. Outside of work, he enjoys tinkering with new ways to write elegant, modern Swift code. When he’s not building apps, he likes cooking, singing, and learning languages.\nHe isn’t active on social media, but would love to have a fun conversation in person.",
-      "photoUrl": "https://ik.imagekit.io/iosconfsg/speakers/anhvu.jpg"
-    },
-    {
-      "speaker": "natalia-panferova",
-      "role": "iOS Developer, Tech Blogger, Book Author",
-      "bio": "Natalia has been working in tech for over ten years, and most of her career has been dedicated to iOS development. She's worked in both small startups and large companies, and now she's focusing on her own projects at Nil Coalescing, a company she founded with her partner back in 2022. Right before that, she was part of the SwiftUI team at Apple, designing and building SwiftUI APIs.\n\nShe's very passionate about creating apps for Apple platforms and sharing her knowledge through her blog and books for Swift and SwiftUI developers. She lives in the South Island of New Zealand, and when she's not coding or writing, she loves going on nature walks with her partner and their two dogs.",
-      "photoUrl": "https://ik.imagekit.io/iosconfsg/speakers/natalia-photo.png",
-      "twitter": "https://x.com/natpanferova",
-      "linkedin": "https://www.linkedin.com/in/nataliapanferova",
-      "website": "https://nilcoalescing.com"
-    },
-    {
-      "speaker": "rizwan-ahmed",
-      "role": "iOS Engineer & Developer Advocate at Zoho Apptics",
-      "bio": "Rizwan is an iOS engineer and Developer Advocate at Zoho Apptics. Outside of coding and speaking engagements, he shares iOS development insights on ohmyswift.com and organizes community events through IndeHub and Swift Chennai.",
-      "photoUrl": "https://ik.imagekit.io/iosconfsg/speakers/rizwan.png?updatedAt=1759332707356",
-      "website": "https://ohmyswift.com"
-    },
-    {
-      "speaker": "roxana-monica-nagy",
-      "role": "Co-Founder and Creative Technologist at Reality Check",
-      "bio": "Roxana Nagy is the Co-Founder and Creative Technologist at Reality Check, an immersive content innovation studio focusing on Apple's spatial computing technologies. She co-created The Green Spurt, a collaborative immersive escape room-style game that serves as a testing ground for shared immersive experiences, combining storytelling, co-presence, and technical innovation to showcase what is possible on Apple Vision Pro.\n\nA pioneer in augmented reality since 2017, Roxana developed some of the industry’s first commercial implementations of Apple’s ARKit and led the Immersive Technologies practice at a global digital consultancy, working with inspiring clients such as Museum of The Future Dubai and NEOM.\nWith a mission to inspire others to explore the pioneering frontier of spatial computing and generative AI, Roxana shares her insights on her blog roxana-nagy.com and on social media as @coderox. She co-hosts weekly Office Hours for the Step Into Vision community, the largest global hub of visionOS resources, and was instrumental in building communities such as Women in Tech Dubai.",
-      "photoUrl": "https://ik.imagekit.io/iosconfsg/speakers/roxana.png?updatedAt=1761399057617",
-      "twitter": "https://x.com/coderox2713",
-      "linkedin": "https://www.linkedin.com/in/roxana-monica-nagy",
-      "website": "https://roxana-nagy.com/"
-    },
-    {
-      "speaker": "shubham-singh",
-      "role": "Associate Principal Engineer (iOS Developer) @ DailyRounds / Marrow",
-      "bio": "Shubham is an iOS developer passionate about crafting elegant, scalable apps with Swift and SwiftUI. At Marrow, he builds user-focused features for a large medical community, while also creating indie apps and sharing insights and prototypes through Instagram and YouTube to support the iOS dev community.",
-      "photoUrl": "https://ik.imagekit.io/iosconfsg/speakers/shubham.png",
-      "twitter": "https://x.com/Shubham_iosdev"
-    },
-    {
-      "speaker": "xu-yang-fatbobman",
-      "role": "iOS Developer & Tech Blogger",
-      "bio": "Xu Yang shares his development expertise in Swift, SwiftUI, and Apple platform technologies through his blog Fatbobman.com. As the creator of Fatbobman's Swift Weekly, he curates outstanding articles from developers worldwide, bringing valuable insights to the Swift community.\n\nHe views Swift development as a passion in life and aims to spread the joy he finds in learning and creating to more developers.✨",
-      "photoUrl": "https://ik.imagekit.io/iosconfsg/speakers/fatbobmanProfilePic.jpeg?updatedAt=1758115365885",
-      "twitter": "https://x.com/fatbobman",
-      "linkedin": "https://www.linkedin.com/in/fatbobman",
-      "website": "https://fatbobman.com"
-    },
-    {
-      "speaker": "yuta-saito",
-      "role": "Compiler Toolchain Engineer at Goodnotes",
-      "bio": "Yuta is a Compiler Toolchain Engineer at Goodnotes, working on everything needed to make Swift available on the Web at production quality. He is a committer for WebAssembly support in Swift and Ruby.",
-      "photoUrl": "https://ik.imagekit.io/iosconfsg/speakers/yuta.jpeg",
-      "twitter": "https://x.com/kateinoigakukun",
-      "linkedin": "https://www.linkedin.com/in/kateinoigakukun"
-    },
-    {
-      "speaker": "vina-melody",
-      "photoUrl": "https://ik.imagekit.io/iosconfsg/speakers/vina.jpeg?updatedAt=1704461641711",
-      "twitter": "https://x.com/vinamelody",
-      "linkedin": "https://www.linkedin.com/in/vinamelody"
-    }
+    "daniel-steinberg",
+    "peter-wong",
+    "paul-hudson",
+    "adam-lyttle",
+    "charlie-chapman",
+    "daiki-matsudate",
+    "dolly-agarwal",
+    "fiachra-macfadden",
+    "hidde-van-der-ploeg",
+    "jessi-febria",
+    "kaylee-calderolla",
+    "koh-chin-wee",
+    "mai-anh-vu",
+    "natalia-panferova",
+    "rizwan-ahmed",
+    "roxana-monica-nagy",
+    "shubham-singh",
+    "xu-yang-fatbobman",
+    "yuta-saito",
+    "vina-melody"
   ],
   "talks": [
     {

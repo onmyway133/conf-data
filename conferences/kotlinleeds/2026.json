@@ -15,127 +15,22 @@
   "twitter": "https://x.com/kotlinleeds",
   "source": "confs.tech",
   "speakers": [
-    {
-      "speaker": "andrea-della-porta",
-      "role": "Mobile Manager @ Capgemini",
-      "photoUrl": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/faba-400o400o1-hGaCBrsoePKrWgXMHnKXXf.png",
-      "twitter": "https://twitter.com/AndreaDellaPor5",
-      "linkedin": "https://linkedin.com/in/andrea-della-porta-01",
-      "website": "https://www.andreadellaporta.com"
-    },
-    {
-      "speaker": "ayako-hayasaka",
-      "role": "Software Engineer at LY Corporation",
-      "photoUrl": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/888A995D-A2A1-4236-90E6-FC531AA8E10E-d01c-0o0o0-SEs4ESAwEBvJRmcDvs8jR6.jpg",
-      "twitter": "https://twitter.com/ternbusty",
-      "linkedin": "https://linkedin.com/in/ternbusty",
-      "website": "https://ternbusty.github.io/about.html"
-    },
-    {
-      "speaker": "bruce-hamilton",
-      "role": "Ktor Technical Lead",
-      "photoUrl": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/37fc-400o400o1-QhFGVGnzm5cupmQmDM8tEv.png",
-      "linkedin": "https://linkedin.com/in/bruce-hamilton-00b59085",
-      "website": "https://ktor.io"
-    },
-    {
-      "speaker": "elvis-chidera",
-      "role": "Staff software engineer at Delivery Hero",
-      "photoUrl": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/3003-400o400o1-TnE954j5gT18mqX5bvZfZo.jpg",
-      "twitter": "https://twitter.com/elvisnchidera",
-      "linkedin": "https://linkedin.com/in/elvischidera",
-      "website": "https://elvischidera.com"
-    },
-    {
-      "speaker": "florian-schweizer",
-      "role": "Flo writes Code",
-      "photoUrl": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/C56593FA-D94F-4E26-AC56-A6653F593C4D-florian-schweizer.jpeg",
-      "twitter": "https://twitter.com/FloWritesCode",
-      "linkedin": "https://linkedin.com/in/florian-schweizer-129049210",
-      "website": "https://youtube.com/FloWritesCode"
-    },
-    {
-      "speaker": "ivan-canet",
-      "role": "Software Engineer",
-      "photoUrl": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/ad58-400o400o1-sVtyRfcYvGfVnwKpotixiu.png",
-      "linkedin": "https://linkedin.com/in/ivan-canet",
-      "website": "https://ivan.canet.dev/blog"
-    },
-    {
-      "speaker": "jessica-randall",
-      "role": "Android Enthusiast",
-      "photoUrl": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/0e19-400o400o1-p6XLdYJq9fL7kDz4CHNZSD.jpg",
-      "twitter": "https://twitter.com/JustJessZA",
-      "linkedin": "https://linkedin.com/in/jessica-randall-293ab9205",
-      "website": "https://starchild.hashnode.dev/"
-    },
-    {
-      "speaker": "julien-salvi",
-      "role": "Lead Android Engineer @ Aircall",
-      "photoUrl": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/c8ba-400o400o1-4NcyaNMS4awH1Zr87u5Gve.png",
-      "linkedin": "https://linkedin.com/in/salvijulien",
-      "website": "https://aircall.io/"
-    },
-    {
-      "speaker": "kazuki-chigita",
-      "role": "Software Engineer at MIXI, Inc.",
-      "photoUrl": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/d07a-400o400o1-7bc8jWNRKixHuDZhWmF3HL.png",
-      "twitter": "https://twitter.com/chigichan24",
-      "linkedin": "https://linkedin.com/in/kazuki-chigita"
-    },
-    {
-      "speaker": "klemens-strasser",
-      "role": "Indie Developer",
-      "photoUrl": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/DA810764-C8D1-4F92-9BFA-784966013398-klemens.jpg",
-      "twitter": "https://twitter.com/klemensstrasser",
-      "linkedin": "https://linkedin.com/in/klemensstrasser"
-    },
-    {
-      "speaker": "michael-gerasymenko",
-      "role": "Mobile at ElevenLabs Inc.",
-      "photoUrl": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/98e2-400o400o1-LHBBY68NHXB9Lg8Ez6BGJo.jpg",
-      "twitter": "https://twitter.com/gk0io",
-      "linkedin": "https://linkedin.com/in/mikeamike",
-      "website": "https://gera.cx"
-    },
-    {
-      "speaker": "nikita-bobko",
-      "role": "Open source contributor. ex-JetBrains, ex-Kotlin",
-      "photoUrl": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/a7ca-400o400o1-sDknqHiq4RiLkDFw9rpspi.jpg",
-      "twitter": "https://twitter.com/nikitabobko",
-      "linkedin": "https://linkedin.com/in/nikitabobko",
-      "website": "https://bobko.xyz/"
-    },
-    {
-      "speaker": "noam-efergan",
-      "role": "Self taught iOS developer and general nerd",
-      "photoUrl": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/b00e-400o400o1-SCW4JcGu5E6CJ9BmKJnwA1.jpg",
-      "twitter": "https://twitter.com/No_Wham",
-      "linkedin": "https://linkedin.com/in/noamefergan",
-      "website": "https://nowham.dev"
-    },
-    {
-      "speaker": "pamela-hill-galloway",
-      "role": "Developer Advocate at JetBrains",
-      "photoUrl": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/3749-400o400o1-EDCQTVBeA2DnzdZFqo4gXa.jpg",
-      "linkedin": "https://linkedin.com/in/pamelaahill",
-      "website": "https://www.pamelaahill.com"
-    },
-    {
-      "speaker": "sam-cooper",
-      "role": "Author of Kotlin Brain Teasers",
-      "photoUrl": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/8d06-400o400o1-hstv1VX2xtKLeCb7wNyhud.png",
-      "linkedin": "https://linkedin.com/in/samjmcooper",
-      "website": "https://sam-cooper.medium.com/"
-    },
-    {
-      "speaker": "simon-vergauwen",
-      "role": "Developer Advocate at JetBrains & OSS (arrow-kt) Maintainer",
-      "photoUrl": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/6718-400o400o1-fjw7kgxgtgQxuPy5N8d4np.png",
-      "twitter": "https://twitter.com/vergauwen_simon",
-      "linkedin": "https://linkedin.com/in/vergauwensimon",
-      "website": "https://nomisrev.github.io/"
-    }
+    "andrea-della-porta",
+    "ayako-hayasaka",
+    "bruce-hamilton",
+    "elvis-chidera",
+    "florian-schweizer",
+    "ivan-canet",
+    "jessica-randall",
+    "julien-salvi",
+    "kazuki-chigita",
+    "klemens-strasser",
+    "michael-gerasymenko",
+    "nikita-bobko",
+    "noam-efergan",
+    "pamela-hill-galloway",
+    "sam-cooper",
+    "simon-vergauwen"
   ],
   "talks": [
     {

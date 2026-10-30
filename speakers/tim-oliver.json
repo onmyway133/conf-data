@@ -1,3 +1,7 @@
 {
-  "name": "Tim Oliver"
+  "name": "Tim Oliver",
+  "role": "Instagram",
+  "bio": "Tim is an iOS developer from Australia and is currently working in Tokyo. He presented at try! Swift Tokyo 2016 and has been volunteering at the conference since 2018. In his free time, he loves video games, writing open source software and karaoke.",
+  "photoUrl": "https://tryswift.jp/images/from_app/tim_oliver.jpg",
+  "twitter": "https://x.com/TimOliverAU"
 }

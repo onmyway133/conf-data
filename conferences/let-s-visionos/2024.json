@@ -15,155 +15,31 @@
   "mastodon": "https://mastodon.social/@sketchk",
   "source": "confs.tech",
   "speakers": [
-    {
-      "speaker": "adam-watters",
-      "role": "visionOS developer using Godot Engine, Cofounder @Threezy Studio",
-      "photoUrl": "https://letsvisionos24.swiftgg.team/framerusercontent.com/images/lPB7IwEYfe08VI73ponExgHNts.png",
-      "twitter": "https://twitter.com/AdamWatters"
-    },
-    {
-      "speaker": "cristian-diaz-peredo",
-      "role": "Lead Engineer @Monstarlab",
-      "photoUrl": "https://letsvisionos24.swiftgg.team/framerusercontent.com/images/IGcZfcGDZj1nGY3ZxYfzUH7XpoU%EF%B9%96scale-down-to=512.png",
-      "twitter": "https://twitter.com/elkraneo"
-    },
-    {
-      "speaker": "charlie-chapman",
-      "role": "Creator of DarkNoiseApp, Host of Launched podcast",
-      "photoUrl": "https://letsvisionos24.swiftgg.team/framerusercontent.com/images/axFF2eRJQdbmJzFiway5aNPZ1w.png",
-      "twitter": "https://twitter.com/_chuckyc"
-    },
-    {
-      "speaker": "devin-davies",
-      "role": "Indie Developer, Crouton: Recipe Manager, visionOS App recommended by Apple",
-      "photoUrl": "https://letsvisionos24.swiftgg.team/framerusercontent.com/images/4F17OtT1bATZXPBtPl8A3lmIuM.png",
-      "twitter": "https://twitter.com/JustMeDevin"
-    },
-    {
-      "speaker": "hidde-van-der-ploeg",
-      "role": "Product designer, author of NowPlaying, visionOS App recommended by Apple",
-      "photoUrl": "https://letsvisionos24.swiftgg.team/framerusercontent.com/images/QtBlOhESTFr6qsfpRrBc3B2GM%EF%B9%96scale-down-to=512.png",
-      "twitter": "https://twitter.com/hiddevdploeg"
-    },
-    {
-      "speaker": "jordi-bruin",
-      "role": "Apple Design Award nomination, Creator of Navi, recommended by Apple",
-      "photoUrl": "https://letsvisionos24.swiftgg.team/framerusercontent.com/images/tAvqW2Zl3ERhAUw1g4kBhlwQyM.png",
-      "twitter": "https://twitter.com/jordibruin"
-    },
-    {
-      "speaker": "minji-lee",
-      "role": "Tech mentor @Apple Developer Academy",
-      "photoUrl": "https://letsvisionos24.swiftgg.team/framerusercontent.com/images/IIvXXSFAFOQmtOaU7qlDdaZdozs%EF%B9%96scale-down-to=512.png",
-      "linkedin": "https://www.linkedin.com/in/minjimindi"
-    },
-    {
-      "speaker": "oliver-weidlich",
-      "role": "Contxtual Director - Design & Innovation, Day Ahead, visionOS App recommended by Apple",
-      "photoUrl": "https://letsvisionos24.swiftgg.team/framerusercontent.com/images/tzrEwAaXDviLe7FxOLETGTxvALU.png",
-      "twitter": "https://twitter.com/oliverw"
-    },
-    {
-      "speaker": "satoshi-hattori",
-      "role": "xR Engineer",
-      "photoUrl": "https://letsvisionos24.swiftgg.team/framerusercontent.com/images/JaG3BbODke4Je7h71I9ObOQqMU0.png",
-      "twitter": "https://x.com/shmdevelop"
-    },
-    {
-      "speaker": "tim-mitra",
-      "role": "Host of the More Than Just Code podcast, Technical Writer of Kodeco",
-      "photoUrl": "https://letsvisionos24.swiftgg.team/framerusercontent.com/images/z927H2oG7CCpcRnJpBvzLsjzXqE%EF%B9%96scale-down-to=512.png",
-      "twitter": "https://x.com/timmitra"
-    },
-    {
-      "speaker": "vina-melody",
-      "role": "Co-organiser of iOS Conf SG and iOS Dev Scout",
-      "photoUrl": "https://letsvisionos24.swiftgg.team/framerusercontent.com/images/c2AKZjrvId19NgoCEsVrYKzw%EF%B9%96scale-down-to=512.png",
-      "twitter": "https://twitter.com/vinamelody"
-    },
-    {
-      "speaker": "yuki-kobayashi",
-      "role": "CEO of MESON, Creator of SunnyTune",
-      "photoUrl": "https://letsvisionos24.swiftgg.team/framerusercontent.com/images/Teopsz4j9kkNUwnMwFvZ2PxmuM8%EF%B9%96scale-down-to=512.png",
-      "twitter": "https://twitter.com/AR_Ojisan"
-    },
-    {
-      "speaker": "jane-chao",
-      "role": "Content creator, Youtuber of ChaoCode",
-      "photoUrl": "https://letsvisionos24.swiftgg.team/framerusercontent.com/images/vcyZeKPZXnR5S1zzlhpegvMZIw%EF%B9%96scale-down-to=512.png",
-      "twitter": "https://x.com/janechao_dev"
-    },
-    {
-      "speaker": "simon-lee",
-      "role": "Simon_阿文, AbleSlide co-founder, presentation PPT designer, Blender artist",
-      "photoUrl": "https://letsvisionos24.swiftgg.team/framerusercontent.com/images/uiFMvuMf9yeffVX1TavaBNKgH38%EF%B9%96scale-down-to=512.png",
-      "twitter": "https://twitter.com/simonxxoo"
-    },
-    {
-      "speaker": "jazzen-chen",
-      "role": "Partner of Jinteng Technology",
-      "photoUrl": "https://letsvisionos24.swiftgg.team/framerusercontent.com/images/kqtQvRUD7iZ2xpOzZKSc6PbmI%EF%B9%96scale-down-to=512.png"
-    },
-    {
-      "speaker": "morden-chen",
-      "role": "Sr. Director Supply BD, Moloco Greater China Region",
-      "photoUrl": "https://letsvisionos24.swiftgg.team/framerusercontent.com/images/LIYDSF5hYHslh5LQff6SNO6xDeU%EF%B9%96scale-down-to=512.png",
-      "linkedin": "https://www.linkedin.com/in/morden/"
-    },
-    {
-      "speaker": "allen-dang",
-      "role": "Serial Entrepreneur, Creator of TripoGO!",
-      "photoUrl": "https://letsvisionos24.swiftgg.team/framerusercontent.com/images/qRdq1uugMKKZKLlIInSNy200xo%EF%B9%96scale-down-to=512.png",
-      "twitter": "https://x.com/AllenDang"
-    },
-    {
-      "speaker": "nathan-huang",
-      "role": "MStars Co-founder&CEO",
-      "photoUrl": "https://letsvisionos24.swiftgg.team/framerusercontent.com/images/WDmgS6PWWRY998we58evGI2Qkg%EF%B9%96scale-down-to=512.png",
-      "linkedin": "http://www.linkedin.com/in/nathan-huang-b8714628b"
-    },
-    {
-      "speaker": "hyacinth",
-      "role": "Head AI company product leader, Shanghai International Film Festival jury, filmmaker",
-      "photoUrl": "https://letsvisionos24.swiftgg.team/framerusercontent.com/images/xgDcjzdCoq9Q50iR7pmd49D9ys%EF%B9%96scale-down-to=512.png",
-      "website": "https://okjk.co/ChbezN"
-    },
-    {
-      "speaker": "yang-xu",
-      "role": "Swift Blogger, Fatbobman",
-      "photoUrl": "https://letsvisionos24.swiftgg.team/framerusercontent.com/images/UYxyXCPCRln5NfmwefwD3BENDi8%EF%B9%96scale-down-to=512.png",
-      "twitter": "https://twitter.com/fatbobman"
-    },
-    {
-      "speaker": "wu-xu",
-      "role": "Angel Investor,Founder of Maoyan,Investment partner at Zhenfund",
-      "photoUrl": "https://letsvisionos24.swiftgg.team/framerusercontent.com/images/hkP58VXlJLuOFR9x3mmrKUQdDc.png",
-      "twitter": "https://twitter.com/xuwu"
-    },
-    {
-      "speaker": "haifeng-xu",
-      "role": "ARKit developer, Love writing articles",
-      "photoUrl": "https://letsvisionos24.swiftgg.team/framerusercontent.com/images/zy1hVnJA5wsGSjCJ7I7Iz9DCo.png",
-      "website": "https://github.com/XanderXu"
-    },
-    {
-      "speaker": "yujie-ren",
-      "role": "XRealityZone Gold Evangelist",
-      "photoUrl": "https://letsvisionos24.swiftgg.team/framerusercontent.com/images/J19lQ1b0jeAnV4nVamokHq3Rj0.png",
-      "twitter": "https://twitter.com/call_me_onee"
-    },
-    {
-      "speaker": "ming-yi",
-      "role": "Product Manager, Creator of inSpaze",
-      "photoUrl": "https://letsvisionos24.swiftgg.team/framerusercontent.com/images/2IqqRoP0cDKGRErhTwjlAU9axww%EF%B9%96scale-down-to=512.png",
-      "twitter": "https://twitter.com/memtimen"
-    },
-    {
-      "speaker": "yuchen-zhang",
-      "role": "AR developer, Ex-Lead Programmer of HoloKit",
-      "photoUrl": "https://letsvisionos24.swiftgg.team/framerusercontent.com/images/M1h8S673SLU5JYlQpBfzmX0PNGY%EF%B9%96scale-down-to=512.png",
-      "twitter": "https://twitter.com/yuchenz27"
-    }
+    "adam-watters",
+    "cristian-diaz-peredo",
+    "charlie-chapman",
+    "devin-davies",
+    "hidde-van-der-ploeg",
+    "jordi-bruin",
+    "minji-lee",
+    "oliver-weidlich",
+    "satoshi-hattori",
+    "tim-mitra",
+    "vina-melody",
+    "yuki-kobayashi",
+    "jane-chao",
+    "simon-lee",
+    "jazzen-chen",
+    "morden-chen",
+    "allen-dang",
+    "nathan-huang",
+    "hyacinth",
+    "yang-xu",
+    "wu-xu",
+    "haifeng-xu",
+    "yujie-ren",
+    "ming-yi",
+    "yuchen-zhang"
   ],
   "talks": [
     {

@@ -12,147 +12,29 @@
     "iOS"
   ],
   "speakers": [
-    {
-      "speaker": "jesse-squires",
-      "role": "iOS dev at PlanGrid. Writer at swiftlybrief. Co-host of swift_unwrapped",
-      "bio": "Jesse is an iOS developer at PlanGrid who writes about Swift and Objective‑C on his blog at jessesquires.com. He's the curator of the Swift Weekly Brief newsletter and co-host of the Swift Unwrapped podcast. He is fueled primarily by black coffee and black metal.",
-      "photoUrl": "https://2017.iosconf.sg/images/speakers/jesse.png",
-      "twitter": "https://twitter.com/jesse_squires"
-    },
-    {
-      "speaker": "nick-lockwood",
-      "role": "Author of iOS Core Animation: Advanced Techniques, iCarousel, FXForms",
-      "bio": "Nick is a Software Engineer at Schibsted Product and Technology. He has opensourced a lot of popular iOS libraries like iCarousel, FXForms, Layout to name few. He is also the autor of iOS Core Animation: Advanced Techniques",
-      "photoUrl": "https://2017.iosconf.sg/images/speakers/nick.png",
-      "twitter": "https://twitter.com/nicklockwood"
-    },
-    {
-      "speaker": "sam-davies",
-      "role": "Developer, author and trainer at raywenderlich.com",
-      "bio": "Sam is a developer, an author and a trainer, working for Razeware, the company behind the curtain at raywenderlich.com. Despite starting out in academia working on computer vision problems, he's spent the last 5 years working in the mobile world, primarily focused on making delightful things in iOS. Whilst he's probably wrangling with some kind of code, recording videos or presenting talks during the day time, you'll often find him out entertaining the masses by night, armed with his trombone and killer dance moves. You should say hi to him. He's nice. Honest.",
-      "photoUrl": "https://2017.iosconf.sg/images/speakers/sam.png",
-      "twitter": "https://twitter.com/iwantmyrealname"
-    },
-    {
-      "speaker": "veronica-ray",
-      "role": "iOS dev at LinkedIn. Mistress of mutability, method swizzling and metaprogramming",
-      "photoUrl": "https://2017.iosconf.sg/images/speakers/veronica.png",
-      "twitter": "https://twitter.com/nerdonica"
-    },
-    {
-      "speaker": "rob-napier",
-      "role": "Co-author of iOS Programming Pushing the Limits",
-      "photoUrl": "https://2017.iosconf.sg/images/speakers/rob.png",
-      "twitter": "https://twitter.com/cocoaphony"
-    },
-    {
-      "speaker": "sommer-panage",
-      "role": "Mobile dev @chorus. Previously at Twitter, Apple",
-      "photoUrl": "https://2017.iosconf.sg/images/speakers/sommer.png",
-      "twitter": "https://twitter.com/sommer"
-    },
-    {
-      "speaker": "greg-heo",
-      "role": "Swift and iOS nerd, sometimes writer, iOS dev at Instagram",
-      "photoUrl": "https://2017.iosconf.sg/images/speakers/greg.png",
-      "twitter": "https://twitter.com/gregheo"
-    },
-    {
-      "speaker": "marcin-krzyzanowski",
-      "role": "Creator of CryptoSwift, ObjectivePGP, PSPDFKit fellow",
-      "photoUrl": "https://2017.iosconf.sg/images/speakers/marcin.png",
-      "twitter": "https://twitter.com/krzyzanowskim"
-    },
-    {
-      "speaker": "omer-iqbal",
-      "role": "iOS dev at SEA Group",
-      "photoUrl": "https://2017.iosconf.sg/images/speakers/omer.png",
-      "twitter": "https://twitter.com/olenhad"
-    },
-    {
-      "speaker": "jinny-wong",
-      "role": "Engineering Manager at Carousell",
-      "photoUrl": "https://2017.iosconf.sg/images/speakers/jinny.png",
-      "twitter": "https://twitter.com/shujinh"
-    },
-    {
-      "speaker": "joshua-liebowitz",
-      "role": "Fastlane.tools engineer. Fabric at Google.",
-      "photoUrl": "https://2017.iosconf.sg/images/speakers/joshua.png",
-      "twitter": "https://twitter.com/taquitos"
-    },
-    {
-      "speaker": "tim-oliver",
-      "role": "iOS developer @Realm.io. Creator of iComics app",
-      "photoUrl": "https://2017.iosconf.sg/images/speakers/tim.png",
-      "twitter": "https://twitter.com/TimOliverAU"
-    },
-    {
-      "speaker": "jorge-ortiz",
-      "role": "Indie iOS developer dedicated to mobile development, security, and systems architecture",
-      "photoUrl": "https://2017.iosconf.sg/images/speakers/jorge.png",
-      "twitter": "https://twitter.com/jdortiz"
-    },
-    {
-      "speaker": "matthew-cheok",
-      "role": "iOS developer at Facebook. Co-creator of Jibber",
-      "photoUrl": "https://2017.iosconf.sg/images/speakers/matthew.png",
-      "twitter": "https://twitter.com/matthewcheok"
-    },
-    {
-      "speaker": "maciej-piotrowski",
-      "role": "iOS developer @swiftingio",
-      "photoUrl": "https://2017.iosconf.sg/images/speakers/maciej.png",
-      "twitter": "https://twitter.com/paciej00"
-    },
-    {
-      "speaker": "dominik-cygalski",
-      "role": "Software Engineer",
-      "photoUrl": "https://2017.iosconf.sg/images/speakers/dominic.png",
-      "twitter": "https://twitter.com/cdomajno?lang=en"
-    },
-    {
-      "speaker": "kim-foong-chow",
-      "role": "Senior Lecturer at Nanyang Polytechnic",
-      "photoUrl": "https://2017.iosconf.sg/images/speakers/kimfoong.png",
-      "linkedin": "https://sg.linkedin.com/in/kim-foong-chow-a7537214"
-    },
-    {
-      "speaker": "nikhil-sharma",
-      "role": "Mobile developer at SPGroup, Co-creator of Jibber",
-      "photoUrl": "https://2017.iosconf.sg/images/speakers/nikhil.png",
-      "twitter": "https://twitter.com/menikhil"
-    },
-    {
-      "speaker": "shipeng-xu",
-      "role": "Mobile developer at PayPal. Creator of 3D pixel artist",
-      "photoUrl": "https://2017.iosconf.sg/images/speakers/shipeng.png",
-      "twitter": "https://twitter.com/1991bill"
-    },
-    {
-      "speaker": "marius-rackwitz",
-      "role": "Indie iOS Developer, Core Member of CocoaPods",
-      "photoUrl": "https://2017.iosconf.sg/images/speakers/marius.png",
-      "twitter": "https://twitter.com/mrackwitz"
-    },
-    {
-      "speaker": "andrew-eng",
-      "role": "Lead iOS developer at SEA Group",
-      "photoUrl": "https://2017.iosconf.sg/images/speakers/andrew.png",
-      "twitter": "https://twitter.com/AndrewEwy"
-    },
-    {
-      "speaker": "yeo-kheng-meng",
-      "role": "IoT Engineer at SPGroup. Creator of SwiftSerial library",
-      "photoUrl": "https://2017.iosconf.sg/images/speakers/khengmeng.png",
-      "linkedin": "https://sg.linkedin.com/in/yeokhengmeng"
-    },
-    {
-      "speaker": "deepank-vora",
-      "role": "Software Engineer at PayPal. Creator of Alight",
-      "photoUrl": "https://2017.iosconf.sg/images/speakers/deepank.png",
-      "linkedin": "https://sg.linkedin.com/in/deepankvora"
-    }
+    "jesse-squires",
+    "nick-lockwood",
+    "sam-davies",
+    "veronica-ray",
+    "rob-napier",
+    "sommer-panage",
+    "greg-heo",
+    "marcin-krzyzanowski",
+    "omer-iqbal",
+    "jinny-wong",
+    "joshua-liebowitz",
+    "tim-oliver",
+    "jorge-ortiz",
+    "matthew-cheok",
+    "maciej-piotrowski",
+    "dominik-cygalski",
+    "kim-foong-chow",
+    "nikhil-sharma",
+    "shipeng-xu",
+    "marius-rackwitz",
+    "andrew-eng",
+    "yeo-kheng-meng",
+    "deepank-vora"
   ],
   "talks": [
     {

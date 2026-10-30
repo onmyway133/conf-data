@@ -21,243 +21,37 @@
   "twitter": "https://x.com/Droidconit",
   "source": "confs.tech",
   "speakers": [
-    {
-      "speaker": "evgenii-matsiuk",
-      "role": "Staff Software Engineer, X (Twitter)",
-      "bio": "Evgenii Matsiuk is a Staff Software Engineer at X (Twitter) based in London, with over 12 years of experience in mobile development. As an Android Google Developer Expert (GDE), he has spent 5+ years specializing in mobile testing tooling and is the creator of Kaspresso, a popular Android testing framework. Evgenii is also the founder of Marathon Labs, which operates Marathon Cloud—a revolutionary testing platform that runs any number of UI tests in under 15 minutes. The company serves 10+ enterprise clients, including S&P 500 companies, and has achieved this success entirely through bootstrapping without external investments.",
-      "photoUrl": "https://it.droidcon.com/2025/wp-content/uploads/sites/6/sito_foto_Matsiuk.png",
-      "twitter": "https://x.com/e_matsyuk",
-      "linkedin": "https://www.linkedin.com/in/eugenematsyuk/"
-    },
-    {
-      "speaker": "etienne-caron",
-      "role": "Tech Founder, Kanastruk Services Conseils",
-      "bio": "Etienne Caron is the technical founder of Kanastruk, an innovation lab specializing in software development, IoT, machine learning, and embedded systems. For the past few years, he has led the company, partnering with notable clients such as Bell Canada and Instacart. Etienne began his career as a back-end developer in the late nineties, pivoting to mobile development in the early 2010s. He has worked across all tiers of large-scale software platforms, including server, web, mobile, and embedded systems.\n- Staff developer for the e-commerce store management application at Shopify.\n- Senior Android developer on the Hatchful™ Logo Maker at Shopify.\n- Android team lead on the TrueKey™ password management app for Intel / McAfee.\n- Senior developer on the Nina™ Mobile speech recognition SDK at Nuance Communications.\nWith over 25 years of experience, Etienne remains a dedicated community member, actively mentoring startups, developers, and students. He lives in Montreal, Canada, with his wife and daughter and is fluent in both French and English.",
-      "photoUrl": "https://it.droidcon.com/2025/wp-content/uploads/sites/6/sito_foto_caron-1.png",
-      "linkedin": "https://www.linkedin.com/in/etcaron"
-    },
-    {
-      "speaker": "julien-salvi",
-      "role": "Engineering Lead, Aircall",
-      "bio": "With over a decade in the Android world, I’ve lived the fast-paced startup life in California before returning to France. Today, I’m leading and managing the Android team at Aircall, where we’re building the best phone system for modern businesses. Beyond Android, I’m passionate about backend development with Kotlin and exploring the possibilities of AR/VR. In 2021, I was honored to become an Android GDE—continuing my mission to share knowledge and grow alongside the amazing Android community. Outside of work, you’ll find me traveling the globe or on the hunt for the perfect IPA.",
-      "photoUrl": "https://it.droidcon.com/2025/wp-content/uploads/sites/6/sito_foto_salvi.png",
-      "linkedin": "https://www.linkedin.com/in/salvijulien/"
-    },
-    {
-      "speaker": "eury-perez-beltre",
-      "role": "Lead Android Engineer, Kake",
-      "bio": "Eury is a software engineer with over 14 years of experience, including 11+ years focused on Android development. As an Android architect, I’ve led end-to-end projects, modernized legacy apps, and built modular, high-performance solutions at scale. I’m passionate about clean architecture, maintainable code, and delivering seamless user experiences. I’m also a Google Developer Expert in Android and an organizer of Google Developer Groups in Santo Domingo, where I actively contribute to the community through talks, articles, mentorship, and events. I believe in sharing knowledge, fostering collaboration, and helping others grow alongside the Android ecosystem.",
-      "photoUrl": "https://it.droidcon.com/2025/wp-content/uploads/sites/6/sito_foto_perez.png",
-      "twitter": "https://x.com/_euryperez",
-      "linkedin": "https://www.linkedin.com/in/euryperez/"
-    },
-    {
-      "speaker": "roman-levinzon",
-      "role": "Mobile Engineer, Similarweb",
-      "bio": "I’m a Senior Mobile Engineer at Similarweb with 7+ years of experience, with a focus on the Android Platform. Along the way, I’ve also picked up iOS, Kotlin Multiplatform, and even dabbled in Backend Development and Solution Architecture. With a passion for developer experience, I love creating developer tools – both internal solutions used by colleagues and open-source projects that help other developers succeed on their journey. Outside of work, I’ve set myself on a journey into a world of solo game development and design in Godot, combining my technical experience, a passion for video games, and creativity",
-      "photoUrl": "https://it.droidcon.com/2025/wp-content/uploads/sites/6/sito_foto_Levinzon.png",
-      "twitter": "https://x.com/levinzonr?t=QgMmpD6EC38KaJhxnSBbhA&s=09",
-      "linkedin": "https://www.linkedin.com/in/roman-levinzon-11734b151/"
-    },
-    {
-      "speaker": "emanuele-maso",
-      "role": "Mobile Developer, Bitrock S.r.l.",
-      "bio": "Emanuele is a passionate mobile developer with experience in both native and cross-platform development. In his spare time, he enjoys building side projects with friends to learn new technologies and share knowledge about the latest advancements in software development. Beyond coding, he’s a car and motorsport enthusiast, loving to watch races and take his car for mountain drives.",
-      "photoUrl": "https://it.droidcon.com/2025/wp-content/uploads/sites/6/sito_foto_maso.png",
-      "twitter": "https://x.com/ema_mobile_dev",
-      "linkedin": "https://www.linkedin.com/in/emanuele-maso/"
-    },
-    {
-      "speaker": "luca-bettelli",
-      "role": "Software Engineer, Android, Mercari",
-      "bio": "Luca has been an Android Engineer for over a decade, between Italy and Japan, always striving for clean, scalable, and maintainable Android apps. He’s excited to share practical solutions with the Android community that helped shape his journey so far.",
-      "photoUrl": "https://it.droidcon.com/2025/wp-content/uploads/sites/6/sito_foto_bettelli.png",
-      "twitter": "https://x.com/Bxttx",
-      "linkedin": "https://www.linkedin.com/in/lucabettelli"
-    },
-    {
-      "speaker": "saumya-singh",
-      "role": "Software Engineer, IBM",
-      "bio": "Saumya Singh is a software engineer, educator, and tech influencer from India with over 5 years of experience in Android development, Kotlin, open source contributions, and AI. She is passionate about making developers successful and aware through mentoring and sharing practical knowledge. Saumya has been recognized as a LinkedIn Top Voice, an International Open Source Awardee, and a Google Connect Winner (2019). She has delivered talks at TEDx events like TEDxBBAU, TEDxDTU, and TEDxSIBM Nagpur, and has been featured in The Better India, Outlook India, and Vogue India. With over 400K followers on Instagram and a community of more than 800K across platforms, she continues to guide tech enthusiasts globally. Saumya is also a winner of SIH and 21U21 awards and is excited to empower developers through open source contributions.",
-      "photoUrl": "https://it.droidcon.com/2025/wp-content/uploads/sites/6/sito_foto_-Singh.png",
-      "twitter": "https://x.com/saumya1singh",
-      "linkedin": "https://www.linkedin.com/in/saumya1singh/"
-    },
-    {
-      "speaker": "john-o-reilly",
-      "role": "Software Engineer, Kraken Technology",
-      "bio": "John is an Android Google Developer Expert with 15 years of Android and iOS development experience. He has been actively exploring and advocating for all things Kotlin Multiplatform since 2018.",
-      "photoUrl": "https://it.droidcon.com/2025/wp-content/uploads/sites/6/sito_foto_oreilly.png",
-      "twitter": "https://x.com/joreilly",
-      "linkedin": "https://www.linkedin.com/in/johnoreilly/"
-    },
-    {
-      "speaker": "andrea-della-porta",
-      "role": "Mobile Technical Leader, Cegeka",
-      "bio": "Andrea has been a technology enthusiast for as long as he can remember. He started developing his first Java programs in his early high school years, but with the advent of smartphones, he quickly fell in love with the mobile world. His experience started in Switzerland for an Android project in the medical field and continued for large companies such as NTT Data and Deloitte, until he got to his current Cegeka. Over the years he has developed applications with large user bases for various industries, specializing in native Android development, Flutter and now Kotlin Multiplatform.",
-      "photoUrl": "https://it.droidcon.com/2025/wp-content/uploads/sites/6/sito_foto2_finocchiaro.png",
-      "twitter": "https://x.com/AndreaDellaPor5",
-      "linkedin": "https://www.linkedin.com/in/andrea-della-porta-01/"
-    },
-    {
-      "speaker": "alessandro-finocchiaro",
-      "role": "Senior Mobile Architect, Almaviva",
-      "bio": "My Android story began with a green UI and a gingerbread man: Gingerbread. I’ve been writing Android code since before Fragments existed. From there, I’ve ridden every wave of innovation: from the rigidity of Eclipse to the power of Gradle, from the verbosity of Java to the elegance of Kotlin. Today, I bring this unique perspective into the new era of mobile development, building bridges between platforms with Kotlin Multiplatform..",
-      "photoUrl": "https://it.droidcon.com/2025/wp-content/uploads/sites/6/sito_foto2_finocchiaro.png",
-      "twitter": "https://x.com/swaix/"
-    },
-    {
-      "speaker": "rosario-p-fernandes",
-      "role": "DevRel Engineer, Firebase",
-      "bio": "Rosário P. Fernandes is a DevRel Engineer on the Firebase team at Google, focused on helping developers integrate Firebase and Generative AI into their mobile apps. With a passion for developer communities, he can often be found hanging out with other Android, Firebase, or Flutter developers. In his free-time, he enjoys playing videogames, reading comic books and watching movies.",
-      "photoUrl": "https://it.droidcon.com/2025/wp-content/uploads/sites/6/sito_foto_Fernandes.png",
-      "twitter": "https://x.com/thatfiredev",
-      "linkedin": "https://www.linkedin.com/in/rosariopfernandes/"
-    },
-    {
-      "speaker": "marina-coelho",
-      "role": "Developer Relations Engineer, Google",
-      "bio": "Marina is a Developer Relations Engineer at Google, focused on building native Android apps. Her mission is to help developers excel in building and growing their apps using Firebase and Gemini. Before joining the Firebase team in 2022, Marina worked as a software engineer for 8 years, 5 of which were dedicated to Android app development. She loves all things Jetpack Compose, Firebase and AI!",
-      "photoUrl": "https://it.droidcon.com/2025/wp-content/uploads/sites/6/sito_foto_coelho.png",
-      "twitter": "https://x.com/coelhoverse",
-      "linkedin": "https://www.linkedin.com/in/marina-coelho-24663514a/"
-    },
-    {
-      "speaker": "ivan-morgillo",
-      "role": "CTO, Mygoo.fun",
-      "bio": "I have built Android apps for over a decade. Nowadays I help programmers with my work on the Android documentation. I’m also building Mygoo.fun, an Italian startup, where I develop the Flutter mobile app and the Ruby on Rails backend.",
-      "photoUrl": "https://it.droidcon.com/2025/wp-content/uploads/sites/6/sito_foto2_morgillo_Sekulic.png",
-      "twitter": "https://x.com/hamen",
-      "linkedin": "https://www.linkedin.com/in/ivanmorgillo/"
-    },
-    {
-      "speaker": "sasa-sekulic",
-      "role": "CTO, Develhope",
-      "bio": "My academic path allowed me to obtain a master’s degree in mathematics, while my working career led me to coding. Currently working as an AI & software engineer, I focus on building AI solutions: starting from the prototype, features are added incrementally to build the final product. I like comparing this to the work of a craftsman, who keeps on refining and improving its own work. What else? In my spare time I like watching movies, listening to music and playing boardgames.",
-      "photoUrl": "https://it.droidcon.com/2025/wp-content/uploads/sites/6/sito_foto2_morgillo_Sekulic.png",
-      "linkedin": "https://www.linkedin.com/in/sasasekulic"
-    },
-    {
-      "speaker": "karlo-ceh",
-      "role": "Android Engineer, Infinum",
-      "bio": "Karlo is an Android Engineer with over five years of professional experience. He has worked on diverse domains for clients with worldwide reach, from Automotive to IoT. Beyond his passion for Android and Kotlin, he enjoys contributing to open-source, quirky board games and challenges at local pub quizzes.",
-      "photoUrl": "https://it.droidcon.com/2025/wp-content/uploads/sites/6/sito_foto_ceh.png",
-      "twitter": "https://x.com/Ceh1Ceh",
-      "linkedin": "https://www.linkedin.com/in/karlo-ceh"
-    },
-    {
-      "speaker": "marco-gomiero",
-      "role": "Senior Android Engineer, Airalo",
-      "bio": "Marco is a Senior Android Engineer at Airalo and a Google Developer Expert for Android. He’s passionate about building great mobile experiences on both Android and iOS, and loves working with Kotlin Multiplatform to share code where it makes sense. He also maintains open source projects, shares what he learns on his blog, speaks at conferences, and helps organize GDG Venezia. When he’s not coding, he’s probably playing basketball.",
-      "photoUrl": "https://it.droidcon.com/2025/wp-content/uploads/sites/6/sito_foto_gomiero.png",
-      "twitter": "https://twitter.com/marcoGomier",
-      "linkedin": "https://linkedin.com/in/marco-gomiero"
-    },
-    {
-      "speaker": "alex-zhukovich",
-      "role": "Android Engineer, Postcode Loterij",
-      "bio": "Alex Zhukovich has been developing Android since 2011. Currently, he is working for Backbase. He is a public speaker in Europe and software enthusiast with a passion for technologies, which share thoughts & experiences on the private technical blog.",
-      "photoUrl": "https://it.droidcon.com/2025/wp-content/uploads/sites/6/sito_foto_Zhukovich.png",
-      "twitter": "https://twitter.com/Alex_Zhukovich",
-      "linkedin": "https://www.linkedin.com/in/alex-zhukovich",
-      "website": "https://alexzh.com/"
-    },
-    {
-      "speaker": "bakhtar-sobat",
-      "role": "Android Developer, ABN AMRO Bank",
-      "bio": "I’m an Android Developer Chapter Lead and AI Engineer, passionate about building mobile solutions and advancing AI. I enjoy speaking at conferences and sharing insights on Android, Kotlin, security, and AI. Helping others grow in their careers is important to me, whether through mentorship or public speaking.",
-      "photoUrl": "https://it.droidcon.com/2025/wp-content/uploads/sites/6/sito_foto_Sobat.png",
-      "linkedin": "https://www.linkedin.com/in/mbsobat"
-    },
-    {
-      "speaker": "emmanuele-villa",
-      "role": "Senior Technical Consultant, Fincons Group",
-      "bio": "Emmanuele Villa is a Senior Technical Consultant at Fincons Group, where he leads a team of mobile and web developers working with technologies like Kotlin Multiplatform, Compose, and SwiftUI. With over ten years of experience in mobile development, he has built innovative solutions across various platforms, including Android, iOS, Xamarin, React Native, and Unity3D. He also teaches at the Università della Terza Età in Carate Brianza, a non-profit offering educational programs for retirees. Passionate about emerging technologies, Emmanuele explores areas like Quantum Computing and enjoys sharing his knowledge through articles, videos, and online courses. In his spare time, he cares for ant colonies, runs tabletop RPGs, and follows One Piece with dedication.",
-      "photoUrl": "https://it.droidcon.com/2025/wp-content/uploads/sites/6/sito_foto_villa.png",
-      "twitter": "https://x.com/WiLLy4Real",
-      "linkedin": "https://www.linkedin.com/in/emmanuelevilla"
-    },
-    {
-      "speaker": "shafik-quoraishee",
-      "role": "Senior ML/Games Engineer, The New York Times",
-      "bio": "Shafik Quoraishee is a senior mobile engineer on The New York Times Games team, leading development for flagship titles like Wordle, Connections, Strands, and the Crossword app. He builds polished, engaging mobile experiences enjoyed by millions of daily players, blending his expertise in AI and software design to support scale and accessibility. Beyond his work at NYT, Shafik is a seasoned speaker in AI and mobile game development—featured at events like Droidcon NYC and the Bletchley Institute’s Technology Summit, where he has presented on topics ranging from game integration to advances in AI and computer vision. His insights have also appeared on podcasts such as the Brave Technologist, where he discussed balancing legacy brand values, viral gameplay, AI-enhanced accessibility, and mobile-first innovation.",
-      "photoUrl": "https://it.droidcon.com/2025/wp-content/uploads/sites/6/sito_foto_Quoraishee.png",
-      "twitter": "https://x.com/SQuoraishee",
-      "linkedin": "https://www.linkedin.com/in/shafik-quoraishee/"
-    },
-    {
-      "speaker": "piotr-prus",
-      "role": "Lead Android Engineer, Tilt",
-      "bio": "Piotr Prus is a self-taught Android developer with a deep passion for tackling challenges in UI and architecture. He thrives on the opportunity to push the boundaries of what is possible in mobile app development. Currently, Piotr is enamored with Jetpack Compose and Kotlin Multiplatform Mobile, spending countless hours honing his skills and exploring their potential. Beyond his technical expertise, Piotr actively seeks to connect with new people in the industry. He is a firm believer in the power of collaboration and the value of networking. Always eager to learn from others and share his knowledge, Piotr enthusiastically engages with fellow developers, fostering meaningful connections that contribute to personal and professional growth. Piotr’s knowledge and enthusiasm have earned him invitations to speak at tech conferences. He is sharing his insights and experiences on various topics around Android development. Piotr’s always try to speak easy about complicated subjects. He also delivers insightful articles that provide practical tips, explore emerging trends, and delve into the nuances of Android development.",
-      "photoUrl": "https://it.droidcon.com/2025/wp-content/uploads/sites/6/sito_foto_prus.png",
-      "twitter": "https://x.com/piotr_prus",
-      "linkedin": "https://www.linkedin.com/in/piotrprus"
-    },
-    {
-      "speaker": "arnaud-giuliani",
-      "role": "CEO Product/Tech, Kotzilla",
-      "bio": "Arnaud has over 18 years of experience in software engineering, spanning roles in developing Java/JVM systems and leading Android application projects for startups. He has served as both a Senior Developer and Tech Lead, applying his expertise across various sectors.\nSince 2016, he has been an active speaker on topics such as Kotlin, Android Architecture, and Koin, and in 2020, he was recognized as a Google Developer Expert for Kotlin.\nIn 2017, Arnaud initiated the development of Koin (https://insert-koin.io/), a lightweight dependency injection framework that has become well-known in the Kotlin ecosystem.\nBy late 2022, he co-founded Kotzilla (https://kotzilla.io/), a company focused on building developer tools and SaaS platforms for Kotlin and mobile developers.",
-      "photoUrl": "https://it.droidcon.com/2025/wp-content/uploads/sites/6/sito_foto_giuliani.png"
-    },
-    {
-      "speaker": "nikheel-vishwas-savant",
-      "role": "Senior Software Engineer, Meta",
-      "bio": "Nikheel V. Savant is a Senior Software Engineer at Meta, specializing in Android Bluetooth internals and embedded wireless systems for next-generation wearable devices. He brings over a decade of experience in connectivity engineering, including 10 years at Bosch where he worked on embedded systems for automotive and industrial applications. At Meta, he focuses on AOSP Bluetooth stack optimization, secure pairing flows, and scalable audio/video transport. His prior roles include working on Wi-Fi systems at Apple and vehicle connectivity at Tesla. Nikheel holds a Master’s in Embedded Systems from the University of Pennsylvania and a Bachelor’s in Electronics & Communication. He is an active contributor to research and development in wireless debugging and Android platform stability.",
-      "photoUrl": "https://it.droidcon.com/2025/wp-content/uploads/sites/6/sito_foto_Savant.png",
-      "linkedin": "https://www.linkedin.com/in/nikheel-savant/"
-    },
-    {
-      "speaker": "benedikt-lobbecke",
-      "role": "Freelance Mobile Developer",
-      "bio": "I am a freelance software developer from Munich working with android for about 10 years for customers including Daimler, Allianz and ING. In my latest project I am supporting the apps Team of the Otto shopping app, one of the best known shopping apps in Germany. Besides this I enjoy working on open source android libraries related to app localisation as well as private projects around KMP and app security.",
-      "photoUrl": "https://it.droidcon.com/2025/wp-content/uploads/sites/6/sito_foto2_Lobbecke_fischer.png",
-      "linkedin": "https://www.linkedin.com/in/benedikt-l%C3%B6bbecke/"
-    },
-    {
-      "speaker": "julius-fischer",
-      "role": "Freelance Senior Software Developer and Security Engineer, IsarApps UG",
-      "bio": "I am a self-employed Senior Software Engineer specializing in Android development, with over 10 years of experience building secure, scalable, and user-friendly mobile applications. As a Google-certified Android Developer and iSAQB-certified Professional Software Architect, I combine deep technical expertise with a strong focus on mobile security, privacy, and resilience. Throughout my career, I have collaborated with leading companies such as Deutsche Bahn, BMW, Daimler, and Allianz, delivering innovative mobile solutions across diverse industries. My work emphasizes not only exceptional user experience but also robust security standards, ensuring applications are both engaging and trustworthy. I thrive on close collaboration with clients and partners, translating complex requirements into reliable solutions that exceed expectations. My mission is to create impactful mobile experiences that empower users while safeguarding their data in an increasingly connected world.",
-      "photoUrl": "https://it.droidcon.com/2025/wp-content/uploads/sites/6/sito_foto2_Lobbecke_fischer.png",
-      "twitter": "https://x.com/JuliusFischer",
-      "linkedin": "https://www.linkedin.com/in/julius-fischer/"
-    },
-    {
-      "speaker": "maxim-malisciuc",
-      "role": "Senior Android Developer, AUTHADA GmbH",
-      "bio": "I am a Software Developer with over 10 years of experience, primarily as an Android Developer. Along the way, I’ve also worked with Flutter, Kotlin Multiplatform (KMP), and various other technologies—whatever gets the job done. I’m a regular attendee of Droidcon Berlin and passionate about sharing knowledge. I strive to make my talks engaging, insightful, and easy to digest, ensuring they provide real value without feeling overwhelming. Beyond speaking, I’ve published several articles and developed three apps that are actively helping doctors every day. I consider myself easygoing, but that doesn’t mean I lack expertise—I simply believe learning and sharing should be enjoyable.",
-      "photoUrl": "https://it.droidcon.com/2025/wp-content/uploads/sites/6/sito_foto_Malisciuc.png",
-      "linkedin": "https://www.linkedin.com/in/maxim-malisciuc/"
-    },
-    {
-      "speaker": "filipe-baptista",
-      "role": "Senior software engineer, Volkswagen Digital Solutions Portugal",
-      "bio": "Filipe is a Senior Android Developer and Kotlin enthusiast that has been playing with the green robot guy since 2011 and worked in different projects in areas like education, insurance, banking and telco. He always loved to share what he learned, so look online for his blog posts. When he is not coding, he likes to spend his time traveling, listening to music and having a good cup of coffee, if possible the three combined.",
-      "photoUrl": "https://it.droidcon.com/2025/wp-content/uploads/sites/6/sito_foto_baptista.png",
-      "twitter": "https://x.com/filipebatista",
-      "linkedin": "https://pt.linkedin.com/in/filipebatista"
-    },
-    {
-      "speaker": "pamela-hill",
-      "role": "Kotlin Developer Advocate, Jet Brains",
-      "bio": "Pamela is a Developer Advocate for Kotlin Multiplatform at JetBrains and has more than 20 years of experience writing desktop, web and mobile apps.",
-      "photoUrl": "https://it.droidcon.com/2025/wp-content/uploads/sites/6/sito_foto_hill.png",
-      "twitter": "https://x.com/pamelaahill",
-      "linkedin": "https://www.linkedin.com/in/pamelaahill"
-    },
-    {
-      "speaker": "ben-kadel",
-      "role": "Senior Mobile Engineer, Get Your Guide",
-      "bio": "Developer, Presenter/Teacher, Open source advocate, Ultimate frisbee player & Board game hoarder. I love the fact that I get to code for a living, but I am also incredibly passionate about sharing, collaborating and helping others on their dev journey! I also have a growing YouTube channel (youtube.com/benkadel), where I try to make entertaining & educational content about programming, the tech industry and specific tutorials to breakdown complex topics. I adore presenting, story-telling and just generally engaging with an audience. If I am able to make life, even just a little brighter for someone then I have succeeded!",
-      "photoUrl": "https://it.droidcon.com/2025/wp-content/uploads/sites/6/sito_foto_kadel.png",
-      "twitter": "https://x.com/Ben_Kadel"
-    },
-    {
-      "speaker": "vanessa-johnson",
-      "role": "Android Engineer, The New York Times",
-      "bio": "Vanessa Johnson is an Associate Android Engineer at The New York Times working on the Games Android app. She loves building mobile apps and any technical topics she finds interesting. She is passionate about accessibility, is working on side projects, and has a newsletter. When she isn’t coding she is usually playing pickup basketball or watching a horror movie.",
-      "photoUrl": "https://it.droidcon.com/2025/wp-content/uploads/sites/6/sito_foto_johnson.png",
-      "linkedin": "https://www.linkedin.com/in/vanessa-johnson999/"
-    }
+    "evgenii-matsiuk",
+    "etienne-caron",
+    "julien-salvi",
+    "eury-perez-beltre",
+    "roman-levinzon",
+    "emanuele-maso",
+    "luca-bettelli",
+    "saumya-singh",
+    "john-o-reilly",
+    "andrea-della-porta",
+    "alessandro-finocchiaro",
+    "rosario-p-fernandes",
+    "marina-coelho",
+    "ivan-morgillo",
+    "sasa-sekulic",
+    "karlo-ceh",
+    "marco-gomiero",
+    "alex-zhukovich",
+    "bakhtar-sobat",
+    "emmanuele-villa",
+    "shafik-quoraishee",
+    "piotr-prus",
+    "arnaud-giuliani",
+    "nikheel-vishwas-savant",
+    "benedikt-lobbecke",
+    "julius-fischer",
+    "maxim-malisciuc",
+    "filipe-baptista",
+    "pamela-hill",
+    "ben-kadel",
+    "vanessa-johnson"
   ],
   "talks": [
     {

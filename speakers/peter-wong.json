@@ -1,3 +1,7 @@
 {
-  "name": "Peter Wong"
+  "name": "Peter Wong",
+  "role": "Software Architect at Thales CDI",
+  "bio": "Peter is an iOS developer with over 13 years of experience, currently working at Thales CDI PAY, where he develops SDK for banking and payment services. He is adept at designing both new and existing SDKs, while reducing technical debt and enhancing code quality. Notable project include introducing industry-first SDK for third-party mobile contactless payment on iOS.\n\nCurrently proficient in development tools and Swift concurrency, he has also designed DevOps automation for mobile SDKs, where it could enforce the rule and provide the feedback to developer, e.g. validation coverage, static analysis, app integration.",
+  "photoUrl": "https://ik.imagekit.io/iosconfsg/speakers/peter-wong.jpg",
+  "linkedin": "https://www.linkedin.com/in/peter-wong-03145789"
 }

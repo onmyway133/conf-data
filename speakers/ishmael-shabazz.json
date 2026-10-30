@@ -1,3 +1,7 @@
 {
-  "name": "Ishmael Shabazz"
+  "name": "Ishmael Shabazz",
+  "role": "Indie App Developer",
+  "bio": "Ish is an independent app developer from Southern California. He’s been developing iOS apps since 2010 and was featured in the 2017 documentary App: The Human Story. He is the founder of Illuminated Bits and has published several iOS apps including Capsicum, a new daily-planner for iOS inspired by beautiful paper-based planners. Ish has been fortunate enough to have his work featured by Apple, Starbucks, The Verge, TechCrunch, Daring Fireball, iMore, 9to5Mac, iDownloadBlog, CNET and many more. He hosts a meetup once a month in Rancho Cucamonga, CA and loves to support and mentor those interested in software development.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2019/ish.jpg",
+  "twitter": "https://twitter.com/ishabazz"
 }

@@ -1,3 +1,6 @@
 {
-  "name": "Andrew Coad"
+  "name": "Andrew Coad",
+  "bio": "I grew up in South West England and my teenage hobby was repairing salvaged vacuum tube radios. I could tune in to radio stations all over Europe and, best of all, pick up pirate radios stations broadcasting music never-to-be-heard on the BBC. All this gave me an enduring love of music and electronics. At university, I studied Electronic Engineering but quickly ended up in software spending most of my professional life working for financial services firms. It was with a government bond dealer in New York City that I first come into contact with object-oriented programming with the first C++ Windows compiler from an Irish company called Glockenspiel. The type of problems that we wrested with in those days were: \"...should destructors be virtual?\" Halcyon days. In 1999, I moved to Tokyo and have been here ever since. I can say that I have found living in Japan a tremendously rewarding and educational experience. These days I work for myself designing hardware and software and dusting off my collection of Jamaican reggae vinyl. My latest \"project\" is learning audio digital signal processing which is something an analogue guy like me has not had much exposure to over the years.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2019/instructors/selfsquare.jpg",
+  "twitter": "https://twitter.com/AndrewKCoad"
 }

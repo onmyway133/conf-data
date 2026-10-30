@@ -1,3 +1,7 @@
 {
-  "name": "Johannes Weiss"
+  "name": "Johannes Weiss",
+  "role": "Software Engineer at Apple",
+  "bio": "Johannes Weiss is a software engineer at Apple, working on the SwiftNIO project.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2018/speakers/jw.png",
+  "twitter": "https://twitter.com/johannesweiss"
 }

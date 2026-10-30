@@ -1,3 +1,6 @@
 {
-  "name": "Dmytro Polianskyi"
+  "name": "Dmytro Polianskyi",
+  "role": "iOS Developer @ Salmon",
+  "bio": "I’m Dmytro Polianskyi, an E2E Lead / iOS Developer at Salmon, focused on building consumer apps that are flexible, fast to ship, and actually useful to people.\n\nI originally started as a product designer, but taught myself how to code because I wanted to get closer to how products are really built. That path shaped the way I think about engineering: not just as writing clean code, but as designing systems that help teams learn, adapt, and ship better product experiences.\n\nI lived and studied in China, where I studied applied computer science and big data analysis before leaving the country and continuing my career in iOS. My first iOS app was Chinese With Laowai, a language-learning app where I worked on everything from custom UI to NLP, pronunciation practice, and performance-heavy text rendering.\n\nToday, my work sits at the intersection of iOS engineering, product thinking, and cross-functional delivery. I’m especially interested in how SwiftUI architecture, backend contracts, analytics, and team structure can help mobile teams move faster without turning their codebase into chaos.",
+  "photoUrl": "https://cdn.sessionize.com/image/9a48-400o400o1-4SaNzStdRYu1DsLjCgaRCd.jpg"
 }

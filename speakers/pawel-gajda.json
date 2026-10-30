@@ -1,3 +1,7 @@
 {
-  "name": "Paweł Gajda"
+  "name": "Paweł Gajda",
+  "bio": "Associated with Android since 2010, when platform was taking its first steps in the global market. Enthusiast of JetBrains products such as IntelliJ IDEA and Kotlin. Laureate of the national finals of Microsoft Imagine Cup 2013. Focuses on lifehacking and improving his productivity. Speaker at mobile conferences. After-hours open source contributor (author of KAndroid - a kotlin library for Android), amateur runner and guitar player.",
+  "photoUrl": "http://2017.mobilization.pl/images/speakers/pawel-gajda.jpg",
+  "twitter": "https://twitter.com/@pawegio",
+  "website": "http://www.pawegio.com/"
 }

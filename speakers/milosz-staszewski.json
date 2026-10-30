@@ -1,3 +1,9 @@
 {
-  "name": "Milosz Staszewski"
+  "name": "Milosz Staszewski",
+  "role": "Apple Certified Trainer",
+  "bio": "Milosz is an Apple Certified Trainer for App Development with Swift 4 course.",
+  "photoUrl": "http://2019.mobilization.pl/assets/images/speakers/milosz-staszewski.png",
+  "twitter": "https://twitter.com/@sofcik",
+  "linkedin": "https://www.linkedin.com/in/milosz-staszewski-243b6735",
+  "website": "https://k7.eu"
 }

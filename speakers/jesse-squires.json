@@ -1,3 +1,7 @@
 {
-  "name": "Jesse Squires"
+  "name": "Jesse Squires",
+  "role": "Swift Weekly Brief, Swift Unwrapped",
+  "bio": "Jesse is an iOS developer at PlanGrid. He writes and curates the Swift Weekly Brief newsletter, co-hosts the Swift Unwrapped podcast, and contributes to many open source projects. Outside of work he enjoys trail running and goes to punk and metal shows. He is fueled primarily by black coffee and black metal.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/bangalore2017/jesse.jpg",
+  "twitter": "https://twitter.com/jesse_squires"
 }

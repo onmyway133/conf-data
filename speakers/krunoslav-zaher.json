@@ -1,3 +1,6 @@
 {
-  "name": "Krunoslav Zaher"
+  "name": "Krunoslav Zaher",
+  "bio": "Worked on various projects for the past 16 years (augmented reality engines, BPM systems, mobile applications, bots …) Recently studying functional programming and modeling systems in a declarative way using observable sequences. I’m the initial committer in the RxSwift repository, I’m helping out bootstrapping an ecosystem inside RxSwiftCommunity and sharing architecture ideas in RxFeedback repository. Currently building systems at a YC well-being startup called Bellabeat.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2017/speakers/krunoslav.jpg",
+  "twitter": "https://twitter.com/krunoslavzaher"
 }

@@ -13,71 +13,17 @@
   ],
   "source": "cocoaconferences",
   "speakers": [
-    {
-      "speaker": "georgia-dow",
-      "bio": "Senior editor at iMore, psychotherapist and co-founder of Anxiety-videos.com , co-host of the Disruption, IMore show and other podcasts.",
-      "photoUrl": "https://d147a4qerpursf.cloudfront.net/images/gdow-5ab1d2e2.jpg",
-      "twitter": "http://twitter.com/Georgia_Dow"
-    },
-    {
-      "speaker": "david-smith",
-      "bio": "Indie iOS Developer and co-host of the Under the Radar podcast.",
-      "photoUrl": "https://d147a4qerpursf.cloudfront.net/images/dsmith-140812f4.jpg",
-      "twitter": "http://twitter.com/_DavidSmith"
-    },
-    {
-      "speaker": "david-starke",
-      "bio": "Founder and CTO at Workhood, Assistant Artistic Director of The Academy of Danse Libre, and creator of the iOS app DanceMaster",
-      "photoUrl": "https://d147a4qerpursf.cloudfront.net/images/dstarke-42f4987f.jpg",
-      "twitter": "http://twitter.com/dstarke"
-    },
-    {
-      "speaker": "vivian-qu",
-      "bio": "Part time agent of chaos, full time iOS engineer @ Pinterest.",
-      "photoUrl": "https://d147a4qerpursf.cloudfront.net/images/vqu-972740bc.jpg",
-      "twitter": "http://twitter.com/vivqu"
-    },
-    {
-      "speaker": "aleen-simms",
-      "bio": "Aleen Simms hosts Less Than Or Equal, a Relay FM podcast, and co-organizes App Camp for Girls Phoenix. An unapologetic Hufflepuff, she’s a fervent advocate for empathy and inclusivity. In her free time, she reads, crashes other people's podcasts, and obsesses over pens.",
-      "photoUrl": "https://d147a4qerpursf.cloudfront.net/images/asimms-0274194f.jpg",
-      "twitter": "http://twitter.com/Aleen"
-    },
-    {
-      "speaker": "lex-friedman",
-      "bio": "Lex heads up ad sales for leading podcast company Midroll. He was previously a senior writer for Macworld. Every Internet company Lex worked for was either acquired or went public. He has three kids and one wife.",
-      "photoUrl": "https://d147a4qerpursf.cloudfront.net/images/lfriedman-76006c17.jpg",
-      "twitter": "http://twitter.com/lexfri"
-    },
-    {
-      "speaker": "wayne-hartman",
-      "bio": "Wayne is a research engineer for a Fortune 150 company by day and super hero indie developer by night. He wears the same costume, though, for both gigs.",
-      "photoUrl": "https://d147a4qerpursf.cloudfront.net/images/whartman-1fac98c9.jpg",
-      "twitter": "http://twitter.com/waynehartman"
-    },
-    {
-      "speaker": "erika-carlson",
-      "bio": "Director of Apprenticeship & Training at Detroit Labs. iOS developer, tech educator, diversity advocate, & happiness enthusiast.",
-      "photoUrl": "https://d147a4qerpursf.cloudfront.net/images/ecarlson-c344deb7.jpg",
-      "twitter": "http://twitter.com/eacarlson"
-    },
-    {
-      "speaker": "lydia-martin",
-      "bio": "Lydia Martin is passionate about good habits, happy teams, and getting stuff done. She lives in New York City, mostly for the scenery and fresh air.",
-      "photoUrl": "https://d147a4qerpursf.cloudfront.net/images/lmartin-1681d230.jpg"
-    },
-    {
-      "speaker": "arik-devens",
-      "bio": "iOS developer who has worked at a few interesting places, including Eazel, Netscape, Palm, and Posterous. Hosts the Cinema Gadfly podcast.",
-      "photoUrl": "https://d147a4qerpursf.cloudfront.net/images/adevens-6e107d80.jpg",
-      "twitter": "http://twitter.com/danieltiger"
-    },
-    {
-      "speaker": "kevin-lee",
-      "bio": "Kevin has been shipping software since Java 1.2. He loves lateral learning and learning about learning.",
-      "photoUrl": "https://d147a4qerpursf.cloudfront.net/images/klee-c37a9f3c.jpg",
-      "twitter": "http://twitter.com/stubborndreams"
-    }
+    "georgia-dow",
+    "david-smith",
+    "david-starke",
+    "vivian-qu",
+    "aleen-simms",
+    "lex-friedman",
+    "wayne-hartman",
+    "erika-carlson",
+    "lydia-martin",
+    "arik-devens",
+    "kevin-lee"
   ],
   "talks": [
     {

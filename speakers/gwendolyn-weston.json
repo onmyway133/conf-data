@@ -1,3 +1,7 @@
 {
-  "name": "Gwendolyn Weston"
+  "name": "Gwendolyn Weston",
+  "role": "indie iOS developer",
+  "bio": "indie iOS developer. Speaker at try! Swift.",
+  "photoUrl": "http://2016.iosconf.sg/images/speakers/gwen.png",
+  "twitter": "https://twitter.com/purpleyay"
 }

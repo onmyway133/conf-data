@@ -1,3 +1,6 @@
 {
-  "name": "Helen Papanikolopoulou"
+  "name": "Helen Papanikolopoulou",
+  "bio": "Eleni Papanikolopoulou is an active iOS Developer at Workable, an innovating recruiting software company, headquartered in Boston, MA. She is from Athens, Greece and holds a Master’s degree in Computer Science and IT Management from University of Manchester, UK. She started her developing career as a Java engineer but later on converted to Swift when contributing in Pobuca, a contact management app. She is an advocate of RxSwift for solving tough asynchronous-like problems and currently working in developing Error Handler, an open-source Swift framework. When she doesn't work, she enjoys traveling more than anything and watching Silicon Valley series.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2017/speakers/helen.png",
+  "twitter": "https://twitter.com/elenipapanikolo"
 }

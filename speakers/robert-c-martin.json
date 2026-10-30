@@ -1,3 +1,8 @@
 {
-  "name": "Robert C. Martin"
+  "name": "Robert C. Martin",
+  "role": "Owner, Uncle Bob Consulting LLC",
+  "bio": "Robert C. Martin (Uncle Bob) has been a programmer since 1970. He is the Master Craftsman at 8th Light inc, a Chicago based Software Consulting firm. Co-founder of cleancoders.com , offering on-line video training for software developers. And founder of Uncle Bob Consulting LLC, offering software consulting, training, and skill development services to major corporations worldwide. Mr. Martin has published dozens of articles in various trade journals, and is a regular speaker at international conferences and trade shows. He is also the creator of the acclaimed educational video series at cleancoders.com. Mr. Martin has authored and edited many books including: Designing Object Oriented C++ Applications using the Booch Method Patterns Langauages of Program Design 3 More C++ Gems Extreme Programming in Practice Agile Software Development: Principles, Patterns, and Practices. UML for Java Programmers Clean Code The Clean Coder. A leader in the industry of software development, Mr. Martin served three years as the editor-in-chief of the C++ Report, and he served as the first chairman of the Agile Alliance.",
+  "twitter": "https://twitter.com/unclebobmartin",
+  "linkedin": "https://www.linkedin.com/in/robert-martin-7395b0/",
+  "website": "https://cleancoders.com"
 }

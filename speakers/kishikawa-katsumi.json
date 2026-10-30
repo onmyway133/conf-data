@@ -1,3 +1,8 @@
 {
-  "name": "Kishikawa Katsumi"
+  "name": "Kishikawa Katsumi",
+  "role": "Software Engineer",
+  "bio": "Katsumi Kishikawa is a software engineer specializing in mobile app development. While the role of humans in software development continues to evolve, he believes that the core joy of programming remains unchanged. He finds embedded programming particularly rewarding because it allows developers to build everything themselves, making the essence of programming especially clear and enjoyable.",
+  "photoUrl": "https://tryswift.jp/images/from_app/2026_KishikawaKatsumi.png",
+  "twitter": "https://twitter.com/k_katsumi",
+  "website": "https://kishikawakatsumi.com/"
 }

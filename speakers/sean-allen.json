@@ -1,3 +1,6 @@
 {
-  "name": "Sean Allen"
+  "name": "Sean Allen",
+  "bio": "Sean is a content creator and indie app developer. His YouTube channel of over 170K subscribers teaches Swift, SwiftUI and keeps you up to date on the latest in iOS development. Sean is also building his indie app portfolio.",
+  "photoUrl": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/seanallen.jpg",
+  "twitter": "https://x.com/seanallen_dev"
 }

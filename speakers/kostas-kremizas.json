@@ -1,3 +1,6 @@
 {
-  "name": "Kostas Kremizas"
+  "name": "Kostas Kremizas",
+  "bio": "Kostas is an iOS Engineer at Workable, the recruitment software company. He's developed over a dozen iOS apps, from cooking and fashion, to retail, radio, food delivery and more. Having survived the years of Objective-C and manual memory management, he now basks in the comfort and (type) safety of Swift. He loves TDD, clean architecture and more recently getting to grips with functional programming and ReactiveX concepts.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2017/speakers/kostas.jpg",
+  "twitter": "https://twitter.com/kostaskremizas"
 }

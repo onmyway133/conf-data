@@ -1,3 +1,6 @@
 {
-  "name": "Esteban Torres"
+  "name": "Esteban Torres",
+  "role": "soundcloud.com",
+  "bio": "Core Clients Engineer @ SoundCloud; working as a liaison between the mobile clients and the backend services the Core Clients team @ SoundCloud helps both sides by developing tools, abstracting implementations and maintaining BFFs to help encapsulate bits of code from the org into smaller and more manageable parts.",
+  "twitter": "https://twitter.com/esttorhe"
 }

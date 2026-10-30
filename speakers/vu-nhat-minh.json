@@ -1,3 +1,7 @@
 {
-  "name": "Vu Nhat Minh"
+  "name": "Vu Nhat Minh",
+  "role": "iOS Engineer at Mercari / Souzoh",
+  "bio": "Orakaro is an iOS Engineer at Mercari currently working on Atte, the Japanese community classifieds app. Though he had years of backend web programming experiences using languages such as Python or Scala, he decided to move on as a native mobile engineer after figuring out that smartphone apps were doing a better job of impacting the world each and every day. He also enjoys digging around concepts and theories in functional programming, learning abstract algebra and excited to help bring those academy concepts closer to industry products. In spare time Orakaro enjoys playing the ancient game of Go. He is a 2 dan amateur go player.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2018/lt/orakaro.jpg",
+  "twitter": "https://twitter.com/orakaro"
 }

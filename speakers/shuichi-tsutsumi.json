@@ -1,3 +1,7 @@
 {
-  "name": "Shuichi Tsutsumi"
+  "name": "Shuichi Tsutsumi",
+  "role": "iOS Developer in Tokyo/San Francisco",
+  "bio": "Shuichi has been a freelance iOS developer in Tokyo, and works for Fyusion Inc. in San Francisco since 2016. Co-authored “iOS x BLE Core Bluetooth Programming” (2015) and authored “iOS Programming - Advanced 100 Recipes” (2013). He is the creator of some popular OSS repositories such as iOS Sampler series.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2018/shu223.jpg",
+  "twitter": "https://twitter.com/shu223"
 }

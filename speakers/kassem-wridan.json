@@ -1,3 +1,8 @@
 {
-  "name": "Kassem Wridan"
+  "name": "Kassem Wridan",
+  "role": "Software engineer at Bloomberg London",
+  "bio": "Kassem Wridan is a software engineer at Bloomberg London, working in the iOS Platform team. He is passionate about UI navigation paradigms, testing and as of late, Xcode project tooling!\n\nFrom time to time Kassem blogs about his technical findings, and in his spare time is learning partner dancing and experimenting with filmography.",
+  "photoUrl": "http://2019.mobilization.pl/assets/images/speakers/kassem-wridan.png",
+  "twitter": "https://twitter.com/kwridan",
+  "website": "https://www.matrixprojects.net"
 }

@@ -1,3 +1,6 @@
 {
-  "name": "Marcin Moskała"
+  "name": "Marcin Moskała",
+  "bio": "Kotlin developer and passionate for over 2 years. Making open-source libraries (ActivityStarter, PreferenceHolder, KotlinDiscreteMathToolkit) and applications both for GameKit and as a freelancer. Also writing articles for programming magazines and making speeches on different events.",
+  "photoUrl": "http://2017.mobilization.pl/images/speakers/marcin-moskala.jpg",
+  "website": "http://marcinmoskala.com/"
 }

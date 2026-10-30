@@ -1,3 +1,9 @@
 {
-  "name": "Andrea Della Porta"
+  "name": "Andrea Della Porta",
+  "role": "Mobile Manager @ Capgemini",
+  "bio": "Andrea has been a technology enthusiast for as long as he can remember. He started developing his first Java programs in his early high school years, but with the advent of smartphones, he quickly fell in love with the mobile world. His experience started in Switzerland for an Android project in the medical field and continued for large companies such as NTT Data and Deloitte, until he got to his current Cegeka. Over the years he has developed applications with large user bases for various industries, specializing in native Android development, Flutter and now Kotlin Multiplatform.",
+  "photoUrl": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/faba-400o400o1-hGaCBrsoePKrWgXMHnKXXf.png",
+  "twitter": "https://twitter.com/AndreaDellaPor5",
+  "linkedin": "https://linkedin.com/in/andrea-della-porta-01",
+  "website": "https://www.andreadellaporta.com"
 }

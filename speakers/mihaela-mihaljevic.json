@@ -1,3 +1,7 @@
 {
-  "name": "Mihaela Mihaljevic"
+  "name": "Mihaela Mihaljevic",
+  "role": "Swift engineer",
+  "bio": "Mihaela is a Swift engineer who works from first principles: to understand a framework, she rebuilds it and measures parity against the original. That habit produced SlayerMotion, a from-scratch pure-Swift reimplementation of Apple’s UI, graphics, and motion pipeline. She writes about Swift internals at aleahim.com.",
+  "photoUrl": "https://do-ios.com/images/speakers/2026/mihaela.webp",
+  "website": "https://aleahim.com"
 }

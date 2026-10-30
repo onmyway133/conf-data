@@ -1,3 +1,8 @@
 {
-  "name": "Evgenii Matsiuk"
+  "name": "Evgenii Matsiuk",
+  "role": "Staff Software Engineer, X (Twitter)",
+  "bio": "Evgenii Matsiuk is a Staff Software Engineer at X (Twitter) based in London, with over 12 years of experience in mobile development. As an Android Google Developer Expert (GDE), he has spent 5+ years specializing in mobile testing tooling and is the creator of Kaspresso, a popular Android testing framework. Evgenii is also the founder of Marathon Labs, which operates Marathon Cloud—a revolutionary testing platform that runs any number of UI tests in under 15 minutes. The company serves 10+ enterprise clients, including S&P 500 companies, and has achieved this success entirely through bootstrapping without external investments.",
+  "photoUrl": "https://it.droidcon.com/2025/wp-content/uploads/sites/6/sito_foto_Matsiuk.png",
+  "twitter": "https://x.com/e_matsyuk",
+  "linkedin": "https://www.linkedin.com/in/eugenematsyuk/"
 }

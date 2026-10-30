@@ -13,126 +13,27 @@
   ],
   "source": "confs.tech",
   "speakers": [
-    {
-      "speaker": "ali-ebrahimi-pourasad",
-      "role": "Indie Developer & Doctoral Candidate @ Bubbles' Journal",
-      "bio": "I’m Ali, an indie developer and researcher who has been building iOS apps since 2017. Together with my girlfriend and co-founder Anna, I build Bubbles’ Journal, an iPad journaling app crafted with a strong focus on detail, playfulness and user experience. Bubbles’ Journal has been featured on the App Store and is loved by its users, with over 3,000 reviews and an average rating of 4.8. \nAlongside indie development, I am finishing my PhD in Empirical Software Engineering, where my research focuses on the thing I am most passionate about: apps & UX.\n\nNoteworthy to mention: I freaking love video games 👾 So hit me up for a chitchat about all of these topics 😁",
-      "photoUrl": "https://cdn.sessionize.com/image/284e-400o400o1-SNSR6d8GejdYf4q5rERy3c.jpg"
-    },
-    {
-      "speaker": "phil-zakharchenko",
-      "role": "Apple Platforms Engineer @ OpenAI",
-      "bio": "Phil is an Apple platforms engineer obsessed with software craft and intentional design. At Apple, he worked on flagship macOS features including the modernized menu architecture, Window Tiling, and Stage Manager. In 2023, he joined Software Applications Incorporated as the first hire to build Sky, a reimagining of the Mac interaction paradigm. The company was acquired in 2025 by OpenAI, where Phil is continuing to build thoughtful experiences and dreaming up new interactions for Apple platforms.",
-      "photoUrl": "https://cdn.sessionize.com/image/e72b-400o400o1-Nrn4LkLo2LcnjgShiCTiwS.jpg"
-    },
-    {
-      "speaker": "edward-harker",
-      "role": "Founder & Mobile Engineer @ BugScreen",
-      "bio": "Edward is a software engineer formerly at Deliveroo and Shazam. He is passionate about building high-quality mobile apps with a focus on quality, testing and performance.",
-      "photoUrl": "https://cdn.sessionize.com/image/8dd3-400o400o1-fzrHZNnTm2bYxoeeFmgUCb.jpg"
-    },
-    {
-      "speaker": "haydar-sahin",
-      "role": "Mobile Lead & Consultant @ Netlight Consulting",
-      "bio": "Haydar Sahin is a Technology Consultant at Netlight with a passion for building digital products that users enjoy using. Combining strategic consulting, hands-on software engineering, and technical leadership, he has helped organizations across e-commerce, automotive, and media deliver high-quality user experiences. He is particularly interested in AI-assisted engineering and the practical application of emerging technologies to create smarter products and empower development teams.",
-      "photoUrl": "https://cdn.sessionize.com/image/ff04-400o400o1-78bh1S2DU2aeXmyKr2sZV2.jpg"
-    },
-    {
-      "speaker": "raul-menezes",
-      "role": "Lead iOS Engineer @ Bumble",
-      "bio": "I'm an old school passionate iOS engineer! Still remember the good times with Objective-C but don't miss the cross-platform frameworks! Now SwiftUI enthusiastic and everything related with Design Systems",
-      "photoUrl": "https://cdn.sessionize.com/image/b951-400o400o1-9Aa5TqiiPo6cyt66So4BWw.jpg"
-    },
-    {
-      "speaker": "saeid-rezaeisadrabadi",
-      "role": "Senior Mobile Engineer @ PAYBACK",
-      "bio": "I'm a Senior Mobile Engineer with over 8 years of experience architecting, developing, and maintaining complex mobile applications at scale. I specialize in performance optimization and build tooling with deep, hands-on expertise taking production apps through the full software development lifecycle.\nA self-described build tools geek, I care deeply about writing clean, maintainable, and performant code, with a strong commitment to user privacy and secure, user-centric experiences. I bring that same discipline to the systems and pipelines that power mobile development at enterprise scale.\nBeyond engineering, I'm a dedicated mentor and collaborative team player who actively contributes to high-impact technical decisions. I thrive at the intersection of deep technical craft and team growth, always expanding my knowledge and pushing the boundaries of what great mobile engineering looks like.",
-      "photoUrl": "https://cdn.sessionize.com/image/677e-400o400o1-JjVfu1Aoy8CEzLX7jmTBFB.jpg"
-    },
-    {
-      "speaker": "ed-rooth",
-      "role": "Creator / Founder of Chromatose @ Chromatose",
-      "bio": "Ed Rooth (aka Hekuli) is a solo developer and visual artist with over 20 years in software. He's the creator of Chromatose, a real-time, shader-based video synthesizer for iOS that he designs, engineers, and ships entirely on his own. A longtime DJ and electronic-music hobbyist, he fell down the real-time-graphics rabbit hole, taught himself Metal, and set out to put a GPU instrument in everyone's pocket.",
-      "photoUrl": "https://cdn.sessionize.com/image/307a-400o400o1-76iHFTweRoFS499mUaTxVF.jpg"
-    },
-    {
-      "speaker": "halle-winkler",
-      "role": "Security Engineer, Owner @ Politepix",
-      "bio": "Halle Winkler is a veteran indie software engineer and end-user privacy advocate, who became an offensive security researcher and a consulting application security engineer for Apple platforms. She is a Certified Ethical Hacker, with 12 Apple Security credits spanning all Apple devices, and publishes the [Berlin Bassline Brief](https://buttondown.com/Halle/archive/) security newsletter. Previously, she brought offline speech recognition to iOS with OpenEars. She lives in Kreuzberg, Berlin and secretly adores it, but don't let it get around.",
-      "photoUrl": "https://cdn.sessionize.com/image/a949-400o400o1-Uh3XhQCHSFUv9Vc473nkZo.jpg"
-    },
-    {
-      "speaker": "lukasz-lech",
-      "role": "Co-founder @ Peakme",
-      "bio": "iOS engineer with over a decade of experience. Currently building Peakme, a hiking achievements tracking app, with a small team of friends while balancing a full-time engineering role. Outside of coding, I play tennis and enjoy snowboarding, surfing, and kitesurfing.",
-      "photoUrl": "https://cdn.sessionize.com/image/d087-400o400o1-3E6twfpWgp4srNyFZic4Uj.jpg"
-    },
-    {
-      "speaker": "matvei-novoselov",
-      "role": "iOS & visionOS Software Engineer @ Sony",
-      "bio": "Matvei (Matt) Novoselov is an iOS and visionOS Software Engineer at Sony Group in London, UK, specializing in XR and spatial computing. He is a public XR speaker and an alumnus of the Apple Developer Academy, as well as a winner of the Apple Swift Student Challenge 2025. Matvei is also the co-author of a scientific research paper on XR and spatial computing presented at the International Conference on Social Robotics (ICSR) and published by Springer. His work focuses on creating immersive experiences and exploring new possibilities for spatial applications on Apple platforms.",
-      "photoUrl": "https://cdn.sessionize.com/image/d380-400o400o1-TJcfnET6qF4wygPhgvbKuk.jpg"
-    },
-    {
-      "speaker": "bas-broek",
-      "role": "iOS and macOS engineer",
-      "bio": "Bas is an iOS and macOS developer with a passion for testability, accessibility and user-centric apps. He cares about communication and collaboration.\n\nLikes coffee and watches (a lot).",
-      "photoUrl": "https://cdn.sessionize.com/image/243b-400o400o1-3MkWQmjmsYRjmUFDn5vggG.jpg"
-    },
-    {
-      "speaker": "julia-fodor-horvath",
-      "role": "Principal Software Engineer @ Bitrise",
-      "bio": "I am a tech lead who works with a team to solve challenging problems using technologies like Go, SQL, BigQuery, virtualization, and AWS. I enjoy leading collaborative efforts that turn complex requirements into practical, scalable solutions. My focus is on building reliable systems, helping my team to grow, and driving meaningful technical impact.",
-      "photoUrl": "https://cdn.sessionize.com/image/9974-400o400o1-9zNKHQmLkkeW6a4Hp1d2ah.jpg"
-    },
-    {
-      "speaker": "alex-ozun",
-      "role": "Staff iOS Engineer @ American Express",
-      "bio": "I work as a Staff Engineer at American Express. I’ve spent last 10 years of my career working with unidirectional architectures and effect systems.",
-      "photoUrl": "https://cdn.sessionize.com/image/dbed-400o400o1-JhiezNEKAy2NR6e8A3bify.jpg",
-      "twitter": "https://twitter.com/AlexOzun"
-    },
-    {
-      "speaker": "armend-belallari",
-      "role": "Senior Software Developer @ OpenResearch",
-      "bio": "I'm a Senior Mobile Software Engineer at OpenResearch GmbH, with 13+ years experience in Mobile Development, passionate about building high-quality mobile applications and exploring emerging technologies. I work across Swift, Kotlin, Flutter, and Kotlin Multiplatform, focusing on scalable mobile architectures, AI-powered experiences, and developer productivity. I enjoy turning new ideas into working prototypes, experimenting with the latest Apple technologies, and sharing practical lessons learned with the developer community through talks, meetups, and hands-on demos.",
-      "photoUrl": "https://cdn.sessionize.com/image/a246-400o400o1-U62GCLA6p1eKBqBjPdPCpf.png"
-    },
-    {
-      "speaker": "avi-tsadok",
-      "role": "Head of Mobile @ Melio Payments",
-      "bio": "Avi Tsadok has worked in iOS development for 14 years and is currently the mobile team lead at Melio Payments. As an accomplished iOS developer, Avi has contributed to cutting-edge apps like \"Any.do\" and is one of the most well-known iOS development book authors in the world, having written five books on Swift and iOS development, along with dozens of tutorials and articles. He has also shared his expertise as a speaker at several conferences. Avi resides in Tel Mond, Israel, with his wife Tammy and their two children.",
-      "photoUrl": "https://cdn.sessionize.com/image/0d8e-400o400o1-MaGcFh4V21Lvk6iJEykwAN.jpeg",
-      "twitter": "https://twitter.com/avi_tsadok",
-      "linkedin": "https://www.linkedin.com/in/avi-tsadok-86a75912/?originalSubdomain=il"
-    },
-    {
-      "speaker": "bruno-scheele",
-      "role": "Accessibility & iOS Developer @ Binary Adventures",
-      "bio": "Bruno Scheele has been developing apps since 2010 and has worked for many different clients, from small to big. \n\nHis interest in making software that can be used by anyone and everyone, leads him to consider inclusivity in all aspects of development. Accessibility especially has captured his imagination and he now strives to keep learning more about this whole new world and help companies and organizations make truly usable apps for everyone.",
-      "photoUrl": "https://cdn.sessionize.com/image/c7af-400o400o1-fnpMDEQXDCXAv7cFufMKAE.jpg"
-    },
-    {
-      "speaker": "cate-huston",
-      "role": "Fractional CTO @ Twill",
-      "bio": "Cate is the author of The Engineering Leader, fractional CTO at Twill and engineering leadership coach. She was previously in leadership roles at DuckDuckGo and Automattic, and an advisor at Glowforge. She started her career as a software engineer at Google.",
-      "photoUrl": "https://cdn.sessionize.com/image/de00-400o400o1-TDBeMGi1jN1DYTCoxixDGC.jpg"
-    },
-    {
-      "speaker": "dmytro-polianskyi",
-      "role": "iOS Developer @ Salmon",
-      "bio": "I’m Dmytro Polianskyi, an E2E Lead / iOS Developer at Salmon, focused on building consumer apps that are flexible, fast to ship, and actually useful to people.\n\nI originally started as a product designer, but taught myself how to code because I wanted to get closer to how products are really built. That path shaped the way I think about engineering: not just as writing clean code, but as designing systems that help teams learn, adapt, and ship better product experiences.\n\nI lived and studied in China, where I studied applied computer science and big data analysis before leaving the country and continuing my career in iOS. My first iOS app was Chinese With Laowai, a language-learning app where I worked on everything from custom UI to NLP, pronunciation practice, and performance-heavy text rendering.\n\nToday, my work sits at the intersection of iOS engineering, product thinking, and cross-functional delivery. I’m especially interested in how SwiftUI architecture, backend contracts, analytics, and team structure can help mobile teams move faster without turning their codebase into chaos.",
-      "photoUrl": "https://cdn.sessionize.com/image/9a48-400o400o1-4SaNzStdRYu1DsLjCgaRCd.jpg"
-    },
-    {
-      "speaker": "michael-gerasymenko"
-    },
-    {
-      "speaker": "claire-sivadier"
-    },
-    {
-      "speaker": "mihaela-mihaljevic-jakic"
-    }
+    "ali-ebrahimi-pourasad",
+    "phil-zakharchenko",
+    "edward-harker",
+    "haydar-sahin",
+    "raul-menezes",
+    "saeid-rezaeisadrabadi",
+    "ed-rooth",
+    "halle-winkler",
+    "lukasz-lech",
+    "matvei-novoselov",
+    "bas-broek",
+    "julia-fodor-horvath",
+    "alex-ozun",
+    "armend-belallari",
+    "avi-tsadok",
+    "bruno-scheele",
+    "cate-huston",
+    "dmytro-polianskyi",
+    "michael-gerasymenko",
+    "claire-sivadier",
+    "mihaela-mihaljevic-jakic"
   ],
   "talks": [
     {

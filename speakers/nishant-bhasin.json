@@ -1,3 +1,6 @@
 {
-  "name": "Nishant Bhasin"
+  "name": "Nishant Bhasin",
+  "role": "Engineering Manager at Mozilla",
+  "bio": "Engineering Manager at Mozilla working on Firefox for iOS. Previously a Staff Engineer leading major architectural initiatives in Swift and SwiftUI. Over a decade of experience building and scaling mobile applications with a focus on performance, privacy, and usability. I am passionate about mentorship, open source collaboration, and helping engineers grow through real, impactful contributions. I continue to support global contributors and guide new developers through their first open source experience while ensuring Firefox for iOS maintains the quality and reliability expected from a product used by millions.",
+  "photoUrl": "https://tryswift.jp/images/from_app/2026_NishantBhasin.jpg"
 }

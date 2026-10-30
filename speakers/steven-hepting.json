@@ -1,3 +1,6 @@
 {
-  "name": "Steven Hepting"
+  "name": "Steven Hepting",
+  "role": "airbnb.com",
+  "bio": "Steven Hepting is an iOS Engineer at Airbnb where he works on build systems, continuous integration, and optimizing the mobile app. Previously he did iOS work at Twitter and Microsoft for the TwitterKit SDK and the Yammer iOS app.\n\nOriginally from the frigid wasteland of the Canadian praries, he now lives in sunny foggy San Francisco with his wife and two children. He loves jogging (slowly, with a stroller), eating burritos, and tinkering with microcontrollers when he's not at work.",
+  "twitter": "https://twitter.com/stevenhepting"
 }

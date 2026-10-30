@@ -13,45 +13,15 @@
   ],
   "source": "cocoaconferences",
   "speakers": [
-    {
-      "speaker": "robert-widmann",
-      "twitter": "https://twitter.com/CodaFi_"
-    },
-    {
-      "speaker": "brandon-kase",
-      "twitter": "https://twitter.com/bkase_"
-    },
-    {
-      "speaker": "christella-dolmo",
-      "twitter": "https://twitter.com/christelladolmo"
-    },
-    {
-      "speaker": "lisa-luo",
-      "twitter": "https://twitter.com/luoser"
-    },
-    {
-      "speaker": "matt-diephouse",
-      "twitter": "https://twitter.com/mdiep"
-    },
-    {
-      "speaker": "rahul-malik",
-      "twitter": "https://twitter.com/rmalik"
-    },
-    {
-      "speaker": "stephen-celis",
-      "twitter": "https://twitter.com/stephencelis"
-    },
-    {
-      "speaker": "chris-eidhof",
-      "twitter": "https://twitter.com/chriseidhof"
-    },
-    {
-      "speaker": "brandon-williams",
-      "twitter": "https://www.twitter.com/mbrandonw"
-    },
-    {
-      "speaker": "konrad-feiler",
-      "twitter": "https://twitter.com/bersaelor"
-    }
+    "robert-widmann",
+    "brandon-kase",
+    "christella-dolmo",
+    "lisa-luo",
+    "matt-diephouse",
+    "rahul-malik",
+    "stephen-celis",
+    "chris-eidhof",
+    "brandon-williams",
+    "konrad-feiler"
   ]
 }

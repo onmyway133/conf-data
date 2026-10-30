@@ -1,3 +1,7 @@
 {
-  "name": "Stephen Celis"
+  "name": "Stephen Celis",
+  "role": "Point-Free",
+  "bio": "Stephen Celis lives in Brooklyn and co-hosts Point-Free, a Swift video series exploring functional programming and more. He helped build and open-source the Kickstarter iOS app and most recently helped bring the functional lifestyle to FiftyThree's Paper and HQ Trivia.",
+  "photoUrl": "https://2018.nsspain.com/images/speakers/stephen.jpeg",
+  "twitter": "https://twitter.com/stephencelis"
 }

@@ -1,3 +1,8 @@
 {
-  "name": "Christina Moulton"
+  "name": "Christina Moulton",
+  "role": "Freelancer, Author, Sailor",
+  "bio": "Christina has been building iOS apps for 8 years, mostly as a freelancer. She blogs at GrokSwift.com and wrote an ebook on creating iOS apps with REST APIs. She tried living and travelling on a sailboat for a few years but the internet connection just wasn't good enough.",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/nyc2018/speakers/christina.jpg",
+  "twitter": "https://twitter.com/ChristinaMltn",
+  "website": "https://grokswift.com/"
 }

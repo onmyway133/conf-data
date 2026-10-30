@@ -1,3 +1,7 @@
 {
-  "name": "Javier Soto"
+  "name": "Javier Soto",
+  "role": "iOS Developer at Twitch",
+  "bio": "Javier Soto. Spanish, iOS developer in the SF Bay Area for the past 5 years. Worked at Pebble and Twitter before, now at Twitch. Big fan of Swift. When not writing code, he's playing chess, solving Rubik's cubes or flying planes",
+  "photoUrl": "https://www.tryswift.co/assets/images/speakers/tokyo2018/javi.jpg",
+  "twitter": "https://twitter.com/javi"
 }

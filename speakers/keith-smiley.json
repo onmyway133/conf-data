@@ -1,3 +1,7 @@
 {
-  "name": "Keith Smiley"
+  "name": "Keith Smiley",
+  "role": "iOS Developer at Lyft",
+  "bio": "iOS Developer at Lyft. Previously at thoughtbot.",
+  "photoUrl": "http://2016.iosconf.sg/images/speakers/keith.png",
+  "twitter": "https://twitter.com/SmileyKeith"
 }
