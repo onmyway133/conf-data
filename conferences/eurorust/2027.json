@@ -1,0 +1,15 @@
+{
+  "name": "EuroRust 2027",
+  "year": 2027,
+  "url": "https://eurorust.eu",
+  "startDate": "2027-10-13",
+  "endDate": "2027-10-16",
+  "city": "Prague",
+  "country": "CZ",
+  "lat": 50.08804,
+  "lng": 14.42076,
+  "topics": [
+    "Rust"
+  ],
+  "source": "site"
+}
