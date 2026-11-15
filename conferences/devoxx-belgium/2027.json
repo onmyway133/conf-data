@@ -1,0 +1,21 @@
+{
+  "name": "Devoxx Belgium 2027",
+  "year": 2027,
+  "url": "https://devoxx.be",
+  "startDate": "2027-10-04",
+  "endDate": "2027-10-08",
+  "city": "Antwerp",
+  "country": "BE",
+  "lat": 51.22047,
+  "lng": 4.40026,
+  "topics": [
+    "Java",
+    "Data/AI"
+  ],
+  "cfp": {
+    "url": "https://devoxx.be/cfp",
+    "deadline": "2027-07-16",
+    "open": false
+  },
+  "source": "site"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "iOSKonf 2027",
+  "year": 2027,
+  "url": "https://www.ioskonf.mk",
+  "startDate": "2027-05-10",
+  "endDate": "2027-05-12",
+  "city": "Skopje",
+  "country": "MK",
+  "lat": 41.99646,
+  "lng": 21.43141,
+  "topics": [
+    "iOS"
+  ],
+  "source": "site"
+}
