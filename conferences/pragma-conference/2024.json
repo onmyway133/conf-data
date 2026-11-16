@@ -42,5 +42,15 @@
     "antonio-markotic",
     "steven-van-impe",
     "nikolaj-schumacher"
+  ],
+  "talks": [
+    {
+      "slug": "from-side-project-to-going-indie-3",
+      "title": "From Side Project to Going Indie",
+      "speakers": [
+        "antoine-van-der-lee"
+      ],
+      "youtubeUrl": "https://www.youtube.com/watch?v=4Ov6UjN9Q0A"
+    }
   ]
 }

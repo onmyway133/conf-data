@@ -12,5 +12,17 @@
     "iOS"
   ],
   "twitter": "https://x.com/AppdevconNL",
-  "source": "confs.tech"
+  "source": "confs.tech",
+  "speakers": [
+    "antoine-van-der-lee"
+  ],
+  "talks": [
+    {
+      "slug": "asynchronous-programming-with-operations-in-swift",
+      "title": "Asynchronous programming with operations in Swift",
+      "speakers": [
+        "antoine-van-der-lee"
+      ]
+    }
+  ]
 }

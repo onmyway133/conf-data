@@ -11,5 +11,18 @@
   "topics": [
     "iOS"
   ],
-  "source": "cocoaconferences"
+  "source": "cocoaconferences",
+  "speakers": [
+    "antoine-van-der-lee"
+  ],
+  "talks": [
+    {
+      "slug": "speeding-up-as-an-ios-developer",
+      "title": "Speeding up as an iOS developer",
+      "speakers": [
+        "antoine-van-der-lee"
+      ],
+      "youtubeUrl": "https://www.youtube.com/watch?v=0n1TMSonw2Q"
+    }
+  ]
 }

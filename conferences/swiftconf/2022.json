@@ -17,5 +17,17 @@
     "open": false
   },
   "twitter": "https://x.com/SwiftConf",
-  "source": "confs.tech"
+  "source": "confs.tech",
+  "speakers": [
+    "antoine-van-der-lee"
+  ],
+  "talks": [
+    {
+      "slug": "any-idea-how-to-use-some-generics-2",
+      "title": "Any idea how to use some generics?",
+      "speakers": [
+        "antoine-van-der-lee"
+      ]
+    }
+  ]
 }

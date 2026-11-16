@@ -11,5 +11,17 @@
   "topics": [
     "iOS"
   ],
-  "source": "cocoaconferences"
+  "source": "cocoaconferences",
+  "speakers": [
+    "antoine-van-der-lee"
+  ],
+  "talks": [
+    {
+      "slug": "from-overwhelmed-to-confident-understanding-swift-concurrency",
+      "title": "From Overwhelmed to Confident: Understanding Swift Concurrency",
+      "speakers": [
+        "antoine-van-der-lee"
+      ]
+    }
+  ]
 }

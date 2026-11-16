@@ -12,5 +12,18 @@
     "iOS"
   ],
   "twitter": "https://x.com/frenchkitconf",
-  "source": "confs.tech"
+  "source": "confs.tech",
+  "speakers": [
+    "antoine-van-der-lee"
+  ],
+  "talks": [
+    {
+      "slug": "any-idea-how-to-use-some-generics-3",
+      "title": "Any Idea How to Use some Generics?",
+      "speakers": [
+        "antoine-van-der-lee"
+      ],
+      "youtubeUrl": "https://www.youtube.com/watch?v=xT5aaMyyR9c"
+    }
+  ]
 }

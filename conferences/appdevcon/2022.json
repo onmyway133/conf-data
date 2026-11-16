@@ -12,5 +12,17 @@
     "iOS"
   ],
   "twitter": "https://x.com/appdevconNL",
-  "source": "confs.tech"
+  "source": "confs.tech",
+  "speakers": [
+    "antoine-van-der-lee"
+  ],
+  "talks": [
+    {
+      "slug": "any-idea-how-to-use-some-generics",
+      "title": "Any idea how to use some generics?",
+      "speakers": [
+        "antoine-van-der-lee"
+      ]
+    }
+  ]
 }
