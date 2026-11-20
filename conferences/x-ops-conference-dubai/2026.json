@@ -9,7 +9,9 @@
   "lat": 25.07725,
   "lng": 55.30927,
   "topics": [
-    "SRE"
+    "DevOps",
+    "SRE",
+    "Security"
   ],
   "twitter": "https://x.com/xopsconference",
   "source": "confs.tech"
