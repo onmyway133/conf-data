@@ -16,5 +16,17 @@
     "deadline": "2026-01-31",
     "open": false
   },
-  "source": "cocoaconferences"
+  "source": "cocoaconferences",
+  "speakers": [
+    "antoine-van-der-lee"
+  ],
+  "talks": [
+    {
+      "slug": "from-slow-to-smooth-profiling-fixing-performance-with-swift-concurrency-xcode-in",
+      "title": "From Slow to Smooth: Profiling & Fixing Performance with Swift Concurrency & Xcode Instruments",
+      "speakers": [
+        "antoine-van-der-lee"
+      ]
+    }
+  ]
 }

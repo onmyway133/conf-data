@@ -16,5 +16,18 @@
     "deadline": "2024-07-31",
     "open": false
   },
-  "source": "cocoaconferences"
+  "source": "cocoaconferences",
+  "speakers": [
+    "antoine-van-der-lee"
+  ],
+  "talks": [
+    {
+      "slug": "from-side-project-to-going-indie-2",
+      "title": "From Side Project to Going Indie",
+      "speakers": [
+        "antoine-van-der-lee"
+      ],
+      "youtubeUrl": "https://www.youtube.com/watch?v=ixe1FPVIVLk"
+    }
+  ]
 }

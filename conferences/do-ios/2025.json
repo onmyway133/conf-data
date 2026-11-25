@@ -16,5 +16,17 @@
     "deadline": "2025-07-31",
     "open": false
   },
-  "source": "cocoaconferences"
+  "source": "cocoaconferences",
+  "speakers": [
+    "antoine-van-der-lee"
+  ],
+  "talks": [
+    {
+      "slug": "swift-6-2-is-here-it-s-time-to-migrate-to-strict-concurrency-2",
+      "title": "Swift 6.2 is here — It's time to migrate to Strict Concurrency",
+      "speakers": [
+        "antoine-van-der-lee"
+      ]
+    }
+  ]
 }

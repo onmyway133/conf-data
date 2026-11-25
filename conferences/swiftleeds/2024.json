@@ -12,5 +12,18 @@
     "iOS"
   ],
   "twitter": "https://x.com/swift_leeds",
-  "source": "confs.tech"
+  "source": "confs.tech",
+  "speakers": [
+    "antoine-van-der-lee"
+  ],
+  "talks": [
+    {
+      "slug": "from-side-project-to-going-indie",
+      "title": "From Side Project to Going Indie",
+      "speakers": [
+        "antoine-van-der-lee"
+      ],
+      "youtubeUrl": "https://www.youtube.com/watch?v=TeasU15E84Q"
+    }
+  ]
 }

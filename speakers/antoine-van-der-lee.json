@@ -1,9 +1,11 @@
 {
   "name": "Antoine van der Lee",
-  "role": "RocketSim",
-  "bio": "Antoine is passionate about contributing to the Swift community. You might know him from his weekly blog posts on his personal blog, SwiftLee, his newsletter, SwiftLee Weekly, or RocketSim, an Xcode Simulator-enhancing app. His contributions to the Apple developer ecosystem have also been recognized by Apple, where he is featured as part of the Apple Developer Community recognition program. He particularly enjoys speaking on best practices for structuring code architecture in a way that creates sustainability, new Swift features, and how iOS developers can be more successful in their work.\n\nBefore going indie in 2024, he led the team at WeTransfer as a Staff iOS Engineer and developed several large-scale apps since 2009 (iOS 4!). His most recent work resulted in two brand-new courses: From Side Project to Going Indie at going-indie.com and a course focused on Swift 6 and Concurrency at swiftconcurrencycourse.com.",
+  "role": "Founder of SwiftLee, RocketSim, RocketTrace",
+  "bio": "Antoine is passionate about contributing to the Swift community. You might know him from his weekly blog posts on SwiftLee (https://www.avanderlee.com), his newsletter SwiftLee Weekly (https://www.avanderlee.com/swiftlee-weekly-subscribe/), or his developer tools: RocketSim (https://www.rocketsim.app), an Xcode Simulator-enhancing app, and RocketTrace (https://www.rockettrace.app), an agentic static analyzer for Xcode Instruments traces. His contributions to the Apple developer ecosystem have also been recognized by Apple, where he is featured as part of the Apple Developer Community recognition program.\n\nHe particularly enjoys speaking on best practices for structuring code architecture in a way that creates sustainability, new Swift features, Swift Concurrency, and how iOS developers can be more successful in their work.\n\nBefore going indie in 2024, he led the team at WeTransfer as a Staff iOS Engineer and developed several large-scale apps since 2009 (iOS 4!). His most recent work resulted in three courses:\n\n- From Side Project to Going Indie: https://www.going-indie.com\n- The Essential Swift Concurrency Course for a Seamless Swift 6 Migration: https://www.swiftconcurrencycourse.com\n- AI Fundamentals: https://www.aifundamentals.dev\n\nYou can find his videos on YouTube at https://www.youtube.com/@AvanderLee.",
   "photoUrl": "https://do-ios.com/images/speakers/2026/antoine.jpeg",
   "twitter": "https://x.com/twannl",
+  "bluesky": "https://bsky.app/profile/avanderlee.com",
+  "mastodon": "https://mastodon.social/@swiftlee",
   "linkedin": "https://linkedin.com/in/ajvanderlee",
   "website": "https://www.avanderlee.com/"
 }

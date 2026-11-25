@@ -12,5 +12,17 @@
     "iOS",
     "Mobile"
   ],
-  "source": "cocoaconferences"
+  "source": "cocoaconferences",
+  "speakers": [
+    "antoine-van-der-lee"
+  ],
+  "talks": [
+    {
+      "slug": "how-to-create-a-sustainable-codebase",
+      "title": "How to create a sustainable codebase?",
+      "speakers": [
+        "antoine-van-der-lee"
+      ]
+    }
+  ]
 }

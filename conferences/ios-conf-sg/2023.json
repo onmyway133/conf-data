@@ -83,6 +83,14 @@
       "speakers": [
         "martin-mitrevski"
       ]
+    },
+    {
+      "slug": "making-the-most-out-of-swift",
+      "title": "Making the Most Out of Swift",
+      "speakers": [
+        "antoine-van-der-lee"
+      ],
+      "youtubeUrl": "https://www.youtube.com/watch?v=GrFxQE5V-RQ"
     }
   ]
 }

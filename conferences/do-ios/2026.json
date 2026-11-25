@@ -124,6 +124,13 @@
       "speakers": [
         "daniel-steinberg"
       ]
+    },
+    {
+      "slug": "from-trace-to-fix-agentic-performance-profiling",
+      "title": "From Trace to Fix: Agentic Performance Profiling",
+      "speakers": [
+        "antoine-van-der-lee"
+      ]
     }
   ]
 }
